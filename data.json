@@ -18451,6 +18451,39 @@
       "team1Name": "INDIA",
       "team2Logo": "https://static.cricbuzz.com/a/img/v1/i1/c776287/i.jpg",
       "team2Name": "SOUTH AFRICA"
+    },
+    "-OfokTMmf0pQo8OTIAYD": {
+      "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/8/image",
+      "leagueTitle": "LaLiga",
+      "matchEndTime": "2025-12-07T01:30",
+      "matchTime": "2025-12-06T23:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8",
+          "name": "BEIN SPORTS 2",
+          "type": "Direct"
+        },
+        {
+          "link": "https://bd-mc-fdlive.fancode.com/mumbai/138295_english_hls_35bd7ab90585502_1adfreeta-di_h264/index.m3u8",
+          "name": "FANCODE",
+          "type": "Direct"
+        },
+        {
+          "link": "https://in-mc-fdlive.fancode.com/mumbai/130972_english_hls_b35c2f1d4893092_1ta-di_h264/index.m3u8",
+          "name": "SPORTIFy TV+",
+          "type": "Direct"
+        },
+        {
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV HD",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.app/api/v1/team/2816/image",
+      "team1Name": "Real Betis",
+      "team2Logo": "https://api.sofascore.app/api/v1/team/2817/image",
+      "team2Name": "Barcelona"
     }
   },
   "sports_categories": {
