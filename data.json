@@ -3,39 +3,6 @@
     "url": "https://iptv-org.github.io/iptv/index.m3u"
   },
   "matches": {
-    "-Ofu529y8UpBqLOA7d7L": {
-      "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/17/image",
-      "leagueTitle": "Premier League",
-      "matchEndTime": "2025-12-07T22:00",
-      "matchTime": "2025-12-07T19:30",
-      "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "name": "Sky Sports Main Event",
-          "type": "Direct"
-        },
-        {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "name": "TNT Sports 1",
-          "type": "Direct"
-        },
-        {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "name": "SPORTIFy TV+",
-          "type": "Direct"
-        },
-        {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "name": "SPORTIFy TV HD",
-          "type": "Direct"
-        }
-      ],
-      "team1Logo": "https://api.sofascore.app/api/v1/team/30/image",
-      "team1Name": "Brighton & Hove Albion",
-      "team2Logo": "https://api.sofascore.app/api/v1/team/37/image",
-      "team2Name": "West Ham United"
-    },
     "-OfudGQsR0lfGkfi9aB-": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/19/image",
       "leagueTitle": "FA Cup",
@@ -702,6 +669,12 @@
       "content": "https://t.me/sptv00",
       "name": "TELEGRAM",
       "type": "link"
+    }
+  },
+  "sports_categories": {
+    "-OfwyBvLjAPzktTaaT86": {
+      "icon": "I",
+      "name": "STAR SPORTS"
     }
   }
 }
