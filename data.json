@@ -15,6 +15,16 @@
     "ticker_link": "https://t.me/+mFVRDyaEbHwwNjc9",
     "ticker_text": "FOR BETTER STREAMING EXPERIENCE PLEASE DOWNLOAD NS PLAYER (ADS FREE) FROM OUR TELEGRAM CHANNEL"
   },
+  "blocked_channels": {
+    "TNT SPORT 1": true,
+    "TNT SPORT 2": true,
+    "TNT SPORT 3": true,
+    "TNT SPORT 4": true,
+    "WILLOW": true,
+    "WILLOW CRICKET": true,
+    "WILLOW CRICKET HD": true,
+    "WILLOW XTRA": true
+  },
   "channels": {
     "-OgweQWPRGrG31eUgTOj": {
       "category": "OTHERS 📂",
@@ -145,46 +155,6 @@
       "order": 11,
       "source": "MINI",
       "streamUrl": "https://allinonereborn.online/push4k/index.php?id=424"
-    },
-    "-Ogwp29Ybaj2jYIY2VBu": {
-      "category": "TNT SPORT",
-      "isVisible": true,
-      "linkType": "Direct",
-      "logoUrl": "https://iili.io/3OKhGKg.png",
-      "name": "TNT SPORT 2 ",
-      "order": 1,
-      "source": "MINI",
-      "streamUrl": "https://ranapk.online/OPPLEX/RANAPK5/play.php?id=346374|User-Agent=RANAPK"
-    },
-    "-Ogwp29_YNTcsZu9z73X": {
-      "category": "TNT SPORT",
-      "isVisible": true,
-      "linkType": "Direct",
-      "logoUrl": "https://iili.io/3DPQCG9.png",
-      "name": "TNT SPORT 3 ",
-      "order": 2,
-      "source": "MINI",
-      "streamUrl": "https://ranapk.online/OPPLEX/RANAPK5/play.php?id=346375|User-Agent=RANAPK"
-    },
-    "-Ogwp29_YNTcsZu9z73Y": {
-      "category": "TNT SPORT",
-      "isVisible": true,
-      "linkType": "Direct",
-      "logoUrl": "https://iili.io/3DPQfQS.png",
-      "name": "TNT SPORT 4",
-      "order": 3,
-      "source": "MINI",
-      "streamUrl": "https://ranapk.online/OPPLEX/RANAPK5/play.php?id=346376|User-Agent=RANAPK"
-    },
-    "-Ogwp29aleFQoDJQhdfw": {
-      "category": "TNT SPORT",
-      "isVisible": true,
-      "linkType": "Direct",
-      "logoUrl": "https://iili.io/3DPQBC7.png",
-      "name": "TNT SPORT 1",
-      "order": 5,
-      "source": "MINI",
-      "streamUrl": "https://ranapk.online/OPPLEX/RANAPK5/play.php?id=346373|User-Agent=RANAPK"
     },
     "-Ogwrb6-Ey-urX3nc3uY": {
       "category": "FOX SPORTS NETWORK",
@@ -1716,56 +1686,6 @@
       "source": "MINI",
       "streamUrl": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8"
     },
-    "-OhECKmOSWWd79KFp4_K": {
-      "category": "WILLOW SPORTS",
-      "isVisible": true,
-      "linkType": "Direct",
-      "logoUrl": "https://5gtv.online:2053/logo/willowxtra1.png",
-      "name": "WILLOW XTRA",
-      "order": 1,
-      "source": "MINI",
-      "streamUrl": "https://ranapk.online/OPPLEX/RANAPK5/play.php?id=167582|User-Agent=RANAPK"
-    },
-    "-OhECKmR4dPEwnPqeGO2": {
-      "category": "WILLOW SPORTS",
-      "isVisible": true,
-      "linkType": "Direct",
-      "logoUrl": "https://static.epg.best/us/WillowCricket.us.png",
-      "name": "WILLOW CRICKET HD",
-      "order": 2,
-      "source": "MINI",
-      "streamUrl": "https://ranapk.online/OPPLEX/RANAPK5/play.php?id=167583|User-Agent=RANAPK"
-    },
-    "-OhECKmS5xRe7nrM-vYl": {
-      "category": "WILLOW SPORTS",
-      "isVisible": true,
-      "linkType": "Direct",
-      "logoUrl": "http://s3.i3ns.net/portal/picon/2021-07/3a20afd154f94482c2f456803bed516a.png",
-      "name": "WILLOW",
-      "order": 3,
-      "source": "MINI",
-      "streamUrl": "https://ranapk.online/OPPLEX/RANAPK5/play.php?id=347332|User-Agent=RANAPK"
-    },
-    "-OhECKmTrnbAR7c9Jfuk": {
-      "category": "WILLOW SPORTS",
-      "isVisible": true,
-      "linkType": "Direct",
-      "logoUrl": "http://s3.i3ns.net/portal/picon/2023-04/c478cfdf7158c1a6d5a4cc182c4649f2.png",
-      "name": "WILLOW CRICKET",
-      "order": 4,
-      "source": "MINI",
-      "streamUrl": "https://ranapk.online/OPPLEX/RANAPK5/play.php?id=347333|User-Agent=RANAPK"
-    },
-    "-OhECKmTrnbAR7c9Jful": {
-      "category": "WILLOW SPORTS",
-      "isVisible": true,
-      "linkType": "Direct",
-      "logoUrl": "http://s3.i3ns.net/portal/picon/2022-08/2a9ac0a71cf1b13842fb8ac73f0f7bad.png",
-      "name": "WILLOW XTRA",
-      "order": 5,
-      "source": "MINI",
-      "streamUrl": "https://ranapk.online/OPPLEX/RANAPK5/play.php?id=347334|User-Agent=RANAPK"
-    },
     "-OhECa8JK7T30PsJAHve": {
       "category": "TEN SPORTS",
       "isVisible": true,
@@ -2181,6 +2101,196 @@
       "order": 5,
       "source": "MINI",
       "streamUrl": "https://in-mc-fdlive.fancode.com/mumbai/139142_english_hls_074be7c0d133243_1ta-di_h264/index.m3u8"
+    },
+    "-OhZm_OmKCh7VBrCbt_g": {
+      "category": "TNT SPORT",
+      "isVisible": true,
+      "linkType": "Direct",
+      "logoUrl": "http://tv.fusion4k.cc/stalker_portal/misc/logos/320/715.png",
+      "name": "TNT SPORT 01",
+      "order": 1,
+      "source": "MINI",
+      "streamUrl": "http://122.173.84.249/~prodking/paidstkr/Tamim29/play.php?id=715"
+    },
+    "-OhZm_OpSuWCJQzaDzL1": {
+      "category": "TNT SPORT",
+      "isVisible": true,
+      "linkType": "Direct",
+      "logoUrl": "http://tv.fusion4k.cc/stalker_portal/misc/logos/320/716.png",
+      "name": "TNT SPORT 02",
+      "order": 2,
+      "source": "MINI",
+      "streamUrl": "http://122.173.84.249/~prodking/paidstkr/Tamim29/play.php?id=716"
+    },
+    "-OhZm_Oqs11xxS5lIQGe": {
+      "category": "TNT SPORT",
+      "isVisible": true,
+      "linkType": "Direct",
+      "logoUrl": "http://tv.fusion4k.cc/stalker_portal/misc/logos/320/73750.png",
+      "name": "TNT SPORT 2 HD.",
+      "order": 3,
+      "source": "MINI",
+      "streamUrl": "http://122.173.84.249/~prodking/paidstkr/Tamim29/play.php?id=477038"
+    },
+    "-OhZm_Oqs11xxS5lIQGf": {
+      "category": "TNT SPORT",
+      "isVisible": true,
+      "linkType": "Direct",
+      "logoUrl": "http://tv.fusion4k.cc/stalker_portal/misc/logos/320/717.png",
+      "name": "TNT SPORT 03",
+      "order": 4,
+      "source": "MINI",
+      "streamUrl": "http://122.173.84.249/~prodking/paidstkr/Tamim29/play.php?id=717"
+    },
+    "-OhZm_OrBi5xTfZxzfd8": {
+      "category": "TNT SPORT",
+      "isVisible": true,
+      "linkType": "Direct",
+      "logoUrl": "http://tv.fusion4k.cc/stalker_portal/misc/logos/320/73751.png",
+      "name": "TNT SPORT 3 HD.",
+      "order": 5,
+      "source": "MINI",
+      "streamUrl": "http://122.173.84.249/~prodking/paidstkr/Tamim29/play.php?id=477039"
+    },
+    "-OhZm_OrBi5xTfZxzfd9": {
+      "category": "TNT SPORT",
+      "isVisible": true,
+      "linkType": "Direct",
+      "logoUrl": "http://tv.fusion4k.cc/stalker_portal/misc/logos/320/794.png",
+      "name": "TNT SPORTS BOX OFFICE",
+      "order": 6,
+      "source": "MINI",
+      "streamUrl": "http://122.173.84.249/~prodking/paidstkr/Tamim29/play.php?id=794"
+    },
+    "-OhZm_OrBi5xTfZxzfdA": {
+      "category": "TNT SPORT",
+      "isVisible": true,
+      "linkType": "Direct",
+      "logoUrl": "http://tv.fusion4k.cc/stalker_portal/misc/logos/320/73692.png",
+      "name": "TNT SPORT 04",
+      "order": 7,
+      "source": "MINI",
+      "streamUrl": "http://122.173.84.249/~prodking/paidstkr/Tamim29/play.php?id=476979"
+    },
+    "-OhZm_OsFatu5HcJsOY4": {
+      "category": "TNT SPORT",
+      "isVisible": true,
+      "linkType": "Direct",
+      "logoUrl": "http://tv.fusion4k.cc/stalker_portal/misc/logos/320/73752.png",
+      "name": "TNT SPORT 4 HD.",
+      "order": 8,
+      "source": "MINI",
+      "streamUrl": "http://122.173.84.249/~prodking/paidstkr/Tamim29/play.php?id=477040"
+    },
+    "-OhZm_OsFatu5HcJsOY5": {
+      "category": "TNT SPORT",
+      "isVisible": true,
+      "linkType": "Direct",
+      "logoUrl": "http://tv.fusion4k.cc/stalker_portal/misc/logos/320/73693.png",
+      "name": "TNT SPORT 05",
+      "order": 9,
+      "source": "MINI",
+      "streamUrl": "http://122.173.84.249/~prodking/paidstkr/Tamim29/play.php?id=476980"
+    },
+    "-OhZm_OtVcf18iMpoN0j": {
+      "category": "TNT SPORT",
+      "isVisible": true,
+      "linkType": "Direct",
+      "logoUrl": "http://tv.fusion4k.cc/stalker_portal/misc/logos/320/74306.png",
+      "name": "TNT SPORT 1",
+      "order": 10,
+      "source": "MINI",
+      "streamUrl": "http://122.173.84.249/~prodking/paidstkr/Tamim29/play.php?id=477934"
+    },
+    "-OhZm_OuKC7GTnFy01nM": {
+      "category": "TNT SPORT",
+      "isVisible": true,
+      "linkType": "Direct",
+      "logoUrl": "http://tv.fusion4k.cc/stalker_portal/misc/logos/320/74307.png",
+      "name": "TNT SPORT 2",
+      "order": 11,
+      "source": "MINI",
+      "streamUrl": "http://122.173.84.249/~prodking/paidstkr/Tamim29/play.php?id=477935"
+    },
+    "-OhZm_OuKC7GTnFy01nN": {
+      "category": "TNT SPORT",
+      "isVisible": true,
+      "linkType": "Direct",
+      "logoUrl": "http://tv.fusion4k.cc/stalker_portal/misc/logos/320/74308.png",
+      "name": "TNT SPORT 3",
+      "order": 12,
+      "source": "MINI",
+      "streamUrl": "http://122.173.84.249/~prodking/paidstkr/Tamim29/play.php?id=477936"
+    },
+    "-OhZnUb68_5iIw_ogIKR": {
+      "category": "WILLOW SPORTS",
+      "isVisible": true,
+      "linkType": "Direct",
+      "logoUrl": "http://tv.fusion4k.cc/stalker_portal/misc/logos/320/905.jpg",
+      "name": "WILLOW CRICKET",
+      "order": 1,
+      "source": "MINI",
+      "streamUrl": "http://122.173.84.249/~prodking/paidstkr/Tamim29/play.php?id=905"
+    },
+    "-OhZnUb68_5iIw_ogIKS": {
+      "category": "WILLOW SPORTS",
+      "isVisible": true,
+      "linkType": "Direct",
+      "logoUrl": "http://tv.fusion4k.cc/stalker_portal/misc/logos/320/906.jpg",
+      "name": "WILLOW XTRA",
+      "order": 2,
+      "source": "MINI",
+      "streamUrl": "http://122.173.84.249/~prodking/paidstkr/Tamim29/play.php?id=906"
+    },
+    "-OhZnUb68_5iIw_ogIKT": {
+      "category": "WILLOW SPORTS",
+      "isVisible": true,
+      "linkType": "Direct",
+      "logoUrl": "https://i.ibb.co/p4knk5y/images-4.png",
+      "name": "WILLOW SPORTS 4K",
+      "order": 3,
+      "source": "MINI",
+      "streamUrl": "http://122.173.84.249/~prodking/paidstkr/Tamim29/play.php?id=1147"
+    },
+    "-OhZnUb68_5iIw_ogIKU": {
+      "category": "WILLOW SPORTS",
+      "isVisible": true,
+      "linkType": "Direct",
+      "logoUrl": "https://i.ibb.co/p4knk5y/images-4.png",
+      "name": "WILLOW CRICKET BK",
+      "order": 4,
+      "source": "MINI",
+      "streamUrl": "http://122.173.84.249/~prodking/paidstkr/Tamim29/play.php?id=1144"
+    },
+    "-OhZnUb7q_-wnY_zhfhx": {
+      "category": "WILLOW SPORTS",
+      "isVisible": true,
+      "linkType": "Direct",
+      "logoUrl": "http://tv.fusion4k.cc/stalker_portal/misc/logos/320/68950.png",
+      "name": "WILLOW CRICKET...",
+      "order": 5,
+      "source": "MINI",
+      "streamUrl": "http://122.173.84.249/~prodking/paidstkr/Tamim29/play.php?id=472287"
+    },
+    "-OhZnUb7q_-wnY_zhfhy": {
+      "category": "WILLOW SPORTS",
+      "isVisible": true,
+      "linkType": "Direct",
+      "logoUrl": "http://tv.fusion4k.cc/stalker_portal/misc/logos/320/68965.png",
+      "name": "WILLOW CRICKET 4K..",
+      "order": 6,
+      "source": "MINI",
+      "streamUrl": "http://122.173.84.249/~prodking/paidstkr/Tamim29/play.php?id=472302"
+    },
+    "-OhZnUb7q_-wnY_zhfhz": {
+      "category": "WILLOW SPORTS",
+      "isVisible": true,
+      "linkType": "Direct",
+      "logoUrl": "http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1145.jpg",
+      "name": "WILLOW EXTRA 4K",
+      "order": 7,
+      "source": "MINI",
+      "streamUrl": "http://122.173.84.249/~prodking/paidstkr/Tamim29/play.php?id=1145"
     }
   },
   "custom_tv_channels": {
