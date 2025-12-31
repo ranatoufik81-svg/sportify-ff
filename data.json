@@ -23,12 +23,22 @@
     "SONY SPORTS TEN 4 HD": true,
     "SONY SPORTS TEN 5 HD": true,
     "STAR SPORTS 1": true,
+    "STAR SPORTS 1 FHD": true,
+    "STAR SPORTS 1 HD ENGLISH": true,
+    "STAR SPORTS 1 HD HINDI": true,
     "STAR SPORTS 1 HINDI": true,
     "STAR SPORTS 1 HINDI HD": true,
     "STAR SPORTS 2": true,
+    "STAR SPORTS 2 HD": true,
+    "STAR SPORTS 3": true,
+    "STAR SPORTS KHEL": true,
     "STAR SPORTS SELECT 1": true,
+    "STAR SPORTS SELECT 1 HD": true,
     "STAR SPORTS SELECT 2": true,
+    "STAR SPORTS SELECT 2 HD": true,
+    "STAR SPORTS TAMIL": true,
     "STAR SPORTS2 HINDI HD": true,
+    "TEN 3 HD": true,
     "TNT SPORT 1": true,
     "TNT SPORT 2": true,
     "TNT SPORT 3": true,
@@ -2085,96 +2095,6 @@
       "source": "MINI",
       "streamUrl": "http://122.173.84.249/~prodking/paidstkr/Tamim29/play.php?id=476690"
     },
-    "-OhaOZ6VzNXB9g_awCNn": {
-      "category": "STAR SPORTS",
-      "isVisible": true,
-      "linkType": "Direct",
-      "logoUrl": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1.png",
-      "name": "STAR SPORTS 1 HD ENGLISH",
-      "order": 8,
-      "source": "MINI",
-      "streamUrl": "https://allinonereborn.xyz/mix.m3u8/live2.php?id=276730"
-    },
-    "-OhaOZ6W2riS_FvTrKux": {
-      "category": "STAR SPORTS",
-      "isVisible": true,
-      "linkType": "Direct",
-      "logoUrl": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",
-      "name": "STAR SPORTS 1 HD HINDI",
-      "order": 9,
-      "source": "MINI",
-      "streamUrl": "https://allinonereborn.xyz/mix.m3u8/live2.php?id=276731"
-    },
-    "-OhaOZ6W2riS_FvTrKuy": {
-      "category": "STAR SPORTS",
-      "isVisible": true,
-      "linkType": "Direct",
-      "logoUrl": "https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_medium.jpg",
-      "name": "STAR SPORTS 2 HD",
-      "order": 10,
-      "source": "MINI",
-      "streamUrl": "https://allinonereborn.xyz/mix.m3u8/live2.php?id=276732"
-    },
-    "-OhaOZ6Xtz-S67ofUEFG": {
-      "category": "STAR SPORTS",
-      "isVisible": true,
-      "linkType": "Direct",
-      "logoUrl": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_3.png",
-      "name": "STAR SPORTS 3",
-      "order": 11,
-      "source": "MINI",
-      "streamUrl": "https://allinonereborn.xyz/mix.m3u8/live2.php?id=276733"
-    },
-    "-OhaOZ6Xtz-S67ofUEFH": {
-      "category": "STAR SPORTS",
-      "isVisible": true,
-      "linkType": "Direct",
-      "logoUrl": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png",
-      "name": "STAR SPORTS SELECT 1 HD",
-      "order": 12,
-      "source": "MINI",
-      "streamUrl": "https://allinonereborn.xyz/mix.m3u8/live2.php?id=276734"
-    },
-    "-OhaOZ6Xtz-S67ofUEFI": {
-      "category": "STAR SPORTS",
-      "isVisible": true,
-      "linkType": "Direct",
-      "logoUrl": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_2.png",
-      "name": "STAR SPORTS SELECT 2 HD",
-      "order": 13,
-      "source": "MINI",
-      "streamUrl": "https://allinonereborn.xyz/mix.m3u8/live2.php?id=276735"
-    },
-    "-OhaOZ6Xtz-S67ofUEFJ": {
-      "category": "STAR SPORTS",
-      "isVisible": true,
-      "linkType": "Direct",
-      "logoUrl": "https://img.media.jio.com/tvpimages/76/32/301981_1749665664018_l_medium.jpg",
-      "name": "STAR SPORTS 1 FHD",
-      "order": 14,
-      "source": "MINI",
-      "streamUrl": "https://allinonereborn.xyz/mix.m3u8/live2.php?id=276736"
-    },
-    "-OhaOZ6Xtz-S67ofUEFK": {
-      "category": "STAR SPORTS",
-      "isVisible": true,
-      "linkType": "Direct",
-      "logoUrl": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Tamil_HD.png",
-      "name": "STAR SPORTS TAMIL",
-      "order": 15,
-      "source": "MINI",
-      "streamUrl": "https://allinonereborn.xyz/mix.m3u8/live2.php?id=276742"
-    },
-    "-OhaQGqAtV0-AtTFIsBU": {
-      "category": "STAR SPORTS",
-      "isVisible": true,
-      "linkType": "Direct",
-      "logoUrl": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_Khel.png",
-      "name": "STAR SPORTS KHEL",
-      "order": 16,
-      "source": "MINI",
-      "streamUrl": "https://allinonereborn.xyz/push4k/index.php?id=23568"
-    },
     "-OhaXHAB0LctppMTulrI": {
       "category": "SKY SPORTS",
       "isVisible": true,
@@ -2413,25 +2333,97 @@
       "category": "SONY SPORTS",
       "linkType": "Direct",
       "logoUrl": "http://tv.push4k2989.tv/stalker_portal/misc/logos/320/373.jpg",
-      "name": "TEN 1 HD",
+      "name": "TEN 4",
       "order": 3,
-      "streamUrl": "https://allinonereborn.xyz/push4k/index.php?id=403"
+      "streamUrl": "https://allinonereborn.xyz/trx.m3u8/live.php?id=507875"
     },
     "-Ohad7sttPmozjA2-dn0": {
       "category": "SONY SPORTS",
       "linkType": "Direct",
       "logoUrl": "http://tv.push4k2989.tv/stalker_portal/misc/logos/320/374.jpg",
-      "name": "TEN 2 HD",
+      "name": "TEN 5",
       "order": 4,
-      "streamUrl": "https://allinonereborn.xyz/push4k/index.php?id=404"
+      "streamUrl": "https://allinonereborn.xyz/trx.m3u8/live.php?id=117717"
     },
-    "-Ohad7suKmsBWLe97bDb": {
-      "category": "SONY SPORTS",
+    "-Ohnk4q39ax86IOVWCPr": {
+      "category": "STAR SPORTS",
+      "isVisible": true,
       "linkType": "Direct",
-      "logoUrl": "http://tv.push4k2989.tv/stalker_portal/misc/logos/320/375.jpg",
-      "name": "TEN 3 HD",
+      "logoUrl": "http://lg.mygolden.xyz:8080/logo/ASIA/TAMIL/star-sprts.png",
+      "name": "STAR SPORTS 1 HD HINDI",
+      "order": 1,
+      "source": "MINI",
+      "streamUrl": "https://allinonereborn.xyz/trx.m3u8/live.php?id=117723"
+    },
+    "-Ohnk4q5p6vl0ot3I9fX": {
+      "category": "STAR SPORTS",
+      "isVisible": true,
+      "linkType": "Direct",
+      "logoUrl": "http://lg.mygolden.xyz:8080/logo/ASIA/TAMIL/star-sports-3.png",
+      "name": "STAR SPORTS 2 HD",
+      "order": 2,
+      "source": "MINI",
+      "streamUrl": "https://allinonereborn.xyz/trx.m3u8/live.php?id=117725"
+    },
+    "-Ohnk4q6Tc-pzAvnGF9x": {
+      "category": "STAR SPORTS",
+      "isVisible": true,
+      "linkType": "Direct",
+      "logoUrl": "http://lg.mygolden.xyz:8080/logo/ASIA/TAMIL/star-sprts.png",
+      "name": "STAR SPORTS 2 TAMIL HD",
+      "order": 3,
+      "source": "MINI",
+      "streamUrl": "https://allinonereborn.xyz/trx.m3u8/live.php?id=1067865"
+    },
+    "-Ohnk4q7l4oVTkTGAOV3": {
+      "category": "STAR SPORTS",
+      "isVisible": true,
+      "linkType": "Direct",
+      "logoUrl": "http://lg.mygolden.xyz:8080/logo/ASIA/TAMIL/StarSports3.png",
+      "name": "STAR SPORTS 3 HD",
+      "order": 4,
+      "source": "MINI",
+      "streamUrl": "https://allinonereborn.xyz/trx.m3u8/live.php?id=117727"
+    },
+    "-Ohnk4q7l4oVTkTGAOV4": {
+      "category": "STAR SPORTS",
+      "isVisible": true,
+      "linkType": "Direct",
+      "logoUrl": "http://lg.mygolden.xyz:8080/logo/ASIA/TAMIL/STAR-SPORTSSELECT-1.png",
+      "name": "STAR SPORTS SELECT 1 HD",
       "order": 5,
-      "streamUrl": "https://allinonereborn.xyz/push4k/index.php?id=405"
+      "source": "MINI",
+      "streamUrl": "https://allinonereborn.xyz/trx.m3u8/live.php?id=117729"
+    },
+    "-Ohnk4q9Ed83Da7eVj8C": {
+      "category": "STAR SPORTS",
+      "isVisible": true,
+      "linkType": "Direct",
+      "logoUrl": "http://lg.mygolden.xyz:8080/logo/ASIA/TAMIL/STAR-SPORTSSELECT-2.png",
+      "name": "STAR SPORTS SELECT 2 HD",
+      "order": 6,
+      "source": "MINI",
+      "streamUrl": "https://allinonereborn.xyz/trx.m3u8/live.php?id=117731"
+    },
+    "-Ohnk4q9Ed83Da7eVj8D": {
+      "category": "STAR SPORTS",
+      "isVisible": true,
+      "linkType": "Direct",
+      "logoUrl": "http://lg.mygolden.xyz:8080/logo/ASIA/TAMIL/star-sprts.png",
+      "name": "STAR SPORTS TAMIL HD",
+      "order": 7,
+      "source": "MINI",
+      "streamUrl": "https://allinonereborn.xyz/trx.m3u8/live.php?id=117733"
+    },
+    "-Ohnk4qAuOaNaI9zV4eE": {
+      "category": "STAR SPORTS",
+      "isVisible": true,
+      "linkType": "Direct",
+      "logoUrl": "http://lg.mygolden.xyz:8080/logo/ASIA/TAMIL/star-sprts.png",
+      "name": "STAR SPORTS 1 HD",
+      "order": 8,
+      "source": "MINI",
+      "streamUrl": "https://allinonereborn.xyz/trx.m3u8/live.php?id=115695"
     }
   },
   "highlights": {
