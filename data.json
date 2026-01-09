@@ -1497,15 +1497,27 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "link": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1767978511-0-0-832d988856f1e80fd0dec8eb5057cd47",
           "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
           "name": "SPORTIFy TV",
           "type": "Direct"
         },
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "link": "https://pull.niues.live/live/stream-547345_lhd.m3u8?auth_key=1767978511-0-0-3f6fbede28790268e96db5a0903a121c",
           "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
           "name": "SPORTIFy TV+ HD",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-9912101_lhd.m3u8?auth_key=1767978511-0-0-03fada0cd3316710ea6ff6f6224c4a9b",
+          "logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
+          "name": "SPORTIFy ULTRA SD",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da",
+          "logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
+          "name": "SPORTIFy FOOTBALL",
           "type": "Direct"
         }
       ],
