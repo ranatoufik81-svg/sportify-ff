@@ -1818,6 +1818,37 @@
       "team1Name": "Australia",
       "team2Logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013066/1767773302425351_UC26_QF_Australia_vs_Poland_7jan_landscape_thumb.jpg",
       "team2Name": "Poland"
+    },
+    "-OiY2_634drbd1pzzOXv": {
+      "leagueLogo": "https://cdn.1xapi.com/images/teams/league-indonesia-super-league-8f005a.png",
+      "leagueTitle": "Indonesia Super League",
+      "matchEndTime": "2026-01-09T16:00:00.000Z",
+      "matchTime": "2026-01-09T12:00:00.000Z",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31",
+          "logo": "https://cdn.1xapi.com/images/teams/league-indonesia-super-league-8f005a.png",
+          "name": "SPORTIFy FHD",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107",
+          "logo": "https://cdn.1xapi.com/images/teams/league-indonesia-super-league-8f005a.png",
+          "name": "SPORTIFy GOAL SD",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da",
+          "logo": "https://cdn.1xapi.com/images/teams/league-indonesia-super-league-8f005a.png",
+          "name": "SPORTIFy TURBO HD",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://cdn.1xapi.com/images/teams/psm-makassar-ef8c64.png",
+      "team1Name": "PSM Makassar",
+      "team2Logo": "https://cdn.1xapi.com/images/teams/bali-united-363d17.png",
+      "team2Name": "Bali United"
     }
   },
   "navigation": {
