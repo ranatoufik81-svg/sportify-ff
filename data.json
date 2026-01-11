@@ -2112,15 +2112,21 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "link": "https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1768161031-0-0-2e213fabe882eab9d9f4a2f1b87ccd18",
+          "logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
           "name": "SPORTIFy TV",
           "type": "Direct"
         },
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "link": "https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1768161031-0-0-37b5ce5e79441b8ae7776a3d8bc13584",
+          "logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
           "name": "SPORTIFy TV+ HD",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=15abbb5a4a38cc6c2ae560448b522e80&txTime=69644557",
+          "logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
+          "name": "SPORTIFy PRIME FHD",
           "type": "Direct"
         }
       ],
@@ -2330,7 +2336,8 @@
       "team1Logo": "https://r2.thesportsdb.com/images/media/team/badge/bwn9hr1547233611.png",
       "team1Name": "Winnipeg Jets",
       "team2Logo": "https://r2.thesportsdb.com/images/media/team/badge/z4rsvp1619536740.png",
-      "team2Name": "New Jersey Devils"
+      "team2Name": "New Jersey Devils",
+      "telegramSent": true
     },
     "-OifUBjXIY--_Sji9eis": {
       "isStar": false,
