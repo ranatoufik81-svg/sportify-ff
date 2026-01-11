@@ -2399,6 +2399,55 @@
       "team1Name": "AA Guarany",
       "team2Logo": "https://cdn.1xapi.com/images/teams/dorense-se-c45215.png",
       "team2Name": "Dorense SE"
+    },
+    "-OiiTLw49Sm1wtO0BzUH": {
+      "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/213/image",
+      "leagueTitle": "Supercopa de España",
+      "matchEndTime": "2026-01-11T21:30:00.000Z",
+      "matchTime": "2026-01-11T19:00:00.000Z",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "https://in-mc-fdlive.fancode.com/mumbai/138959_english_hls_7f18fa356218568_1ta-di_h264/index.m3u8",
+          "logo": "https://i.ibb.co/N6BXbhBh/1000313033.webp",
+          "name": "FANCODE (IND)",
+          "type": "Direct"
+        },
+        {
+          "link": "https://dai.google.com/linear/hls/event/tQIPxvFcQaiOahHi4qCwUA/master.m3u8",
+          "logo": "https://i.ibb.co/N6BXbhBh/1000313033.webp",
+          "name": "FANCODE (HD)",
+          "type": "Direct"
+        },
+        {
+          "link": "#",
+          "logo": "",
+          "name": "Empty Slot",
+          "type": "Direct"
+        },
+        {
+          "link": "#",
+          "logo": "",
+          "name": "Empty Slot",
+          "type": "Direct"
+        },
+        {
+          "link": "#",
+          "logo": "",
+          "name": "Empty Slot",
+          "type": "Direct"
+        },
+        {
+          "link": "https://bd-mc-fdlive.fancode.com/mumbai/138959_english_hls_7f18fa356218568_1ta-di_h264/index.m3u8",
+          "logo": "https://i.ibb.co/N6BXbhBh/1000313033.webp",
+          "name": "FANCODE (BAN)",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.app/api/v1/team/2817/image",
+      "team1Name": "Barcelona",
+      "team2Logo": "https://api.sofascore.app/api/v1/team/2829/image",
+      "team2Name": "Real Madrid"
     }
   },
   "navigation": {
