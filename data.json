@@ -2477,7 +2477,8 @@
       "team1Logo": "https://www.thesportsdb.com/images/media/team/badge/y7jz6c1767353266.png",
       "team1Name": "Sylhet Titans",
       "team2Logo": "https://r2.thesportsdb.com/images/media/team/badge/k26ccz1734181960.png",
-      "team2Name": "Rangpur Riders"
+      "team2Name": "Rangpur Riders",
+      "telegramSent": true
     },
     "-OikQD3NHp0UuecBJj6R": {
       "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/3smqzk1734192770.png",
@@ -2812,6 +2813,86 @@
       "team1Name": "Al-Hazem",
       "team2Logo": "https://r2.thesportsdb.com/images/media/team/badge/o65fn01737686968.png",
       "team2Name": "Al-Najma Unaizah"
+    },
+    "-OiktRjuG4rn8jizln52": {
+      "leagueLogo": "https://www.fancode.com/skillup-uploads/cms-media/Giles_Shield_FC-Web.jpg",
+      "leagueTitle": "Giles Shield 2026",
+      "matchEndTime": "2026-12-01T08:00:00.000Z",
+      "matchTime": "2026-12-01T04:00:00.000Z",
+      "sportType": "CRICKET",
+      "streamLinks": [
+        {
+          "link": "https://in-mc-fdlive.fancode.com/mumbai/139666_english_hls_653eb329b987500_1ta-di_h264/index.m3u8",
+          "logo": "https://i.ibb.co/N6BXbhBh/1000313033.webp",
+          "name": "FANCODE (IND)",
+          "type": "Direct"
+        },
+        {
+          "link": "https://dai.google.com/linear/hls/event/tnv5WmDTT6-R1N2mUxrDaA/master.m3u8",
+          "logo": "https://i.ibb.co/N6BXbhBh/1000313033.webp",
+          "name": "FANCODE (HD)",
+          "type": "Direct"
+        },
+        {
+          "link": "https://bd-mc-fdlive.fancode.com/mumbai/139666_english_hls_653eb329b987500_1ta-di_h264/index.m3u8",
+          "logo": "https://i.ibb.co/N6BXbhBh/1000313033.webp",
+          "name": "FANCODE (BAN)",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://www.fancode.com/skillup-uploads/cms-media/Giles_Shield_FC-Web.jpg",
+      "team1Name": "V N Sule",
+      "team2Logo": "https://www.fancode.com/skillup-uploads/cms-media/Giles_Shield_FC-Web.jpg",
+      "team2Name": "Dyandeep Seva Mandal"
+    },
+    "-OiktWN-bz7NlP7clUPR": {
+      "leagueLogo": "https://www.fancode.com/skillup-uploads/cms-media/138747_5800_OV_AA_fc-web_1766641251086.jpg",
+      "leagueTitle": "Super Smash, 2025-26",
+      "matchEndTime": "2026-12-01T07:25:00.000Z",
+      "matchTime": "2026-12-01T03:25:00.000Z",
+      "sportType": "CRICKET",
+      "streamLinks": [
+        {
+          "link": "https://in-mc-fdlive.fancode.com/mumbai/138747_english_hls_4be1ba0b3c24372_1ta-di_h264/index.m3u8",
+          "logo": "https://i.ibb.co/N6BXbhBh/1000313033.webp",
+          "name": "FANCODE (IND)",
+          "type": "Direct"
+        },
+        {
+          "link": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768242216~acl=/*~id=78615699382541604640329515086278~hmac=7d57fbd75cd6873c4196fd70f4cd04123e3776e79f6e139c2a9a2125de1ad7a3",
+          "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012853/1767278965328898_SuperSmash2526_mens_Otago-Volts-vs-Auckland-Aces_1jan_landscape_thumb.jpg",
+          "name": "SONYLIV (HD)",
+          "type": "Direct"
+        },
+        {
+          "link": "https://dai.google.com/linear/hls/event/UoQQON4BQyO7bjidvLrm1g/master.m3u8",
+          "logo": "https://i.ibb.co/N6BXbhBh/1000313033.webp",
+          "name": "FANCODE (HD)",
+          "type": "Direct"
+        },
+        {
+          "link": "https://bd-mc-fdlive.fancode.com/mumbai/138747_english_hls_4be1ba0b3c24372_1ta-di_h264/index.m3u8",
+          "logo": "https://i.ibb.co/N6BXbhBh/1000313033.webp",
+          "name": "FANCODE (BAN)",
+          "type": "Direct"
+        },
+        {
+          "link": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768242216~acl=/*~id=78615699382541604640329515086278~hmac=7d57fbd75cd6873c4196fd70f4cd04123e3776e79f6e139c2a9a2125de1ad7a3",
+          "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012853/1767278965328898_SuperSmash2526_mens_Otago-Volts-vs-Auckland-Aces_1jan_landscape_thumb.jpg",
+          "name": "SONYLIV (FHD)",
+          "type": "Direct"
+        },
+        {
+          "link": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768242216~acl=/*~id=78615699382541604640329515086278~hmac=7d57fbd75cd6873c4196fd70f4cd04123e3776e79f6e139c2a9a2125de1ad7a3",
+          "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012853/1767278965328898_SuperSmash2526_mens_Otago-Volts-vs-Auckland-Aces_1jan_landscape_thumb.jpg",
+          "name": "SONYLIV (FAST)",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://www.fancode.com/skillup-uploads/cms-media/138747_5800_OV_AA_fc-web_1766641251086.jpg",
+      "team1Name": "Otago Volts",
+      "team2Logo": "https://www.fancode.com/skillup-uploads/cms-media/138747_5800_OV_AA_fc-web_1766641251086.jpg",
+      "team2Name": "Auckland Aces"
     }
   },
   "navigation": {
