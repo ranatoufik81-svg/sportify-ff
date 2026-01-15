@@ -1065,10 +1065,11 @@
       "team2Name": "Union Berlin"
     },
     "-OiznPtCVYMzbTuWzkKo": {
+      "isStar": true,
       "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/2ikh3a1671782958.png",
       "leagueTitle": "Copa del Rey",
-      "matchEndTime": "2026-01-15T22:30:00.000Z",
-      "matchTime": "2026-01-15T20:00:00.000Z",
+      "matchEndTime": "2026-01-16T04:00",
+      "matchTime": "2026-01-16T01:30",
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
@@ -1156,33 +1157,45 @@
           "type": "Direct"
         },
         {
-          "link": "https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1768506812-0-0-5360559a8be1efc8d802c3d7393310db",
+          "link": "https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6",
           "logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
           "name": "SPORTIFy TV+ HD",
           "type": "Direct"
         },
         {
-          "link": "https://pull.mmchari.xyz/live/live_2285.m3u8?txSecret=dad894080690eeef5d4f54872b15006a&txTime=696a6cbc",
-          "logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-          "name": "SPORTIFy FHD",
-          "type": "Direct"
-        },
-        {
-          "link": "https://pull.mmchari.xyz/live/live_2285.flv?txSecret=dad894080690eeef5d4f54872b15006a&txTime=696a6cbc",
+          "link": "https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070",
           "logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
           "name": "SPORTIFy SD",
           "type": "Direct"
         },
         {
-          "link": "https://fpm.sla.homes/sla/1-696673117b64db8e7595cbf9.flv?auth_key=1768524843-0-0-497228b20b8393ec5637a627bcfe6a70",
+          "link": "https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107",
           "logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-          "name": "SPORTIFy SOCCER SD",
+          "name": "SPORTIFy PRIME",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1",
+          "logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
+          "name": "SPORTIFy FHD",
           "type": "Direct"
         },
         {
           "link": "https://fpm.sla.homes/sla/1-696673117b64db8e7595cbf9.m3u8?auth_key=1768524843-0-0-daaf1b9afa3fa6e6ca29ce45d5af9959",
           "logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
           "name": "SPORTIFy GOAL",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070",
+          "logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
+          "name": "SPORTIFy GOAL SD",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1",
+          "logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
+          "name": "SPORTIFy PRIME FHD",
           "type": "Direct"
         }
       ],
