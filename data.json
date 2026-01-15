@@ -1020,15 +1020,33 @@
       "sportType": "CRICKET",
       "streamLinks": [
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "SPORTIFy TV",
+          "link": "https://in-mc-fdlive.fancode.com/mumbai/138934_english_hls_62a118a79b98092_1ta-di_h264/index.m3u8",
+          "logo": "https://i.ibb.co/N6BXbhBh/1000313033.webp",
+          "name": "FANCODE (IND)",
           "type": "Direct"
         },
         {
           "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
           "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
           "name": "SPORTIFy TV+ HD",
+          "type": "Direct"
+        },
+        {
+          "link": "https://bd-mc-fdlive.fancode.com/mumbai/138934_english_hls_62a118a79b98092_1ta-di_h264/index.m3u8",
+          "logo": "https://i.ibb.co/N6BXbhBh/1000313033.webp",
+          "name": "FANCODE (BAN)",
+          "type": "Direct"
+        },
+        {
+          "link": "#",
+          "logo": "https://i.ibb.co/N6BXbhBh/1000313033.webp",
+          "name": "Empty Slot",
+          "type": "Direct"
+        },
+        {
+          "link": "https://dai.google.com/linear/hls/event/ti_dtI41Q9y0qef-hj_LcA/master.m3u8",
+          "logo": "https://i.ibb.co/N6BXbhBh/1000313033.webp",
+          "name": "FANCODE (HD)",
           "type": "Direct"
         }
       ],
@@ -1377,8 +1395,8 @@
       "sportType": "TENNIS",
       "streamLinks": [
         {
-          "link": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768501651~acl=/*~id=83472390738154359281842690885796~hmac=fbe4f4dbb763284ebe448426790f9a28571bea5f42f7e3c69634954c16da8b57",
-          "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013378/1768394373358258_AO26_Djokovic_vs_Tiafoe_op_live_landscpae_thumb.jpg",
+          "link": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768505294~acl=/*~id=27054867236086008884933910892562~hmac=c19a7b4e33994095b62c9b22c88e469a3c850aed34710a8dd0d3ad181f7eb2df",
+          "logo": "https://i.ibb.co/Qv0csbR4/Sony-LIV-Logo-2020.png",
           "name": "SONYLIV (HD)",
           "type": "Direct"
         },
@@ -1395,15 +1413,21 @@
           "type": "Direct"
         },
         {
-          "link": "#",
-          "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013378/1768394373358258_AO26_Djokovic_vs_Tiafoe_op_live_landscpae_thumb.jpg",
-          "name": "Pending Link",
+          "link": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768505294~acl=/*~id=27054867236086008884933910892562~hmac=c19a7b4e33994095b62c9b22c88e469a3c850aed34710a8dd0d3ad181f7eb2df",
+          "logo": "https://i.ibb.co/Qv0csbR4/Sony-LIV-Logo-2020.png",
+          "name": "SONYLIV (FAST)",
           "type": "Direct"
         },
         {
           "link": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768501651~acl=/*~id=83472390738154359281842690885796~hmac=fbe4f4dbb763284ebe448426790f9a28571bea5f42f7e3c69634954c16da8b57",
           "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013378/1768394373358258_AO26_Djokovic_vs_Tiafoe_op_live_landscpae_thumb.jpg",
           "name": "SONYLIV (FAST)",
+          "type": "Direct"
+        },
+        {
+          "link": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768505294~acl=/*~id=27054867236086008884933910892562~hmac=c19a7b4e33994095b62c9b22c88e469a3c850aed34710a8dd0d3ad181f7eb2df",
+          "logo": "https://i.ibb.co/Qv0csbR4/Sony-LIV-Logo-2020.png",
+          "name": "SONYLIV (FHD)",
           "type": "Direct"
         }
       ],
