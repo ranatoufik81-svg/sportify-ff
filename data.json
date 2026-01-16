@@ -1115,7 +1115,8 @@
       "team1Logo": "https://r2.thesportsdb.com/images/media/team/badge/tkvqan1716960454.png",
       "team1Name": "Werder Bremen",
       "team2Logo": "https://r2.thesportsdb.com/images/media/team/badge/rurwpy1473453269.png",
-      "team2Name": "Eintracht Frankfurt"
+      "team2Name": "Eintracht Frankfurt",
+      "telegramSent": true
     },
     "-Oj3wO-FSnH0YK94CjXq": {
       "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/9f7z9d1742983155.png",
@@ -1543,7 +1544,8 @@
       "team1Logo": "https://r2.thesportsdb.com/images/media/team/badge/ywibjw1733456820.png",
       "team1Name": "Castellón",
       "team2Logo": "https://r2.thesportsdb.com/images/media/team/badge/tm0adr1616443898.png",
-      "team2Name": "Leganés"
+      "team2Name": "Leganés",
+      "telegramSent": true
     },
     "-Oj3wODkvUjFLzsBWnjh": {
       "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/w67i621701772123.png",
@@ -1715,6 +1717,49 @@
       "team1Name": "Sochaux",
       "team2Logo": "https://cdn.1xapi.com/images/teams/chateauroux-085b79.png",
       "team2Name": "Chateauroux"
+    },
+    "-Oj7DiCj5dAVmmH9kdzZ": {
+      "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/270/image",
+      "leagueTitle": "Africa Cup of Nations, Knockout stage",
+      "matchEndTime": "2026-01-17T18:30:00.000Z",
+      "matchTime": "2026-01-17T16:00:00.000Z",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "beIN Sports 1",
+          "type": "Direct"
+        },
+        {
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SuperSport Football",
+          "type": "Direct"
+        },
+        {
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "ESPN",
+          "type": "Direct"
+        },
+        {
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "DAZN",
+          "type": "Direct"
+        },
+        {
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV+",
+          "type": "Direct"
+        },
+        {
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV HD",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.app/api/v1/team/4758/image",
+      "team1Name": "Egypt",
+      "team2Logo": "https://api.sofascore.app/api/v1/team/4785/image",
+      "team2Name": "Nigeria"
     }
   },
   "navigation": {
