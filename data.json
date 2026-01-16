@@ -1339,32 +1339,6 @@
       "team2Logo": "https://r2.thesportsdb.com/images/media/team/badge/lrvxg71534873930.png",
       "team2Name": "Atalanta"
     },
-    "-Oj3wO4rF1x8Kh323xW5": {
-      "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/2u78lm1638459575.png",
-      "leagueTitle": "Australian A-League",
-      "matchEndTime": "2026-01-16T13:15:00.000Z",
-      "matchTime": "2026-01-16T10:45:00.000Z",
-      "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "SPORTIFy TV",
-          "type": "Direct"
-        },
-        {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "SPORTIFy TV+ HD",
-          "type": "Direct"
-        }
-      ],
-      "team1Logo": "https://r2.thesportsdb.com/images/media/team/badge/2c9k5p1679114095.png",
-      "team1Name": "Perth Glory",
-      "team2Logo": "https://r2.thesportsdb.com/images/media/team/badge/sypxsu1473454634.png",
-      "team2Name": "Brisbane Roar",
-      "telegramSent": true
-    },
     "-Oj3wO77NdjeUug8Aju7": {
       "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/lkfko71751917970.png",
       "leagueTitle": "Portuguese Primeira Liga",
@@ -1719,10 +1693,11 @@
       "team2Name": "Chateauroux"
     },
     "-Oj7DiCj5dAVmmH9kdzZ": {
+      "isStar": false,
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/270/image",
       "leagueTitle": "Africa Cup of Nations, Knockout stage",
-      "matchEndTime": "2026-01-17T18:30:00.000Z",
-      "matchTime": "2026-01-17T16:00:00.000Z",
+      "matchEndTime": "2026-01-18T00:00",
+      "matchTime": "2026-01-17T01:10",
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
@@ -1759,7 +1734,53 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/4758/image",
       "team1Name": "Egypt",
       "team2Logo": "https://api.sofascore.app/api/v1/team/4785/image",
-      "team2Name": "Nigeria"
+      "team2Name": "Nigeria",
+      "telegramSent": true
+    },
+    "-Oj7F_QrZ4-bxUIvYKNm": {
+      "isStar": false,
+      "leagueLogo": "https://cdn-icons-png.flaticon.com/512/590/590605.png",
+      "leagueTitle": "SA20, 2025-26",
+      "matchEndTime": "2026-01-18T00:30",
+      "matchTime": "2026-01-17T01:09",
+      "sportType": "CRICKET",
+      "streamLinks": [
+        {
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "Sports18 - 1",
+          "type": "Direct"
+        },
+        {
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SuperSport Cricket",
+          "type": "Direct"
+        },
+        {
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "Sky Sports Cricket",
+          "type": "Direct"
+        },
+        {
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "Willow TV",
+          "type": "Direct"
+        },
+        {
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV+",
+          "type": "Direct"
+        },
+        {
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV HD",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://static.cricbuzz.com/a/img/v1/i1/c824975/i.jpg",
+      "team1Name": "DURBANS SUPER GIANTS",
+      "team2Logo": "https://static.cricbuzz.com/a/img/v1/i1/c824972/i.jpg",
+      "team2Name": "PAARL ROYALS",
+      "telegramSent": true
     }
   },
   "navigation": {
