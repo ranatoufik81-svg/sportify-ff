@@ -4792,6 +4792,24 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
+          "link": "https://in-mc-fdlive.fancode.com/mumbai/139389_english_hls_a29abc97bf47279_1ta-di_h264/index.m3u8",
+          "logo": "https://i.ibb.co/N6BXbhBh/1000313033.webp",
+          "name": "FANCODE (IND)",
+          "type": "Direct"
+        },
+        {
+          "link": "https://dai.google.com/linear/hls/event/xBO37tS7Qx-C_buGL8l4LA/master.m3u8",
+          "logo": "https://i.ibb.co/N6BXbhBh/1000313033.webp",
+          "name": "FANCODE (HD)",
+          "type": "Direct"
+        },
+        {
+          "link": "https://bd-mc-fdlive.fancode.com/mumbai/139389_english_hls_a29abc97bf47279_1ta-di_h264/index.m3u8",
+          "logo": "https://i.ibb.co/N6BXbhBh/1000313033.webp",
+          "name": "FANCODE (BAN)",
+          "type": "Direct"
+        },
+        {
           "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
           "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
           "name": "SPORTIFy TV",
@@ -4807,7 +4825,8 @@
       "team1Logo": "https://r2.thesportsdb.com/images/media/team/badge/utgq8z1546110747.png",
       "team1Name": "Sydney FC",
       "team2Logo": "https://r2.thesportsdb.com/images/media/team/badge/4uj8271759632738.png",
-      "team2Name": "Wellington Phoenix"
+      "team2Name": "Wellington Phoenix",
+      "telegramSent": true
     },
     "-OjEGEJhVnpxKiyRumgB": {
       "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/r7u6821688425700.png",
@@ -5392,6 +5411,99 @@
       "team1Name": "Dallas Stars",
       "team2Logo": "https://r2.thesportsdb.com/images/media/team/badge/swysut1421791822.png",
       "team2Name": "Tampa Bay Lightning"
+    },
+    "-OjEdRboFIskQfNkR3_Y": {
+      "leagueLogo": "https://www.fancode.com/skillup-uploads/cms-media/138752_5800_OV_ND_fc-web_1766641251141.jpg",
+      "leagueTitle": "Super Smash, 2025-26",
+      "matchEndTime": "2026-01-18T09:48:27.417Z",
+      "matchTime": "2026-01-18T05:48:27.417Z",
+      "sportType": "CRICKET",
+      "streamLinks": [
+        {
+          "link": "https://in-mc-fdlive.fancode.com/mumbai/138752_english_hls_503be3c87843023_1ta-di_h264/index.m3u8",
+          "logo": "https://i.ibb.co/N6BXbhBh/1000313033.webp",
+          "name": "FANCODE (IND)",
+          "type": "Direct"
+        },
+        {
+          "link": "https://dai.google.com/linear/hls/event/qNoQDU_MT4y3Wd_Ks-s3Uw/master.m3u8",
+          "logo": "https://i.ibb.co/N6BXbhBh/1000313033.webp",
+          "name": "FANCODE (HD)",
+          "type": "Direct"
+        },
+        {
+          "link": "https://bd-mc-fdlive.fancode.com/mumbai/138752_english_hls_503be3c87843023_1ta-di_h264/index.m3u8",
+          "logo": "https://i.ibb.co/N6BXbhBh/1000313033.webp",
+          "name": "FANCODE (BAN)",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://www.fancode.com/skillup-uploads/cms-media/138752_5800_OV_ND_fc-web_1766641251141.jpg",
+      "team1Name": "Northern Districts",
+      "team2Logo": "https://www.fancode.com/skillup-uploads/cms-media/138752_5800_OV_ND_fc-web_1766641251141.jpg",
+      "team2Name": "Otago Volts"
+    },
+    "-OjEdXJYkK9d2EoqDjqH": {
+      "leagueLogo": "https://www.fancode.com/skillup-uploads/cms-media/01_USA-Women-vs-Bangladesh-Women_1768652240804.png",
+      "leagueTitle": "ICC Women's T20 World Cup Global Qualifier, 2026",
+      "matchEndTime": "2026-01-18T09:48:50.760Z",
+      "matchTime": "2026-01-18T05:48:50.760Z",
+      "sportType": "CRICKET",
+      "streamLinks": [
+        {
+          "link": "https://in-mc-fdlive.fancode.com/mumbai/139219_english_hls_124a12be2468131_1ta-di_h264/index.m3u8",
+          "logo": "https://i.ibb.co/N6BXbhBh/1000313033.webp",
+          "name": "FANCODE (IND)",
+          "type": "Direct"
+        },
+        {
+          "link": "https://dai.google.com/linear/hls/event/ZrDq_OziSzSB4VycgxpJww/master.m3u8",
+          "logo": "https://i.ibb.co/N6BXbhBh/1000313033.webp",
+          "name": "FANCODE (HD)",
+          "type": "Direct"
+        },
+        {
+          "link": "https://bd-mc-fdlive.fancode.com/mumbai/139219_english_hls_124a12be2468131_1ta-di_h264/index.m3u8",
+          "logo": "https://i.ibb.co/N6BXbhBh/1000313033.webp",
+          "name": "FANCODE (BAN)",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://www.fancode.com/skillup-uploads/cms-media/01_USA-Women-vs-Bangladesh-Women_1768652240804.png",
+      "team1Name": "Bangladesh Women",
+      "team2Logo": "https://www.fancode.com/skillup-uploads/cms-media/01_USA-Women-vs-Bangladesh-Women_1768652240804.png",
+      "team2Name": "USA Women"
+    },
+    "-OjEdeV6GiPBUhrh0r-8": {
+      "leagueLogo": "https://www.fancode.com/skillup-uploads/cms-media/03_Thailand-Women-vs-Nepal-Women_1768652427014.png",
+      "leagueTitle": "ICC Women's T20 World Cup Global Qualifier, 2026",
+      "matchEndTime": "2026-01-18T09:49:24.270Z",
+      "matchTime": "2026-01-18T05:49:24.270Z",
+      "sportType": "CRICKET",
+      "streamLinks": [
+        {
+          "link": "https://in-mc-fdlive.fancode.com/mumbai/139218_english_hls_15dd1c037997901_1ta-di_h264/index.m3u8",
+          "logo": "https://i.ibb.co/N6BXbhBh/1000313033.webp",
+          "name": "FANCODE (IND)",
+          "type": "Direct"
+        },
+        {
+          "link": "https://dai.google.com/linear/hls/event/NoTolxJDQ_6WUAR91t1wEQ/master.m3u8",
+          "logo": "https://i.ibb.co/N6BXbhBh/1000313033.webp",
+          "name": "FANCODE (HD)",
+          "type": "Direct"
+        },
+        {
+          "link": "https://bd-mc-fdlive.fancode.com/mumbai/139218_english_hls_15dd1c037997901_1ta-di_h264/index.m3u8",
+          "logo": "https://i.ibb.co/N6BXbhBh/1000313033.webp",
+          "name": "FANCODE (BAN)",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://www.fancode.com/skillup-uploads/cms-media/03_Thailand-Women-vs-Nepal-Women_1768652427014.png",
+      "team1Name": "Nepal Women",
+      "team2Logo": "https://www.fancode.com/skillup-uploads/cms-media/03_Thailand-Women-vs-Nepal-Women_1768652427014.png",
+      "team2Name": "Thailand Women"
     }
   },
   "navigation": {
