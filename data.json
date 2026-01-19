@@ -2698,7 +2698,8 @@
       "team1Logo": "https://r2.thesportsdb.com/images/media/team/badge/6ng2vy1579708291.png",
       "team1Name": "Cremonese",
       "team2Logo": "https://r2.thesportsdb.com/images/media/team/badge/p6camf1593457737.png",
-      "team2Name": "Hellas Verona"
+      "team2Name": "Hellas Verona",
+      "telegramSent": true
     },
     "-OjJTROU5IzhEl9EoVLp": {
       "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png",
@@ -2786,14 +2787,14 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": " https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7",
+          "link": "https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967",
           "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
           "name": "SPORTIFy TV",
           "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967",
+          "link": " https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7",
           "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
           "name": "SPORTIFy TV+ HD",
           "source": "api",
@@ -2802,7 +2803,7 @@
         {
           "link": "https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2",
           "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
-          "name": "SPORTIFy GOAL SD",
+          "name": "SPORTIFy FHD",
           "source": "api",
           "type": "Direct"
         }
