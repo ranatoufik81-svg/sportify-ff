@@ -3319,15 +3319,24 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "link": "https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
           "name": "SPORTIFy TV",
+          "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "link": "https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
           "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy PLUS HD",
+          "source": "api",
           "type": "Direct"
         }
       ],
@@ -3699,7 +3708,8 @@
       "team1Logo": "https://r2.thesportsdb.com/images/media/team/badge/q3bx641635067495.png",
       "team1Name": "Atlanta Hawks",
       "team2Logo": "https://r2.thesportsdb.com/images/media/team/badge/olhug01621594702.png",
-      "team2Name": "Milwaukee Bucks"
+      "team2Name": "Milwaukee Bucks",
+      "telegramSent": true
     },
     "-OjJTRbXJwa3uismqDQI": {
       "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/frdjqy1536585083.png",
