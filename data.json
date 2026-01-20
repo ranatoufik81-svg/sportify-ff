@@ -3488,9 +3488,9 @@
       "sportType": "CRICKET",
       "streamLinks": [
         {
-          "link": "\n<iframe \n    src=\"https://sptvhelpdesk-ship-it.github.io/Live-2/?id=Cricbuzz1\" \n    style=\"width: 100%; aspect-ratio: 16/9; border: none;\"\n    allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" \n    allowfullscreen>\n</iframe>",
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Live-2/?id=Cricbuzz1\" style=\"width:100%;aspect-ratio:16/9;border:none;\" allow=\"autoplay;encrypted-media;picture-in-picture;fullscreen\" allowfullscreen></iframe>",
           "name": "Cricbuzz 1",
-          "type": "iframe"
+          "type": "Embed"
         },
         {
           "link": "https://sptvhelpdesk-ship-it.github.io/Live-2/?id=Cricbuzz1",
