@@ -4390,28 +4390,50 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768974784~acl=/*~id=98172754786562150553775707436347~hmac=1f6ced1eb951cbdfa3f3e41b326513c7b25f87af780685dbf8523bca2bce7380",
-          "logo": "https://i.ibb.co/Qv0csbR4/Sony-LIV-Logo-2020.png",
-          "name": "SONYLIV (HD)",
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Live-3/?id=TNT2FHD\" style=\"width:100%;aspect-ratio:16/9;border:none;\" allow=\"autoplay;encrypted-media;picture-in-picture;fullscreen\" allowfullscreen></iframe>",
+          "name": "TNT Sports 2 FHD",
+          "type": "iframe"
+        },
+        {
+          "link": "<iframe  src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/gxtrv0x1zf/out/v1/c02132c7fa004e56abb85bedf4519c51/cenc.mpd&k1=c7bf9fdd4fba958bee42c250cb44915a&k2=b00d1c6f704c8d1754e221149b7d0b76\"      style=\"width: 100%; aspect-ratio: 16/9; border: none;\"     allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\"      allowfullscreen> </iframe>",
+          "name": "DAZN LIVE",
+          "type": "Embed"
+        },
+        {
+          "link": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768976612~acl=/*~id=69030424378165695298599771673560~hmac=70ff742d24c1ee1b9e77b4e10d4a30ae9ea0f6a7a46a7d20f1cf0ae798e60b34",
+          "name": "SONYLIV (ENGLISH)",
           "type": "Direct"
         },
         {
-          "link": "#",
-          "logo": "https://i.ibb.co/Qv0csbR4/Sony-LIV-Logo-2020.png",
-          "name": "Empty Slot",
+          "link": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768976612~acl=/*~id=69030424378165695298599771673560~hmac=70ff742d24c1ee1b9e77b4e10d4a30ae9ea0f6a7a46a7d20f1cf0ae798e60b34",
+          "name": "SONY LIV (HINDI)",
           "type": "Direct"
         },
         {
-          "link": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768974784~acl=/*~id=98172754786562150553775707436347~hmac=1f6ced1eb951cbdfa3f3e41b326513c7b25f87af780685dbf8523bca2bce7380",
-          "logo": "https://i.ibb.co/Qv0csbR4/Sony-LIV-Logo-2020.png",
-          "name": "SONYLIV (FAST)",
+          "link": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768976612~acl=/*~id=69030424378165695298599771673560~hmac=70ff742d24c1ee1b9e77b4e10d4a30ae9ea0f6a7a46a7d20f1cf0ae798e60b34",
+          "name": "SONY LIV (TAMIL)",
+          "type": "Direct"
+        },
+        {
+          "link": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768976612~acl=/*~id=69030424378165695298599771673560~hmac=70ff742d24c1ee1b9e77b4e10d4a30ae9ea0f6a7a46a7d20f1cf0ae798e60b34",
+          "name": "SONY LIV (TEL)",
+          "type": "Direct"
+        },
+        {
+          "link": "https://liveplay1.camel4.live/live/sd-6MvXMfc5pzP8jYNjKD.m3u8?txSecret=0ab5bd6fa3af916f9ef6fb187e00ed7b&txTime=696FCA25&lat=9000",
+          "name": "SPOTIFY FAST",
+          "type": "Direct"
+        },
+        {
+          "link": "https://liveplay1.camel4.live/live/hd-en-6MvXMfc5pzP8jYNjKD.m3u8?txSecret=2458a56328976bd7d68446392dca433d&txTime=696FCA25&lat=9000",
+          "name": "SPORTIFY HD",
           "type": "Direct"
         }
       ],
       "team1Logo": "https://r2.thesportsdb.com/images/media/team/badge/uqpwwx1449165943.png",
-      "team1Name": "Bodø/Glimt",
+      "team1Name": "Bodo Glimt",
       "team2Logo": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png",
-      "team2Name": "Man City",
+      "team2Name": "Manchester City",
       "telegramSent": true
     },
     "-OjOp_31vvUm2pMMPNGn": {
