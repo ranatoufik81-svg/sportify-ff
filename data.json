@@ -5081,6 +5081,42 @@
       "sportType": "CRICKET",
       "streamLinks": [
         {
+          "link": "https://in-mc-fdlive.fancode.com/mumbai/138755_english_hls_adb0988ebc852_1ta-di_h264/index.m3u8",
+          "logo": "https://i.ibb.co/N6BXbhBh/1000313033.webp",
+          "name": "FANCODE (IND)",
+          "type": "Direct"
+        },
+        {
+          "link": "https://bd-mc-fdlive.fancode.com/mumbai/138755_english_hls_adb0988ebc852_1ta-di_h264/index.m3u8",
+          "logo": "https://i.ibb.co/N6BXbhBh/1000313033.webp",
+          "name": "FANCODE (BAN)",
+          "type": "Direct"
+        },
+        {
+          "link": "https://dai.google.com/linear/hls/event/BLrDUJzgTEa3S1oSJINFtg/master.m3u8",
+          "logo": "https://i.ibb.co/N6BXbhBh/1000313033.webp",
+          "name": "FANCODE (HD)",
+          "type": "Direct"
+        },
+        {
+          "link": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769018605~acl=/*~id=36313156271920067291392919235046~hmac=3b49ff4ae961a23db94f85b3301d474321d3327fd558da42b3ac0f8a8508f634",
+          "logo": "https://i.ibb.co/Qv0csbR4/Sony-LIV-Logo-2020.png",
+          "name": "SONYLIV (HD)",
+          "type": "Direct"
+        },
+        {
+          "link": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769018605~acl=/*~id=36313156271920067291392919235046~hmac=3b49ff4ae961a23db94f85b3301d474321d3327fd558da42b3ac0f8a8508f634",
+          "logo": "https://i.ibb.co/Qv0csbR4/Sony-LIV-Logo-2020.png",
+          "name": "SONYLIV (FHD)",
+          "type": "Direct"
+        },
+        {
+          "link": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769018605~acl=/*~id=36313156271920067291392919235046~hmac=3b49ff4ae961a23db94f85b3301d474321d3327fd558da42b3ac0f8a8508f634",
+          "logo": "https://i.ibb.co/Qv0csbR4/Sony-LIV-Logo-2020.png",
+          "name": "SONYLIV (FAST)",
+          "type": "Direct"
+        },
+        {
           "isStar": "no",
           "link": "https://ranapk.online/OPPLEX/RANAPK1/play.php?id=167593|User-Agent=RANAPK",
           "logo": "https://r2.thesportsdb.com/images/media/channel/logo/FOX_Cricket.png",
