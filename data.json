@@ -3569,15 +3569,17 @@
           "type": "Stream"
         },
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "link": "https://fpm.sla.homes/sla/1-696e5c0f761cdece330583cc.m3u8?auth_key=1769048282-0-0-d031e5bd6daa9f3190a0b519e6283a7f",
+          "logo": "https://i.ibb.co/CFsJDtb/1000315330.png",
           "name": "SPORTIFy TV",
+          "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "link": "https://fpm.sla.homes/sla/1-696e5c0f761cdece330583cc.flv?auth_key=1769048282-0-0-fe06c30a0fcf9dcecac936fea8ea5371",
+          "logo": "https://i.ibb.co/CFsJDtb/1000315330.png",
           "name": "SPORTIFy TV+ HD",
+          "source": "api",
           "type": "Direct"
         }
       ],
@@ -3588,55 +3590,109 @@
       "telegramSent": true
     },
     "-OjTiHfZ1XPexpYtIBZJ": {
+      "isStar": false,
       "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png",
       "leagueTitle": "UEFA Champions League",
-      "matchEndTime": "2026-01-21T22:30:00.000Z",
-      "matchTime": "2026-01-21T20:00:00.000Z",
+      "matchEndTime": "2026-01-22T04:00",
+      "matchTime": "2026-01-22T01:30",
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Live-3/?id=TNT2FHD\" style=\"width:100%;aspect-ratio:16/9;border:none;\" allow=\"autoplay;encrypted-media;picture-in-picture;fullscreen\" allowfullscreen></iframe>",
-          "name": "TNT Sports 2 FHD",
-          "type": "iframe"
-        },
-        {
-          "isStar": "no",
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://r2.thesportsdb.com/images/media/channel/logo/kkt7q81639056508.png",
-          "name": "HBO Max BR",
-          "type": "Stream"
-        },
-        {
-          "isStar": "no",
-          "link": "http://ip96.uk:8080//live/CR7REALMADRID/CR7PORTUGAL/317325.m3u8",
-          "logo": "https://r2.thesportsdb.com/images/media/channel/logo/hd6nx11643205736.png",
-          "name": "Arena Sport 1 HR",
-          "type": "Stream"
-        },
-        {
-          "isStar": "no",
-          "link": "http://ip96.uk:8080//live/CR7REALMADRID/CR7PORTUGAL/317326.m3u8",
-          "logo": "https://r2.thesportsdb.com/images/media/channel/logo/do4eok1643205747.png",
-          "name": "Arena Sport 2 HR",
-          "type": "Stream"
-        },
-        {
-          "isStar": "no",
-          "link": "http://ip96.uk:8080//live/CR7REALMADRID/CR7PORTUGAL/317477.m3u8",
-          "logo": "https://r2.thesportsdb.com/images/media/channel/logo/3ch2k51643205817.png",
-          "name": "Arena Sport 8 RS",
-          "type": "Stream"
-        },
-        {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "link": "https://pull.niues.live/live/stream-547345_lsd.m3u8?auth_key=1769030253-0-0-c7ad509b171e7f80a80d2adf13e75ec2",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV",
+          "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "link": "https://pull.niues.live/live/stream-547345_lhd.m3u8?auth_key=1769030253-0-0-6498c6e26f35455634fd0143d95831fe",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-9912097_lsd.m3u8?auth_key=1769030252-0-0-33cb0c5287f9f1b20aeaf7e6b3dcfeb3",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy GOAL FHD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1769030252-0-0-01d90516bb22a464b0b853a1d9583bc6",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy SD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1769030253-0-0-a10ec45e5a45474f0e455b09328a295f",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy GOLD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1769030253-0-0-f246501ca1faa9ce44c989501472baa7",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy SD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1769030253-0-0-f7516e236def34edb5aeda9cc0ee1d78",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy MAX",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1769030253-0-0-ac3ed4a0ded7491670579f97ae68ea66",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy STAR",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1769030252-0-0-c23cd641e09a28969913d5dec17416f7",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy ULTRA",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1769030252-0-0-2d6d8c1d0fc565329132e2a75c137d8b",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy SD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-459401_lsd.m3u8?auth_key=1769030253-0-0-53264c013d4b475329c69f8e5494e6e0",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy LIVE",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-459401_lhd.m3u8?auth_key=1769030253-0-0-58e6b26acca82882564a2f52dff05343",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://fpm.sla.homes/sla/1-696e5c0f761cdece330583c9.m3u8?auth_key=1769048282-0-0-74bc69221cf76309eacc1b9136b0f1d8",
+          "logo": "https://i.ibb.co/CFsJDtb/1000315330.png",
+          "name": "SPORTIFy FAST",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://fpm.sla.homes/sla/1-696e5c0f761cdece330583c9.flv?auth_key=1769048282-0-0-cb9b51cd0f0428e5d6e0450bb382950e",
+          "logo": "https://i.ibb.co/CFsJDtb/1000315330.png",
+          "name": "SPORTIFy GOLD",
+          "source": "api",
           "type": "Direct"
         }
       ],
@@ -3682,15 +3738,17 @@
           "type": "Stream"
         },
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "link": "https://fpm.sla.homes/sla/1-696e5c0f761cdece330583be.m3u8?auth_key=1769047563-0-0-f18d2ce5f13ce36e839e07dde2ed37c8",
+          "logo": "https://i.ibb.co/CFsJDtb/1000315330.png",
           "name": "SPORTIFy TV",
+          "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "link": "https://fpm.sla.homes/sla/1-696e5c0f761cdece330583be.flv?auth_key=1769047563-0-0-493f905d249742017059492abdd8bf4c",
+          "logo": "https://i.ibb.co/CFsJDtb/1000315330.png",
           "name": "SPORTIFy TV+ HD",
+          "source": "api",
           "type": "Direct"
         }
       ],
@@ -3701,50 +3759,74 @@
       "telegramSent": true
     },
     "-OjTiHhr4Zbm1iCA2SnA": {
+      "isStar": false,
       "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png",
       "leagueTitle": "UEFA Champions League",
-      "matchEndTime": "2026-01-21T22:30:00.000Z",
-      "matchTime": "2026-01-21T20:00:00.000Z",
+      "matchEndTime": "2026-01-22T04:00",
+      "matchTime": "2026-01-22T01:30",
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "isStar": "no",
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://r2.thesportsdb.com/images/media/channel/logo/c4lnwg1604074658.png",
-          "name": "IQiyi CN",
-          "type": "Stream"
-        },
-        {
-          "isStar": "no",
-          "link": "https://allinonereborn.xyz/trx.m3u8/live3.php?id=1170338",
-          "logo": "https://r2.thesportsdb.com/images/media/channel/logo/33g22c1622891880.png",
-          "name": "TV 2 Play",
-          "type": "Stream"
-        },
-        {
-          "isStar": "no",
-          "link": "http://ip96.uk:8080//live/CR7REALMADRID/CR7PORTUGAL/317325.m3u8",
-          "logo": "https://r2.thesportsdb.com/images/media/channel/logo/hd6nx11643205736.png",
-          "name": "Arena Sport 1 HR",
-          "type": "Stream"
-        },
-        {
-          "isStar": "no",
-          "link": "http://ip96.uk:8080//live/CR7REALMADRID/CR7PORTUGAL/317326.m3u8",
-          "logo": "https://r2.thesportsdb.com/images/media/channel/logo/do4eok1643205747.png",
-          "name": "Arena Sport 2 HR",
-          "type": "Stream"
-        },
-        {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "SPORTIFy TV",
+          "link": "https://pull.niues.live/live/stream-239275_lhd.m3u8?auth_key=1769030253-0-0-566a21ebf671ad59b3f297bdb7275d8a",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV+ HD",
+          "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "SPORTIFy TV+ HD",
+          "link": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1769030253-0-0-f846fc200e242374622840f5391f1c3c",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy PRO",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1769030253-0-0-2674dc2023091cb90f07aee98fce1396",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy SOCCER FHD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-561379_lsd.m3u8?auth_key=1769030253-0-0-2586bb6c925001b3d3ba98d4ac493393",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy GOAL SD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-561379_lhd.m3u8?auth_key=1769030253-0-0-9c89004cd5798465459e9fe52ab6d277",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy PLUS SD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-564362_lsd.m3u8?auth_key=1769030253-0-0-3835a866136e6b25502dd44da9634d40",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy SD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1769030253-0-0-4515bfed556bb662367b920d4392c356",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy SD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://fpm.sla.homes/sla/1-696e5c0f761cdece330583ca.m3u8?auth_key=1769048282-0-0-fbbc1bcbf2d3f4e31618021f95e3d4ce",
+          "logo": "https://i.ibb.co/CFsJDtb/1000315330.png",
+          "name": "SPORTIFy FOOTBALL FHD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://fpm.sla.homes/sla/1-696e5c0f761cdece330583ca.flv?auth_key=1769048282-0-0-e5dada239aeeb90e34a4ead2ea72125c",
+          "logo": "https://i.ibb.co/CFsJDtb/1000315330.png",
+          "name": "SPORTIFy MAX",
+          "source": "api",
           "type": "Direct"
         }
       ],
@@ -3755,50 +3837,109 @@
       "telegramSent": true
     },
     "-OjTiHj2dTcKYbz_VfKA": {
+      "isStar": false,
       "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png",
       "leagueTitle": "UEFA Champions League",
-      "matchEndTime": "2026-01-21T22:30:00.000Z",
-      "matchTime": "2026-01-21T20:00:00.000Z",
+      "matchEndTime": "2026-01-22T04:00",
+      "matchTime": "2026-01-22T01:30",
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "isStar": "no",
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://r2.thesportsdb.com/images/media/channel/logo/kkt7q81639056508.png",
-          "name": "HBO Max BR",
-          "type": "Stream"
-        },
-        {
-          "isStar": "no",
-          "link": "http://ip96.uk:8080//live/CR7REALMADRID/CR7PORTUGAL/290354.m3u8",
-          "logo": "https://r2.thesportsdb.com/images/media/channel/logo/7lxofw1656964140.png",
-          "name": "Football",
-          "type": "Stream"
-        },
-        {
-          "isStar": "no",
-          "link": "http://ip96.uk:8080//live/CR7REALMADRID/CR7PORTUGAL/317326.m3u8",
-          "logo": "https://r2.thesportsdb.com/images/media/channel/logo/do4eok1643205747.png",
-          "name": "Arena Sport 2 HR",
-          "type": "Stream"
-        },
-        {
-          "isStar": "no",
-          "link": "http://ip96.uk:8080//live/CR7REALMADRID/CR7PORTUGAL/317325.m3u8",
-          "logo": "https://r2.thesportsdb.com/images/media/channel/logo/hd6nx11643205736.png",
-          "name": "Arena Sport 1 HR",
-          "type": "Stream"
-        },
-        {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "link": "https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1769030253-0-0-c95dfcf1babd4460a3f643d0cd7adf5c",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV",
+          "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "link": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1769030253-0-0-49d95a271ceda4de5c58df1e7f8ff973",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1769030253-0-0-f37c6975693984947f1886f1bdf8497c",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy FHD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1769030253-0-0-08f9d79dc424e1c5c926139ae765cacf",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-9912109_lsd.m3u8?auth_key=1769030253-0-0-6214e344632dca9da9e1e689ccdfff33",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-9912109_lhd.m3u8?auth_key=1769030253-0-0-e04d4a30528e282d0aef4e003073dae8",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy FOOTBALL",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1769030253-0-0-bf04ee841d45aeec6f463e7842e4eba1",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy SD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1769030253-0-0-0f7704e16079dfe9438c9b1ba814c9fb",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy PRIME",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy PLUS SD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": " https://hls.cdnok9.com/live/CHUN1/index.m3u8?expire=1890830700&sign=dbdc8ced2f1b21adf9d5a264bfe72141",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy SOCCER",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy FOOTBALL HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy PRO FHD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://fpm.sla.homes/sla/1-696e5c0f761cdece330583c8.m3u8?auth_key=1769048282-0-0-fa00a273c193db47b56a56b34d40aa76",
+          "logo": "https://i.ibb.co/CFsJDtb/1000315330.png",
+          "name": "SPORTIFy FAST",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://fpm.sla.homes/sla/1-696e5c0f761cdece330583c8.flv?auth_key=1769048282-0-0-b1887a1556118415f6767737c03ea7ef",
+          "logo": "https://i.ibb.co/CFsJDtb/1000315330.png",
+          "name": "SPORTIFy FAST",
+          "source": "api",
           "type": "Direct"
         }
       ],
@@ -3809,50 +3950,137 @@
       "telegramSent": true
     },
     "-OjTiHk9ODwDxfu09eHK": {
+      "isStar": false,
       "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png",
       "leagueTitle": "UEFA Champions League",
-      "matchEndTime": "2026-01-21T22:30:00.000Z",
-      "matchTime": "2026-01-21T20:00:00.000Z",
+      "matchEndTime": "2026-01-22T04:00",
+      "matchTime": "2026-01-22T01:30",
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "isStar": "no",
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://r2.thesportsdb.com/images/media/channel/logo/kkt7q81639056508.png",
-          "name": "HBO Max BR",
-          "type": "Stream"
-        },
-        {
-          "isStar": "no",
-          "link": "http://ip96.uk:8080//live/CR7REALMADRID/CR7PORTUGAL/301905.m3u8",
-          "logo": "https://r2.thesportsdb.com/images/media/channel/logo/ncwv1a1613744754.png",
-          "name": "MultiSports 1 FR",
-          "type": "Stream"
-        },
-        {
-          "isStar": "no",
-          "link": "http://ip96.uk:8080//live/CR7REALMADRID/CR7PORTUGAL/316270.m3u8",
-          "logo": "https://r2.thesportsdb.com/images/media/channel/logo/47sjz11630100858.png",
-          "name": "Cosmote Sport 2 GR",
-          "type": "Stream"
-        },
-        {
-          "isStar": "no",
-          "link": "http://ip96.uk:8080//live/CR7REALMADRID/CR7PORTUGAL/317325.m3u8",
-          "logo": "https://r2.thesportsdb.com/images/media/channel/logo/hd6nx11643205736.png",
-          "name": "Arena Sport 1 HR",
-          "type": "Stream"
-        },
-        {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "link": "https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1769030253-0-0-472104906ad76d0cf6f28125afb8b80f",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV",
+          "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "link": "https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1769030253-0-0-664e6650c506465baab7de80bfe557a3",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1769030253-0-0-85a6f6363452ac11042c41d982918689",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy FOOTBALL",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1769030253-0-0-467e5c3f479170576366251eaa9bd2eb",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy ULTRA",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1769030252-0-0-e8860d645dbf05dd1874cf3b727465cf",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy PRIME SD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1769030252-0-0-002a731360ff300fa870291cb0e5eb57",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy PRIME",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-500605_lsd.m3u8?auth_key=1769030253-0-0-4a879f01488c27dff6b7f6233ef2de1f",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy FAST FHD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-500605_lhd.m3u8?auth_key=1769030253-0-0-582e345fcfe655d9255c00783e3f9cbd",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy PLUS",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1769030253-0-0-741f7cdbfdf8d9a2b980b011efebd91c",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy FHD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1769030253-0-0-ed9adce1920d96f6c4d2b5fdd7b9af7b",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-532999_lsd.m3u8?auth_key=1769030253-0-0-bea069e05b4fcb724d88fe73b5aa048b",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy FHD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-532999_lhd.m3u8?auth_key=1769030253-0-0-4c4783a06caf3b1b1092c2f7a3c79b78",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy STAR FHD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy FOOTBALL",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy FOOTBALL SD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy SD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://fpm.sla.homes/sla/1-696e5c0f761cdece330583c7.m3u8?auth_key=1769048282-0-0-d6ef85f3cc4ef6279d5b798ac4c736d5",
+          "logo": "https://i.ibb.co/CFsJDtb/1000315330.png",
+          "name": "SPORTIFy SOCCER",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://fpm.sla.homes/sla/1-696e5c0f761cdece330583c7.flv?auth_key=1769048282-0-0-bf7e4d61835393270b7de9479878a08d",
+          "logo": "https://i.ibb.co/CFsJDtb/1000315330.png",
+          "name": "SPORTIFy PRO",
+          "source": "api",
           "type": "Direct"
         }
       ],
@@ -4058,50 +4286,102 @@
       "telegramSent": true
     },
     "-OjTiHnZtqa_Iein8Rch": {
+      "isStar": false,
       "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png",
       "leagueTitle": "UEFA Champions League",
-      "matchEndTime": "2026-01-21T22:30:00.000Z",
-      "matchTime": "2026-01-21T20:00:00.000Z",
+      "matchEndTime": "2026-01-22T04:00",
+      "matchTime": "2026-01-22T01:30",
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "isStar": "no",
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://r2.thesportsdb.com/images/media/channel/logo/kkt7q81639056508.png",
-          "name": "HBO Max BR",
-          "type": "Stream"
-        },
-        {
-          "isStar": "no",
-          "link": "http://ip96.uk:8080//live/CR7REALMADRID/CR7PORTUGAL/317325.m3u8",
-          "logo": "https://r2.thesportsdb.com/images/media/channel/logo/hd6nx11643205736.png",
-          "name": "Arena Sport 1 HR",
-          "type": "Stream"
-        },
-        {
-          "isStar": "no",
-          "link": "http://ip96.uk:8080//live/CR7REALMADRID/CR7PORTUGAL/317326.m3u8",
-          "logo": "https://r2.thesportsdb.com/images/media/channel/logo/do4eok1643205747.png",
-          "name": "Arena Sport 2 HR",
-          "type": "Stream"
-        },
-        {
-          "isStar": "no",
-          "link": "http://ip96.uk:8080//live/CR7REALMADRID/CR7PORTUGAL/317477.m3u8",
-          "logo": "https://r2.thesportsdb.com/images/media/channel/logo/3ch2k51643205817.png",
-          "name": "Arena Sport 8 RS",
-          "type": "Stream"
-        },
-        {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "SPORTIFy TV",
+          "link": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1769030253-0-0-293982071ed63d257373dac1aa07e8cc",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV+ HD",
+          "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "SPORTIFy TV+ HD",
+          "link": "https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1769030253-0-0-4499f5aa88f74e5c12d3e2e89d6bd37b",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy PLUS",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1769030253-0-0-abed2ad68726dde7caea8acebcd1265a",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy GOAL",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1769030253-0-0-41b6256f24da98900e94b7f3338e7950",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy STAR",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1769030253-0-0-9fcdfef159c367f7f2f8f0ea8e6cde87",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-560224_lsd.m3u8?auth_key=1769030253-0-0-f1ee4befd59605efc77eba8d18791d5d",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy SD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-560224_lhd.m3u8?auth_key=1769030253-0-0-f2c7e33b71046c6239fd86a485735e63",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy FOOTBALL",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/PEP/index.m3u8?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy GOAL",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy STAR",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy FAST",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": " https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy GOLD SD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://fpm.sla.homes/sla/1-696e5c0f761cdece330583c6.m3u8?auth_key=1769048282-0-0-7c82b4f513ba89a8c1c82ae2cf2b3858",
+          "logo": "https://i.ibb.co/CFsJDtb/1000315330.png",
+          "name": "SPORTIFy FHD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://fpm.sla.homes/sla/1-696e5c0f761cdece330583c6.flv?auth_key=1769048282-0-0-5fa929c6b83b93dcf30edada05738985",
+          "logo": "https://i.ibb.co/CFsJDtb/1000315330.png",
+          "name": "SPORTIFy SOCCER",
+          "source": "api",
           "type": "Direct"
         }
       ],
@@ -4166,57 +4446,60 @@
       "telegramSent": true
     },
     "-OjTiHpmh1hScqWzdtVi": {
+      "isStar": false,
       "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png",
       "leagueTitle": "UEFA Champions League",
-      "matchEndTime": "2026-01-21T22:30:00.000Z",
-      "matchTime": "2026-01-21T20:00:00.000Z",
+      "matchEndTime": "2026-01-22T04:00",
+      "matchTime": "2026-01-22T01:30",
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "isStar": "no",
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://r2.thesportsdb.com/images/media/channel/logo/kkt7q81639056508.png",
-          "name": "HBO Max BR",
-          "type": "Stream"
-        },
-        {
-          "isStar": "no",
-          "link": "https://allinonereborn.xyz/trx.m3u8/live3.php?id=1170338",
-          "logo": "https://r2.thesportsdb.com/images/media/channel/logo/33g22c1622891880.png",
-          "name": "TV 2 Play",
-          "type": "Stream"
-        },
-        {
-          "isStar": "no",
-          "link": "http://ip96.uk:8080//live/CR7REALMADRID/CR7PORTUGAL/317325.m3u8",
-          "logo": "https://r2.thesportsdb.com/images/media/channel/logo/hd6nx11643205736.png",
-          "name": "Arena Sport 1 HR",
-          "type": "Stream"
-        },
-        {
-          "isStar": "no",
-          "link": "http://ip96.uk:8080//live/CR7REALMADRID/CR7PORTUGAL/317326.m3u8",
-          "logo": "https://r2.thesportsdb.com/images/media/channel/logo/do4eok1643205747.png",
-          "name": "Arena Sport 2 HR",
-          "type": "Stream"
-        },
-        {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "link": "https://pull.niues.live/live/stream-5126499_lsd.m3u8?auth_key=1769030253-0-0-80d20d8dd13dc561f12f2fd7ba1d2718",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV",
+          "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "link": "https://pull.niues.live/live/stream-5126499_lhd.m3u8?auth_key=1769030253-0-0-cf9c71d65d8480714c94bcd338fd0d47",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1769030253-0-0-709a702b8a50b59f343c69b38cc90a41",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy FOOTBALL FHD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1769030253-0-0-a5108b342218d2daac4960a914bc1212",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://fpm.sla.homes/sla/1-696e5c0f761cdece330583cb.m3u8?auth_key=1769048282-0-0-ba7ef23e1f874d70246b34a7d9b90ea4",
+          "logo": "https://i.ibb.co/CFsJDtb/1000315330.png",
+          "name": "SPORTIFy STAR",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://fpm.sla.homes/sla/1-696e5c0f761cdece330583cb.flv?auth_key=1769048282-0-0-27077fcbc25da86b3dc176661c7e0756",
+          "logo": "https://i.ibb.co/CFsJDtb/1000315330.png",
+          "name": "SPORTIFy GOLD SD",
+          "source": "api",
           "type": "Direct"
         }
       ],
       "team1Logo": "https://r2.thesportsdb.com/images/media/team/badge/lrvxg71534873930.png",
       "team1Name": "Atalanta",
       "team2Logo": "https://r2.thesportsdb.com/images/media/team/badge/68w7fe1639408210.png",
-      "team2Name": "Athletic Bilbao",
+      "team2Name": "Athletic club",
       "telegramSent": true
     },
     "-OjTiHquQyTDFFkCnRUE": {
@@ -4444,55 +4727,91 @@
       "telegramSent": true
     },
     "-OjTiHtBCyx8DBlezJaW": {
+      "isStar": false,
       "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png",
       "leagueTitle": "UEFA Champions League",
-      "matchEndTime": "2026-01-21T22:30:00.000Z",
-      "matchTime": "2026-01-21T20:00:00.000Z",
+      "matchEndTime": "2026-01-22T04:00",
+      "matchTime": "2026-01-22T01:30",
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "isStar": "no",
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://r2.thesportsdb.com/images/media/channel/logo/kkt7q81639056508.png",
-          "name": "HBO Max BR",
-          "type": "Stream"
-        },
-        {
-          "isStar": "no",
-          "link": "http://ip96.uk:8080//live/CR7REALMADRID/CR7PORTUGAL/301907.m3u8",
-          "logo": "https://r2.thesportsdb.com/images/media/channel/logo/tf06zx1613745069.png",
-          "name": "MultiSports 3 FR",
-          "type": "Stream"
-        },
-        {
-          "isStar": "no",
-          "link": "http://ip96.uk:8080//live/CR7REALMADRID/CR7PORTUGAL/317325.m3u8",
-          "logo": "https://r2.thesportsdb.com/images/media/channel/logo/hd6nx11643205736.png",
-          "name": "Arena Sport 1 HR",
-          "type": "Stream"
-        },
-        {
-          "isStar": "no",
-          "link": "http://ip96.uk:8080//live/CR7REALMADRID/CR7PORTUGAL/317326.m3u8",
-          "logo": "https://r2.thesportsdb.com/images/media/channel/logo/do4eok1643205747.png",
-          "name": "Arena Sport 2 HR",
-          "type": "Stream"
-        },
-        {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "SPORTIFy TV",
+          "link": "https://play7ba.peodlc.com/live/202_3960688_1.m3u8",
+          "name": "PARAMOUNT+ ",
           "type": "Direct"
         },
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "link": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1769030253-0-0-7027dae4f5983f38cb57f64e87f6855f",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1769030253-0-0-10a14861f3011c19eda8a16d5c42cb1f",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1769030253-0-0-9a2b8ff94de887452283eaedf5d94a47",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1769030253-0-0-b2cfcfa926b46760f977e4c74a65b346",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/VANVY/index.m3u8?expire=1830276060&sign=554d3c30c8d3453c1feb32142851729a",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy MAX SD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/THOITHIEN/index.m3u8?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy GOAL",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy FHD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy STAR",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://fpm.sla.homes/sla/1-696e5c0f761cdece330583c5.m3u8?auth_key=1769048282-0-0-b1aff70016d5ff93cea3f57654e60202",
+          "logo": "https://i.ibb.co/CFsJDtb/1000315330.png",
+          "name": "SPORTIFy FAST FHD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://fpm.sla.homes/sla/1-696e5c0f761cdece330583c5.flv?auth_key=1769048282-0-0-ff7abf0b46ccf355c124ac141de05066",
+          "logo": "https://i.ibb.co/CFsJDtb/1000315330.png",
+          "name": "SPORTIFy SOCCER",
+          "source": "api",
           "type": "Direct"
         }
       ],
       "team1Logo": "https://r2.thesportsdb.com/images/media/team/badge/l7kl4n1759252139.png",
-      "team1Name": "Slavia Prague",
+      "team1Name": "Slavia Praha",
       "team2Logo": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png",
       "team2Name": "Barcelona",
       "telegramSent": true
