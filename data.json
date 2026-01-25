@@ -3568,30 +3568,30 @@
           "type": "Stream"
         },
         {
-          "link": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1769345793-0-0-6c9253a8780cc43af9987a675f5bcc0a",
+          "link": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1769352093-0-0-20db40a0d521f17c50844638216c30b5",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV",
           "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1769345793-0-0-6b5f6fab9b613d15ef06ff16cea93263",
+          "link": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1769352093-0-0-fafb5536d440e2bdc7e60dc7ce5a5f60",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV+ HD",
           "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da",
+          "link": "https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31",
           "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
-          "name": "SPORTIFy SD",
+          "name": "SPORTIFy HD",
           "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31",
+          "link": "https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da",
           "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
-          "name": "SPORTIFy STAR FHD",
+          "name": "SPORTIFy SOCCER SD",
           "source": "api",
           "type": "Direct"
         }
@@ -3653,7 +3653,8 @@
       "team1Logo": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png",
       "team1Name": "Crystal Palace",
       "team2Logo": "https://r2.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png",
-      "team2Name": "Chelsea"
+      "team2Name": "Chelsea",
+      "telegramSent": true
     },
     "-OjnNZsfmvpdeDLTNbAV": {
       "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png",
@@ -3759,7 +3760,8 @@
       "team1Logo": "https://r2.thesportsdb.com/images/media/team/badge/52s8dn1655553600.png",
       "team1Name": "Genoa",
       "team2Logo": "https://r2.thesportsdb.com/images/media/team/badge/2qi1u31655592366.png",
-      "team2Name": "Bologna"
+      "team2Name": "Bologna",
+      "telegramSent": true
     },
     "-OjnNZv2yL_XYDdn2tgs": {
       "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png",
@@ -4201,15 +4203,31 @@
           "type": "Stream"
         },
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "link": "https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
           "name": "SPORTIFy TV",
+          "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "link": "https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
           "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy PRIME HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy PRIME FHD",
+          "source": "api",
           "type": "Direct"
         }
       ],
@@ -4580,7 +4598,8 @@
       "team1Logo": "https://r2.thesportsdb.com/images/media/team/badge/mla9x61678808018.png",
       "team1Name": "Nantes",
       "team2Logo": "https://r2.thesportsdb.com/images/media/team/badge/msy7ly1621593859.png",
-      "team2Name": "Nice"
+      "team2Name": "Nice",
+      "telegramSent": true
     },
     "-OjnN_ETgg_mqMEcih7D": {
       "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/9f7z9d1742983155.png",
@@ -4658,7 +4677,8 @@
       "team1Logo": "https://r2.thesportsdb.com/images/media/team/badge/23mvtk1579955412.png",
       "team1Name": "Hajduk Split",
       "team2Logo": "https://r2.thesportsdb.com/images/media/team/badge/6h1n791578830529.png",
-      "team2Name": "NK Istra 1961"
+      "team2Name": "NK Istra 1961",
+      "telegramSent": true
     },
     "-OjnN_GogVouXMojl_L8": {
       "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/b3svsa1686819371.png",
@@ -4890,7 +4910,8 @@
       "team1Logo": "https://r2.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png",
       "team1Name": "Brentford",
       "team2Logo": "https://r2.thesportsdb.com/images/media/team/badge/bk4qjs1546440351.png",
-      "team2Name": "Nottingham Forest"
+      "team2Name": "Nottingham Forest",
+      "telegramSent": true
     },
     "-OjnN_PFVhIG2qPgFhPI": {
       "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/id6q2r1635867584.png",
@@ -5098,7 +5119,8 @@
       "team1Logo": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png",
       "team1Name": "Newcastle United",
       "team2Logo": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png",
-      "team2Name": "Aston Villa"
+      "team2Name": "Aston Villa",
+      "telegramSent": true
     },
     "-OjnN_WTnQR7n10JrW2x": {
       "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png",
@@ -5204,7 +5226,8 @@
       "team1Logo": "https://r2.thesportsdb.com/images/media/team/badge/lrvxg71534873930.png",
       "team1Name": "Atalanta",
       "team2Logo": "https://r2.thesportsdb.com/images/media/team/badge/6yiaxs1627406063.png",
-      "team2Name": "Parma"
+      "team2Name": "Parma",
+      "telegramSent": true
     },
     "-OjnN_YooC96OdLVQ1qB": {
       "leagueLogo": "https://www.thesportsdb.com/images/media/league/badge/rk9xhx1768238251.png",
