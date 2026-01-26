@@ -3640,15 +3640,31 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "link": "https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
           "name": "SPORTIFy TV",
+          "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "link": "https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
           "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy FAST",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy SD",
+          "source": "api",
           "type": "Direct"
         }
       ],
@@ -3762,44 +3778,44 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "https://pull.niues.live/live/stream-564362_lsd.m3u8?auth_key=1769442813-0-0-0e8182c9b4807bb845172d3e53415237",
+          "link": "https://pull.niues.live/live/stream-9912109_lsd.m3u8?auth_key=1769446233-0-0-16636029405e55c22867608a19cd4a70",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV",
           "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1769442813-0-0-586d1cef4b78be302730ac1cced78361",
+          "link": "https://pull.niues.live/live/stream-9912109_lhd.m3u8?auth_key=1769446233-0-0-a228ab2b10233e7d9ce5e1a0e8ff0ecc",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV+ HD",
           "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://pull.niues.live/live/stream-9912109_lsd.m3u8?auth_key=1769442813-0-0-07e69b2a8c84db29f94372f899317d43",
+          "link": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1769446233-0-0-702207d1c27e2e6fbc5bb506bfda6bfa",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy FHD",
+          "name": "SPORTIFy TURBO FHD",
           "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://pull.niues.live/live/stream-9912109_lhd.m3u8?auth_key=1769442813-0-0-2d2e7289fcda049aaa308f3a57b63ebc",
+          "link": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1769446233-0-0-6731b37ffc25a968ac51a1e249beab89",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy FOOTBALL SD",
           "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1769442813-0-0-b2c32d1f95fffe4fe5450eb7b2471c38",
+          "link": "https://pull.niues.live/live/stream-564362_lsd.m3u8?auth_key=1769446233-0-0-1dd7b998576680c29219bae3a8ce58e5",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy FAST HD",
+          "name": "SPORTIFy ULTRA HD",
           "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1769442813-0-0-75f4b34048b0a83692f94399e64f569e",
+          "link": "https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1769446233-0-0-04a3e46c148f93d1e3138cb9171713ca",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy GOLD",
+          "name": "SPORTIFy HD",
           "source": "api",
           "type": "Direct"
         }
