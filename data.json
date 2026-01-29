@@ -3552,7 +3552,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/58319/image",
       "team1Name": "Ghazl El Mahalla FC",
       "team2Logo": "https://api.sofascore.app/api/v1/team/43561/image",
-      "team2Name": "Tala'ea El-Gaish"
+      "team2Name": "Tala'ea El-Gaish",
+      "telegramSent": true
     },
     "match_14321291": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/808/image",
@@ -3647,7 +3648,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/265830/image",
       "team1Name": "Modern Sport FC",
       "team2Logo": "https://api.sofascore.app/api/v1/team/42366/image",
-      "team2Name": "Ismaily"
+      "team2Name": "Ismaily",
+      "telegramSent": true
     },
     "match_14336324": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/239/image",
@@ -3672,7 +3674,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/74465/image",
       "team1Name": "SL Benfica B U21",
       "team2Logo": "https://api.sofascore.app/api/v1/team/35174/image",
-      "team2Name": "Lusitânia Lourosa"
+      "team2Name": "Lusitânia Lourosa",
+      "telegramSent": true
     },
     "match_14530060": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/709/image",
@@ -4247,7 +4250,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/168086/image",
       "team1Name": "Al-Hazem",
       "team2Logo": "https://api.sofascore.app/api/v1/team/34313/image",
-      "team2Name": "Al-Shabab"
+      "team2Name": "Al-Shabab",
+      "telegramSent": true
     },
     "match_14773711": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/955/image",
@@ -4342,7 +4346,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/56027/image",
       "team1Name": "Al-Qadsiah",
       "team2Logo": "https://api.sofascore.app/api/v1/team/21895/image",
-      "team2Name": "Al-Hilal"
+      "team2Name": "Al-Hilal",
+      "telegramSent": true
     },
     "match_15211522": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/825/image",
@@ -4352,15 +4357,24 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "link": "https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
           "name": "SPORTIFy TV",
+          "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "link": " https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
           "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/CHUN1/index.m3u8?expire=1890830700&sign=dbdc8ced2f1b21adf9d5a264bfe72141",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy HD",
+          "source": "api",
           "type": "Direct"
         }
       ],
@@ -4598,44 +4612,44 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1769707233-0-0-23fa01b851098842d3aa4fffe9ebb9e5",
+          "link": "https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1769709753-0-0-c0e60ff61351ca1a09fe42d9fef3e52b",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV",
           "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1769707233-0-0-284ac9d2a6d5465a458ef230d865b03b",
+          "link": "https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1769709753-0-0-1145fa5dee26e66b0e98a61d12a3e80e",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV+ HD",
           "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1769707233-0-0-f80e39fac2baaf5e26cf54ad4eb41ad8",
+          "link": "https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1769709753-0-0-03546874977d13b405f36e0d9b0e37bd",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy HD",
+          "name": "SPORTIFy PLUS FHD",
           "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1769707233-0-0-04eb05786e158e91bc261617aa297788",
+          "link": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1769709753-0-0-a2e8a9f5f773273e5d95e5a6c40499d5",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy FAST",
+          "name": "SPORTIFy SOCCER",
           "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1769707233-0-0-f41955c58b4366e131d89a15034c8f4b",
+          "link": "https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1769709753-0-0-0d519ee93d7590d357c97f905708ba10",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy FAST",
+          "name": "SPORTIFy ULTRA FHD",
           "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1769707233-0-0-0cb6cefa58116faf8cfc7b7093d78ef5",
+          "link": "https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1769709753-0-0-4f5a54b52acaec4ef91c70b8d81ea25a",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy GOAL SD",
+          "name": "SPORTIFy GOAL",
           "source": "api",
           "type": "Direct"
         }
