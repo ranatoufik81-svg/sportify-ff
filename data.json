@@ -4487,22 +4487,67 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "link": "https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1769696973-0-0-c51f6f41d2f9d96263738c27b2991818",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV",
+          "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "link": "https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1769696973-0-0-29934a00f8402ee054738ce143116f65",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1769696973-0-0-b10b9901be0acc33e99f48fbd43fce13",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy SD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1769696973-0-0-34993148a995ca4724f6680f56b59fec",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy STAR",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1769696973-0-0-f2309ff25e3cfa238b6651039bf44c5c",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy GOAL FHD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1769696973-0-0-2a26477b63f4db883b4bef3bee1d26d8",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy GOAL SD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy LIVE HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy HD",
+          "source": "api",
           "type": "Direct"
         }
       ],
       "team1Logo": "https://api.sofascore.app/api/v1/team/331952/image",
       "team1Name": "Al Bataeh",
       "team2Logo": "https://api.sofascore.app/api/v1/team/8090/image",
-      "team2Name": "Al-Jazira"
+      "team2Name": "Al-Jazira",
+      "telegramSent": true
     },
     "match_15362538": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/231/image",
