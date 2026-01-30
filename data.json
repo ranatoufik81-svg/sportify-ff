@@ -4734,37 +4734,23 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "https://pull.niues.live/live/stream-581585_lsd.m3u8?auth_key=1769790393-0-0-96d6b1a1d1d155853e23e3126b2f89ea",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "link": "https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
           "name": "SPORTIFy TV",
           "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://pull.niues.live/live/stream-581585_lhd.m3u8?auth_key=1769790393-0-0-32acdf31b51878683a401cd2d675f645",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "link": "https://fpm.sla.homes/sla/1-6971536e6e82682bc27bf248.m3u8?auth_key=1769810162-0-0-d5bb362501b4f7000c08e6e83eadfe43",
+          "logo": "https://i.ibb.co/CFsJDtb/1000315330.png",
           "name": "SPORTIFy TV+ HD",
           "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://pull.niues.live/live/stream-579144_lsd.m3u8?auth_key=1769790393-0-0-fae45255d4c98d0319ee5786c36cf254",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy STAR HD",
-          "source": "api",
-          "type": "Direct"
-        },
-        {
-          "link": "https://pull.niues.live/live/stream-579144_lhd.m3u8?auth_key=1769790393-0-0-7f5ab9941cb27754113d6b6ccaa09c0e",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "link": "https://fpm.sla.homes/sla/1-6971536e6e82682bc27bf248.flv?auth_key=1769810162-0-0-f4ff66139589ef5d9a574b02c11925fc",
+          "logo": "https://i.ibb.co/CFsJDtb/1000315330.png",
           "name": "SPORTIFy GOLD",
-          "source": "api",
-          "type": "Direct"
-        },
-        {
-          "link": "https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68",
-          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
-          "name": "SPORTIFy SOCCER",
           "source": "api",
           "type": "Direct"
         }
@@ -5415,7 +5401,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/42204/image",
       "team1Name": "MC Alger",
       "team2Logo": "https://api.sofascore.app/api/v1/team/371343/image",
-      "team2Name": "FC Saint-Éloi Lupopo"
+      "team2Name": "FC Saint-Éloi Lupopo",
+      "telegramSent": true
     },
     "match_15010847": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/1054/image",
@@ -5440,7 +5427,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/251254/image",
       "team1Name": "Al-Hilal Al-Ubayyid",
       "team2Logo": "https://api.sofascore.app/api/v1/team/7665/image",
-      "team2Name": "Mamelodi Sundowns"
+      "team2Name": "Mamelodi Sundowns",
+      "telegramSent": true
     },
     "match_15037736": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/1054/image",
@@ -5600,58 +5588,30 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1769790393-0-0-8b6180dcb35ae2ac8c829d7d290d7d43",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy TV",
-          "source": "api",
-          "type": "Direct"
-        },
-        {
-          "link": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1769790393-0-0-174c1d5213172aae43e7c59181b8232d",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy TV+ HD",
-          "source": "api",
-          "type": "Direct"
-        },
-        {
-          "link": "https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1769790393-0-0-9851779aa4ba7f1aecafdf41597fd89a",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy SD",
-          "source": "api",
-          "type": "Direct"
-        },
-        {
-          "link": "https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1769790393-0-0-11e6dc08a49e1e31d93fcfff6db25e56",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy PLUS HD",
-          "source": "api",
-          "type": "Direct"
-        },
-        {
-          "link": "https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1769790393-0-0-021e46b7499a2fb70b004f3a790d4f04",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy STAR",
-          "source": "api",
-          "type": "Direct"
-        },
-        {
-          "link": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1769790393-0-0-e0fae584821562951640fda9443ad33b",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy FOOTBALL FHD",
-          "source": "api",
-          "type": "Direct"
-        },
-        {
           "link": "https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6",
           "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
-          "name": "SPORTIFy GOLD",
+          "name": "SPORTIFy TV",
           "source": "api",
           "type": "Direct"
         },
         {
           "link": "https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f",
           "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
-          "name": "SPORTIFy GOLD",
+          "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://fpm.sla.homes/sla/1-6971536e6e82682bc27bf246.m3u8?auth_key=1769810162-0-0-15261c56d91faa7e13c185c65dd9002a",
+          "logo": "https://i.ibb.co/CFsJDtb/1000315330.png",
+          "name": "SPORTIFy PLUS SD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://fpm.sla.homes/sla/1-6971536e6e82682bc27bf246.flv?auth_key=1769810162-0-0-16f82b0d1e773c3760fab6ae8213654a",
+          "logo": "https://i.ibb.co/CFsJDtb/1000315330.png",
+          "name": "SPORTIFy PRIME HD",
           "source": "api",
           "type": "Direct"
         }
