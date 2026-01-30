@@ -5225,6 +5225,84 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
+          "link": "https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1769784093-0-0-4b00a7365863501ea6db23ccd06c9ecb",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy TV",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1769784093-0-0-51cdaa5dd6bcad7dbf18f4bb54011c0d",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV+ HD",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1769784093-0-0-8e3ccc2f8de0f9bd43bd5bb6066b1998",
+          "logo": "https://i.ibb.co/CFsJDtb/1000315330.png",
+          "name": "SPORTIFy GOLD",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1769784093-0-0-218d0fd2b01935107a9bf1cb00648d66",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy SD",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=a8409d5428a4be8912526cb715f6536e&txTime=697d096d",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy SOCCER SD",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1769784093-0-0-5277e88d3cac81b7a82aa0acd6404ae3",
+          "logo": "https://i.ibb.co/CFsJDtb/1000315330.png",
+          "name": "SPORTIFy LIVE",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=0b49fcd178090218a5dd70b91748138d&txTime=697d096d",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy PRO FHD",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1769784093-0-0-2fee9542186d837e44233078c33b5a93",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy SD",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1769784093-0-0-75794d1a67d21c3576978d06a3738e38",
+          "logo": "https://i.ibb.co/CFsJDtb/1000315330.png",
+          "name": "SPORTIFy FHD",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=35ed6011d1182ce783ef8297d4465859&txTime=697d096d",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy ULTRA",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=95a974f31f8e10cbb36a38d8d08dc816&txTime=697d096d",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy FHD",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.mmchari.xyz/live/live_5032.m3u8?txSecret=1ef0e24bed12eb5e14f243ede59d393e&txTime=697dffd1",
+          "logo": "https://i.ibb.co/CFsJDtb/1000315330.png",
+          "name": "SPORTIFy SD",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.mmchari.xyz/live/live_5032.flv?txSecret=1ef0e24bed12eb5e14f243ede59d393e&txTime=697dffd1",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy GOAL",
+          "type": "Direct"
+        },
+        {
           "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
           "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
           "name": "SPORTIFy TV",
@@ -5240,7 +5318,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/56021/image",
       "team1Name": "Al-Taawoun",
       "team2Logo": "https://api.sofascore.app/api/v1/team/336456/image",
-      "team2Name": "Al-Okhdood"
+      "team2Name": "Al-Okhdood",
+      "telegramSent": true
     },
     "match_15010845": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/1054/image",
@@ -5590,7 +5669,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/238384/image",
       "team1Name": "USM Khenchela",
       "team2Logo": "https://api.sofascore.app/api/v1/team/42201/image",
-      "team2Name": "ASO Chlef"
+      "team2Name": "ASO Chlef",
+      "telegramSent": true
     },
     "match_15411342": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/841/image",
