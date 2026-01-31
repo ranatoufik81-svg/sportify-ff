@@ -4938,10 +4938,11 @@
       "telegramSent": true
     },
     "match_14062191": {
+      "isStar": false,
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/35/image",
       "leagueTitle": "Bundesliga",
-      "matchEndTime": "2026-02-01T01:00:00",
-      "matchTime": "2026-01-31T23:00:00",
+      "matchEndTime": "2026-02-01T01:00",
+      "matchTime": "2026-01-31T23:00",
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
@@ -4970,7 +4971,7 @@
         }
       ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2676/image",
-      "team1Name": "Hamburger SV",
+      "team1Name": "HSV",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2672/image",
       "team2Name": "FC Bayern München",
       "telegramSent": true
@@ -5292,7 +5293,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2675/image",
       "team1Name": "1. FC Kaiserslautern",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2598/image",
-      "team2Name": "SV 07 Elversberg"
+      "team2Name": "SV 07 Elversberg",
+      "telegramSent": true
     },
     "match_14065428": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/44/image",
@@ -5815,30 +5817,6 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/187755/image",
       "team2Name": "New Zealand"
     },
-    "match_14138487": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/98/image",
-      "leagueTitle": "1. Lig",
-      "matchEndTime": "2026-01-31T18:00:00",
-      "matchTime": "2026-01-31T16:00:00",
-      "sportType": "FOOTBALL",
-      "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/388264/image",
-      "team1Name": "Iğdır FK",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/202391/image",
-      "team2Name": "Manisa FK"
-    },
-    "match_14138492": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/98/image",
-      "leagueTitle": "1. Lig",
-      "matchEndTime": "2026-01-31T18:00:00",
-      "matchTime": "2026-01-31T16:00:00",
-      "sportType": "FOOTBALL",
-      "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/55603/image",
-      "team1Name": "Erzurumspor FK",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/4952/image",
-      "team2Name": "Sarıyer"
-    },
     "match_14138505": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/98/image",
       "leagueTitle": "1. Lig",
@@ -6024,18 +6002,6 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/2796/image",
       "team2Name": "Catanzaro"
     },
-    "match_14336317": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/239/image",
-      "leagueTitle": "Liga Portugal 2",
-      "matchEndTime": "2026-01-31T18:30:00",
-      "matchTime": "2026-01-31T16:30:00",
-      "sportType": "FOOTBALL",
-      "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/3030/image",
-      "team1Name": "Felgueiras",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/3025/image",
-      "team2Name": "Chaves"
-    },
     "match_14336320": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/239/image",
       "leagueTitle": "Liga Portugal 2",
@@ -6111,25 +6077,6 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/187743/image",
       "team2Name": "Dolphins"
     },
-    "match_14671721": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/136/image",
-      "leagueTitle": "A-League Men",
-      "matchEndTime": "2026-01-31T18:15:00",
-      "matchTime": "2026-01-31T16:15:00",
-      "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "AQ",
-          "type": "Direct"
-        }
-      ],
-      "team1Logo": "https://api.sofascore.com/api/v1/team/2945/image",
-      "team1Name": "Perth Glory",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/800224/image",
-      "team2Name": "Auckland FC"
-    },
     "match_14697124": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11191/image",
       "leagueTitle": "West Indies in South Africa, 3 T20I Series",
@@ -6185,37 +6132,6 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/187760/image",
       "team2Name": "West Indies",
       "telegramSent": true
-    },
-    "match_15160321": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11191/image",
-      "leagueTitle": "Ireland in United Arab Emirates, 2 T20I Series",
-      "matchEndTime": "2026-01-31T18:30:00",
-      "matchTime": "2026-01-31T11:30:00",
-      "sportType": "CRICKET",
-      "streamLinks": [
-        {
-          "link": "https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "WILLOW - FHD",
-          "type": "Direct"
-        },
-        {
-          "link": "https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "CricLife - FHD",
-          "type": "Direct"
-        },
-        {
-          "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "FANCODE - SD",
-          "type": "Direct"
-        }
-      ],
-      "team1Logo": "https://api.sofascore.com/api/v1/team/187771/image",
-      "team1Name": "United Arab Emirates",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/187766/image",
-      "team2Name": "Ireland"
     },
     "match_15211526": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/825/image",
@@ -6363,18 +6279,6 @@
       "team1Name": "Bangladesh Under-19",
       "team2Logo": "https://api.sofascore.com/api/v1/team/213110/image",
       "team2Name": "Zimbabwe Under-19"
-    },
-    "match_15452326": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11166/image",
-      "leagueTitle": "Super Smash, Final",
-      "matchEndTime": "2026-01-31T17:25:00",
-      "matchTime": "2026-01-31T10:25:00",
-      "sportType": "CRICKET",
-      "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/187778/image",
-      "team1Name": "Northern Districts",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/241846/image",
-      "team2Name": "Canterbury"
     }
   },
   "navigation": {
