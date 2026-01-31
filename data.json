@@ -3513,7 +3513,71 @@
       "matchEndTime": "2026-01-31T21:30:00",
       "matchTime": "2026-01-31T19:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1769873553-0-0-5f68bb2ac5f5fd89abe934c7c1799955",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1769873553-0-0-8c249bc92dbad3fc135bc4d8eac16324",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1769873553-0-0-a0576b803284384db5578c989ab52542",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1769873553-0-0-654f042cebf9407fbbf169e59492fae2",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy MAX",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1769873553-0-0-b2abe56ec04bf8f1b45c8dd923e2761c",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy FOOTBALL",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1769873553-0-0-e3597c243e174d5200301f6359a70e74",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy GOAL",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy TURBO FHD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy GOLD",
+          "source": "api",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2737/image",
       "team1Name": "Pisa",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2793/image",
@@ -3553,7 +3617,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/30/image",
       "team1Name": "Brighton & Hove Albion",
       "team2Logo": "https://api.sofascore.com/api/v1/team/48/image",
-      "team2Name": "Everton"
+      "team2Name": "Everton",
+      "telegramSent": true
     },
     "match_14025131": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/17/image",
@@ -3577,7 +3642,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/34/image",
       "team1Name": "Leeds United",
       "team2Logo": "https://api.sofascore.com/api/v1/team/42/image",
-      "team2Name": "Arsenal"
+      "team2Name": "Arsenal",
+      "telegramSent": true
     },
     "match_14025137": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/17/image",
@@ -3601,7 +3667,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/3/image",
       "team1Name": "Wolverhampton",
       "team2Logo": "https://api.sofascore.com/api/v1/team/60/image",
-      "team2Name": "Bournemouth"
+      "team2Name": "Bournemouth",
+      "telegramSent": true
     },
     "match_14032391": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/38/image",
@@ -3613,7 +3680,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2929/image",
       "team1Name": "Cercle Brugge",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2889/image",
-      "team2Name": "Royal Antwerp FC"
+      "team2Name": "Royal Antwerp FC",
+      "telegramSent": true
     },
     "match_14032394": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/38/image",
@@ -3661,7 +3729,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/46/image",
       "team1Name": "Blackburn Rovers",
       "team2Logo": "https://api.sofascore.com/api/v1/team/96/image",
-      "team2Name": "Hull City"
+      "team2Name": "Hull City",
+      "telegramSent": true
     },
     "match_14059808": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image",
@@ -3673,7 +3742,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/32/image",
       "team1Name": "Ipswich Town",
       "team2Logo": "https://api.sofascore.com/api/v1/team/21/image",
-      "team2Name": "Preston North End"
+      "team2Name": "Preston North End",
+      "telegramSent": true
     },
     "match_14059809": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image",
@@ -3685,7 +3755,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/25/image",
       "team1Name": "Millwall",
       "team2Logo": "https://api.sofascore.com/api/v1/team/15/image",
-      "team2Name": "Sheffield United"
+      "team2Name": "Sheffield United",
+      "telegramSent": true
     },
     "match_14059810": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image",
@@ -3709,7 +3780,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/36/image",
       "team1Name": "Middlesbrough",
       "team2Logo": "https://api.sofascore.com/api/v1/team/263/image",
-      "team2Name": "Norwich City"
+      "team2Name": "Norwich City",
+      "telegramSent": true
     },
     "match_14059812": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image",
@@ -3721,7 +3793,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/95/image",
       "team1Name": "Oxford United",
       "team2Logo": "https://api.sofascore.com/api/v1/team/9/image",
-      "team2Name": "Birmingham City"
+      "team2Name": "Birmingham City",
+      "telegramSent": true
     },
     "match_14059813": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image",
@@ -3745,7 +3818,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2/image",
       "team1Name": "Portsmouth",
       "team2Logo": "https://api.sofascore.com/api/v1/team/8/image",
-      "team2Name": "West Bromwich Albion"
+      "team2Name": "West Bromwich Albion",
+      "telegramSent": true
     },
     "match_14059815": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image",
@@ -3769,7 +3843,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/24/image",
       "team1Name": "Watford",
       "team2Logo": "https://api.sofascore.com/api/v1/team/74/image",
-      "team2Name": "Swansea City"
+      "team2Name": "Swansea City",
+      "telegramSent": true
     },
     "match_14059818": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image",
@@ -3781,7 +3856,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/1/image",
       "team1Name": "Queens Park Rangers",
       "team2Logo": "https://api.sofascore.com/api/v1/team/11/image",
-      "team2Name": "Coventry City"
+      "team2Name": "Coventry City",
+      "telegramSent": true
     },
     "match_14060941": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/25/image",
@@ -3793,7 +3869,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/187/image",
       "team1Name": "Accrington Stanley",
       "team2Logo": "https://api.sofascore.com/api/v1/team/69/image",
-      "team2Name": "Cheltenham Town"
+      "team2Name": "Cheltenham Town",
+      "telegramSent": true
     },
     "match_14060944": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/25/image",
@@ -3817,7 +3894,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/68/image",
       "team1Name": "Chesterfield",
       "team2Logo": "https://api.sofascore.com/api/v1/team/26/image",
-      "team2Name": "Walsall"
+      "team2Name": "Walsall",
+      "telegramSent": true
     },
     "match_14060956": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/25/image",
@@ -3829,7 +3907,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/4875/image",
       "team1Name": "Crawley Town",
       "team2Logo": "https://api.sofascore.com/api/v1/team/159/image",
-      "team2Name": "Harrogate Town"
+      "team2Name": "Harrogate Town",
+      "telegramSent": true
     },
     "match_14060960": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/25/image",
@@ -3841,7 +3920,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/19/image",
       "team1Name": "Crewe Alexandra",
       "team2Logo": "https://api.sofascore.com/api/v1/team/66/image",
-      "team2Name": "Colchester United"
+      "team2Name": "Colchester United",
+      "telegramSent": true
     },
     "match_14060964": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/25/image",
@@ -3853,7 +3933,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/23959/image",
       "team1Name": "Fleetwood Town",
       "team2Logo": "https://api.sofascore.com/api/v1/team/56/image",
-      "team2Name": "Notts County"
+      "team2Name": "Notts County",
+      "telegramSent": true
     },
     "match_14060969": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/25/image",
@@ -3865,7 +3946,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/20/image",
       "team1Name": "Gillingham",
       "team2Logo": "https://api.sofascore.com/api/v1/team/180/image",
-      "team2Name": "Bromley"
+      "team2Name": "Bromley",
+      "telegramSent": true
     },
     "match_14060975": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/25/image",
@@ -3889,7 +3971,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/65/image",
       "team1Name": "Oldham Athletic",
       "team2Logo": "https://api.sofascore.com/api/v1/team/63/image",
-      "team2Name": "Cambridge United"
+      "team2Name": "Cambridge United",
+      "telegramSent": true
     },
     "match_14060985": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/25/image",
@@ -3901,7 +3984,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/82/image",
       "team1Name": "Shrewsbury Town",
       "team2Logo": "https://api.sofascore.com/api/v1/team/77/image",
-      "team2Name": "Barnet"
+      "team2Name": "Barnet",
+      "telegramSent": true
     },
     "match_14060990": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/25/image",
@@ -3913,7 +3997,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/53/image",
       "team1Name": "Swindon Town",
       "team2Logo": "https://api.sofascore.com/api/v1/team/97/image",
-      "team2Name": "Barrow AFC"
+      "team2Name": "Barrow AFC",
+      "telegramSent": true
     },
     "match_14060995": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/25/image",
@@ -3925,7 +4010,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/51/image",
       "team1Name": "Tranmere Rovers",
       "team2Logo": "https://api.sofascore.com/api/v1/team/37998/image",
-      "team2Name": "Salford City"
+      "team2Name": "Salford City",
+      "telegramSent": true
     },
     "match_14061224": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/24/image",
@@ -3949,7 +4035,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/23/image",
       "team1Name": "Barnsley",
       "team2Logo": "https://api.sofascore.com/api/v1/team/133/image",
-      "team2Name": "Stevenage"
+      "team2Name": "Stevenage",
+      "telegramSent": true
     },
     "match_14061227": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/24/image",
@@ -3973,7 +4060,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/134/image",
       "team1Name": "Burton Albion",
       "team2Logo": "https://api.sofascore.com/api/v1/team/61/image",
-      "team2Name": "Cardiff City"
+      "team2Name": "Cardiff City",
+      "telegramSent": true
     },
     "match_14061231": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/24/image",
@@ -3985,7 +4073,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/86/image",
       "team1Name": "Exeter City",
       "team2Logo": "https://api.sofascore.com/api/v1/team/13/image",
-      "team2Name": "Rotherham United"
+      "team2Name": "Rotherham United",
+      "telegramSent": true
     },
     "match_14061232": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/24/image",
@@ -3997,7 +4086,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/83/image",
       "team1Name": "Leyton Orient",
       "team2Logo": "https://api.sofascore.com/api/v1/team/55/image",
-      "team2Name": "Port Vale"
+      "team2Name": "Port Vale",
+      "telegramSent": true
     },
     "match_14061235": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/24/image",
@@ -4009,7 +4099,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/72/image",
       "team1Name": "Luton Town",
       "team2Logo": "https://api.sofascore.com/api/v1/team/67/image",
-      "team2Name": "Blackpool"
+      "team2Name": "Blackpool",
+      "telegramSent": true
     },
     "match_14061236": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/24/image",
@@ -4021,7 +4112,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/70/image",
       "team1Name": "Mansfield Town",
       "team2Logo": "https://api.sofascore.com/api/v1/team/62/image",
-      "team2Name": "Wycombe Wanderers"
+      "team2Name": "Wycombe Wanderers",
+      "telegramSent": true
     },
     "match_14061237": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/24/image",
@@ -4045,7 +4137,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/54/image",
       "team1Name": "Peterborough United",
       "team2Logo": "https://api.sofascore.com/api/v1/team/59/image",
-      "team2Name": "Huddersfield Town"
+      "team2Name": "Huddersfield Town",
+      "telegramSent": true
     },
     "match_14061240": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/24/image",
@@ -4057,7 +4150,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/10/image",
       "team1Name": "Stockport County",
       "team2Logo": "https://api.sofascore.com/api/v1/team/71/image",
-      "team2Name": "Plymouth Argyle"
+      "team2Name": "Plymouth Argyle",
+      "telegramSent": true
     },
     "match_14061243": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/24/image",
@@ -4069,7 +4163,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/49/image",
       "team1Name": "Wigan Athletic",
       "team2Logo": "https://api.sofascore.com/api/v1/team/92/image",
-      "team2Name": "Lincoln City"
+      "team2Name": "Lincoln City",
+      "telegramSent": true
     },
     "match_14062189": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/35/image",
@@ -4077,7 +4172,78 @@
       "matchEndTime": "2026-01-31T22:00:00",
       "matchTime": "2026-01-31T20:00:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1769873554-0-0-a1f3197c4a0f8f6aa40783586783d4c7",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1769873554-0-0-49f83a6cb92a85a19c0031c8ff0856aa",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-532999_lsd.m3u8?auth_key=1769873554-0-0-8cc8d1d09929fc0724d9b972b5453bd8",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy LIVE SD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-532999_lhd.m3u8?auth_key=1769873554-0-0-14de1057663ba656d414af883f78ace7",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy MAX",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-547345_lsd.m3u8?auth_key=1769873554-0-0-0c74507f0e5c3187481683c3f879212a",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy LIVE",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-547345_lhd.m3u8?auth_key=1769873554-0-0-2248e48ce46b0c761d46dfcb55c7a771",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy PLUS",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-561379_lsd.m3u8?auth_key=1769873554-0-0-7abe4e053f97755076ff7e3a814be555",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy STAR",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-561379_lhd.m3u8?auth_key=1769873554-0-0-abca962a4902d922b05470b006db9436",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1769873554-0-0-124b7050ed02af456a0c1c7c911b12a8",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy PRIME SD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1769873554-0-0-99ccb1666c5aa7a03362e44fd9c68b4e",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy ULTRA HD",
+          "source": "api",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/36360/image",
       "team1Name": "RB Leipzig",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2556/image",
@@ -4090,7 +4256,78 @@
       "matchEndTime": "2026-01-31T22:00:00",
       "matchTime": "2026-01-31T20:00:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1769873553-0-0-9542a0015bca926aedd56d84c9c1cc58",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1769873553-0-0-c8ff7a495f7f0df29cab9738cd6ccf58",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-500605_lsd.m3u8?auth_key=1769873554-0-0-e0c087ad0e50d2532f5fd7eb7d97f634",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy PRIME FHD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-500605_lhd.m3u8?auth_key=1769873554-0-0-71613a3c9af5bcbbd1ff8408ed7eab7c",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy FHD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-459401_lsd.m3u8?auth_key=1769873553-0-0-131b289e0a3773c0b636e7bfc7dc3c0c",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-459401_lhd.m3u8?auth_key=1769873553-0-0-2375207db7538c1504fff28a9cbeec51",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy SOCCER",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1769873553-0-0-b1de0fb9aa42d4f4c2d79cef35d03e81",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy SOCCER HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1769873553-0-0-399e1d7db43045df5dc02eb3b9eb6383",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy FAST HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1769873553-0-0-16a0fc770c9e528c98331f269f067238",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy FAST FHD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1769873553-0-0-9583c7c3899cc27cc6b80c795bba04ba",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy GOAL FHD",
+          "source": "api",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2674/image",
       "team1Name": "Eintracht Frankfurt",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2681/image",
@@ -4128,7 +4365,50 @@
       "matchEndTime": "2026-01-31T22:00:00",
       "matchTime": "2026-01-31T20:00:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1769873554-0-0-40d08f76e0ae4f1bb45707c7b59aeb0b",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1769873554-0-0-db14c8899bb0d70ec9543cb7ef979253",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1769873553-0-0-b220ddebc9ae6fb32612031a7b08dbf8",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy SD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1769873553-0-0-ba4e440286f8d4254a87052965b21a7c",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy SD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy LIVE",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "Link play m3u8: https://hls.cdnok9.com/live/DOANDU1/index.m3u8?expire=1923832980&sign=fed2ed3dc2f0dcec98029592cada4e3d",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy SD",
+          "source": "api",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2600/image",
       "team1Name": "FC Augsburg",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2526/image",
@@ -4141,7 +4421,22 @@
       "matchEndTime": "2026-01-31T22:00:00",
       "matchTime": "2026-01-31T20:00:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "https://hls.cdnok9.com/live/GIAOSUXOAY/index.m3u8?expire=1830276060&sign=5c3d0f8dfaaff97162618bfc6c7a62d0",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy TV",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2569/image",
       "team1Name": "TSG Hoffenheim",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2547/image",
@@ -4202,7 +4497,36 @@
       "matchEndTime": "2026-01-31T20:30:00",
       "matchTime": "2026-01-31T18:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1769873554-0-0-b43f6214edcb9fefc7eca25ea408630d",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1769873554-0-0-57cbfa691d4bcd598d37865c75371686",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://fpm.sla.homes/sla/1-6971617e14caa75d72bdfe62.m3u8?auth_key=1769891585-0-0-488e04d3754fe2fe7c47f1e56951223f",
+          "logo": "https://i.ibb.co/CFsJDtb/1000315330.png",
+          "name": "SPORTIFy GOAL SD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://fpm.sla.homes/sla/1-6971617e14caa75d72bdfe62.flv?auth_key=1769891585-0-0-98a5cefaae7af71c38945fe0dd934313",
+          "logo": "https://i.ibb.co/CFsJDtb/1000315330.png",
+          "name": "SPORTIFy FOOTBALL",
+          "source": "api",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/1652/image",
       "team1Name": "Troyes",
       "team2Logo": "https://api.sofascore.com/api/v1/team/1672/image",
@@ -4298,7 +4622,106 @@
       "matchEndTime": "2026-01-31T20:30:00",
       "matchTime": "2026-01-31T18:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1769873553-0-0-b91491e7bee9a17a8418d96440a37e21",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1769873553-0-0-69d8fa03df5cd1a6d8b914dc8f49b899",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1769873553-0-0-92e9d9880e3daf69ec38a9c49a3749cb",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy PLUS",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1769873553-0-0-19b5309652496cf72ea0bb8dcc69378d",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1769873553-0-0-2597f54b1350bb8a7b7ce687000be3d7",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy SD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1769873553-0-0-82e3bcf58d46c013a8adf5cf20d47533",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy FOOTBALL",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1769873554-0-0-4da1ccfa78e41d2d29d8adfe36da9292",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1769873554-0-0-33360f2997d4717c0efcc0cb21afba93",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy FHD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1769873553-0-0-b6e5ae8b733d4d8deba7660d8a6a4841",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy SOCCER FHD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1769873553-0-0-5767083461c236580cbcfe0b75fc55ef",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy FAST HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy STAR",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy SD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy HD",
+          "source": "api",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2851/image",
       "team1Name": "Real Oviedo",
       "team2Logo": "https://api.sofascore.com/api/v1/team/24264/image",
@@ -4434,7 +4857,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/421120/image",
       "team1Name": "RSCA Futures U23",
       "team2Logo": "https://api.sofascore.com/api/v1/team/389226/image",
-      "team2Name": "RFC Liège"
+      "team2Name": "RFC Liège",
+      "telegramSent": true
     },
     "match_14117792": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/9/image",
@@ -4470,7 +4894,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/7735/image",
       "team1Name": "OC Charleroi",
       "team2Logo": "https://api.sofascore.com/api/v1/team/328498/image",
-      "team2Name": "Royal Francs Borains"
+      "team2Name": "Royal Francs Borains",
+      "telegramSent": true
     },
     "match_14130905": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11191/image",
@@ -4962,7 +5387,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/44443/image",
       "team1Name": "Al-Ahli Doha",
       "team2Logo": "https://api.sofascore.com/api/v1/team/25914/image",
-      "team2Name": "Qatar SC"
+      "team2Name": "Qatar SC",
+      "telegramSent": true
     },
     "match_15211542": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/825/image",
@@ -5010,7 +5436,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/55039/image",
       "team1Name": "Hassania d'Agadir",
       "team2Logo": "https://api.sofascore.com/api/v1/team/479104/image",
-      "team2Name": "Union Sportive Yacoub El Mansour"
+      "team2Name": "Union Sportive Yacoub El Mansour",
+      "telegramSent": true
     },
     "match_15401617": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/937/image",
