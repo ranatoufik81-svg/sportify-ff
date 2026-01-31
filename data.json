@@ -3492,6 +3492,24 @@
       "sportType": "CRICKET",
       "streamLinks": [
         {
+          "link": "https://dai.google.com/linear/hls/event/MSblrMLoR2CiMDsE7WFuhQ/master.m3u8",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "FANCODE (HD)",
+          "type": "Direct"
+        },
+        {
+          "link": "https://in-mc-fdlive.fancode.com/mumbai/140133_english_hls_f6a6ca5d1458083_1ta-di_h264/index.m3u8",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "FANCODE (IND)",
+          "type": "Direct"
+        },
+        {
+          "link": "https://bd-mc-fdlive.fancode.com/mumbai/140133_english_hls_f6a6ca5d1458083_1ta-di_h264/index.m3u8",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "FANCODE (BD)",
+          "type": "Direct"
+        },
+        {
           "drm_key": "9c246d61dcedcdc015bade3924c6293c:ada4ebc518e4b1ae6868c2c120a6c2fc",
           "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tnqs0libac/out/v1/9c76298102d842cf8458cc2a87ca9b60/cenc.mpd",
           "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
@@ -3525,40 +3543,6 @@
       "matchTime": "2026-01-31T11:00:00.000Z",
       "sportType": "CRICKET",
       "streamLinks": [
-        {
-          "drm_key": "d9097a1b7d04b7786b29f2b0e155316d:279695ebe0fb1bc5787422b6b59ce8a8",
-          "link": "https://abm5x5xaaaaaaaamfnzlkys25m7a5.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mrskysvotx/out/v1/ad58961bd8fd48d2944e461c034b8914/cenc.mpd",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "SPORTSX (TSN SPORTS 3 FHD)",
-          "type": "Direct"
-        },
-        {
-          "drm_key": "8ce20e2a4b3dd04e0a6e5469b7cb47be:163c323b65d0597b13f037641fd67b1e",
-          "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mttgh1c4ei/out/v1/9cc664b146744e2ba23066aa048efbc5/cenc.mpd",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "SPORTSX (TSN - AQ)",
-          "type": "Direct"
-        },
-        {
-          "drm_key": "192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258",
-          "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "SPORTSX (TNT SPORTS 4 - AQ)",
-          "type": "Direct"
-        },
-        {
-          "drm_key": "d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7",
-          "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "SPORTSX (TNT SPORTS 1 - AQ)",
-          "type": "Direct"
-        },
-        {
-          "link": "https://sireli1307-be.hf.space/b/p/ESPN-Deportes/index.m3u8",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "SPORTSX (ESPN Deportes IOS + ANDROID )",
-          "type": "Direct"
-        },
         {
           "drm_key": "c3bae8b36e1060f438841714bace16f8:4c3c3b1a103c4f02211dd3fe4507b2b2",
           "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nbyapaxwuk/out/v1/8bfce17e6d98403cb95c2a25e6991ee7/cenc.mpd",
@@ -5335,15 +5319,6 @@
       "matchEndTime": "2026-02-01T14:25:00.000Z",
       "matchTime": "2026-02-01T11:55:00.000Z",
       "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "drm_key": "3c393a1661a7a0c306ed4b2d3f8c7b7e:74583ae652f0ed1bed5fc713f577fe1e",
-          "link": "https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/tjz3qplazr/out/v1/546e7eee67cd472fb34f53112df73144/cenc.mpd",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "SPORTSX (SKY SPORTS FHD)",
-          "type": "Direct"
-        }
-      ],
       "team1Logo": "https://api.sofascore.app/api/v1/team/266376/image",
       "team1Name": "Brighton",
       "team2Logo": "https://api.sofascore.app/api/v1/team/326573/image",
@@ -5751,14 +5726,6 @@
       "matchEndTime": "2026-01-31T15:30:00.000Z",
       "matchTime": "2026-01-31T13:00:00.000Z",
       "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "link": "https://no.link",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "SPORTSX (Link 1)",
-          "type": "Direct"
-        }
-      ],
       "team1Logo": "https://api.sofascore.app/api/v1/team/5551/image",
       "team1Name": "SGS Essen",
       "team2Logo": "https://api.sofascore.app/api/v1/team/36618/image",
