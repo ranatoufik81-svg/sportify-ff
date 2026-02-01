@@ -6866,16 +6866,30 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": " https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299",
+          "link": "https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31",
           "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
           "name": "SPORTIFy TV",
           "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31",
+          "link": " https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299",
           "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
           "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://fpm.sla.homes/sla/1-69717d9c9f151a19a61f6693.m3u8?auth_key=1769999583-0-0-91c59fc778370d255ed12dfd26366d7f",
+          "logo": "https://i.ibb.co/CFsJDtb/1000315330.png",
+          "name": "SPORTIFy GOLD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://fpm.sla.homes/sla/1-69717d9c9f151a19a61f6693.flv?auth_key=1769999583-0-0-4455699e7b416d08407d601fa9c0c38c",
+          "logo": "https://i.ibb.co/CFsJDtb/1000315330.png",
+          "name": "SPORTIFy STAR",
           "source": "api",
           "type": "Direct"
         }
