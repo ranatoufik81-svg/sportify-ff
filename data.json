@@ -6878,20 +6878,6 @@
           "name": "SPORTIFy TV+ HD",
           "source": "api",
           "type": "Direct"
-        },
-        {
-          "link": "https://fpm.sla.homes/sla/1-69717d9c9f151a19a61f6693.m3u8?auth_key=1769999583-0-0-91c59fc778370d255ed12dfd26366d7f",
-          "logo": "https://i.ibb.co/CFsJDtb/1000315330.png",
-          "name": "SPORTIFy GOLD",
-          "source": "api",
-          "type": "Direct"
-        },
-        {
-          "link": "https://fpm.sla.homes/sla/1-69717d9c9f151a19a61f6693.flv?auth_key=1769999583-0-0-4455699e7b416d08407d601fa9c0c38c",
-          "logo": "https://i.ibb.co/CFsJDtb/1000315330.png",
-          "name": "SPORTIFy STAR",
-          "source": "api",
-          "type": "Direct"
         }
       ],
       "team1Logo": "https://api.sofascore.app/api/v1/team/65668/image",
@@ -6973,7 +6959,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/7745/image",
       "team1Name": "Estudiantes de Mérida",
       "team2Logo": "https://api.sofascore.app/api/v1/team/6230/image",
-      "team2Name": "Caracas F.C."
+      "team2Name": "Caracas F.C.",
+      "telegramSent": true
     },
     "match_15362542": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/231/image",
@@ -7360,7 +7347,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/2001/image",
       "team1Name": "Ceará",
       "team2Logo": "https://api.sofascore.app/api/v1/team/21968/image",
-      "team2Name": "Horizonte FC"
+      "team2Name": "Horizonte FC",
+      "telegramSent": true
     },
     "match_15438036": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/1054/image",
