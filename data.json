@@ -4011,7 +4011,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/389232/image",
       "team1Name": "FCV Dender",
       "team2Logo": "https://api.sofascore.app/api/v1/team/2890/image",
-      "team2Name": "KRC Genk"
+      "team2Name": "KRC Genk",
+      "telegramSent": true
     },
     "match_14038843": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/215/image",
@@ -4244,21 +4245,28 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "https://no.link",
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lirtxtmaxq/out/v1/f3dec607001d46b7bcccd56a8c112cb7/cenc.mpd&k1=2a517545daba4ad4b6805de9a68a0847&k2=98da954fc17962b42911a88a6d5e4e7a\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "Link 1",
+          "name": "DAZN GERMANY",
           "source": "main",
           "type": "Direct"
         },
         {
-          "link": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769999101~acl=/*~id=90983910318019126263064035382059~hmac=eb9c5a6639314a5d8106499ef9bb534ef2de6a5e1c689b776d4474554713d0b2",
+          "link": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master.m3u8?hdnea=exp=1769970602~acl=/*~id=75057909265163929955051946474872~hmac=3017f578f8f2ff084187b62fa0d78f219e469959f026f0abfe44784a05b3f124|User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; vivo 1920; Build/SP1A.210812.003)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "SonyLiv (Asia)",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770000319~acl=/*~id=87695451347449937675632149904078~hmac=d6cf006281b017570e0184e839fd0638bf0edbe98120290db7ece2ef4601f400",
           "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
           "name": "SonyLIV (HD)",
           "source": "main",
           "type": "Direct"
         },
         {
-          "link": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769999101~acl=/*~id=90983910318019126263064035382059~hmac=eb9c5a6639314a5d8106499ef9bb534ef2de6a5e1c689b776d4474554713d0b2",
+          "link": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770000319~acl=/*~id=87695451347449937675632149904078~hmac=d6cf006281b017570e0184e839fd0638bf0edbe98120290db7ece2ef4601f400",
           "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
           "name": "SonyLIV (FHD)",
           "source": "main",
@@ -4484,6 +4492,27 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
+          "link": "https://in-mc-fdlive.fancode.com/mumbai/131046_english_hls_3d16f6adbe70218_1ta-di_h264/index.m3u8",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "FanCode (HD)",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://in-mc-fdlive.fancode.com/mumbai/131046_english_hls_3d16f6adbe70218_1ta-di_h264/index.m3u8",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "FanCode (Direct)",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://bd-mc-fdlive.fancode.com/mumbai/131046_english_hls_3d16f6adbe70218_1ta-di_h264/index.m3u8",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "FanCode (BD)",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
           "link": "https://no.link",
           "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
           "name": "Link 1",
@@ -4491,9 +4520,23 @@
           "type": "Direct"
         },
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "link": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
           "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "SPORTIFy TV",
+          "name": "SPORTIFy AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "SPORTIFy AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "SPORTIFy AQ",
           "source": "main",
           "type": "Direct"
         }
@@ -5856,7 +5899,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/36652/image",
       "team1Name": "TSG Hoffenheim",
       "team2Logo": "https://api.sofascore.app/api/v1/team/36656/image",
-      "team2Name": "SV Werder Bremen"
+      "team2Name": "SV Werder Bremen",
+      "telegramSent": true
     },
     "match_14489885": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/1191/image",
@@ -5881,7 +5925,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/396192/image",
       "team1Name": "Bibiani Gold Stars FC",
       "team2Logo": "https://api.sofascore.app/api/v1/team/458756/image",
-      "team2Name": "Swedru All Blacks United FC"
+      "team2Name": "Swedru All Blacks United FC",
+      "telegramSent": true
     },
     "match_14489887": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/1191/image",
@@ -5906,7 +5951,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/42610/image",
       "team1Name": "Aduana Stars FC",
       "team2Logo": "https://api.sofascore.app/api/v1/team/196369/image",
-      "team2Name": "Samartex"
+      "team2Name": "Samartex",
+      "telegramSent": true
     },
     "match_14489891": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/1191/image",
@@ -5931,7 +5977,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/42614/image",
       "team1Name": "Accra Hearts of Oak",
       "team2Logo": "https://api.sofascore.app/api/v1/team/115787/image",
-      "team2Name": "Bechem United"
+      "team2Name": "Bechem United",
+      "telegramSent": true
     },
     "match_14489892": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/1191/image",
@@ -5956,7 +6003,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/458755/image",
       "team1Name": "Basake Holy Stars FC",
       "team2Logo": "https://api.sofascore.app/api/v1/team/42611/image",
-      "team2Name": "Berekum Chelsea"
+      "team2Name": "Berekum Chelsea",
+      "telegramSent": true
     },
     "match_14489894": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/1191/image",
@@ -5981,7 +6029,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/274973/image",
       "team1Name": "Karela United",
       "team2Logo": "https://api.sofascore.app/api/v1/team/492324/image",
-      "team2Name": "Hohoe United FC"
+      "team2Name": "Hohoe United FC",
+      "telegramSent": true
     },
     "match_14489896": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/1191/image",
@@ -6006,7 +6055,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/406370/image",
       "team1Name": "Young Apostles FC",
       "team2Logo": "https://api.sofascore.app/api/v1/team/274972/image",
-      "team2Name": "Eleven Wonders"
+      "team2Name": "Eleven Wonders",
+      "telegramSent": true
     },
     "match_14530055": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/709/image",
@@ -6156,7 +6206,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/34318/image",
       "team1Name": "Al-Ettifaq",
       "team2Logo": "https://api.sofascore.app/api/v1/team/56021/image",
-      "team2Name": "Al-Taawoun"
+      "team2Name": "Al-Taawoun",
+      "telegramSent": true
     },
     "match_14773717": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/955/image",
