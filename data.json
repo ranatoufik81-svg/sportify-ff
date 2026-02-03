@@ -3522,27 +3522,6 @@
           "name": "HD SERVER ",
           "source": "main",
           "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://bbb.exoadash.com/TVD1451/index.mpd\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "SPORTIFy FHD",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "https://live.vivo200.com/live/sd-1-4404595.m3u8?txSecret=4cb52cd8a2ba90638686a2391e3da0ba&txTime=69827709",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "SPORTIFy HD",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "https://a.voezvoezv.shop/hls/tttteq.m3u8|referer=http://www.fawanews.sc/",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "SPORTIFy SD",
-          "source": "main",
-          "type": "Direct"
         }
       ],
       "team1Logo": "https://api.sofascore.app/api/v1/team/167228/image",
@@ -3848,20 +3827,6 @@
           "name": "HD SERVER",
           "source": "main",
           "type": "Direct"
-        },
-        {
-          "link": "https://live.vivo200.com/live/sd-1-4404567.m3u8?txSecret=7f7626125b25b1d01b43ec9d3a22bcee&txTime=69827703",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "SPORTIFy HD",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "https://a.voezvoezv.shop/hls/tttte.m3u8|referer=http://www.fawanews.sc/",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "SPORTIFy SD",
-          "source": "main",
-          "type": "Direct"
         }
       ],
       "team1Logo": "https://api.sofascore.app/api/v1/team/34318/image",
@@ -3970,13 +3935,6 @@
           "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/yfsmgtnygz/out/v1/272d43358d1f41feb4dc2e9c61733628/cenc.mpd&k1=a0763c867523cdae498b2ad5a8ed66c4&k2=fbca9fa0d6d784be974170f82c155938\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
           "name": "ITV 1 UK - AQ",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "SPORTIFy TV",
           "source": "main",
           "type": "Direct"
         }
@@ -4540,13 +4498,6 @@
           "name": "beIN ENGLISH - AQ",
           "source": "main",
           "type": "Direct"
-        },
-        {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "SPORTIFy TV",
-          "source": "main",
-          "type": "Direct"
         }
       ],
       "team1Logo": "https://api.sofascore.app/api/v1/team/2685/image",
@@ -4674,7 +4625,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/2973/image",
       "team1Name": "FC Dordrecht",
       "team2Logo": "https://api.sofascore.app/api/v1/team/2974/image",
-      "team2Name": "Helmond Sport"
+      "team2Name": "Helmond Sport",
+      "telegramSent": true
     },
     "match_15402237": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/915/image",
@@ -4821,7 +4773,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/55/image",
       "team1Name": "Port Vale",
       "team2Logo": "https://api.sofascore.app/api/v1/team/23957/image",
-      "team2Name": "AFC Wimbledon"
+      "team2Name": "AFC Wimbledon",
+      "telegramSent": true
     },
     "match_15450278": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/841/image",
