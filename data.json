@@ -5103,9 +5103,16 @@
           "type": "Direct"
         },
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "link": "https://live.vivo200.com/live/sd-1-4478280.m3u8?txSecret=2c3537a04db4f156e26fbb7081756423&txTime=6983E4BC",
           "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "SPORTIFy TV",
+          "name": "SPORTIFy HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "http://205.237.107.90/hls/dmmmqQQQQQ.m3u8|referer=http://www.fawanews.sc/",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "SPORTIFy SD",
           "source": "main",
           "type": "Direct"
         }
@@ -5494,30 +5501,9 @@
           "type": "Direct"
         },
         {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qswvyuem61/out/v1/2ef7a1eb5048446bbf27ada0cbd48772/cenc.mpd&k1=a78d24dba33dfa740e74718539b495a8&k2=06704c690487da833005748c220664bf\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
           "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "DAZN",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd&k1=1a5df53609ebc9857898c490f4724918&k2=77f62980d582ec541280796acf8b2d19\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "SPORTIFy AQ",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "https://pl8.astroignite.space/playlist/44596/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "SPORTIFy HD",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "https://play.ltwxsc.com/live/sd-6MvVcpYPbjQE8rCGZ4.m3u8?txSecret=0b7420048345424e3477439111c766b8&txTime=6983CD1D",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "SPORTIFy HD",
+          "name": "SPORTIFy TV",
           "source": "main",
           "type": "Direct"
         }
@@ -5621,7 +5607,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/48983/image",
       "team1Name": "Paraguay U20",
       "team2Logo": "https://api.sofascore.app/api/v1/team/48989/image",
-      "team2Name": "Chile U20"
+      "team2Name": "Chile U20",
+      "telegramSent": true
     },
     "match_15410147": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/1612/image",
@@ -5641,7 +5628,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/48979/image",
       "team1Name": "Uruguay U20",
       "team2Logo": "https://api.sofascore.app/api/v1/team/48978/image",
-      "team2Name": "Venezuela U20"
+      "team2Name": "Venezuela U20",
+      "telegramSent": true
     },
     "match_15410315": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/336/image",
