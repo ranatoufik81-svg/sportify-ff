@@ -3542,7 +3542,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/187/image",
       "team1Name": "Accrington Stanley",
       "team2Logo": "https://api.sofascore.com/api/v1/team/37998/image",
-      "team2Name": "Salford City"
+      "team2Name": "Salford City",
+      "telegramSent": true
     },
     "match_14198521": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image",
@@ -3939,6 +3940,20 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7tq37v5om2/out/v1/0ac073a00228420ea600b6359fc1e017/cenc.mpd&k1=c387c5521edf61057dbdda6bcfa7b6d0&k2=24738f6cc7f70b5c7bf94b2667ba35fc\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "Fubo Sports -AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest_hr.mpd&k1=00f9f3c0783536b8ee91704e23b78016&k2=bfd04d6f544c9cc4d35cb13ab6778587\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "ITALIA 1 TV HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
           "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd&k1=1444f4235529f183f0a5a486befe9cdb&k2=e5e3fec67a1bb3472a2089c8a0a2557f\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
           "name": "PREMIER SPORTS - AQ",
@@ -3953,9 +3968,16 @@
           "type": "Direct"
         },
         {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest_hr.mpd&k1=00f9f3c0783536b8ee91704e23b78016&k2=bfd04d6f544c9cc4d35cb13ab6778587\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/eid0lcf1pd/out/v1/6863907cd73b4a288582acc980cc8134/cenc.mpd&k1=03345a49fac037a63a2f29322a7def4b&k2=5fe829b497a3072798c224f30a3ada87\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "ITALIA 1 TV HD",
+          "name": "Server 2",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://live.vivo200.com/live/hd-en-1-4485202.m3u8?txSecret=38ab8b57abc5d8384a720800bc41bf6c&txTime=6983EBAF",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "Server 1 - IOS",
           "source": "main",
           "type": "Direct"
         },
@@ -3984,7 +4006,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2686/image",
       "team1Name": "Atalanta",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2687/image",
-      "team2Name": "Juventus"
+      "team2Name": "Juventus",
+      "telegramSent": true
     },
     "match_15211521": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/825/image",
@@ -4242,7 +4265,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/1659/image",
       "team1Name": "RC Strasbourg",
       "team2Logo": "https://api.sofascore.com/api/v1/team/1653/image",
-      "team2Name": "AS Monaco"
+      "team2Name": "AS Monaco",
+      "telegramSent": true
     },
     "match_15369085": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11222/image",
@@ -4297,6 +4321,13 @@
           "type": "Direct"
         },
         {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xro0eamcne/out/v1/276e5974236548e18477c8f8fbbc2d2d/cenc.mpd&k1=a064c14c61b5c288151c158a0f0d661e&k2=f09f251083071d4e0e65754f38d24678\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "Dazn - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
           "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ze8mlq7soh/out/v1/e517a8b1bede4a0d9c0cf48f591a2222/cenc.mpd&k1=7a5135975978757b3458bb5b3b9dbf5e&k2=eab16719fa7727ab371bd75aeaca9229\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
           "name": "ITV 4 - AQ",
@@ -4307,7 +4338,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2816/image",
       "team1Name": "Real Betis",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2836/image",
-      "team2Name": "Atlético Madrid"
+      "team2Name": "Atlético Madrid",
+      "telegramSent": true
     },
     "match_15433192": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/19248/image",
