@@ -4279,7 +4279,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/2900/image",
       "team1Name": "RSC Anderlecht",
       "team2Logo": "https://api.sofascore.app/api/v1/team/2889/image",
-      "team2Name": "Royal Antwerp FC"
+      "team2Name": "Royal Antwerp FC",
+      "telegramSent": true
     },
     "match_15396360": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/329/image",
@@ -4326,7 +4327,15 @@
       "matchEndTime": "2026-02-07T00:00:00",
       "matchTime": "2026-02-06T17:00:00",
       "sportType": "CRICKET",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "https://no.link",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "Link 1",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/199275/image",
       "team1Name": "Namibia",
       "team2Logo": "https://api.sofascore.com/api/v1/team/288538/image",
@@ -4338,7 +4347,15 @@
       "matchEndTime": "2026-02-06T20:00:00",
       "matchTime": "2026-02-06T13:00:00",
       "sportType": "CRICKET",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "https://no.link",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "Link 1",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/213107/image",
       "team1Name": "England Under-19",
       "team2Logo": "https://api.sofascore.com/api/v1/team/213112/image",
