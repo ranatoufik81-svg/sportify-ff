@@ -3940,9 +3940,23 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/xro0eamcne/out/v1/276e5974236548e18477c8f8fbbc2d2d/cenc.mpd&k1=a064c14c61b5c288151c158a0f0d661e&k2=f09f251083071d4e0e65754f38d24678\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "DAZN SPORTS - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
           "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7tq37v5om2/out/v1/0ac073a00228420ea600b6359fc1e017/cenc.mpd&k1=c387c5521edf61057dbdda6bcfa7b6d0&k2=24738f6cc7f70b5c7bf94b2667ba35fc\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
           "name": "Fubo Sports -AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://stream.huraweb.com/embed_view.php?id=93dd287f1c5b57b5",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "Server 2 - IOS",
           "source": "main",
           "type": "Direct"
         },
@@ -3975,9 +3989,23 @@
           "type": "Direct"
         },
         {
-          "link": "https://live.vivo200.com/live/hd-en-1-4485202.m3u8?txSecret=38ab8b57abc5d8384a720800bc41bf6c&txTime=6983EBAF",
+          "link": "https://live.vivo200.com/live/hd-en-1-4485203.m3u8?txSecret=0e9acb223f1d45edf6f9d2e6c3e7d5b3&txTime=69853D2F",
           "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
           "name": "Server 1 - IOS",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/6wi0yxwsvm/out/v1/ea41a1e234e248daa9ebb1dce896ac26/cenc.mpd&k1=dc69b6159a0f9f0a4e03b3ff91cbacd5&k2=d0dcbcd7723bc40df0bf34c9c092d51f\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "FUBO SPORTS - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/roktqihkzh/out/v1/4b43ed95d64346619e3d3dee222ed8bd/cenc.mpd&k1=03345a49fac037a63a2f29322a7def4b&k2=5fe829b497a3072798c224f30a3ada87\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "PARAMOUNT+ - AQ",
           "source": "main",
           "type": "Direct"
         },
@@ -4176,7 +4204,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/3001/image",
       "team1Name": "Sporting CP",
       "team2Logo": "https://api.sofascore.com/api/v1/team/483088/image",
-      "team2Name": "AVS - Futebol SAD"
+      "team2Name": "AVS - Futebol SAD",
+      "telegramSent": true
     },
     "match_15303168": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11191/image",
@@ -4250,7 +4279,7 @@
         {
           "link": "https://stream.huraweb.com/embed_view.php?id=f2dc414390a26af1",
           "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "HD Server - IOS",
+          "name": "DAZN - IOS",
           "source": "main",
           "type": "Direct"
         },
@@ -4331,6 +4360,20 @@
           "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ze8mlq7soh/out/v1/e517a8b1bede4a0d9c0cf48f591a2222/cenc.mpd&k1=7a5135975978757b3458bb5b3b9dbf5e&k2=eab16719fa7727ab371bd75aeaca9229\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
           "name": "ITV 4 - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://a135aivottepl-a.akamaihd.net/iad-nitro/live/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd&k1=7e9239c1982d984a002df3ed049d0756&k2=1b8a17598129a3618535c8fb05f103fe\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "FC - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://live.vivo200.com/live/sd-1-4480783.m3u8?txSecret=74175799cec2dc381f0e9230fca242bb&txTime=69853D29",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "Server 1 - IOS",
           "source": "main",
           "type": "Direct"
         }
