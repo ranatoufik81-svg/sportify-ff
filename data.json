@@ -3618,9 +3618,16 @@
           "type": "Direct"
         },
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "link": "https://sportssurge.stream/get.php?link=aHR0cDovLzM4LjE5MC4xNzguNTQ6ODA4OS9mb3Q2L2luZGV4Lm0zdTg=",
           "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "SPORTIFy TV",
+          "name": "SPORTIFy AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://sportssurge.stream/get.php?link=aHR0cDovLzM4LjE5MC4xNzguNTQ6ODA4OS9mb3Q2L2luZGV4Lm0zdTg=",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "SPORTIFy SD",
           "source": "main",
           "type": "Direct"
         }
@@ -3640,7 +3647,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/1682/image",
       "team1Name": "Stade de Reims",
       "team2Logo": "https://api.sofascore.com/api/v1/team/1655/image",
-      "team2Name": "Bastia"
+      "team2Name": "Bastia",
+      "telegramSent": true
     },
     "match_14064717": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/182/image",
@@ -3652,7 +3660,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/6918/image",
       "team1Name": "USL Dunkerque",
       "team2Logo": "https://api.sofascore.com/api/v1/team/1654/image",
-      "team2Name": "Guingamp"
+      "team2Name": "Guingamp",
+      "telegramSent": true
     },
     "match_14064824": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/182/image",
@@ -3664,7 +3673,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/52874/image",
       "team1Name": "Red Star FC",
       "team2Logo": "https://api.sofascore.com/api/v1/team/1685/image",
-      "team2Name": "Pau FC"
+      "team2Name": "Pau FC",
+      "telegramSent": true
     },
     "match_14064825": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/182/image",
@@ -3688,7 +3698,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/210894/image",
       "team1Name": "Annecy FC",
       "team2Logo": "https://api.sofascore.com/api/v1/team/1671/image",
-      "team2Name": "Grenoble Foot 38"
+      "team2Name": "Grenoble Foot 38",
+      "telegramSent": true
     },
     "match_14065433": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/44/image",
@@ -3709,48 +3720,6 @@
           "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
           "name": "Sky Top Event",
           "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1770404014-0-0-ca5bee5e499713e149fe0fcca7dedf5b",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy TV",
-          "source": "api",
-          "type": "Direct"
-        },
-        {
-          "link": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1770404014-0-0-b07345ee72bd5ed0f5e7359975de9a43",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy TV+ HD",
-          "source": "api",
-          "type": "Direct"
-        },
-        {
-          "link": "https://pull.niues.live/live/stream-459401_lsd.m3u8?auth_key=1770404014-0-0-cd391624dbfde935d2b4b7f5648b4ca3",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy SD",
-          "source": "api",
-          "type": "Direct"
-        },
-        {
-          "link": "https://pull.niues.live/live/stream-459401_lhd.m3u8?auth_key=1770404014-0-0-e009d817d3549d69039890cf54da6f72",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy FAST",
-          "source": "api",
-          "type": "Direct"
-        },
-        {
-          "link": "https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1770404014-0-0-4d2bbb9f7d15a3dfca4c9d0ef106aa59",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy PLUS SD",
-          "source": "api",
-          "type": "Direct"
-        },
-        {
-          "link": "https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1770404014-0-0-b338c80b32b375f70129d70441c08cc1",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy ULTRA HD",
-          "source": "api",
           "type": "Direct"
         }
       ],
@@ -3885,7 +3854,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/1711/image",
       "team1Name": "US Boulogne Côte-d'Opale",
       "team2Logo": "https://api.sofascore.com/api/v1/team/6925/image",
-      "team2Name": "Rodez AF"
+      "team2Name": "Rodez AF",
+      "telegramSent": true
     },
     "match_14439130": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image",
@@ -4016,6 +3986,13 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/eysdnavjgt/out/v1/97da4861dbce4860b569d6d5cc76bb5f/cenc.mpd&k1=f67f8c500d2f902096ffa3282858653d&k2=51999a41abf613821b922ca95143bfef\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "DAZN SPORTS FHD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
           "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://abd5xpeaaaaaaaamn2tirj37mzzps.ottb.live.cf.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd&k1=0ad4080cdff8c60b1233b22087f0b340&k2=285f129c5eca01dd08a5d5a14ad801c8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
           "name": "SportDigital Fussball",
@@ -4062,48 +4039,6 @@
           "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
           "name": "SPORTIFy HD",
           "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1770404014-0-0-10393c9fe29cb748acb63142c6ccc56c",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy TV",
-          "source": "api",
-          "type": "Direct"
-        },
-        {
-          "link": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1770404014-0-0-bd0cfd5f99313be3b7846ef8649a709b",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy TV+ HD",
-          "source": "api",
-          "type": "Direct"
-        },
-        {
-          "link": "https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1770404014-0-0-e4a7fdcd05c7e06b7f7d99fd081377ac",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy MAX SD",
-          "source": "api",
-          "type": "Direct"
-        },
-        {
-          "link": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1770404014-0-0-355a514a5d73b9027996210d88b17787",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy FAST",
-          "source": "api",
-          "type": "Direct"
-        },
-        {
-          "link": "https://pull.niues.live/live/stream-9912097_lsd.m3u8?auth_key=1770404014-0-0-e7412aecd69943a91e2bbb0b9b4690db",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy SD",
-          "source": "api",
-          "type": "Direct"
-        },
-        {
-          "link": "https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1770404014-0-0-c067bb8b9289e6814bf7d96b33f32e58",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy GOLD FHD",
-          "source": "api",
           "type": "Direct"
         }
       ],
