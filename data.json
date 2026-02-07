@@ -6467,6 +6467,20 @@
           "name": "Link 1",
           "source": "main",
           "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1770500314-0-0-f78144e5ae7f156a3e13cb1b1fc996ad",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1770500314-0-0-8c4ef3fc9001bdadb32bedfbe2d25176",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Direct"
         }
       ],
       "team1Logo": "https://api.sofascore.app/api/v1/team/25777/image",
@@ -7782,7 +7796,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/3215/image",
       "team1Name": "Racing Club",
       "team2Logo": "https://api.sofascore.app/api/v1/team/3216/image",
-      "team2Name": "Argentinos Juniors"
+      "team2Name": "Argentinos Juniors",
+      "telegramSent": true
     },
     "match_15270101": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/155/image",
