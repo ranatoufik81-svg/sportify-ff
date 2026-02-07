@@ -4982,12 +4982,27 @@
           "name": "SKY BUNDESLIGA SD",
           "source": "main",
           "type": "Direct"
+        },
+        {
+          "link": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/master.m3u8?hdnea=exp=1770489002~acl=/*~id=66545790130657954540998723029281~hmac=22d9c897229dd63d83f0382f5b3d345a763bbc5ad427d2eb1ff8b3dac704a3eb|User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; Lenovo YT-J706X; Build/SP1A.210812.016)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=4cf103ba67bae07b7f787f0a9cfcc0e7-1770472200108",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "SonyLiv",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://stream.huraweb.com/embed_view.php?id=75ea48132cd87cee",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "Server 1 - IOS",
+          "source": "main",
+          "type": "Direct"
         }
       ],
       "team1Logo": "https://api.sofascore.app/api/v1/team/2538/image",
       "team1Name": "SC Freiburg",
       "team2Logo": "https://api.sofascore.app/api/v1/team/2534/image",
-      "team2Name": "SV Werder Bremen"
+      "team2Name": "SV Werder Bremen",
+      "telegramSent": true
     },
     "match_14062198": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/35/image",
@@ -4997,9 +5012,23 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jf4rfzez8g/out/v1/9a90e357e9ba4c0ca61901fbc5584db7/cenc.mpd&k1=ce75698ae7a4d02def0e71c5323c5544&k2=384d7173231b7aed8b80ec29487d6f23\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "DAZN SPORTS - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
           "link": "https://broadcasthub.click//hls/Mhe8gotoGQlu/index.m3u8",
           "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "SKY BUNDESLIGA SD",
+          "name": "SKY BUNDESLIGA SD - IOS",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://stream.huraweb.com/embed_view.php?id=2e330f153c1f59d4",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "Server 1 - IOS",
           "source": "main",
           "type": "Direct"
         }
@@ -5007,7 +5036,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/2556/image",
       "team1Name": "1. FSV Mainz 05",
       "team2Logo": "https://api.sofascore.app/api/v1/team/2600/image",
-      "team2Name": "FC Augsburg"
+      "team2Name": "FC Augsburg",
+      "telegramSent": true
     },
     "match_14062199": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/35/image",
@@ -5037,9 +5067,37 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qvghswxm7l/out/v1/3046dba5ee844bc9968c04f3afd0dd41/cenc.mpd&k1=81a06d48940807b733cffcac4ffafc90&k2=3e8c3ffb59c6570837c7eddb35be9dde\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "DAZN SPORTS - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(bein4)/master.mpd&k1=d561ff976397473e9b456b44cdffcdd2&k2=2b6cff42f7fae7e8bc32f3d5c62dc3c2\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "Bundesliga 2",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
           "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/szmus1u1h0/out/v1/6d3245aa41e0455489ec87d3a144abea/cenc.mpd&k1=67905848180231a8a51a6539670d6e8d&k2=50cec07ba1ff5395e451ed2950d39fb2\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
           "name": "SKY BUNDESLIGA FHD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://stream.huraweb.com/embed_view.php?id=09328296f98a4415",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "Sky Sports - IOS",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://stream.huraweb.com/embed_view.php?id=fef85d41f1496cca",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "Server 1 - IOS",
           "source": "main",
           "type": "Direct"
         }
@@ -5047,7 +5105,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/2524/image",
       "team1Name": "VfL Wolfsburg",
       "team2Logo": "https://api.sofascore.app/api/v1/team/2673/image",
-      "team2Name": "Borussia Dortmund"
+      "team2Name": "Borussia Dortmund",
+      "telegramSent": true
     },
     "match_14062201": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/35/image",
@@ -5062,12 +5121,27 @@
           "name": "SKY BUNDESLIGA SD",
           "source": "main",
           "type": "Direct"
+        },
+        {
+          "link": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/master.m3u8?hdnea=exp=1770489002~acl=/*~id=66545790130657954540998723029281~hmac=22d9c897229dd63d83f0382f5b3d345a763bbc5ad427d2eb1ff8b3dac704a3eb|User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; 25057PC09I; Build/AQ3A.250226.002)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=4cf103ba67bae07b7f787f0a9cfcc0e7-1770472200108",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "SonyLiv",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://stream.huraweb.com/embed_view.php?id=a119bff323d5cdbb",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "Server 1 - IOS",
+          "source": "main",
+          "type": "Direct"
         }
       ],
       "team1Logo": "https://api.sofascore.app/api/v1/team/2526/image",
       "team1Name": "FC St. Pauli",
       "team2Logo": "https://api.sofascore.app/api/v1/team/2677/image",
-      "team2Name": "VfB Stuttgart"
+      "team2Name": "VfB Stuttgart",
+      "telegramSent": true
     },
     "match_14062203": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/35/image",
@@ -5077,9 +5151,30 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/n0sntqaro6/out/v1/1706780c704c47ec879546ed0d737cf9/cenc.mpd&k1=8ff79051f730ceb62546979ae51cd0ef&k2=60eb7b5f17ff57d3312914886ec63639\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "DAZN SPORTS - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
           "link": "https://broadcasthub.click//hls/kjzxkCIqkhtb/index.m3u8",
           "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
           "name": "SKY BUNDESLIGA SD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://broadcasthub.click//hls/kjzxkCIqkhtb/index.m3u8",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "SKY BUNDESLIGA SD - IOS",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://stream.huraweb.com/embed_view.php?id=b3fa79aa26476de9",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "Server 1 - IOS",
           "source": "main",
           "type": "Direct"
         }
@@ -5087,7 +5182,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/5885/image",
       "team1Name": "1. FC Heidenheim",
       "team2Logo": "https://api.sofascore.app/api/v1/team/2676/image",
-      "team2Name": "Hamburger SV"
+      "team2Name": "Hamburger SV",
+      "telegramSent": true
     },
     "match_14064486": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/34/image",
