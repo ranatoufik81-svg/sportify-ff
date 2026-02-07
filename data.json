@@ -7788,7 +7788,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/5968/image",
       "team1Name": "Brisbane Roar",
       "team2Logo": "https://api.sofascore.app/api/v1/team/5966/image",
-      "team2Name": "Central Coast Mariners"
+      "team2Name": "Central Coast Mariners",
+      "telegramSent": true
     },
     "match_14671728": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/136/image",
@@ -8102,9 +8103,51 @@
       "sportType": "CRICKET",
       "streamLinks": [
         {
-          "link": "https://no.link",
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/dn7vupw4sj/out/v1/d7130f460d41486ea7e8e3eb45f0522f/cenc.mpd&k1=9c8743426487c9074b60b456dda93e4d&k2=643e4f68ec9e3309b7e1e61b95bec85d\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "Link 1",
+          "name": "PRIME VIDEO - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.TsTvbsw6KV8b.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6MTk2MjMzNzc1NTE4OmNoYW5uZWwvVHNUdmJzdzZLVjhiIiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOi8va2ljay5jb20saHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20saHR0cHM6Ly8qLmtpY2subGl2ZSxodHRwczovL3BsYXllci5raWNrLmNvbSxodHRwczovL2FkbWluLmtpY2suY29tLGh0dHBzOi8vYmV0YS5raWNrLmNvbSxodHRwczovL25leHQua2ljay5jb20saHR0cHM6Ly9kYXNoYm9hcmQua2ljay5jb20saHR0cHM6Ly8qLnByZXZpZXcua2ljay5jb20saHR0cHM6Ly94Ym94LmtpY2suY29tLGh0dHBzOi8vcGxheXN0YXRpb24ua2ljay5jb20saHR0cHM6Ly8qLmtpY2stZGV2ZWxvcG1lbnQuY29tIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOmZhbHNlLCJleHAiOjE3NzA0NDM4ODd9.iG1wppOPq3IeYTlv0YEhro_9OoUwpU7i5hxi3-8rQq-fN5HSv4IxqNDTfqEZWVsCKQbiivjB2YAw1eRXc-zcIOgOWej0wcYiqJNV2Pg1c8dRPFK6Vb474GwvwyBTmSSr",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "SKY SPORTS HD - IOS",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hl357m4nu3/out/v1/1b3f44d701684a27baedac188302ec54/cenc.mpd&k1=2fb5f5b56d6dbae921b0ddb8d4b3d5ba&k2=06111b11c7900395ac57c35c67d45685\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "WILLOW [Ad Free]",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd&k1=1779c27b9d077a3ba0c9cc1bb9a94b9f&k2=cc5cf3b7928fb9e0a1ee6a8b566f0a8e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "Willow HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://livem-d-02-icc-ne.akamaized.net/variant/v1/dai-event-prd-pal-west/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=1515fde2-060d-4124-935f-e28bd5c4bfc3&k1=ae7076b647133606b704d33e4cef5134&k2=810251515584cf71216d9a2d1ebf04bb\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "ICC TV [HIN]",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://livem-d-02-icc-ne.akamaized.net/variant/v1/dai-event-prd-pal-west/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-01)/manifest.mpd?vcfilter=bfd6f8e8-f752-4dd6-8542-fb3c2a098c8a&k1=ae7076b647133606b704d33e4cef5134&k2=810251515584cf71216d9a2d1ebf04bb\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "ICC TV [URDU]",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://live-en.aisports.cc/moviebox/device01/playlist.m3u8",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "Server 1 - IOS",
           "source": "main",
           "type": "Direct"
         }
@@ -8112,7 +8155,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/187754/image",
       "team1Name": "Pakistan",
       "team2Logo": "https://api.sofascore.com/api/v1/team/187840/image",
-      "team2Name": "Netherlands"
+      "team2Name": "Netherlands",
+      "telegramSent": true
     },
     "match_15204307": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/216/image",
