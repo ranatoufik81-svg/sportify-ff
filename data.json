@@ -3700,6 +3700,13 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/1yhva543ft/out/v1/ea41a1e234e248daa9ebb1dce896ac26/cenc.mpd&k1=dc69b6159a0f9f0a4e03b3ff91cbacd5&k2=d0dcbcd7723bc40df0bf34c9c092d51f\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "FUBO SPORTS - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
           "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd&k1=d0f2e5c39e70c18f29bf77768a1ad89a&k2=d6853c51fcf37a18905f0609972395d7\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
           "name": "TNT SPORTS",
@@ -3721,9 +3728,51 @@
           "type": "Direct"
         },
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "link": "https://stream.huraweb.com/embed_view.php?id=d40320e431f6a368",
           "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "SPORTIFy TV",
+          "name": "Server 1 - IOS",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://stream.huraweb.com/embed_view.php?id=f2dc414390a26af1",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "Server 2 - IOS",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd&k1=d0f2e5c39e70c18f29bf77768a1ad89a&k2=d6853c51fcf37a18905f0609972395d7\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "SPORTIFy AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://usanetwork.mt.linear.viewlift.com/v1/dash/dfe581e0a446a1e548014078b2d81b62b917979d/usanetwork-linear-external-dash-primary-v1/Content/DASH_DASH_ENC/Live/channel(4e41f6af-4b86-2aac-c351-c1250b14b344)/master.mpd&k1=6fe4b567ec9b467a888a089600c93f55&k2=b8612265451c8c462fb6b55ad3a6b6d8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "SPORTIFy AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd&k1=ca4316630f56d6f33e9ff73b7ad211d1&k2=72c54e5646055f444e99bc1123919e89\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "SPORTIFy AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://live-en.aisports.cc/moviebox/device01/playlist.m3u8",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "SPORTIFy HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "SPORTIFy HD",
           "source": "main",
           "type": "Direct"
         }
@@ -3731,7 +3780,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/35/image",
       "team1Name": "Manchester United",
       "team2Logo": "https://api.sofascore.app/api/v1/team/33/image",
-      "team2Name": "Tottenham Hotspur"
+      "team2Name": "Tottenham Hotspur",
+      "telegramSent": true
     },
     "match_14025179": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/17/image",
@@ -4054,9 +4104,16 @@
           "type": "Direct"
         },
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "link": "https://stream.huraweb.com/embed_view.php?id=d9aedf8328e88442",
           "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "SPORTIFy TV",
+          "name": "Server 1 - IOS",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://q.sdvdsokvsdv.shop/hls/ZOOOQ.m3u8|referer=http://www.fawanews.sc/",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "SPORTIFy SD",
           "source": "main",
           "type": "Direct"
         }
@@ -4064,7 +4121,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/263/image",
       "team1Name": "Norwich City",
       "team2Logo": "https://api.sofascore.app/api/v1/team/46/image",
-      "team2Name": "Blackburn Rovers"
+      "team2Name": "Blackburn Rovers",
+      "telegramSent": true
     },
     "match_14059822": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/18/image",
@@ -4094,6 +4152,13 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/216oe7duld/out/v1/a07e476c02fc40af8fb675f407aa7a3a/cenc.mpd&k1=95950fa5dd3a1561c50cf5a86215ca1d&k2=88d9870aef8f1c3b022a3fc0eb5c73df\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "PARAMOUNT+ - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
           "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd&k1=0b42be2664d7e811d04f3e504e0924c5&k2=ae24090123b8c72ac5404dc152847cb8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
           "name": "beIN SPORTS",
@@ -4101,9 +4166,23 @@
           "type": "Direct"
         },
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "link": "https://stream.huraweb.com/embed_view.php?id=f36dff53412d6531",
           "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "SPORTIFy TV",
+          "name": "Server 1 - IOS",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd&k1=0b42be2664d7e811d04f3e504e0924c5&k2=ae24090123b8c72ac5404dc152847cb8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "SPORTIFy AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://q.sdvdsokvsdv.shop/hls/ZOOO.m3u8|referer=http://www.fawanews.sc/",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "SPORTIFy SD",
           "source": "main",
           "type": "Direct"
         }
@@ -4111,7 +4190,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/27/image",
       "team1Name": "Derby County",
       "team2Logo": "https://api.sofascore.app/api/v1/team/32/image",
-      "team2Name": "Ipswich Town"
+      "team2Name": "Ipswich Town",
+      "telegramSent": true
     },
     "match_14059825": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/18/image",
@@ -4175,6 +4255,13 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lmadg6bmcr/out/v1/ab5d9064914f4145a9212728c1f5b312/cenc.mpd&k1=603b25015c2321cd815879d8292e2639&k2=c849ea6d2074d5865b594fac7e7bbe80\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "PARAMOUNT+ - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
           "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd&k1=d9623774ac5c8c351aafe97c5fe70267&k2=5164e6d05164a2d65fa8fcc962aa4861\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
           "name": "CBS Golazo",
@@ -4182,9 +4269,23 @@
           "type": "Direct"
         },
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "link": "https://stream.huraweb.com/embed_view.php?id=6a10458e65fec647",
           "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "SPORTIFy TV",
+          "name": "Server 1 - IOS",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd&k1=d9623774ac5c8c351aafe97c5fe70267&k2=5164e6d05164a2d65fa8fcc962aa4861\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "SPORTIFy AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://q.sdvdsokvsdv.shop/hls/ZOOOQQ.m3u8|referer=http://www.fawanews.sc/",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "SPORTIFy SD",
           "source": "main",
           "type": "Direct"
         }
@@ -4192,7 +4293,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/45/image",
       "team1Name": "Southampton",
       "team2Logo": "https://api.sofascore.app/api/v1/team/24/image",
-      "team2Name": "Watford"
+      "team2Name": "Watford",
+      "telegramSent": true
     },
     "match_14059844": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/18/image",
@@ -4319,7 +4421,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/4875/image",
       "team1Name": "Crawley Town",
       "team2Logo": "https://api.sofascore.app/api/v1/team/19/image",
-      "team2Name": "Crewe Alexandra"
+      "team2Name": "Crewe Alexandra",
+      "telegramSent": true
     },
     "match_14061033": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/25/image",
@@ -4469,7 +4572,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/53/image",
       "team1Name": "Swindon Town",
       "team2Logo": "https://api.sofascore.app/api/v1/team/65/image",
-      "team2Name": "Oldham Athletic"
+      "team2Name": "Oldham Athletic",
+      "telegramSent": true
     },
     "match_14061069": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/25/image",
@@ -4579,22 +4683,18 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "link": "https://q.sdvdsokvsdv.shop/hls/dndndnqQQQ.m3u8|referer=http://www.fawanews.sc/",
           "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "SPORTIFy TV",
-          "type": "Direct"
-        },
-        {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "SPORTIFy TV+ HD",
+          "name": "SPORTIFy SD",
+          "source": "main",
           "type": "Direct"
         }
       ],
       "team1Logo": "https://api.sofascore.app/api/v1/team/72/image",
       "team1Name": "Luton Town",
       "team2Logo": "https://api.sofascore.app/api/v1/team/22/image",
-      "team2Name": "Bradford City"
+      "team2Name": "Bradford City",
+      "telegramSent": true
     },
     "match_14061251": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/24/image",
@@ -4699,9 +4799,9 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "link": "https://q.sdvdsokvsdv.shop/hls/dndndnqQQQQ.m3u8|referer=http://www.fawanews.sc/",
           "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "SPORTIFy TV",
+          "name": "SPORTIFy SD",
           "source": "main",
           "type": "Direct"
         }
@@ -4709,7 +4809,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/55/image",
       "team1Name": "Port Vale",
       "team2Logo": "https://api.sofascore.app/api/v1/team/134/image",
-      "team2Name": "Burton Albion"
+      "team2Name": "Burton Albion",
+      "telegramSent": true
     },
     "match_14061260": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/24/image",
@@ -5054,6 +5155,13 @@
           "name": "SKY BUNDESLIGA SD",
           "source": "main",
           "type": "Direct"
+        },
+        {
+          "link": "https://stream.huraweb.com/embed_view.php?id=b3fa79aa26476de9",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "Server 1 - IOS",
+          "source": "main",
+          "type": "Direct"
         }
       ],
       "team1Logo": "https://api.sofascore.app/api/v1/team/2561/image",
@@ -5102,6 +5210,13 @@
           "name": "SKY BUNDESLIGA SD",
           "source": "main",
           "type": "Direct"
+        },
+        {
+          "link": "https://stream.huraweb.com/embed_view.php?id=a119bff323d5cdbb",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "Server 1 - IOS",
+          "source": "main",
+          "type": "Direct"
         }
       ],
       "team1Logo": "https://api.sofascore.app/api/v1/team/2598/image",
@@ -5121,6 +5236,27 @@
           "link": "https://broadcasthub.click//hls/kjzxkCIqkhtb/index.m3u8",
           "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
           "name": "SKY BUNDESLIGA SD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://stream.huraweb.com/embed_view.php?id=75ea48132cd87cee",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "Server 1 - IOS",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/glniqao3hu/out/v1/40836cb7920e477385e0096b15ba928d/cenc.mpd&k1=ab1e056aee6e57d19ba928ac4456c772&k2=6626bfdcbb7d7c8e238c309da1977480\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "FHD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://play7ba.peodlc.com/sport/202_4533726_1.m3u8",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "Server 2 - IOS",
           "source": "main",
           "type": "Direct"
         }
@@ -5227,9 +5363,23 @@
           "type": "Direct"
         },
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd&k1=620e51b82596475517a27aa425c52280&k2=2b9ba811e9c5aeafc8ae1b71cdca4d6a\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "SPORTIFy TV",
+          "name": "SPORTIFy AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd&k1=7995c724a13748ed970840a8ab5bb9b3&k2=67bdaf1e2175b9ff682fcdf0e2354b1e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "SPORTIFy AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd&k1=1a5df53609ebc9857898c490f4724918&k2=77f62980d582ec541280796acf8b2d19\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "SPORTIFy AQ",
           "source": "main",
           "type": "Direct"
         }
@@ -5254,9 +5404,9 @@
           "type": "Direct"
         },
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd&k1=d69894c7b729c5d1e85893e5e6cfcb0f&k2=db0d53f871f5d2ef91d3a112c7ec9f30\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "SPORTIFy TV",
+          "name": "SPORTIFy AQ",
           "source": "main",
           "type": "Direct"
         }
@@ -5516,15 +5666,38 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "link": "https://pull.niues.live/live/stream-5126499_lsd.m3u8?auth_key=1770470074-0-0-634d27293967f478418ebcc42185d72c",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV",
+          "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "link": "https://pull.niues.live/live/stream-5126499_lhd.m3u8?auth_key=1770470074-0-0-8ba56f79754d93e61c3df5d99be068ef",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1770470074-0-0-770629cec8204b66269e8238b8e6a064",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy FAST SD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1770470074-0-0-05fba201e88d540b119fc37de3a30451",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy FAST FHD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy PRO",
+          "source": "api",
           "type": "Direct"
         }
       ],
