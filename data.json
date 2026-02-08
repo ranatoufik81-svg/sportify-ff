@@ -3614,6 +3614,13 @@
           "name": "SPORTIFy AQ",
           "source": "main",
           "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/up1dagjx2i/out/v1/203ef09c06c6475e95db071f9babd957/cenc.mpd&k1=a13f5feba1932399beb154d25c14db86&k2=c303ad4f381c90ddb7cb249aa7beb420\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "SPORTIFy AQ",
+          "source": "main",
+          "type": "Direct"
         }
       ],
       "team1Logo": "https://api.sofascore.app/api/v1/team/2687/image",
@@ -3934,14 +3941,14 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1770578074-0-0-24a3a20025054c508438c1f59d118dbe",
+          "link": "https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1770583114-0-0-8fd0efb919961494d05c779ea18cba1c",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV",
           "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1770578074-0-0-a69256dfbde118c97e018761bed1c360",
+          "link": "https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1770583114-0-0-6a8da6554df570f8b131291365050f76",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV+ HD",
           "source": "api",
@@ -4623,12 +4630,20 @@
           "name": "SPORTIFy AQ",
           "source": "main",
           "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd&k1=065051b99bf5cf8d9a3bde5cbde6aaf9&k2=214bd176832872339ce184338320f9a2\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "FC",
+          "source": "main",
+          "type": "Direct"
         }
       ],
       "team1Logo": "https://api.sofascore.app/api/v1/team/2828/image",
       "team1Name": "Valencia",
       "team2Logo": "https://api.sofascore.app/api/v1/team/2829/image",
-      "team2Name": "Real Madrid"
+      "team2Name": "Real Madrid",
+      "telegramSent": true
     },
     "match_14083759": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/54/image",
