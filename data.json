@@ -4297,15 +4297,17 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "link": "https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1770576274-0-0-b67b53b57017d4943edd807f55a688b0",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV",
+          "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "link": "https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1770576274-0-0-4655b05f4f2e2d069da83ceaf10d12f8",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV+ HD",
+          "source": "api",
           "type": "Direct"
         }
       ],
@@ -7784,7 +7786,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/2999/image",
       "team1Name": "Sporting Braga",
       "team2Logo": "https://api.sofascore.app/api/v1/team/3036/image",
-      "team2Name": "Rio Ave"
+      "team2Name": "Rio Ave",
+      "telegramSent": true
     },
     "match_14290364": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/10640/image",
