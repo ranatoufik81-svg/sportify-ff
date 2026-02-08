@@ -3941,14 +3941,14 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1770583114-0-0-8fd0efb919961494d05c779ea18cba1c",
+          "link": "https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1770583834-0-0-83652abdc5ac19943b114791ab1634ce",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV",
           "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1770583114-0-0-6a8da6554df570f8b131291365050f76",
+          "link": "https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1770583834-0-0-a2bc8926ba31d53c656b2f9d36a4c70f",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV+ HD",
           "source": "api",
@@ -4780,7 +4780,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/2830/image",
       "team1Name": "Málaga",
       "team2Logo": "https://api.sofascore.app/api/v1/team/2868/image",
-      "team2Name": "Cultural Leonesa"
+      "team2Name": "Cultural Leonesa",
+      "telegramSent": true
     },
     "match_14083778": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/54/image",
@@ -5418,7 +5419,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/3433/image",
       "team1Name": "Toronto Raptors",
       "team2Logo": "https://api.sofascore.app/api/v1/team/3419/image",
-      "team2Name": "Indiana Pacers"
+      "team2Name": "Indiana Pacers",
+      "telegramSent": true
     },
     "match_14442481": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/132/image",
@@ -5443,7 +5445,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/3426/image",
       "team1Name": "Minnesota Timberwolves",
       "team2Logo": "https://api.sofascore.app/api/v1/team/3425/image",
-      "team2Name": "Los Angeles Clippers"
+      "team2Name": "Los Angeles Clippers",
+      "telegramSent": true
     },
     "match_14442576": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/132/image",
@@ -5633,22 +5636,18 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "link": "https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
           "name": "SPORTIFy TV",
-          "type": "Direct"
-        },
-        {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "SPORTIFy TV+ HD",
+          "source": "api",
           "type": "Direct"
         }
       ],
       "team1Logo": "https://api.sofascore.app/api/v1/team/36837/image",
       "team1Name": "Platense",
       "team2Logo": "https://api.sofascore.app/api/v1/team/3209/image",
-      "team2Name": "CA Independiente"
+      "team2Name": "CA Independiente",
+      "telegramSent": true
     },
     "match_15270093": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/155/image",
@@ -5683,22 +5682,18 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "link": " https://hls.cdnok9.com/live/CHUN1/index.m3u8?expire=1890830700&sign=dbdc8ced2f1b21adf9d5a264bfe72141",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
           "name": "SPORTIFy TV",
-          "type": "Direct"
-        },
-        {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "SPORTIFy TV+ HD",
+          "source": "api",
           "type": "Direct"
         }
       ],
       "team1Logo": "https://api.sofascore.app/api/v1/team/42338/image",
       "team1Name": "Sarmiento",
       "team2Logo": "https://api.sofascore.app/api/v1/team/36833/image",
-      "team2Name": "Atlético Tucumán"
+      "team2Name": "Atlético Tucumán",
+      "telegramSent": true
     },
     "match_15270100": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/155/image",
