@@ -3491,34 +3491,6 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wwvhuapw5w/out/v1/23dc28b137934d518fdfa9cb3a88cfb4/cenc.mpd&k1=505c54a69abd38bd4170d9e8d34522bc&k2=e5a3bc79d972fbb053e4827852c60c66\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "FUBO SPORTS - AQ",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd&k1=7995c724a13748ed970840a8ab5bb9b3&k2=67bdaf1e2175b9ff682fcdf0e2354b1e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "BIEN SPORTS ",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "https://stream.huraweb.com/embed_view.php?id=76b33213265bd4b8",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "Server 1 - IOS",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zhvqx4dxc0/out/v1/0ac073a00228420ea600b6359fc1e017/cenc.mpd&k1=c387c5521edf61057dbdda6bcfa7b6d0&k2=24738f6cc7f70b5c7bf94b2667ba35fc\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "Fubo Sports ",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
           "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd&k1=7995c724a13748ed970840a8ab5bb9b3&k2=67bdaf1e2175b9ff682fcdf0e2354b1e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
           "name": "SPORTIFy AQ",
@@ -3574,6 +3546,13 @@
           "type": "Direct"
         },
         {
+          "link": "https://stream.huraweb.com/embed_view.php?id=d8066851cc9b6041",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "DAZN HD - IOS",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
           "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd&k1=7995c724a13748ed970840a8ab5bb9b3&k2=67bdaf1e2175b9ff682fcdf0e2354b1e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
           "name": "SPORTIFy AQ",
@@ -3598,7 +3577,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/2689/image",
       "team1Name": "Lecce",
       "team2Logo": "https://api.sofascore.app/api/v1/team/2695/image",
-      "team2Name": "Udinese"
+      "team2Name": "Udinese",
+      "telegramSent": true
     },
     "match_13981658": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/23/image",
@@ -3679,7 +3659,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/2692/image",
       "team1Name": "Milan",
       "team2Logo": "https://api.sofascore.app/api/v1/team/2704/image",
-      "team2Name": "Como"
+      "team2Name": "Como",
+      "telegramSent": true
     },
     "match_13981666": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/23/image",
@@ -3763,7 +3744,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/231380/image",
       "team1Name": "NK Varaždin",
       "team2Logo": "https://api.sofascore.app/api/v1/team/2040/image",
-      "team2Name": "NK Osijek"
+      "team2Name": "NK Osijek",
+      "telegramSent": true
     },
     "match_14023483": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/170/image",
@@ -3919,6 +3901,13 @@
           "type": "Direct"
         },
         {
+          "link": "https://stream.huraweb.com/embed_view.php?id=2eb3dfaaa52e177d",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "Sky Sports HD - IOS",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
           "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd&k1=ca4316630f56d6f33e9ff73b7ad211d1&k2=72c54e5646055f444e99bc1123919e89\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
           "name": "SPORTIFy AQ",
@@ -3936,7 +3925,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/30/image",
       "team1Name": "Brighton & Hove Albion",
       "team2Logo": "https://api.sofascore.app/api/v1/team/7/image",
-      "team2Name": "Crystal Palace"
+      "team2Name": "Crystal Palace",
+      "telegramSent": true
     },
     "match_14025164": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/17/image",
@@ -4337,9 +4327,9 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "https://no.link",
+          "link": "https://stream.huraweb.com/embed_view.php?id=62782be2318ca7fb",
           "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "Link 1",
+          "name": "ESPN - IOS",
           "source": "main",
           "type": "Direct"
         }
@@ -4347,7 +4337,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/2979/image",
       "team1Name": "Go Ahead Eagles",
       "team2Logo": "https://api.sofascore.app/api/v1/team/2972/image",
-      "team2Name": "SC Telstar"
+      "team2Name": "SC Telstar",
+      "telegramSent": true
     },
     "match_14053836": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/37/image",
@@ -4369,12 +4360,20 @@
           "name": "SportDigital Fussball",
           "source": "main",
           "type": "Direct"
+        },
+        {
+          "link": "https://stream.huraweb.com/embed_view.php?id=d9aedf8328e88442",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "ESPN 3 - IOS",
+          "source": "main",
+          "type": "Direct"
         }
       ],
       "team1Logo": "https://api.sofascore.app/api/v1/team/2950/image",
       "team1Name": "AZ Alkmaar",
       "team2Logo": "https://api.sofascore.app/api/v1/team/2953/image",
-      "team2Name": "AFC Ajax"
+      "team2Name": "AFC Ajax",
+      "telegramSent": true
     },
     "match_14053837": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/37/image",
@@ -4535,7 +4534,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/2961/image",
       "team1Name": "Willem II Tilburg",
       "team2Logo": "https://api.sofascore.app/api/v1/team/2956/image",
-      "team2Name": "RKC Waalwijk"
+      "team2Name": "RKC Waalwijk",
+      "telegramSent": true
     },
     "match_14059816": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/18/image",
@@ -5573,9 +5573,23 @@
           "type": "Direct"
         },
         {
+          "link": "https://stream.huraweb.com/embed_view.php?id=93dd287f1c5b57b5",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "Server 1 HD - IOS",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
           "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://bbb.exoadash.com/TVD2083/index.mpd\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
           "name": "SPORTIFy FHD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://q.sdyrkyulk.shop/hls/dkkkqqqq.m3u8|referer=http://www.fawanews.sc/",
+          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "name": "SPORTIFy SD",
           "source": "main",
           "type": "Direct"
         }
@@ -5583,7 +5597,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/1661/image",
       "team1Name": "Nice",
       "team2Logo": "https://api.sofascore.app/api/v1/team/1653/image",
-      "team2Name": "AS Monaco"
+      "team2Name": "AS Monaco",
+      "telegramSent": true
     },
     "match_14064484": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/34/image",
@@ -6858,7 +6873,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/3085/image",
       "team1Name": "Konyaspor",
       "team2Logo": "https://api.sofascore.app/api/v1/team/3054/image",
-      "team2Name": "Göztepe"
+      "team2Name": "Göztepe",
+      "telegramSent": true
     },
     "match_14109796": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/52/image",
@@ -6878,7 +6894,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/3064/image",
       "team1Name": "Çaykur Rizespor",
       "team2Logo": "https://api.sofascore.app/api/v1/team/3061/image",
-      "team2Name": "Galatasaray"
+      "team2Name": "Galatasaray",
+      "telegramSent": true
     },
     "match_14117800": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/9/image",
@@ -7348,7 +7365,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/354947/image",
       "team1Name": "Napoli",
       "team2Logo": "https://api.sofascore.app/api/v1/team/492465/image",
-      "team2Name": "Ternana"
+      "team2Name": "Ternana",
+      "telegramSent": true
     },
     "match_14287033": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/10640/image",
@@ -7723,7 +7741,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/2729/image",
       "team1Name": "Monza",
       "team2Logo": "https://api.sofascore.app/api/v1/team/2730/image",
-      "team2Name": "US Avellino 1912"
+      "team2Name": "US Avellino 1912",
+      "telegramSent": true
     },
     "match_14317709": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/53/image",
