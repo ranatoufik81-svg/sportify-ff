@@ -4297,14 +4297,14 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1770576274-0-0-b67b53b57017d4943edd807f55a688b0",
+          "link": "https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1770578074-0-0-ddc0f5559dce0b2c143c10a8191b81bd",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV",
           "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1770576274-0-0-4655b05f4f2e2d069da83ceaf10d12f8",
+          "link": "https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1770578074-0-0-d7b69ac9440bef83a83c1ed06c213ea3",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV+ HD",
           "source": "api",
@@ -4397,22 +4397,25 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "link": "https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1770578074-0-0-24a3a20025054c508438c1f59d118dbe",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV",
+          "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
+          "link": "https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1770578074-0-0-a69256dfbde118c97e018761bed1c360",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV+ HD",
+          "source": "api",
           "type": "Direct"
         }
       ],
       "team1Logo": "https://api.sofascore.app/api/v1/team/5044/image",
       "team1Name": "KV Mechelen",
       "team2Logo": "https://api.sofascore.app/api/v1/team/2889/image",
-      "team2Name": "Royal Antwerp FC"
+      "team2Name": "Royal Antwerp FC",
+      "telegramSent": true
     },
     "match_14053834": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/37/image",
@@ -6474,9 +6477,9 @@
           "type": "Direct"
         },
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "link": "https://no.link",
           "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "SPORTIFy TV",
+          "name": "Link 1",
           "source": "main",
           "type": "Direct"
         }
@@ -6915,7 +6918,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/2543/image",
       "team1Name": "MSV Duisburg",
       "team2Logo": "https://api.sofascore.app/api/v1/team/2593/image",
-      "team2Name": "SC Verl"
+      "team2Name": "SC Verl",
+      "telegramSent": true
     },
     "match_14103129": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/491/image",
@@ -7776,9 +7780,9 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "https://no.link",
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://abefxgoaaaaaaaamnqzfrlp4mja77.otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd&k1=0ad4080cdff8c60b1233b22087f0b340&k2=285f129c5eca01dd08a5d5a14ad801c8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/t0jCcbf/1000298723.jpg",
-          "name": "Link 1",
+          "name": "Server 1",
           "source": "main",
           "type": "Direct"
         }
