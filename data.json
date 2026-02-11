@@ -3,871 +3,6 @@
     "4504083078msh39381cbf47f9d6ap12aaefjsn13d044d7987a",
     "04530110famsh0690f628476897cp14c84bjsnffd8b246dc94"
   ],
-  "api_raw_data": [
-    {
-      "awayTeamScore": "1",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/wahana-fc-980d25.png",
-      "away_team_name": "Wahana FC",
-      "homeTeamScore": "1",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/quixada-ce-youth-034fc6.png",
-      "home_team_name": "EBR United",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Indonesia Liga 4",
-      "match_status": "live",
-      "match_time": 1770791400,
-      "servers": [
-        {
-          "header": {
-            "referer": "https://www.camel1.live/",
-            "user-agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "Server 1",
-          "type": "referer",
-          "url": "https://liveplay1.camel4.live/live/sd-6MvVNYsVVyy7wRM3vP.m3u8"
-        },
-        {
-          "header": {
-            "Connection": "keep-alive"
-          },
-          "name": "Server 2",
-          "type": "direct",
-          "url": "https://auto.cdnok9.com/live/sd-6MvVNYsVVyy7wRMNig/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/valenzuela-pbmendiola-586b01.png",
-      "away_team_name": "Valenzuela PB–Mendiola",
-      "homeTeamScore": "8",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/manila-digger-fc-e3cdf7.png",
-      "home_team_name": "Manila Digger FC",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Philippines United Football League",
-      "match_status": "live",
-      "match_time": "1770793200",
-      "servers": [
-        {
-          "header": {
-            "referer": "https://www.camel1.live/",
-            "user-agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "Server 1",
-          "type": "referer",
-          "url": "https://liveplay1.camel4.live/live/sd-6MvVNGdU3BQZcCfC8X.m3u8"
-        }
-      ]
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/mendiola-fc-4fe441.png",
-      "away_team_name": "Mendiola FC",
-      "homeTeamScore": "8",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/manila-digger-fc-e3cdf7.png",
-      "home_team_name": "Manila Digger FC",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Philippines UFL",
-      "match_status": "live",
-      "match_time": "1770793200",
-      "servers": [
-        {
-          "header": {
-            "Connection": "keep-alive"
-          },
-          "name": "Server 1",
-          "type": "direct",
-          "url": "https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2"
-        }
-      ]
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/halla-university-3c5772.png",
-      "away_team_name": "Halla University",
-      "homeTeamScore": "1",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/honam-university-1c0317.png",
-      "home_team_name": "Honam University",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "South Korea University Championship",
-      "match_status": "live",
-      "match_time": 1770795000,
-      "servers": [
-        {
-          "header": {
-            "referer": "https://www.camel1.live/",
-            "user-agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "Server 1",
-          "type": "referer",
-          "url": "https://liveplay1.camel4.live/live/sd-6MvVNYsVVZnqN9FyEX.m3u8"
-        },
-        {
-          "header": {
-            "Connection": "keep-alive"
-          },
-          "name": "Server 2",
-          "type": "direct",
-          "url": "https://auto.cdnok9.com/live/sd-6MvVNYsVVZnqN9GJ2p/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/persiharjo-sukoharjo-21cce7.png",
-      "away_team_name": "Persiharjo Sukoharjo",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/persibangga-purbalingga-78398a.png",
-      "home_team_name": "Persibangga Purbalingga",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Indo D4",
-      "match_status": "live",
-      "match_time": "1770796800",
-      "servers": [
-        {
-          "header": {
-            "referer": "https://www.camel1.live/",
-            "user-agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "Server 1",
-          "type": "referer",
-          "url": "https://liveplay1.camel4.live/live/sd-6MvVNYsVLMh4sZWGxf.m3u8"
-        }
-      ]
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/tukums-2000-d42a4c.png",
-      "away_team_name": "Tukums-2000",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/nomme-jk-kalju-fa6da9.png",
-      "home_team_name": "Nomme JK Kalju",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "International Club Friendly",
-      "match_status": "live",
-      "match_time": 1770800400,
-      "servers": [
-        {
-          "header": {
-            "referer": "https://www.camel1.live/",
-            "user-agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "Server 1",
-          "type": "referer",
-          "url": "https://liveplay1.camel4.live/live/sd-6MvVNYpZtuu1R7CUdu.m3u8"
-        }
-      ]
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/philippine-army-fc-e6340a.png",
-      "away_team_name": "Philippine Army FC",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/dynamic-herb-cebu-4a86f6.png",
-      "home_team_name": "Dynamic Herb Cebu",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Philippines United Football League",
-      "match_status": "live",
-      "match_time": 1770800400,
-      "servers": [
-        {
-          "header": {
-            "referer": "https://www.camel1.live/",
-            "user-agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "Server 1",
-          "type": "referer",
-          "url": "https://liveplay1.camel4.live/live/sd-6MvVNGdTspWsdhbqF5.m3u8"
-        }
-      ]
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/maharlika-taguig-fc-931395.png",
-      "away_team_name": "Maharlika Taguig FC",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/kaya-fc-iloilo-ac151b.png",
-      "home_team_name": "Kaya FC-Iloilo",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Philippines United Football League",
-      "match_status": "live",
-      "match_time": "1770803100",
-      "servers": [
-        {
-          "header": {
-            "referer": "https://www.camel1.live/",
-            "user-agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "Server 1",
-          "type": "referer",
-          "url": "https://liveplay1.camel4.live/live/sd-6MvVNGdTsnKPmDmv6B.m3u8"
-        }
-      ]
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/fc-meralco-manila-9ad256.png",
-      "away_team_name": "FC Meralco Manila",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/kaya-fc-151afc.png",
-      "home_team_name": "Kaya FC",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Philippines UFL",
-      "match_status": "vs",
-      "match_time": "1770803100"
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/melbourne-city-d12b65.webp",
-      "away_team_name": "Melbourne City",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/ulsan-hd-fc-d69cf9.webp",
-      "home_team_name": "Ulsan HD FC",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "AFC Champions League Elite",
-      "match_status": "live",
-      "match_time": 1770804000,
-      "servers": [
-        {
-          "header": {
-            "referer": "https://www.camel1.live/",
-            "user-agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "Server 1",
-          "type": "referer",
-          "url": "https://liveplay1.camel4.live/live/sd-6MvXc3quMm77LcoGZd.m3u8"
-        },
-        {
-          "header": {
-            "referer": "https://www.camel1.live/",
-            "user-agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "Server 2",
-          "type": "referer",
-          "url": "https://liveplay1.camel4.live/live/hd-en-6MvXc3quMm77LcoGZd.m3u8"
-        }
-      ]
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/shanghai-port-fc-861c61.png",
-      "away_team_name": "Shanghai Port FC",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/gangwon-football-club-e681dd.webp",
-      "home_team_name": "Gangwon Football Club",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "AFC Champions League Elite",
-      "match_status": "live",
-      "match_time": "1770804000",
-      "servers": [
-        {
-          "header": {
-            "referer": "https://www.camel1.live/",
-            "user-agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "Server 1",
-          "type": "referer",
-          "url": "https://liveplay1.camel4.live/live/sd-6MvXc3quXVyc1v7nz3.m3u8"
-        },
-        {
-          "header": {
-            "referer": "https://www.camel1.live/",
-            "user-agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "Server 2",
-          "type": "referer",
-          "url": "https://liveplay1.camel4.live/live/hd-en-6MvXc3quXVyc1v7nz3.m3u8"
-        }
-      ]
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/shanghai-port-fc-861c61.png",
-      "away_team_name": "Shanghai Port FC",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/gangwon-fc-2517e5.png",
-      "home_team_name": "Gangwon FC",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "AFC Champions League",
-      "match_status": "vs",
-      "match_time": 1770804000
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/goyang-sono-ee36cd.webp",
-      "away_team_name": "Goyang Sono",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/seoul-knights-4ccf87.webp",
-      "home_team_name": "Seoul Knights",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "KBL",
-      "match_status": "vs",
-      "match_time": 1770804000
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/nong-bua-lamphu-c95f05.png",
-      "away_team_name": "Nong Bua Lamphu",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/phrae-united-fc-9e50b9.png",
-      "home_team_name": "Phrae United FC",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Thai League 2",
-      "match_status": "vs",
-      "match_time": 1770807600
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/rasi-salai-united-5c7f42.png",
-      "away_team_name": "Rasi Salai United",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/bec-tero-sasana-a8985f.png",
-      "home_team_name": "BEC Tero Sasana",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Thai League 2",
-      "match_status": "vs",
-      "match_time": 1770807600
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/dacia-buiucani-05bd89.png",
-      "away_team_name": "Dacia-Buiucani",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/gagauziya-e47480.png",
-      "home_team_name": "Gagauziya",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "International Club Friendly",
-      "match_status": "vs",
-      "match_time": "1770807600"
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/olimp-comrat-6d3586.png",
-      "away_team_name": "Olimp Comrat",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/cf-sparta-selemet-1379cd.png",
-      "home_team_name": "CF Sparta Selemet",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "International Club Friendly",
-      "match_status": "vs",
-      "match_time": "1770807600"
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/real-sireti-b7333b.webp",
-      "away_team_name": "Real Sireti",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/iskra-stal-ribnita-80c02a.png",
-      "home_team_name": "Iskra Stal Ribnita",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "International Club Friendly",
-      "match_status": "vs",
-      "match_time": "1770807600"
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/nakhon-pathom-fc-2fae62.png",
-      "away_team_name": "Nakhon Pathom FC",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/pattani-9db3c6.png",
-      "home_team_name": "Pattani",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Thai League 2",
-      "match_status": "vs",
-      "match_time": "1770809400"
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/ryukyu-071680.webp",
-      "away_team_name": "Ryukyu",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/meralco-bolts-ef4567.webp",
-      "home_team_name": "Meralco Bolts",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "EASL",
-      "match_status": "vs",
-      "match_time": "1770810000"
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/metaloglobus-b35674.webp",
-      "away_team_name": "Metaloglobus",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/csm-slatina-21f392.png",
-      "home_team_name": "CSM Slatina",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Romania Cup",
-      "match_status": "vs",
-      "match_time": 1770811200
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/crvena-zvezda-f53563.png",
-      "away_team_name": "Crvena Zvezda",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/fk-buducnost-dobanovci-5e56a7.webp",
-      "home_team_name": "FK Buducnost Dobanovci",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Serbia Cup",
-      "match_status": "vs",
-      "match_time": 1770811200
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/persib-bandung-0f997e.png",
-      "away_team_name": "Persib Bandung",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/ratchaburi-fc-8f44f4.webp",
-      "home_team_name": "Ratchaburi FC",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "AFC Cup",
-      "match_status": "vs",
-      "match_time": 1770812100
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/tampines-rovers-fc-3a0c55.webp",
-      "away_team_name": "Tampines Rovers FC",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/cong-an-ha-noi-fc-568a64.webp",
-      "home_team_name": "Cong An Ha Noi FC",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "AFC Cup",
-      "match_status": "vs",
-      "match_time": 1770812100
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/ks-dinamo-tirana-db840c.png",
-      "away_team_name": "KS Dinamo Tirana",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/kf-tirana-822b9a.png",
-      "home_team_name": "KF Tirana",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Albania Cup",
-      "match_status": "vs",
-      "match_time": 1770813000
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/al-sahel-44fc8f.png",
-      "away_team_name": "Al Sahel",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/al-sharq-690872.png",
-      "home_team_name": "Al-Sharq",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Saudi Arabia Division 2",
-      "match_status": "vs",
-      "match_time": 1770813600
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/al-jeel-25650b.jpg",
-      "away_team_name": "AL-jeel",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/al-sadd-fcsa-68931a.png",
-      "home_team_name": "Al-Sadd FC(SA)",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Saudi Arabia Division 2",
-      "match_status": "vs",
-      "match_time": 1770813900
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/arda-fdd6e0.webp",
-      "away_team_name": "Arda",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/botev-vratsa-80a95c.webp",
-      "home_team_name": "Botev Vratsa",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "BUL CUP",
-      "match_status": "vs",
-      "match_time": "1770814800"
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/jeonbuk-hyundai-motors-b34c6c.png",
-      "away_team_name": "Jeonbuk Hyundai Motors",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/metalist-1925-kharkiv-ccc30d.png",
-      "home_team_name": "Metalist 1925 Kharkiv",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "International Club Friendly",
-      "match_status": "vs",
-      "match_time": 1770814800
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/al-ainksa-7d7ed2.png",
-      "away_team_name": "Al Ain(KSA)",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/afief-5b0f8d.png",
-      "home_team_name": "Afief",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Saudi Arabia Division 2",
-      "match_status": "vs",
-      "match_time": "1770814800"
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/fc-arda-kardzhali-e69e1a.png",
-      "away_team_name": "FC Arda Kardzhali",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/botev-vratsa-80a95c.webp",
-      "home_team_name": "Botev Vratsa",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Buigarian Cup",
-      "match_status": "vs",
-      "match_time": 1770814800
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/al-nassr-fc-3e74fe.webp",
-      "away_team_name": "Al Nassr FC",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/arkadag-fk-e255f4.webp",
-      "home_team_name": "Arkadag FK",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "ACL2",
-      "match_status": "vs",
-      "match_time": "1770817500"
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/al-nassr-fc-3e74fe.webp",
-      "away_team_name": "Al Nassr FC",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/arkadag-2e36e1.png",
-      "home_team_name": "Arkadag",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "AFC Champions League Two",
-      "match_status": "vs",
-      "match_time": "1770817500"
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/al-nassr-0e7d00.png",
-      "away_team_name": "Al-Nassr",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/arkadag-fk-e255f4.webp",
-      "home_team_name": "Arkadag FK",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "AFC Cup",
-      "match_status": "vs",
-      "match_time": 1770817500
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/al-rayyan-b9fb5f.png",
-      "away_team_name": "Al Rayyan",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/tdamn-hadramawt-435650.png",
-      "home_team_name": "Tdamn Hadramawt",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "GCC Champions League",
-      "match_status": "vs",
-      "match_time": 1770820200
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/hnk-krusevo-f62775.png",
-      "away_team_name": "HNK Krusevo",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/radnik-bijeljina-bae6c3.png",
-      "home_team_name": "Radnik Bijeljina",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Bosnia and Herzegovina Cup",
-      "match_status": "vs",
-      "match_time": "1770820200"
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/peristeri-456415.webp",
-      "away_team_name": "Peristeri",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/petkim-spor-ea854f.webp",
-      "home_team_name": "Petkim Spor",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "FIBA EC",
-      "match_status": "vs",
-      "match_time": "1770822000"
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/estrela-fc-u23-840e2e.webp",
-      "away_team_name": "Estrela FC U23",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/rio-ave-u23-281201.png",
-      "home_team_name": "Rio Ave U23",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Portugal U23",
-      "match_status": "vs",
-      "match_time": 1770822000
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/ismaily-sc-22d5a2.webp",
-      "away_team_name": "Ismaily SC",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/al-ahly-fc-658f66.png",
-      "home_team_name": "Al Ahly FC",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Egyptian Premier League",
-      "match_status": "vs",
-      "match_time": 1770822000
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/al-shabab-fc-bfa757.webp",
-      "away_team_name": "Al Shabab FC",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/al-nahda-sc-28d3ea.webp",
-      "home_team_name": "Al Nahda SC",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "GCC",
-      "match_status": "vs",
-      "match_time": "1770822000"
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/pafos-fc-077f86.webp",
-      "away_team_name": "Pafos FC",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/digenis-morphou-5f7306.png",
-      "home_team_name": "Digenis Morphou",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "CYP Cup",
-      "match_status": "vs",
-      "match_time": "1770822000"
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/ofi-crete-c9a8ee.webp",
-      "away_team_name": "OFI Crete",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/levadiakos-f45371.png",
-      "home_team_name": "Levadiakos",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Greece Cup",
-      "match_status": "vs",
-      "match_time": 1770822000
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/aep-paphos-3efbde.png",
-      "away_team_name": "AEP Paphos",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/digenis-morphou-5f7306.png",
-      "home_team_name": "Digenis Morphou",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Cyprus Cup",
-      "match_status": "vs",
-      "match_time": "1770822000"
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/pyramids-fc-516616.png",
-      "away_team_name": "Pyramids FC",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/enppi-733153.png",
-      "home_team_name": "Enppi",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Egyptian Premier League",
-      "match_status": "vs",
-      "match_time": 1770822000
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/al-shabab-youth-fb4c52.png",
-      "away_team_name": "Al-Shabab (Youth)",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/al-watan-youth-8b7e44.png",
-      "home_team_name": "Al Watan Youth",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Saudi Arabia Youth League",
-      "match_status": "vs",
-      "match_time": 1770822000
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/enosis-neon-paralimniou-9d01eb.webp",
-      "away_team_name": "Enosis Neon Paralimniou",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/apoel-nicosia-25c10d.png",
-      "home_team_name": "APOEL Nicosia",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "CYP Cup",
-      "match_status": "vs",
-      "match_time": "1770825600"
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/al-ahli-doha-0bc62c.png",
-      "away_team_name": "Al-Ahli Doha",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/sepahan-604241.png",
-      "home_team_name": "Sepahan",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "AFC Cup",
-      "match_status": "vs",
-      "match_time": 1770825600
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/tps-turku-dedf1a.png",
-      "away_team_name": "TPS Turku",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/ifk-mariehamn-dd0e33.png",
-      "home_team_name": "IFK Mariehamn",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Finland League Cup",
-      "match_status": "vs",
-      "match_time": 1770825600
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/aris-288077.webp",
-      "away_team_name": "Aris",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/cluj-napoca-1ffcd8.webp",
-      "home_team_name": "Cluj-Napoca",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "ULEB",
-      "match_status": "vs",
-      "match_time": "1770825600"
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/levski-sofia-75bdac.png",
-      "away_team_name": "Levski Sofia",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/ludogorets-razgrad-2166df.png",
-      "home_team_name": "Ludogorets Razgrad",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Buigarian Cup",
-      "match_status": "vs",
-      "match_time": 1770825600
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/enparalimniou-ffb085.png",
-      "away_team_name": "E.N.Paralimniou",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/apoel-nicosia-25c10d.png",
-      "home_team_name": "APOEL Nicosia",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Cyprus Cup",
-      "match_status": "vs",
-      "match_time": "1770825600"
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/al-khaldiya-8fedee.webp",
-      "away_team_name": "Al Khaldiya",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/al-shabbab-dc501c.png",
-      "home_team_name": "Al-Shabbab",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Bahraini Premier League",
-      "match_status": "vs",
-      "match_time": "1770825600"
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/csakvari-tk-dbfb21.jpg",
-      "away_team_name": "Csakvari TK",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/ferencvarosi-tc-8e3c72.png",
-      "home_team_name": "Ferencvarosi TC",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Hungary - Cup",
-      "match_status": "vs",
-      "match_time": 1770827400
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/nordsjaelland-w-ecaf3f.png",
-      "away_team_name": "Nordsjaelland (W)",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/eintracht-frankfurt-w-b2807a.png",
-      "home_team_name": "Eintracht Frankfurt (W)",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "UEFA Women Europa League",
-      "match_status": "vs",
-      "match_time": "1770831000"
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/sc-heerenveen-e6dcd3.webp",
-      "away_team_name": "SC Heerenveen",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/go-ahead-eagles-363a79.png",
-      "home_team_name": "Go Ahead Eagles",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Holland Eredivisie",
-      "match_status": "vs",
-      "match_time": 1770831900
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/arsenal-women-a09549.webp",
-      "away_team_name": "Arsenal Women",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/oud-heverlee-leuven-women-aded08.webp",
-      "home_team_name": "Oud Heverlee Leuven Women",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "UEFA WCL",
-      "match_status": "vs",
-      "match_time": "1770831900"
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/arsenal-w-c0ab05.png",
-      "away_team_name": "Arsenal (W)",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/oud-heverlee-leuven-w-5ad83f.png",
-      "home_team_name": "Oud-Heverlee Leuven (W)",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "UEFA Women",
-      "match_status": "vs",
-      "match_time": 1770831900
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/viborg-a16fe1.png",
-      "away_team_name": "Viborg",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/fc-copenhagen-ddbde7.webp",
-      "home_team_name": "FC Copenhagen",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Denmark Cup",
-      "match_status": "vs",
-      "match_time": 1770832800
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/monza-5594ee.webp",
-      "away_team_name": "Monza",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/sudtirol-426d29.png",
-      "home_team_name": "SudTirol",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Italian Serie B",
-      "match_status": "vs",
-      "match_time": 1770832800
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/wadi-degla-sc-1c6b6a.png",
-      "away_team_name": "Wadi Degla SC",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/al-masry-f114f8.png",
-      "home_team_name": "Al Masry",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Egyptian Premier League",
-      "match_status": "vs",
-      "match_time": "1770832800"
-    }
-  ],
   "app_control": {
     "show_ticker": true,
     "ticker": {
@@ -4349,7 +3484,7 @@
   },
   "matches": {
     "match_14025194": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/17/image",
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
       "leagueTitle": "Premier League",
       "matchEndTime": "2026-02-12T03:00:00",
       "matchTime": "2026-02-12T01:00:00",
@@ -4369,7 +3504,7 @@
       "team2Name": "Wolverhampton"
     },
     "match_14025197": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/17/image",
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
       "leagueTitle": "Premier League",
       "matchEndTime": "2026-02-12T03:45:00",
       "matchTime": "2026-02-12T01:45:00",
@@ -4396,7 +3531,7 @@
       "team2Name": "Liverpool"
     },
     "match_14025206": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/17/image",
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
       "leagueTitle": "Premier League",
       "matchEndTime": "2026-02-12T03:00:00",
       "matchTime": "2026-02-12T01:00:00",
@@ -4423,7 +3558,7 @@
       "team2Name": "Brighton & Hove Albion"
     },
     "match_14025209": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/17/image",
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
       "leagueTitle": "Premier League",
       "matchEndTime": "2026-02-12T03:00:00",
       "matchTime": "2026-02-12T01:00:00",
@@ -4437,9 +3572,9 @@
           "type": "Direct"
         },
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "link": "https://no.link",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "SPORTIFy TV",
+          "name": "Link 1",
           "source": "main",
           "type": "Direct"
         }
@@ -4450,16 +3585,16 @@
       "team2Name": "Burnley"
     },
     "match_14025212": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/17/image",
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
       "leagueTitle": "Premier League",
       "matchEndTime": "2026-02-12T03:00:00",
       "matchTime": "2026-02-12T01:00:00",
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "https://no.link",
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd&k1=192b1115da041585c77200128549efa1&k2=634e10efe4abbb14be400a3ccbac0258\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "Link 1",
+          "name": "TNT SPORTS",
           "source": "main",
           "type": "Direct"
         },
@@ -4477,7 +3612,7 @@
       "team2Name": "Fulham"
     },
     "match_14059829": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image",
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
       "leagueTitle": "Championship",
       "matchEndTime": "2026-02-12T03:15:00",
       "matchTime": "2026-02-12T01:15:00",
@@ -4504,7 +3639,7 @@
       "team2Name": "Stoke City"
     },
     "match_14061109": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/25/image",
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/25/image/dark",
       "leagueTitle": "League Two",
       "matchEndTime": "2026-02-12T03:15:00",
       "matchTime": "2026-02-12T01:15:00",
@@ -4524,7 +3659,7 @@
       "team2Name": "Accrington Stanley"
     },
     "match_14317712": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/53/image",
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
       "leagueTitle": "Serie B",
       "matchEndTime": "2026-02-12T02:30:00",
       "matchTime": "2026-02-12T00:30:00",
@@ -4536,7 +3671,7 @@
       "team2Name": "Frosinone"
     },
     "match_14317757": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/53/image",
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
       "leagueTitle": "Serie B",
       "matchEndTime": "2026-02-12T02:30:00",
       "matchTime": "2026-02-12T00:30:00",
@@ -4548,7 +3683,7 @@
       "team2Name": "Juve Stabia"
     },
     "match_14317758": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/53/image",
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
       "leagueTitle": "Serie B",
       "matchEndTime": "2026-02-12T02:30:00",
       "matchTime": "2026-02-12T00:30:00",
@@ -4559,415 +3694,288 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/2735/image",
       "team2Name": "Spezia"
     },
-    "match_14317762": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/53/image",
-      "leagueTitle": "Serie B",
-      "matchEndTime": "2026-02-12T01:30:00",
-      "matchTime": "2026-02-11T23:30:00",
+    "match_14439161": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+      "leagueTitle": "NBA",
+      "matchEndTime": "2026-02-12T08:00:00",
+      "matchTime": "2026-02-12T06:00:00",
+      "sportType": "BASKETBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3422/image",
+      "team1Name": "Boston Celtics",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3409/image",
+      "team2Name": "Chicago Bulls"
+    },
+    "match_14439205": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+      "leagueTitle": "NBA",
+      "matchEndTime": "2026-02-12T07:30:00",
+      "matchTime": "2026-02-12T05:30:00",
+      "sportType": "BASKETBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3432/image",
+      "team1Name": "Cleveland Cavaliers",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3431/image",
+      "team2Name": "Washington Wizards"
+    },
+    "match_14441861": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+      "leagueTitle": "NBA",
+      "matchEndTime": "2026-02-12T09:30:00",
+      "matchTime": "2026-02-12T07:30:00",
+      "sportType": "BASKETBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3434/image",
+      "team1Name": "Utah Jazz",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3413/image",
+      "team2Name": "Sacramento Kings"
+    },
+    "match_14441960": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+      "leagueTitle": "NBA",
+      "matchEndTime": "2026-02-12T07:30:00",
+      "matchTime": "2026-02-12T05:30:00",
+      "sportType": "BASKETBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3430/image",
+      "team1Name": "Charlotte Hornets",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3423/image",
+      "team2Name": "Atlanta Hawks"
+    },
+    "match_14441984": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+      "leagueTitle": "NBA",
+      "matchEndTime": "2026-02-12T07:30:00",
+      "matchTime": "2026-02-12T05:30:00",
+      "sportType": "BASKETBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3437/image",
+      "team1Name": "Orlando Magic",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3410/image",
+      "team2Name": "Milwaukee Bucks"
+    },
+    "match_14442118": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+      "leagueTitle": "NBA",
+      "matchEndTime": "2026-02-12T08:00:00",
+      "matchTime": "2026-02-12T06:00:00",
+      "sportType": "BASKETBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3433/image",
+      "team1Name": "Toronto Raptors",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3424/image",
+      "team2Name": "Detroit Pistons"
+    },
+    "match_14442159": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+      "leagueTitle": "NBA",
+      "matchEndTime": "2026-02-12T08:00:00",
+      "matchTime": "2026-02-12T06:00:00",
+      "sportType": "BASKETBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3436/image",
+      "team1Name": "Brooklyn Nets",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3419/image",
+      "team2Name": "Indiana Pacers"
+    },
+    "match_14442177": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+      "leagueTitle": "NBA",
+      "matchEndTime": "2026-02-12T08:30:00",
+      "matchTime": "2026-02-12T06:30:00",
+      "sportType": "BASKETBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3412/image",
+      "team1Name": "Houston Rockets",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3425/image",
+      "team2Name": "Los Angeles Clippers"
+    },
+    "match_14442478": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+      "leagueTitle": "NBA",
+      "matchEndTime": "2026-02-12T08:00:00",
+      "matchTime": "2026-02-12T06:00:00",
+      "sportType": "BASKETBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3420/image",
+      "team1Name": "Philadelphia 76ers",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3421/image",
+      "team2Name": "New York Knicks"
+    },
+    "match_14442510": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+      "leagueTitle": "NBA",
+      "matchEndTime": "2026-02-12T08:30:00",
+      "matchTime": "2026-02-12T06:30:00",
+      "sportType": "BASKETBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3426/image",
+      "team1Name": "Minnesota Timberwolves",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3414/image",
+      "team2Name": "Portland Trail Blazers"
+    },
+    "match_14442630": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+      "leagueTitle": "NBA",
+      "matchEndTime": "2026-02-12T09:30:00",
+      "matchTime": "2026-02-12T07:30:00",
+      "sportType": "BASKETBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3417/image",
+      "team1Name": "Denver Nuggets",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3415/image",
+      "team2Name": "Memphis Grizzlies"
+    },
+    "match_14442638": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+      "leagueTitle": "NBA",
+      "matchEndTime": "2026-02-12T08:30:00",
+      "matchTime": "2026-02-12T06:30:00",
+      "sportType": "BASKETBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/5539/image",
+      "team1Name": "New Orleans Pelicans",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3435/image",
+      "team2Name": "Miami Heat"
+    },
+    "match_14442641": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+      "leagueTitle": "NBA",
+      "matchEndTime": "2026-02-12T10:30:00",
+      "matchTime": "2026-02-12T08:30:00",
+      "sportType": "BASKETBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3428/image",
+      "team1Name": "Golden State Warriors",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3429/image",
+      "team2Name": "San Antonio Spurs"
+    },
+    "match_14442664": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+      "leagueTitle": "NBA",
+      "matchEndTime": "2026-02-12T09:30:00",
+      "matchTime": "2026-02-12T07:30:00",
+      "sportType": "BASKETBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3416/image",
+      "team1Name": "Phoenix Suns",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3418/image",
+      "team2Name": "Oklahoma City Thunder"
+    },
+    "match_14773736": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+      "leagueTitle": "Saudi Pro League",
+      "matchEndTime": "2026-02-13T01:00:00",
+      "matchTime": "2026-02-12T23:00:00",
       "sportType": "FOOTBALL",
       "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/2760/image",
-      "team1Name": "Südtirol",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/2729/image",
-      "team2Name": "Monza"
+      "team1Logo": "https://api.sofascore.com/api/v1/team/168086/image",
+      "team1Name": "Al-Hazem",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/336456/image",
+      "team2Name": "Al-Okhdood"
     },
-    "match_15147819": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11185/image",
-      "leagueTitle": "ICC Men's T20 World Cup, Group D",
-      "matchEndTime": "2026-02-11T18:00:00",
-      "matchTime": "2026-02-11T11:00:00",
-      "sportType": "CRICKET",
-      "streamLinks": [
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/lbglzgatjz/out/v1/473fb0f645384bebbc4b86ce06d8fdb7/cenc.mpd&k1=22cd0ec2afca5856e14cacf040976a01&k2=8344dde990164381deac77425cb9df6d\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "WILLOW - FHD",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://a120live-pv-ta-amazon.akamaized.net/syd-nitro/live/dash/enc/chzr1hyion/out/v1/d7130f460d41486ea7e8e3eb45f0522f/cenc.mpd&k1=0b3da1a7909770f53373b0fbba96ceb0&k2=4561b97456e7b68904bf01057cc8e6ab\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "PRIME - FHD",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://livem-d-02-icc-ne.akamaized.net/variant/v1/dai-event-prd-pal-west/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=ebc9ada3-4955-45c8-a2d2-f5f0850d3017&k1=79584ff8854536a3829f177423cdf684&k2=e6c7e6a131dea887edf696d50cd24ba9\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "ICC TV - HINDI",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://livem-d-02-icc-ne.akamaized.net/variant/v1/dai-event-prd-pal-west/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=bf67cc30-fbb9-4c43-8a5d-c7006f71e372&k1=79584ff8854536a3829f177423cdf684&k2=e6c7e6a131dea887edf696d50cd24ba9\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "ICC TV - ENG",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://google.com/&Origin=https://google.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "WILLOW - HD",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "https://cdn16348712.blazingcdn.net/dx14sd/index.m3u8|Referer=https://google.com/&Origin=https://google.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "WILLOW - LQ",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd?&k1=965dc2ddb1d85138ad787999a7f30ca5&k2=859695076e67fe961836b564db6d689c\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "STAR ENG - IND",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd?&k1=400131994b445d8c8817202248760fda&k2=2d56cb6f07a75b9aff165d534ae2bfc4\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "STAR HINDI - IND",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd?&k1=2272c0bc6b2e5cb090b1f55996e0026c&k2=943923934de1d5536ab01c67fca8b337\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "STAR TAMIL - IND",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd?&k1=49e84b9edfd85379b90c81b7d2d3d2bf&k2=19c82d3ff094fa06af95820a1572ecb5\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "STAR TELEGU - IND",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/output/index.mpd?&k1=9a6d058fa40b5460a946178900eb44cb&k2=791d7444110cec32d731ca0c33ac6c15\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "STAR KANNADA - IND",
-          "source": "main",
-          "type": "Direct"
-        }
-      ],
-      "team1Logo": "https://api.sofascore.com/api/v1/team/187747/image",
-      "team1Name": "South Africa",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/187575/image",
-      "team2Name": "Afghanistan",
-      "telegramSent": true
+    "match_14773737": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+      "leagueTitle": "Saudi Pro League",
+      "matchEndTime": "2026-02-13T01:00:00",
+      "matchTime": "2026-02-12T23:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/56027/image",
+      "team1Name": "Al-Qadsiah",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/530631/image",
+      "team2Name": "Neom SC"
     },
-    "match_15147820": {
-      "isStar": false,
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11185/image",
+    "match_14773743": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+      "leagueTitle": "Saudi Pro League",
+      "matchEndTime": "2026-02-12T23:15:00",
+      "matchTime": "2026-02-12T21:15:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/204126/image",
+      "team1Name": "Damac FC",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/56021/image",
+      "team2Name": "Al-Taawoun"
+    },
+    "match_15147823": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11185/image/dark",
       "leagueTitle": "ICC Men's T20 World Cup, Group B",
-      "matchEndTime": "2026-02-11T22:00",
-      "matchTime": "2026-02-11T15:00",
+      "matchEndTime": "2026-02-12T18:00:00",
+      "matchTime": "2026-02-12T11:00:00",
       "sportType": "CRICKET",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://a120live-pv-ta-amazon.akamaized.net/syd-nitro/live/dash/enc/chzr1hyion/out/v1/d7130f460d41486ea7e8e3eb45f0522f/cenc.mpd&k1=02b6e65ff2e3c3cf55a52426e03161dc&k2=8cd7fa1463f0e7624725e89389d181e6\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "PRIME VIDEO - AQ",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/lbglzgatjz/out/v1/473fb0f645384bebbc4b86ce06d8fdb7/cenc.mpd&k1=22cd0ec2afca5856e14cacf040976a01&k2=8344dde990164381deac77425cb9df6d\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "Willow - AQ",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://livem-d-02-icc-ne.akamaized.net/variant/v1/dai-event-prd-pal-west/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/manifest.mpd?vcfilter=416b79af-e55f-4c9d-9279-fb6a5314831e&k1=79584ff8854536a3829f177423cdf684&k2=e6c7e6a131dea887edf696d50cd24ba9\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "ICC ENGLISH - AQ",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://livem-d-02-icc-ne.akamaized.net/variant/v1/dai-event-prd-pal-west/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/manifest.mpd?vcfilter=cb2194e5-2fa0-4720-8cdd-47652dd27ca5&k1=79584ff8854536a3829f177423cdf684&k2=e6c7e6a131dea887edf696d50cd24ba9\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "ICC HINDI - AQ",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "https://stream.huraweb.com/embed_view.php?id=62782be2318ca7fb",
-          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "Willow - IOS",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "https://stream.huraweb.com/embed_view.php?id=76b33213265bd4b8",
-          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "Willow 2 - IOS",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "https://live-en.aisports.cc/moviebox/device01/playlist.m3u8",
-          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "JIO HOTSTAR - IOS",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ehrpudmjpv/out/v1/fc790c2a85e14cbe9b8b7ce51004612f/cenc.mpd&k1=a41c95c1e6a751d5a933a3f51577d64e&k2=133ac215f2ae4e9f2e12e53039feb218\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "WILLOW - FHD",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/ksczi4sz0e/out/v1/a3f76c40f2c74804876697c4c284780f/cenc.mpd&k1=02b6e65ff2e3c3cf55a52426e03161dc&k2=8cd7fa1463f0e7624725e89389d181e6\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "PRIME - FHD",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://livem-d-02-icc-ne.akamaized.net/variant/v1/dai-event-prd-pal-west/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/manifest.mpd?vcfilter=cb2194e5-2fa0-4720-8cdd-47652dd27ca5&k1=79584ff8854536a3829f177423cdf684&k2=e6c7e6a131dea887edf696d50cd24ba9\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "ICC TV - HINDI",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://livem-d-02-icc-ne.akamaized.net/variant/v1/dai-event-prd-pal-west/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/manifest.mpd?vcfilter=416b79af-e55f-4c9d-9279-fb6a5314831e&k1=79584ff8854536a3829f177423cdf684&k2=e6c7e6a131dea887edf696d50cd24ba9\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "ICC TV - ENG",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://google.com/&Origin=https://google.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "WILLOW - HD",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "https://cdn16348712.blazingcdn.net/dx14sd/index.m3u8|Referer=https://google.com/&Origin=https://google.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "WILLOW - LQ",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd?&k1=965dc2ddb1d85138ad787999a7f30ca5&k2=859695076e67fe961836b564db6d689c\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "STAR ENG - IND",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd?&k1=400131994b445d8c8817202248760fda&k2=2d56cb6f07a75b9aff165d534ae2bfc4\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "STAR HIN - IND",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd&k1=2272c0bc6b2e5cb090b1f55996e0026c&k2=943923934de1d5536ab01c67fca8b337\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "STAR TAMIL - IND",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd&k1=49e84b9edfd85379b90c81b7d2d3d2bf&k2=19c82d3ff094fa06af95820a1572ecb5\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "STAR TELEGU - IND",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/output/index.mpd?&k1=9a6d058fa40b5460a946178900eb44cb&k2=791d7444110cec32d731ca0c33ac6c15\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "STAR KANNADA - IND",
+          "name": "SPORTIFy TV",
           "source": "main",
           "type": "Direct"
         }
       ],
-      "team1Logo": "https://api.sofascore.com/api/v1/team/187746/image",
-      "team1Name": "Australia",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/187766/image",
-      "team2Name": "Ireland",
-      "telegramSent": true
+      "team1Logo": "https://api.sofascore.com/api/v1/team/187756/image",
+      "team1Name": "Sri Lanka",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/199279/image",
+      "team2Name": "Oman"
     },
-    "match_15147821": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11185/image",
+    "match_15147824": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11185/image/dark",
       "leagueTitle": "ICC Men's T20 World Cup, Group C",
-      "matchEndTime": "2026-02-12T02:00:00",
-      "matchTime": "2026-02-11T19:00:00",
+      "matchEndTime": "2026-02-12T22:00:00",
+      "matchTime": "2026-02-12T15:00:00",
       "sportType": "CRICKET",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/83taeafait/out/v1/8f460e2902ee422e9ee8229e6de25719/cenc.mpd&k1=ed76c18710d621a87c89dedc7c13019f&k2=7241c82fe48525a9dc6be6d7bb86611f\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "PRIME VIDEO - AQ",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/elxdvzuaug/out/v1/a45a5b57515b4c608f38ee29e76db679/cenc.mpd&k1=0aec2fcbea8d842e2d6196fc12fc5208&k2=ea343750354836dcab261575956326a3\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "WILLOW - AQ",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "https://stream.huraweb.com/embed_view.php?id=62782be2318ca7fb",
-          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "Willow - IOS",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://livem-d-02-icc-ne.akamaized.net/variant/v1/dai-event-prd-pal-west/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=c4933828-3e5f-40cf-8d2b-fb723b52ac9c&k1=79584ff8854536a3829f177423cdf684&k2=e6c7e6a131dea887edf696d50cd24ba9\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "ICC TV [ENG]",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://livem-d-02-icc-ne.akamaized.net/variant/v1/dai-event-prd-pal-west/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=cc21d012-74f0-4254-9e49-8f2fad24ad0e&k1=79584ff8854536a3829f177423cdf684&k2=e6c7e6a131dea887edf696d50cd24ba9\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "ICC TV [HIN]",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://google.com/&Origin=https://google.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
-          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "WILLOW HD",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "https://stream.huraweb.com/embed_view.php?id=76b33213265bd4b8",
-          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "Willow 2 - IOS",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "https://live-en.aisports.cc/moviebox/football001/playlist.m3u8",
-          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "JIO HOTSTAR - IOS",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "https://stream1.liveland.af/hls/tv/tolo-sport/chunklist3.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
-          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "HD SERVER ",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/ldbdk8wq9y/out/v1/d25c047441ed467595c8085109e0d73f/cenc.mpd&k1=e2135bf415cfea9ea3e6b26a6fce8fc3&k2=2671da359a0a860668baca2e34f243f6\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "PRIME - FHD",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/cqqpbb9tmi/out/v1/62a1d9fa14bb4acfad5085e413df06c0/cenc.mpd&k1=0aec2fcbea8d842e2d6196fc12fc5208&k2=ea343750354836dcab261575956326a3\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "WILLOW - FHD",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://livem-d-02-icc-ne.akamaized.net/variant/v1/dai-event-prd-pal-west/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=cc21d012-74f0-4254-9e49-8f2fad24ad0e&k1=79584ff8854536a3829f177423cdf684&k2=e6c7e6a131dea887edf696d50cd24ba9\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "ICC TV - HINDI",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "hs",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "ICC TV - ENG",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://google.com/&Origin=https://google.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "WILLOW - HD",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "https://cdn16348712.blazingcdn.net/dx14sd/index.m3u8|Referer=https://google.com/&Origin=https://google.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "WILLOW - LQ",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd?&k1=965dc2ddb1d85138ad787999a7f30ca5&k2=859695076e67fe961836b564db6d689c\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "ENGLISH - IND IP",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd?&k1=400131994b445d8c8817202248760fda&k2=2d56cb6f07a75b9aff165d534ae2bfc4\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "HINDI - IND IP",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd&k1=2272c0bc6b2e5cb090b1f55996e0026c&k2=943923934de1d5536ab01c67fca8b337\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "TAMIL - IND IP",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd&k1=49e84b9edfd85379b90c81b7d2d3d2bf&k2=19c82d3ff094fa06af95820a1572ecb5\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "TELUGU - IND IP",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/output/index.mpd?&k1=9a6d058fa40b5460a946178900eb44cb&k2=791d7444110cec32d731ca0c33ac6c15\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "KANNADA - IND IP",
+          "name": "SPORTIFy TV",
           "source": "main",
           "type": "Direct"
         }
       ],
-      "team1Logo": "https://api.sofascore.com/api/v1/team/187757/image",
-      "team1Name": "England",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/187760/image",
-      "team2Name": "West Indies",
-      "telegramSent": true
+      "team1Logo": "https://api.sofascore.com/api/v1/team/187772/image",
+      "team1Name": "Nepal",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/417772/image",
+      "team2Name": "Italy"
+    },
+    "match_15147825": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11185/image/dark",
+      "leagueTitle": "ICC Men's T20 World Cup, Group A",
+      "matchEndTime": "2026-02-13T02:00:00",
+      "matchTime": "2026-02-12T19:00:00",
+      "sportType": "CRICKET",
+      "streamLinks": [
+        {
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SPORTIFy TV",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/187765/image",
+      "team1Name": "India",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/199275/image",
+      "team2Name": "Namibia"
     },
     "match_15193712": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/217/image",
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/217/image/dark",
       "leagueTitle": "DFB Pokal",
       "matchEndTime": "2026-02-12T03:15:00",
       "matchTime": "2026-02-12T01:15:00",
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "https://no.link",
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd&k1=1a5df53609ebc9857898c490f4724918&k2=77f62980d582ec541280796acf8b2d19\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "Link 1",
+          "name": "Premier Sports",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,&k1=3fb40d85724942f994d86943f48021db&k2=a6da8742502c8a2153067f5f2a70fb02\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "ZIGGO SPORT",
           "source": "main",
           "type": "Direct"
         },
@@ -4991,8 +3999,40 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/36360/image",
       "team2Name": "RB Leipzig"
     },
+    "match_15213469": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/498/image/dark",
+      "leagueTitle": "CONCACAF Champions Cup",
+      "matchEndTime": "2026-02-12T10:30:00",
+      "matchTime": "2026-02-12T08:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/1932/image",
+      "team1Name": "CF Monterrey",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/7026/image",
+      "team2Name": "CSD Xelajú MC"
+    },
+    "match_15213472": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/498/image/dark",
+      "leagueTitle": "CONCACAF Champions Cup",
+      "matchEndTime": "2026-02-12T08:30:00",
+      "matchTime": "2026-02-12T06:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd&k1=09453ce820d65fbc675de3185f9e454c&k2=98cff9600995fa381c76fdacf3c7edae\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "FOX SPORTS 2",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/1939/image",
+      "team1Name": "Club América",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/25358/image",
+      "team2Name": "CD Olimpia"
+    },
     "match_15268377": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/25/image",
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/25/image/dark",
       "leagueTitle": "League Two",
       "matchEndTime": "2026-02-12T03:30:00",
       "matchTime": "2026-02-12T01:30:00",
@@ -5012,16 +4052,37 @@
       "team2Name": "Newport County"
     },
     "match_15372917": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/328/image",
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/328/image/dark",
       "leagueTitle": "Coppa Italia",
       "matchEndTime": "2026-02-12T03:30:00",
       "matchTime": "2026-02-12T01:30:00",
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "https://no.link",
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd&k1=d9623774ac5c8c351aafe97c5fe70267&k2=5164e6d05164a2d65fa8fcc962aa4861\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "Link 1",
+          "name": "CBS Golazo",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd&k1=1a5df53609ebc9857898c490f4724918&k2=77f62980d582ec541280796acf8b2d19\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "Premier Sports",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest_hr.mpd&k1=00f9f3c0783536b8ee91704e23b78016&k2=bfd04d6f544c9cc4d35cb13ab6778587\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "Italia 1 IT",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,&k1=4dbea4b5713a4aa1ae3a2544cd522fc7&k2=a8323ea99b2d6200a48e1bc27322d548\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "ZIGGO SPORT",
           "source": "main",
           "type": "Direct"
         },
@@ -5060,16 +4121,16 @@
       "team2Name": "Lazio"
     },
     "match_15496188": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/329/image",
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/329/image/dark",
       "leagueTitle": "Copa del Rey",
       "matchEndTime": "2026-02-12T03:30:00",
       "matchTime": "2026-02-12T01:30:00",
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "https://no.link",
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,&k1=3cfa8625f650406ebf6a4d1ea737f572&k2=0534e747c70b364aa7210e1bf3191df0\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "Link 1",
+          "name": "ZIGGO SPORT",
           "source": "main",
           "type": "Direct"
         },
@@ -5093,18 +4154,17 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/2824/image",
       "team2Name": "Real Sociedad"
     },
-    "match_15512467": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11191/image",
-      "leagueTitle": "Bahrain in Qatar, 5 T20I Series",
-      "matchEndTime": "2026-02-12T01:30:00",
-      "matchTime": "2026-02-11T18:30:00",
+    "match_15513689": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11222/image/dark",
+      "leagueTitle": "Oman Women in Qatar, 5 T20I Series",
+      "matchEndTime": "2026-02-12T22:30:00",
+      "matchTime": "2026-02-12T15:30:00",
       "sportType": "CRICKET",
       "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/459350/image",
-      "team1Name": "Qatar",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/412036/image",
-      "team2Name": "Bahrain",
-      "telegramSent": true
+      "team1Logo": "https://api.sofascore.com/api/v1/team/417866/image",
+      "team1Name": "Qatar Women",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/417863/image",
+      "team2Name": "Oman Women"
     }
   },
   "navigation": {
