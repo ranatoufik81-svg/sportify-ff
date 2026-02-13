@@ -3483,26 +3483,6 @@
     }
   },
   "matches": {
-    "-OlLAgSQK09rhjlYBpkU": {
-      "leagueLogo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015092/1770898643786306_AsiaCup_RisingStar_Womens2026_ind_a_vs_uae_11feb_clean_Landscape_thumb.jpg",
-      "leagueTitle": "ACC Women’s Rising Stars 2026",
-      "matchEndTime": "2026-02-13T12:47:12.162Z",
-      "matchTime": "2026-02-13T08:47:12.162Z",
-      "sportType": "CRICKET",
-      "streamLinks": [
-        {
-          "link": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771015165~acl=/*~id=34971241273032468920433686594466~hmac=362a13e5c1875fe49e20a0e28f56ee6bacabfb0dbdd78c8eb4b6466260034758",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "SONY LIV",
-          "source": "main",
-          "type": "Direct"
-        }
-      ],
-      "team1Logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015092/1770898643786306_AsiaCup_RisingStar_Womens2026_ind_a_vs_uae_11feb_clean_Landscape_thumb.jpg",
-      "team1Name": "India A Women",
-      "team2Logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015092/1770898643786306_AsiaCup_RisingStar_Womens2026_ind_a_vs_uae_11feb_clean_Landscape_thumb.jpg",
-      "team2Name": "UAE Women"
-    },
     "match_13926160": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11222/image/dark",
       "leagueTitle": "Pakistan Women in South Africa, 3 T20I Series",
@@ -3524,9 +3504,23 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "https://no.link",
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0fux2jsjvi/out/v1/67c015848dc6453984d1d8ecb51cae4f/cenc.mpd&k1=64694ef4446b6f1ca277cccaa67b532a&k2=d5d0f0eeb364a401df7c5833f938a820\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "Link 1",
+          "name": "PARAMOUNT+ AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd&k1=7995c724a13748ed970840a8ab5bb9b3&k2=67bdaf1e2175b9ff682fcdf0e2354b1e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "beIN ENGLISH",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,&k1=3cfa8625f650406ebf6a4d1ea737f572&k2=0534e747c70b364aa7210e1bf3191df0\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "ZIGGO SPORT",
           "source": "main",
           "type": "Direct"
         },
@@ -3548,7 +3542,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2737/image",
       "team1Name": "Pisa",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2692/image",
-      "team2Name": "Milan"
+      "team2Name": "Milan",
+      "telegramSent": true
     },
     "match_14032410": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/38/image/dark",
@@ -3568,7 +3563,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/5044/image",
       "team1Name": "KV Mechelen",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2890/image",
-      "team2Name": "KRC Genk"
+      "team2Name": "KRC Genk",
+      "telegramSent": true
     },
     "match_14059826": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
@@ -3597,6 +3593,13 @@
       "matchTime": "2026-02-14T01:00:00",
       "sportType": "FOOTBALL",
       "streamLinks": [
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mq1n6hlmsc/out/v1/ff8892c6a4bd4d1dae7f485de7f285ce/cenc.mpd&k1=7430f6be16084f28152a27ca9522db22&k2=71b6bfcd31945e5815d3c952b0d454fb\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "DAZN SPORTS",
+          "source": "main",
+          "type": "Direct"
+        },
         {
           "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd&k1=0b42be2664d7e811d04f3e504e0924c5&k2=ae24090123b8c72ac5404dc152847cb8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
@@ -3636,7 +3639,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2673/image",
       "team1Name": "Borussia Dortmund",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2556/image",
-      "team2Name": "1. FSV Mainz 05"
+      "team2Name": "1. FSV Mainz 05",
+      "telegramSent": true
     },
     "match_14064499": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
@@ -3681,9 +3685,9 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "https://no.link",
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://bbb.exoadash.com/TVD2083/index.mpd\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "Link 1",
+          "name": "Ligue1+",
           "source": "main",
           "type": "Direct"
         },
@@ -3760,27 +3764,6 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "https://smarthard.click/hls/Mhe8gotoGQlu/index.m3u8",
-          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "SKY BUNDESLIGA",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "https://n11.sanwalyaarpya.com:1686/hls/do13.m3u8?md5=rVia5bdOe_Bm6aBpy_D5AQ&expires=1771010864|Referer=https://vividmosaica.com/",
-          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "HD Server",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "https://play.ltwxsc.com/live/sd-6MuSsGP3XrNikzSynW.m3u8?txSecret=8774447b120c34f375a6d3b6262b0595&txTime=698F8866",
-          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "HD SERVER 2",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
           "link": "https://play.ltwxsc.com/live/sd-6MuSsGP3XrNikzSynW.m3u8?txSecret=8774447b120c34f375a6d3b6262b0595&txTime=698F8866",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "HD SERVER",
@@ -3817,20 +3800,6 @@
       "streamLinks": [
         {
           "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd&k1=7995c724a13748ed970840a8ab5bb9b3&k2=67bdaf1e2175b9ff682fcdf0e2354b1e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "beIN ENGLISH",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "https://smarthard.click/hls/kjzxkCIqkhtb/index.m3u8",
-          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "SKY BUNDESLIGA",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd&k1=7995c724a13748ed970840a8ab5bb9b3&k2=67bdaf1e2175b9ff682fcdf0e2354b1e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "beIN ENGLISH",
           "source": "main",
@@ -3865,9 +3834,23 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "https://no.link",
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd&k1=620e51b82596475517a27aa425c52280&k2=2b9ba811e9c5aeafc8ae1b71cdca4d6a\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "Link 1",
+          "name": "Laliga TV FHD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd&k1=1444f4235529f183f0a5a486befe9cdb&k2=e5e3fec67a1bb3472a2089c8a0a2557f\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "Premier Sports",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd&k1=065051b99bf5cf8d9a3bde5cbde6aaf9&k2=214bd176832872339ce184338320f9a2\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "FANCODE FHD",
           "source": "main",
           "type": "Direct"
         },
@@ -3899,9 +3882,9 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "https://no.link",
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd&k1=d69894c7b729c5d1e85893e5e6cfcb0f&k2=db0d53f871f5d2ef91d3a112c7ec9f30\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "Link 1",
+          "name": "Laliga Hypermotion ES",
           "source": "main",
           "type": "Direct"
         },
@@ -3916,7 +3899,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2858/image",
       "team1Name": "Almería",
       "team2Logo": "https://api.sofascore.com/api/v1/team/324871/image",
-      "team2Name": "FC Andorra"
+      "team2Name": "FC Andorra",
+      "telegramSent": true
     },
     "match_14383013": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/182/image/dark",
@@ -3924,7 +3908,15 @@
       "matchEndTime": "2026-02-14T02:30:00",
       "matchTime": "2026-02-14T00:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "https://hls.cdnok9.com/live/CHUN1/index.m3u8?expire=1890830700&sign=dbdc8ced2f1b21adf9d5a264bfe72141",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy TV",
+          "source": "api",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/1685/image",
       "team1Name": "Pau FC",
       "team2Logo": "https://api.sofascore.com/api/v1/team/1711/image",
@@ -3938,27 +3930,6 @@
       "matchTime": "2026-02-13T23:00:00",
       "sportType": "FOOTBALL",
       "streamLinks": [
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd&k1=09453ce820d65fbc675de3185f9e454c&k2=98cff9600995fa381c76fdacf3c7edae\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "FOX SPORTS",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd&k1=d1a163914db8ffad2c3e94f979896a0d&k2=9728800a3959aafdd5b0bcfbf3768811\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "Fox Deportes",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://bbb.exoadash.com/TVD1451/index.mpd\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "Thmanyah - FHD",
-          "source": "main",
-          "type": "Direct"
-        },
         {
           "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd&k1=7e9239c1982d984a002df3ed049d0756&k2=1b8a17598129a3618535c8fb05f103fe\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
@@ -4062,55 +4033,6 @@
       "team1Name": "Al-Shabab",
       "team2Logo": "https://api.sofascore.com/api/v1/team/34469/image",
       "team2Name": "Al-Ahli",
-      "telegramSent": true
-    },
-    "match_15147826": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11185/image/dark",
-      "leagueTitle": "ICC Men's T20 World Cup, Group B",
-      "matchEndTime": "2026-02-13T18:00:00",
-      "matchTime": "2026-02-13T11:00:00",
-      "sportType": "CRICKET",
-      "streamLinks": [
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://otte.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash/enc/gmgcjjmmtb/out/v1/b02b49b7e4244b4ebaf4f2d576a97228/cenc.mpd&k1=da661ad935054591590c7487368b26f3&k2=10229bfa52d2e601b3e88b7951dc0bae\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "PRIME - FHD",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/voix9ubhqo/out/v1/9b382021098e45fa8d74f95be19b60fa/cenc.mpd&k1=b173976ad635dc5c62d697a427e9c178&k2=2802e24c261e989d73bd784658930a03\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "WILLOW - FHD",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://livem-d-01-icc-we.akamaized.net/variant/v1/dai-event-prd-pal-west/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=aae203c8-4ec8-42c8-b9d5-275167c843ee|user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36&k1=e85411a37b603294ad2f9cd79b3eb559&k2=a1ba6a2e83e553191e0bedaec5c83773\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "ICC TV - HINDI",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://google.com/&Origin=https://google.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "WILLOW - HD",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "https://cdn16348712.blazingcdn.net/dx14sd/index.m3u8|Referer=https://google.com/&Origin=https://google.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "WILLOW - LQ",
-          "source": "main",
-          "type": "Direct"
-        }
-      ],
-      "team1Logo": "https://api.sofascore.com/api/v1/team/187746/image",
-      "team1Name": "Australia",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/187745/image",
-      "team2Name": "Zimbabwe",
       "telegramSent": true
     },
     "match_15147827": {
@@ -4233,14 +4155,28 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "https://no.link",
+          "link": "https://pl8.astroignite.space/playlist/45095/load-playlist?|Referer=https://gooz.aapmains.net/",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "Link 1",
+          "name": "HD SERVER ",
           "source": "main",
           "type": "Direct"
         },
         {
-          "link": "https://sportssurge.stream/get.php?link=aHR0cDovLzM4LjE5MC4xNzguNTQ6ODA4OS9mb3Q3L2luZGV4Lm0zdTg=",
+          "link": "https://instreams.pro/US/NFLHD2/index.m3u8?st=SportzX?|Referer=https://instreams.click/&Origin=https://instreams.click",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "TNT SPORTS HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://601.833577.xyz/wrexham.m3u8",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "TNT SPORTS FHD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "http://195.178.110.25/hls/FFFFFTQQ.m3u8|referer=http://www.fawanews.sc/",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "Link 1",
           "source": "main",
@@ -4257,7 +4193,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/64/image",
       "team1Name": "Wrexham",
       "team2Logo": "https://api.sofascore.com/api/v1/team/32/image",
-      "team2Name": "Ipswich Town"
+      "team2Name": "Ipswich Town",
+      "telegramSent": true
     },
     "match_15359745": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/19/image/dark",
@@ -4267,14 +4204,28 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "https://no.link",
+          "link": "https://daffodil.833577.xyz/chelsea.m3u8",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "Link 1",
+          "name": "TNT SPORTS FHD",
           "source": "main",
           "type": "Direct"
         },
         {
-          "link": "http://c1.frsports.info/KLISOC9/index.m3u8",
+          "link": "https://red6.lumenglide.shop/playlist/45096/load-playlist?|Referer=https://gooz.aapmains.net/",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "HD SERVER ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://instreams.pro/US/NFLHD1/index.m3u8?st=SportzX?|Referer=https://instreams.click/&Origin=https://instreams.click",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "TNT SPORTS HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "http://195.178.110.37/hls/FFFFFTQQQ.m3u8|referer=http://www.fawanews.sc/",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "Link 1",
           "source": "main",
@@ -4291,7 +4242,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/96/image",
       "team1Name": "Hull City",
       "team2Logo": "https://api.sofascore.com/api/v1/team/38/image",
-      "team2Name": "Chelsea"
+      "team2Name": "Chelsea",
+      "telegramSent": true
     },
     "match_15512554": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
