@@ -4252,9 +4252,9 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "https://no.link",
+          "link": "https://smarthard.click/hls/6v8yVbveVz4/index.m3u8",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "Link 1",
+          "name": "SKY BUNDESLIGA",
           "source": "main",
           "type": "Direct"
         }
@@ -4272,9 +4272,9 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "https://no.link",
+          "link": "https://smarthard.click/hls/kjzxkCIqkhtb/index.m3u8",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "Link 1",
+          "name": "SKY BUNDESLIGA",
           "source": "main",
           "type": "Direct"
         }
@@ -4925,16 +4925,32 @@
       "team2Name": "Salford City"
     },
     "match_15507294": {
+      "isStar": false,
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/1900/image/dark",
       "leagueTitle": "Super League",
-      "matchEndTime": "2026-02-14T19:00:00",
-      "matchTime": "2026-02-14T17:00:00",
+      "matchEndTime": "2026-02-14T19:00",
+      "matchTime": "2026-02-14T17:00",
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "https://no.link",
+          "link": "#",
+          "name": "FANCODE (ENGLISH)",
+          "type": "Embed"
+        },
+        {
+          "link": "a",
+          "name": "FANCODE (BENGALI)",
+          "type": "Embed"
+        },
+        {
+          "link": "N",
+          "name": "FANCODE (HINDI)",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd&k1=7e9239c1982d984a002df3ed049d0756&k2=1b8a17598129a3618535c8fb05f103fe\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "Link 1",
+          "name": "Fancode 2",
           "source": "main",
           "type": "Direct"
         }
