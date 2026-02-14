@@ -4202,7 +4202,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/1671/image",
       "team1Name": "Grenoble Foot 38",
       "team2Logo": "https://api.sofascore.com/api/v1/team/1682/image",
-      "team2Name": "Stade de Reims"
+      "team2Name": "Stade de Reims",
+      "telegramSent": true
     },
     "match_14064831": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/182/image/dark",
@@ -4226,7 +4227,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/1642/image",
       "team1Name": "Montpellier",
       "team2Logo": "https://api.sofascore.com/api/v1/team/1672/image",
-      "team2Name": "Le Mans"
+      "team2Name": "Le Mans",
+      "telegramSent": true
     },
     "match_14065440": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
@@ -4236,14 +4238,14 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "https://pull.niues.live/live/stream-5126499_lsd.m3u8?auth_key=1771074875-0-0-eedfc5d41663113e435bd89c15c2d0a5",
+          "link": "https://pull.niues.live/live/stream-5126499_lsd.m3u8?auth_key=1771076495-0-0-8f9d8ac2baddc0b38dc207fe0e39e12a",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV",
           "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://pull.niues.live/live/stream-5126499_lhd.m3u8?auth_key=1771074875-0-0-9aa6133884c7b079d5abc10969e21389",
+          "link": "https://pull.niues.live/live/stream-5126499_lhd.m3u8?auth_key=1771076495-0-0-0c8a3120f05edb62ccdaab8aeb861004",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV+ HD",
           "source": "api",
@@ -4438,7 +4440,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2814/image",
       "team1Name": "Espanyol",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2821/image",
-      "team2Name": "Celta Vigo"
+      "team2Name": "Celta Vigo",
+      "telegramSent": true
     },
     "match_14083784": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
@@ -4485,7 +4488,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2850/image",
       "team1Name": "Córdoba",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2845/image",
-      "team2Name": "Leganés"
+      "team2Name": "Leganés",
+      "telegramSent": true
     },
     "match_14083794": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
@@ -4709,7 +4713,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/7665/image",
       "team1Name": "Mamelodi Sundowns",
       "team2Logo": "https://api.sofascore.com/api/v1/team/42204/image",
-      "team2Name": "MC Alger"
+      "team2Name": "MC Alger",
+      "telegramSent": true
     },
     "match_15010864": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/1054/image/dark",
@@ -4745,7 +4750,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/69322/image",
       "team1Name": "Al-Hilal Omdurman",
       "team2Logo": "https://api.sofascore.com/api/v1/team/371343/image",
-      "team2Name": "FC Saint-Éloi Lupopo"
+      "team2Name": "FC Saint-Éloi Lupopo",
+      "telegramSent": true
     },
     "match_15147832": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11185/image/dark",
@@ -4882,7 +4888,7 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": " https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca",
+          "link": "https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da",
           "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
           "name": "SPORTIFy TV",
           "source": "api",
@@ -4896,16 +4902,16 @@
           "type": "Direct"
         },
         {
-          "link": "https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da",
+          "link": "https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f",
           "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
-          "name": "SPORTIFy GOLD FHD",
+          "name": "SPORTIFy MAX",
           "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f",
+          "link": " https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca",
           "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
-          "name": "SPORTIFy SOCCER",
+          "name": "SPORTIFy HD",
           "source": "api",
           "type": "Direct"
         },
@@ -5023,15 +5029,22 @@
           "type": "Embed"
         },
         {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd&k1=709c812e1b4174002605df1d17d34a4c&k2=0bbee6c9c20a0f065bf8369d54cbf83e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "http://103.175.73.12:8080/live/77/77_0.m3u8",
+          "name": "SONY TEN 2",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd&k1=7e9239c1982d984a002df3ed049d0756&k2=1b8a17598129a3618535c8fb05f103fe\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "FANCODE - SD",
+          "name": "FANCODE FHD",
           "source": "main",
           "type": "Direct"
         },
         {
-          "link": "http://103.175.73.12:8080/live/77/77_0.m3u8",
-          "name": "SONY TEN 2",
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd&k1=709c812e1b4174002605df1d17d34a4c&k2=0bbee6c9c20a0f065bf8369d54cbf83e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "FANCODE - SD",
+          "source": "main",
           "type": "Direct"
         }
       ],
@@ -5071,7 +5084,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/459350/image",
       "team1Name": "Qatar",
       "team2Logo": "https://api.sofascore.com/api/v1/team/412036/image",
-      "team2Name": "Bahrain"
+      "team2Name": "Bahrain",
+      "telegramSent": true
     }
   },
   "navigation": {
