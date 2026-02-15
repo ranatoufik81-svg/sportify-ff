@@ -5823,9 +5823,37 @@
       "sportType": "CRICKET",
       "streamLinks": [
         {
-          "link": "https://no.link",
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://abdiqdlaaaaaaaamd3yw4nq5noo2t.ta.bia-cf.live.pv-cdn.net/syd-nitro/live/clients/dash/enc/ah2lqrbfqh/out/v1/d346b8e088254045bf5ecde7cf5d335a/cenc.mpd&k1=cd914b572aa7ad9d5194467f86925fd8&k2=2be46fbb888473e0814debaff18da982\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "Link 1",
+          "name": "PRIME VIDEO",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://cors-proxy.cooks.fyi/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "LEMAR TV",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://live-pull.aisports.mobi/moviebox/device01/playlist.m3u8|Referer=https://sportslivenow.top/",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "JIO HOTSTAR",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://google.com/&Origin=https://google.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "WILLOW HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://stream1.liveland.af/hls/tv/tolo-sport/chunklist3.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "HD SERVER ",
           "source": "main",
           "type": "Direct"
         }
@@ -5833,7 +5861,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/187760/image",
       "team1Name": "West Indies",
       "team2Logo": "https://api.sofascore.com/api/v1/team/187772/image",
-      "team2Name": "Nepal"
+      "team2Name": "Nepal",
+      "telegramSent": true
     },
     "match_15147837": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11185/image/dark",
