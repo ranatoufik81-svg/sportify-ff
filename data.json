@@ -4036,7 +4036,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2695/image",
       "team1Name": "Udinese",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2793/image",
-      "team2Name": "Sassuolo"
+      "team2Name": "Sassuolo",
+      "telegramSent": true
     },
     "match_14032405": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/38/image/dark",
@@ -6697,9 +6698,23 @@
           "type": "Direct"
         },
         {
-          "link": "https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://google.com/&Origin=https://google.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
+          "link": "https://stream.huraweb.com/embed_view.php?id=62782be2318ca7fb ",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "WILLOW HD ",
+          "name": "WILLOW HD - IOS",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1771155301&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=8cac2fd2a8576e771ed9b6b40342cf03",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "TSports - IOS",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://embedsports.top/embed/admin/admin-willow-cricket/1",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "Server 2 - IOS",
           "source": "main",
           "type": "Direct"
         }
@@ -7479,7 +7494,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/267915/image",
       "team1Name": "Jamshedpur FC",
       "team2Logo": "https://api.sofascore.com/api/v1/team/118660/image",
-      "team2Name": "Mohammedan SC"
+      "team2Name": "Mohammedan SC",
+      "telegramSent": true
     },
     "match_15507314": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/1900/image/dark",
