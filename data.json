@@ -3547,10 +3547,66 @@
           "type": "Direct"
         },
         {
-          "link": "https://no.link",
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/nbzxfz0zay/out/v1/718d9deb3980465791caeb670edff04c/cenc.mpd&k1=aaf3f632d9d356a18e6bcd7d60ad45d7&k2=1b5e131e54a7435e426dab6de98515a7\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "Link 1",
+          "name": "DAZN SPORTS",
           "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/qtfw12i7yj/out/v1/6a77df01c34c4d998ef327d19404e2c9/cenc.mpd&k1=8439a38a6ff2ce5145f3669e41416633&k2=fcff724cafa25ba5c194bc88158ec320\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "DAZN ITALIAN",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,&k1=4dbea4b5713a4aa1ae3a2544cd522fc7&k2=a8323ea99b2d6200a48e1bc27322d548\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "ZIGGO SPORT",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1771275215-0-0-d4265ff8cfc7f596190c8ddb8ceb91e6",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1771275215-0-0-2ae39822307685f16864edf757a25481",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-566705_lsd.m3u8?auth_key=1771275215-0-0-e09130ed356d2edee67260d72e614958",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy SD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-566705_lhd.m3u8?auth_key=1771275215-0-0-969050574a0d004986924b5f8bd2b6c3",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy PRIME HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy GOLD SD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy SD",
+          "source": "api",
           "type": "Direct"
         }
       ],
@@ -3568,24 +3624,102 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://abclxdjaaaaaaaamkqb6y4p6ie2zk.ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd&k1=620e51b82596475517a27aa425c52280&k2=2b9ba811e9c5aeafc8ae1b71cdca4d6a\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/aaaly10irz/out/v1/fc0d1df3fa7e41dea67318755df75b95/cenc.mpd&k1=b64ef17c8114034ddf072818e97a8e51&k2=ec395901881ebe55aaac1e873f8b4fc6\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "LaLiga TV",
+          "name": "PARAMOUNT+ - AQ",
           "source": "main",
           "type": "Direct"
         },
         {
-          "link": "https://no.link",
-          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "Link 1",
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd&k1=7995c724a13748ed970840a8ab5bb9b3&k2=67bdaf1e2175b9ff682fcdf0e2354b1e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "beiN SPORTS - AQ",
           "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ze8mlq7soh/out/v1/e517a8b1bede4a0d9c0cf48f591a2222/cenc.mpd&k1=7a5135975978757b3458bb5b3b9dbf5e&k2=eab16719fa7727ab371bd75aeaca9229\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "ITV - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/aaaly10irz/out/v1/fc0d1df3fa7e41dea67318755df75b95/cenc.mpd&k1=b64ef17c8114034ddf072818e97a8e51&k2=ec395901881ebe55aaac1e873f8b4fc6\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "PARAMOUNT+ - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd&k1=7995c724a13748ed970840a8ab5bb9b3&k2=67bdaf1e2175b9ff682fcdf0e2354b1e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "beiN SPORTS - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ze8mlq7soh/out/v1/e517a8b1bede4a0d9c0cf48f591a2222/cenc.mpd&k1=7a5135975978757b3458bb5b3b9dbf5e&k2=eab16719fa7727ab371bd75aeaca9229\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "ITV - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1771275215-0-0-01d3f5deeb96e240e9d8b4fa549fc0a8",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1771275215-0-0-e3a287252595fa754b488a034bef2680",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-579144_lsd.m3u8?auth_key=1771275215-0-0-f2bdf38cbebfcb4b835c53d1201bcfaf",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy PRIME SD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-579144_lhd.m3u8?auth_key=1771275215-0-0-7f12c4852f75a5666fa2c941218015be",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy FHD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1771275215-0-0-0261c4404007b7cefe8daaeb1ca85b39",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy FHD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1771275215-0-0-f75223807bf3fb68822d954569ea1108",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy SD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": " https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy FHD",
+          "source": "api",
           "type": "Direct"
         }
       ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/11/image",
       "team1Name": "Coventry City",
       "team2Logo": "https://api.sofascore.com/api/v1/team/36/image",
-      "team2Name": "Middlesbrough"
+      "team2Name": "Middlesbrough",
+      "telegramSent": true
     },
     "match_14083491": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
@@ -3595,24 +3729,172 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd&k1=0b42be2664d7e811d04f3e504e0924c5&k2=ae24090123b8c72ac5404dc152847cb8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd&k1=620e51b82596475517a27aa425c52280&k2=2b9ba811e9c5aeafc8ae1b71cdca4d6a\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "beiN SPORTS 2 - AQ",
+          "name": "LaLiga TV - AQ",
           "source": "main",
           "type": "Direct"
         },
         {
-          "link": "https://no.link",
-          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "Link 1",
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd&k1=1444f4235529f183f0a5a486befe9cdb&k2=e5e3fec67a1bb3472a2089c8a0a2557f\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "PREMIER SPORTS - AQ",
           "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/cjkogpqmaj/out/v1/3e5c4c6b96294a6986e40f7f0c4e6714/cenc.mpd&k1=cb2bbd0a5f3bc3acc9e91e90675d6100&k2=0fe39374225658d59fafd36e2ffaf169\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "DAZN SPORTS - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd&k1=065051b99bf5cf8d9a3bde5cbde6aaf9&k2=214bd176832872339ce184338320f9a2\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "FANCODE - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd&k1=620e51b82596475517a27aa425c52280&k2=2b9ba811e9c5aeafc8ae1b71cdca4d6a\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "Laliga TV FHD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein1)/master.mpd&k1=d48b6088253c443eb94d27cb7828f707&k2=e9776141f9e949273a072b0e035070ab\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "beIN SPORTS",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd&k1=1444f4235529f183f0a5a486befe9cdb&k2=e5e3fec67a1bb3472a2089c8a0a2557f\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "PREMIER SPORTS",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/bogcm0ojdo/out/v1/32c03ea0e39e443a92cbcc0d21d0e1ed/cenc.mpd&k1=9af87ecb9da0cda5af8ed8707b2c8052&k2=803c20814a15883b206663ece3602310\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "ESPN FHD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd&k1=065051b99bf5cf8d9a3bde5cbde6aaf9&k2=214bd176832872339ce184338320f9a2\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "FANCODE FHD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1771275215-0-0-a7647b94ae125a69470fb3c2b76a69f0",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1771275215-0-0-1b1b354a48c118c16a0f5be7f62f31df",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1771275215-0-0-c1443467c64c3865c9941ff63bfbc4c8",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1771275215-0-0-ef75ea1691be4a72129ea92eb0f4c1d3",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy FHD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-547345_lsd.m3u8?auth_key=1771275215-0-0-40ef6a537337f908056e42c028eb67c6",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy FOOTBALL HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-547345_lhd.m3u8?auth_key=1771275215-0-0-5bfdd6e36b23c1cbafd5e9fc4eac636c",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy LIVE HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-9912097_lsd.m3u8?auth_key=1771275215-0-0-9f98960d8f665e4183ed8c0cb83e998d",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy PRIME",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1771275215-0-0-164cbda439609d335c126313b542e959",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy MAX HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-500605_lsd.m3u8?auth_key=1771275215-0-0-db25f93616c9c2cc13353fd2e435d241",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-500605_lhd.m3u8?auth_key=1771275215-0-0-0a5600d6f3a70048be797a4572672ddc",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy PRIME FHD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/THOITHIEN/index.m3u8?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy FHD",
+          "source": "api",
           "type": "Direct"
         }
       ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/24264/image",
       "team1Name": "Girona FC",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2817/image",
-      "team2Name": "Barcelona"
+      "team2Name": "Barcelona",
+      "telegramSent": true
     },
     "match_14083799": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
@@ -3633,6 +3915,27 @@
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
           "name": "Laliga Hypermotion ES",
           "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1771275215-0-0-7de6570ce5ca08487441fc37b48be375",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1771275215-0-0-b937a3c08056308df7ebc41f9677cea7",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy GOAL HD",
+          "source": "api",
           "type": "Direct"
         }
       ],
@@ -3839,9 +4142,58 @@
           "type": "Direct"
         },
         {
-          "link": "https://hls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6",
-          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "link": "https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1771275215-0-0-b9dde41931b53e6d1af4716777e0f692",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1771275215-0-0-4a68a6efb3074377ff749d25441cb066",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-308080_lsd.m3u8?auth_key=1771275215-0-0-d0085fe90166e9a1619cb79e0cd34054",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy MAX HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-308080_lhd.m3u8?auth_key=1771275215-0-0-5a3423f309c44989ad26466b3b11e98b",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1771275215-0-0-15ab75b312a9e7ce8bc6bd2a44b637a3",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1771275215-0-0-067ca5115dca776c4a3f267466f8d85a",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy LIVE",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1771275215-0-0-63eb3d08ef9bad7d39e904008eb305aa",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy PLUS",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1771275215-0-0-9ba53f50acb793f61c2ff6023b3f0e75",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy FHD",
           "source": "api",
           "type": "Direct"
         }
@@ -3867,37 +4219,37 @@
           "type": "Direct"
         },
         {
-          "link": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1771272155-0-0-dabc9225122cde38a1e96ec076b6da59",
+          "link": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1771275215-0-0-40881f908ffe8897b1f386b7b69bba9a",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV",
           "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1771272155-0-0-381ea78125bfc64634c7621f2aaef3a8",
+          "link": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1771275215-0-0-ef4b1e23883f3d4e3234e9e843b370ac",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV+ HD",
           "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://pull.niues.live/live/stream-564362_lsd.m3u8?auth_key=1771272155-0-0-8a9ee2b7174e065652fbee58e9f3c7be",
+          "link": "https://pull.niues.live/live/stream-564362_lsd.m3u8?auth_key=1771275215-0-0-db66dfa17d4640223e021634ed82a16b",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy MAX FHD",
+          "name": "SPORTIFy FHD",
           "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1771272155-0-0-802e6f9be625aee1d0b56df168dc2215",
+          "link": "https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1771275215-0-0-4b04feb2ee8e90a31030d3d289df5532",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy SD",
+          "name": "SPORTIFy FHD",
           "source": "api",
           "type": "Direct"
         },
         {
           "link": "https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d",
           "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
-          "name": "SPORTIFy ULTRA",
+          "name": "SPORTIFy SD",
           "source": "api",
           "type": "Direct"
         }
@@ -4117,6 +4469,20 @@
           "name": "SPORTIFy FAST",
           "source": "main",
           "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1771275215-0-0-80f63ec4af6498da8b5a2b15b539dbd0",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1771275215-0-0-a6511dec29a525f744a16df32922d62f",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Direct"
         }
       ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/1655/image",
@@ -4154,6 +4520,13 @@
           "type": "Direct"
         },
         {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/nuwuiotmum/out/v1/a0c5e6e21ef646c2a0c20983991d9908/cenc.mpd&k1=3d69a9822fdbdb46609244f1916322bb&k2=bd62294ad9c4ccab9742679593dc5980\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "DAZN SPORTS",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
           "link": "https://601.xn--1000-ugoa0hsb9a0hb.com/tnt.m3u8",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
           "name": "TNT SPORTS",
@@ -4165,6 +4538,48 @@
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
           "name": "SonyLiv",
           "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1771275215-0-0-981699b54a6d3d0d1863a75ac53745c4",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1771275215-0-0-23bf04983ca4d8c90f38af41facb0638",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1771275215-0-0-24cf6c81c4fd41b48c8f5f601c0a093c",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy STAR HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1771275215-0-0-ef56a89c435ce41630150767077e185c",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy MAX SD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy LIVE",
+          "source": "api",
           "type": "Direct"
         }
       ],
