@@ -3526,9 +3526,23 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd&k1=d0f2e5c39e70c18f29bf77768a1ad89a&k2=d6853c51fcf37a18905f0609972395d7\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/nbzxfz0zay/out/v1/718d9deb3980465791caeb670edff04c/cenc.mpd&k1=aaf3f632d9d356a18e6bcd7d60ad45d7&k2=1b5e131e54a7435e426dab6de98515a7\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "TNT SPORTS 1 - AQ",
+          "name": "DAZN ENGLISH - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/qtfw12i7yj/out/v1/6a77df01c34c4d998ef327d19404e2c9/cenc.mpd&k1=8439a38a6ff2ce5145f3669e41416633&k2=fcff724cafa25ba5c194bc88158ec320\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "DAZN ITALIAN - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/5kpt8feut3/out/v1/96ecbfc9461343b995d48874da26f01c/cenc.mpd&k1=a622f343e97ef638db07d63af040d80c&k2=020c697cab8974c87a75eca414e9e1df\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "PARAMOUNT+ - AQ",
           "source": "main",
           "type": "Direct"
         },
@@ -3543,7 +3557,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2719/image",
       "team1Name": "Cagliari",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2689/image",
-      "team2Name": "Lecce"
+      "team2Name": "Lecce",
+      "telegramSent": true
     },
     "match_14059830": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
@@ -3614,9 +3629,9 @@
           "type": "Direct"
         },
         {
-          "link": "https://no.link",
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd&k1=d69894c7b729c5d1e85893e5e6cfcb0f&k2=db0d53f871f5d2ef91d3a112c7ec9f30\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "Link 1",
+          "name": "Laliga Hypermotion ES",
           "source": "main",
           "type": "Direct"
         }
@@ -3624,7 +3639,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/24360/image",
       "team1Name": "Real Sociedad B U21",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2830/image",
-      "team2Name": "Málaga"
+      "team2Name": "Málaga",
+      "telegramSent": true
     },
     "match_14466142": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
@@ -3805,6 +3821,13 @@
           "link": "https://play.ltwxsc.com/live/hd-en-6MvXc3qus47Z7UR11Q.m3u8?txSecret=041ca946132bc706756bb6aff42593cb&txTime=69938735",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "SPORTIFy LIVE",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.theblacks.site/hls/03eb09ac-e4de-452b-9fff-0a9648ab6b67/index.m3u8",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SPORTIFy FAST",
           "source": "main",
           "type": "Direct"
         },
@@ -4099,7 +4122,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/1655/image",
       "team1Name": "Bastia",
       "team2Logo": "https://api.sofascore.com/api/v1/team/1652/image",
-      "team2Name": "Troyes"
+      "team2Name": "Troyes",
+      "telegramSent": true
     },
     "match_15359742": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/19/image/dark",
@@ -4109,16 +4133,37 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd&k1=d0f2e5c39e70c18f29bf77768a1ad89a&k2=d6853c51fcf37a18905f0609972395d7\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/nuwuiotmum/out/v1/a0c5e6e21ef646c2a0c20983991d9908/cenc.mpd&k1=3d69a9822fdbdb46609244f1916322bb&k2=bd62294ad9c4ccab9742679593dc5980\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "TNT SPORTS 1 - AQ",
+          "name": "DAZN SPORTS - AQ",
           "source": "main",
           "type": "Direct"
         },
         {
-          "link": "https://no.link",
+          "link": "https://601.xn--1000-ugoa0hsb9a0hb.com/tnt.m3u8",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "TNT SPORTS HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/master.m3u8?hdnea=exp=1771288201~acl=/*~id=30358970273386532960124487834444~hmac=be0a5d5e56af818c5b62f2f488bfd6f8517789a48b760ccd7c6e06a9a598bffd|User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; SM-T875; Build/QP1A.190711.020)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SonyLiv",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://601.xn--1000-ugoa0hsb9a0hb.com/tnt.m3u8",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "Link 1",
+          "name": "TNT SPORTS",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/master.m3u8?hdnea=exp=1771288201~acl=/*~id=30358970273386532960124487834444~hmac=be0a5d5e56af818c5b62f2f488bfd6f8517789a48b760ccd7c6e06a9a598bffd|User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; SM-T875; Build/QP1A.190711.020)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "SonyLiv",
           "source": "main",
           "type": "Direct"
         }
@@ -4126,7 +4171,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/447756/image",
       "team1Name": "Macclesfield FC",
       "team2Logo": "https://api.sofascore.com/api/v1/team/50/image",
-      "team2Name": "Brentford"
+      "team2Name": "Brentford",
+      "telegramSent": true
     },
     "match_15508295": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/1900/image/dark",
