@@ -4197,7 +4197,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/7646/image",
       "team1Name": "FC Seoul",
       "team2Logo": "https://api.sofascore.com/api/v1/team/3135/image",
-      "team2Name": "Sanfrecce Hiroshima"
+      "team2Name": "Sanfrecce Hiroshima",
+      "telegramSent": true
     },
     "match_14466119": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
@@ -4251,7 +4252,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/44409/image",
       "team1Name": "Machida Zelvia",
       "team2Logo": "https://api.sofascore.com/api/v1/team/221241/image",
-      "team2Name": "Chengdu Rongcheng"
+      "team2Name": "Chengdu Rongcheng",
+      "telegramSent": true
     },
     "match_14466142": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
@@ -4791,9 +4793,72 @@
       "sportType": "CRICKET",
       "streamLinks": [
         {
-          "link": "https://no.link",
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/qznlhrlfxw/out/v1/c9797121dc0345c2a04d46bf43cf7752/cenc.mpd&k1=8b61c1b25a5913b087f0fcd6f53386fe&k2=ccd0784f68c3726cf601187eaa82c98d\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "Link 1",
+          "name": "WILLOW - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/jiputaffgk/out/v1/2298afadf64943adb0b44dc540ace1ce/cenc.mpd&k1=2904b17cb64c996dbc254981b7602863&k2=66a7ef671b84498e64f94e8401fe8cb9\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "PRIME VIDEO FHD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "SKY SPORTS HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://stream.huraweb.com/embed_view.php?id=09328296f98a4415",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "JIO HOTSTAR",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://stream1.liveland.af/hls/tv/tolo-sport/chunklist3.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "Tolo Sports - IOS",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://stream.huraweb.com/embed_view.php?id=62782be2318ca7fb",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "Willow HD - IOS",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://cors-proxy.cooks.fyi/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "LEMAR TV - IOS",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://stream.huraweb.com/embed_view.php?id=76b33213265bd4b8",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "Willow 2 - IOS",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://wasitv-pro.site/dd.php?c=starhindi",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "Star Sports - IOS",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://alibabacdn4.tamashaweb.com/alibaba04/alibaba04stream.m3u8",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "Tamasha AD Free - IOS",
           "source": "main",
           "type": "Direct"
         }
@@ -4801,7 +4866,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/187766/image",
       "team1Name": "Ireland",
       "team2Logo": "https://api.sofascore.com/api/v1/team/187745/image",
-      "team2Name": "Zimbabwe"
+      "team2Name": "Zimbabwe",
+      "telegramSent": true
     },
     "match_15148083": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11185/image/dark",
