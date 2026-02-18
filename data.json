@@ -3863,7 +3863,15 @@
       "matchEndTime": "2026-02-18T19:45:00",
       "matchTime": "2026-02-18T17:45:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "https://no.link",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "Link 1",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/3043/image",
       "team1Name": "Tampines Rovers",
       "team2Logo": "https://api.sofascore.com/api/v1/team/193616/image",
@@ -3875,7 +3883,15 @@
       "matchEndTime": "2026-02-19T01:45:00",
       "matchTime": "2026-02-18T23:45:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "https://no.link",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "Link 1",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/44443/image",
       "team1Name": "Al-Ahli Doha",
       "team2Logo": "https://api.sofascore.com/api/v1/team/8018/image",
@@ -3919,6 +3935,13 @@
           "link": "https://smarthard.click/hls/34odOKpad8oO/index.m3u8",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "beiN ARABIC",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://no.link",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "Link 1",
           "source": "main",
           "type": "Direct"
         }
