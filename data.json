@@ -3533,7 +3533,15 @@
       "matchEndTime": "2026-02-18T17:30:00",
       "matchTime": "2026-02-18T15:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "ok",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "Cricz Stream",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/42210/image",
       "team1Name": "Melbourne City",
       "team2Logo": "https://api.sofascore.com/api/v1/team/34220/image",
@@ -3545,7 +3553,22 @@
       "matchEndTime": "2026-02-18T17:30:00",
       "matchTime": "2026-02-18T15:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "ok",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "Cricz Stream",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "ok",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "Cricz Stream",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/41537/image",
       "team1Name": "Shanghai Port",
       "team2Logo": "https://api.sofascore.com/api/v1/team/7653/image",
@@ -3608,9 +3631,44 @@
       "sportType": "CRICKET",
       "streamLinks": [
         {
-          "link": "https://no.link",
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/dznewfsjjw/out/v1/2298afadf64943adb0b44dc540ace1ce/cenc.mpd&k1=2904b17cb64c996dbc254981b7602863&k2=66a7ef671b84498e64f94e8401fe8cb9\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "Link 1",
+          "name": "PRIME VIDEO",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/cd779s5txo/out/v1/04ec1a6c725d493c8a4e602cff34caa8/cenc.mpd&k1=7ea6487ec80eb3fc447ecfd4d2406efb&k2=b916380d8ba5b9ce213483b96dcf69fa\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "WILLOW [Ad Free]",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "SKY SPORTS HD - IOS",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://alibabacdn4.tamashaweb.com/alibaba04/alibaba04stream.m3u8",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "Tamasha - IOS",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://stream1.liveland.af/hls/tv/tolo-sport/chunklist3.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "AF Sports - IOS",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://cors-proxy.cooks.fyi/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "LEMAR TV - IOS",
           "source": "main",
           "type": "Direct"
         }
@@ -3618,7 +3676,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/187754/image",
       "team1Name": "Pakistan",
       "team2Logo": "https://api.sofascore.com/api/v1/team/199275/image",
-      "team2Name": "Namibia"
+      "team2Name": "Namibia",
+      "telegramSent": true
     },
     "match_15148087": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11185/image/dark",
@@ -3770,7 +3829,22 @@
       "matchEndTime": "2026-02-19T01:45:00",
       "matchTime": "2026-02-18T23:45:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "ok",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "Cricz Stream",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "ok",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "Cricz Stream",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/23400/image",
       "team1Name": "Al-Nassr",
       "team2Logo": "https://api.sofascore.com/api/v1/team/469420/image",
@@ -3782,7 +3856,15 @@
       "matchEndTime": "2026-02-18T19:45:00",
       "matchTime": "2026-02-18T17:45:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "ok",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "Cricz Stream",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/64289/image",
       "team1Name": "Persib Bandung",
       "team2Logo": "https://api.sofascore.com/api/v1/team/85743/image",
@@ -3909,13 +3991,6 @@
       "matchTime": "2026-02-19T01:15:00",
       "sportType": "FOOTBALL",
       "streamLinks": [
-        {
-          "link": "ok",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "Cricz Stream",
-          "source": "main",
-          "type": "Direct"
-        },
         {
           "link": "https://no.link",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
