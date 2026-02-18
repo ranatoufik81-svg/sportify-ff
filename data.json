@@ -3561,27 +3561,6 @@
           "name": "beiN ARABIC",
           "source": "main",
           "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd&k1=065051b99bf5cf8d9a3bde5cbde6aaf9&k2=214bd176832872339ce184338320f9a2\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "FANCODE",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "https://play.ltwxsc.com/live/hd-en-6MvXc3quC4S6XoJzAr.m3u8?txSecret=c170c3bf6a0870d4c3228064aa4d7c88&txTime=6995B581",
-          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "Server - IOS",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "https://smarthard.click/hls/YSEYx3pBdjwV/index.m3u8",
-          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "beIN ARABIC",
-          "source": "main",
-          "type": "Direct"
         }
       ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/42210/image",
@@ -3862,7 +3841,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/305051/image",
       "team1Name": "Real Madrid",
       "team2Logo": "https://api.sofascore.com/api/v1/team/264964/image",
-      "team2Name": "Paris FC"
+      "team2Name": "Paris FC",
+      "telegramSent": true
     },
     "match_15250787": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/696/image/dark",
@@ -4109,13 +4089,6 @@
           "type": "Direct"
         },
         {
-          "link": "https://smarthard.click/hls/34odOKpad8oO/index.m3u8",
-          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "beIN ARABIC",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
           "link": "https://pull.niues.live/live/stream-547345_lsd.m3u8?auth_key=1771425695-0-0-c18035a860ed0c46dbc8a48c26a1055f",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV",
@@ -4281,9 +4254,9 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "https://no.link",
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd&k1=294b5761cefc22d0c6312939e13d8278&k2=52148f1042d238849f0a7813f1da8a7b\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "Link 1",
+          "name": "TNT SPORTS",
           "source": "main",
           "type": "Direct"
         }
@@ -4291,7 +4264,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/5962/image",
       "team1Name": "Qarabağ FK",
       "team2Logo": "https://api.sofascore.com/api/v1/team/39/image",
-      "team2Name": "Newcastle United"
+      "team2Name": "Newcastle United",
+      "telegramSent": true
     },
     "match_15452744": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
