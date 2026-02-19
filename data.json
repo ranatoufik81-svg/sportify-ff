@@ -3491,7 +3491,14 @@
       "sportType": "CRICKET",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/tcnujdavyp/out/v1/8cc91bc4d1aa47bb819dce5234154780/cenc.mpd&k1=5b6942ab0356173ee092f7560a77856c&k2=a18b28e917595ce7ca21783b9ef81c91\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd&k1=1d96ab366bbe6451edf7407b58e2fa16&k2=0116201f4a63ac5bf5787d2c610c41a7\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "TNT SPORTS - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash-sd/enc/8ek9c94u6t/out/v1/bda0c705760d45a3b64986d5564106fd/cenc-sd.mpd&k1=3319631f127fe56d8f6373c4a9556e81&k2=4bbcf8c41b8d1523745ad1a36b62f15b\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "WILLOW - AQ",
           "source": "main",
@@ -3508,7 +3515,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/213117/image",
       "team1Name": "Australia Women",
       "team2Logo": "https://api.sofascore.com/api/v1/team/213119/image",
-      "team2Name": "India Women"
+      "team2Name": "India Women",
+      "telegramSent": true
     },
     "match_14025018": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
@@ -3738,7 +3746,15 @@
       "matchEndTime": "2026-02-20T02:30:00",
       "matchTime": "2026-02-20T00:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "ok",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "Cricz Stream",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/34469/image",
       "team1Name": "Al-Ahli",
       "team2Logo": "https://api.sofascore.com/api/v1/team/395831/image",
