@@ -3958,9 +3958,44 @@
       "sportType": "CRICKET",
       "streamLinks": [
         {
-          "link": "https://no.link",
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/oja9dyfjjo/out/v1/d346b8e088254045bf5ecde7cf5d335a/cenc.mpd&k1=baafdb8ebcbbc0655332291da6f121da&k2=60ac892e0ea0b2c46fc6837c97ed641a\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "Link 1",
+          "name": "PRIME VIDEO",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/wt1pltyb9z/out/v1/3542ef35fd004ae2b7c718829175e868/cenc.mpd&k1=e9fd517a44b10834f914c2dd3ddd07f0&k2=cc5e6232a1a5ef63be1618828e1b2ef7\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "WILLOW [Ad Free]",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "SKY SPORTS HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://live-pull.aisports.mobi/moviebox/device01/playlist.m3u8|Referer=https://sportslivenow.top/",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "JIO HOTSTAR",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://cdn39591467.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://yahoo.com/&Origin=https://yahoo.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "WILLOW HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://cors-proxy.cooks.fyi/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "LEMAR TV",
           "source": "main",
           "type": "Direct"
         }
@@ -4626,7 +4661,15 @@
       "matchEndTime": "2026-02-20T03:30:00",
       "matchTime": "2026-02-20T01:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "ok",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "Cricz Stream",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/3395/image",
       "team1Name": "Omonia Nicosia",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2039/image",
