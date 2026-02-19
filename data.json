@@ -3669,9 +3669,65 @@
       "sportType": "CRICKET",
       "streamLinks": [
         {
-          "link": "https://no.link",
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/t2buh3bwfz/out/v1/a11bc1e80b914e3da78bada1810e9088/cenc.mpd&k1=96b9f1bddc286bf383458bae508674c1&k2=4a0666f8b8c2f1edc8c6155629d3df97\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "Link 1",
+          "name": "WILLOW [Ad Free]",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/108rikwly7/out/v1/8777014e61534e7c873dc695bc485397/cenc.mpd&k1=2904b17cb64c996dbc254981b7602863&k2=66a7ef671b84498e64f94e8401fe8cb9\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "PRIME VIDEO - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ml-pull-rtmp-pk1.myco.io/Clean2/dash/index.mpd&k1=29256eae859c52928db4c3fc77b01588&k2=0371f71ce2e897e893a9532e540fbc0f\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "MyCO FHD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "SKY SPORTS HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/hdntl=exp=1771521068~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=96bc7139-3edd-47ca-8f83-cfabcae165c5~data=hdntl~hmac=bc208a1ac48b90ed17ed6f6bb8e28c98b32a718d1ad82bb369a47004acc6bcc2/manifest.mpd?vcfilter=6a837443-7c09-488f-a882-219b6965909f&&k1=509680a60333369b9fef850c5fbbf96b&k2=e7e1cfbc5e3d4e460a01cd68a5b10876\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "ICC TV [VPN]",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://live-pull.aisports.mobi/moviebox/device02/playlist.m3u8|Referer=https://sportslivenow.top/",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "JIO HOTSTAR",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://stream1.liveland.af/hls/tv/tolo-sport/chunklist3.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "HD SERVER ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://cdn39591467.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://yahoo.com/&Origin=https://yahoo.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "Willow HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://cdn39591467.blazingcdn.net/dx14sd/index.m3u8|Referer=https://yahoo.com/&Origin=https://yahoo.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "Willow SD",
           "source": "main",
           "type": "Direct"
         }
@@ -3679,7 +3735,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/187756/image",
       "team1Name": "Sri Lanka",
       "team2Logo": "https://api.sofascore.com/api/v1/team/187745/image",
-      "team2Name": "Zimbabwe"
+      "team2Name": "Zimbabwe",
+      "telegramSent": true
     },
     "match_15148098": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11185/image/dark",
@@ -3799,9 +3856,9 @@
           "type": "Direct"
         },
         {
-          "link": "https://no.link",
+          "link": "https://smarthard.click/hls/3QZg5SKsM1P0/index.m3u8",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "Link 1",
+          "name": "beIN ARABIC",
           "source": "main",
           "type": "Direct"
         }
@@ -3809,7 +3866,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/3138/image",
       "team1Name": "Gamba Osaka",
       "team2Logo": "https://api.sofascore.com/api/v1/team/7650/image",
-      "team2Name": "Pohang Steelers"
+      "team2Name": "Pohang Steelers",
+      "telegramSent": true
     },
     "match_15380189": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
