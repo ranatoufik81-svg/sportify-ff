@@ -4045,7 +4045,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/284175/image",
       "team1Name": "O&M FC",
       "team2Logo": "https://api.sofascore.com/api/v1/team/215167/image",
-      "team2Name": "FC Cincinnati"
+      "team2Name": "FC Cincinnati",
+      "telegramSent": true
     },
     "match_15250653": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/696/image/dark",
@@ -4162,7 +4163,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/5250/image",
       "team1Name": "Barcelona SC Guayaquil",
       "team2Logo": "https://api.sofascore.com/api/v1/team/3216/image",
-      "team2Name": "Argentinos Juniors"
+      "team2Name": "Argentinos Juniors",
+      "telegramSent": true
     },
     "match_15253549": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/384/image/dark",
@@ -4174,7 +4176,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/47700/image",
       "team1Name": "Nacional Potosí",
       "team2Logo": "https://api.sofascore.com/api/v1/team/1958/image",
-      "team2Name": "Botafogo"
+      "team2Name": "Botafogo",
+      "telegramSent": true
     },
     "match_15296006": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
@@ -5099,13 +5102,6 @@
           "name": "Cricz Stream",
           "source": "main",
           "type": "Direct"
-        },
-        {
-          "link": "k",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "Cricz Stream",
-          "source": "main",
-          "type": "Direct"
         }
       ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/3251/image",
@@ -5120,13 +5116,6 @@
       "matchTime": "2026-02-20T01:30:00",
       "sportType": "FOOTBALL",
       "streamLinks": [
-        {
-          "link": "ok",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "Cricz Stream",
-          "source": "main",
-          "type": "Direct"
-        },
         {
           "link": "ok",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
@@ -5209,13 +5198,6 @@
           "name": "Cricz Stream",
           "source": "main",
           "type": "Direct"
-        },
-        {
-          "link": "ok",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "Cricz Stream",
-          "source": "main",
-          "type": "Direct"
         }
       ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2032/image",
@@ -5229,7 +5211,15 @@
       "matchEndTime": "2026-02-20T01:15:00",
       "matchTime": "2026-02-19T23:15:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "ok",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "Cricz Stream",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/1159/image",
       "team1Name": "SK Brann",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2685/image",
