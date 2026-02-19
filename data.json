@@ -3746,9 +3746,44 @@
       "sportType": "CRICKET",
       "streamLinks": [
         {
-          "link": "https://no.link",
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/rbe2afvxhk/out/v1/ad30e0feef774b1cbc9599dc976990c6/cenc.mpd&k1=5378d567ce79c72673bc2e3dcd7f858b&k2=123d71da5dcc9d9db5cf193a80e63344\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "Link 1",
+          "name": "WILLOW [Ad Free]",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "SKY SPORTS HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://live-pull.aisports.mobi/moviebox/football001/playlist.m3u8|Referer=https://sportslivenow.top/",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "JIO HOTSTAR",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://stream1.liveland.af/hls/tv/tolo-sport/chunklist3.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "HD SERVER ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://cdn39591467.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://yahoo.com/&Origin=https://yahoo.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "WILLOW HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://cdn39591467.blazingcdn.net/dx14hd/index.m3u8|Referer=https://yahoo.com/&Origin=https://yahoo.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "WILLOW SD",
           "source": "main",
           "type": "Direct"
         }
@@ -3756,7 +3791,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/187575/image",
       "team1Name": "Afghanistan",
       "team2Logo": "https://api.sofascore.com/api/v1/team/189195/image",
-      "team2Name": "Canada"
+      "team2Name": "Canada",
+      "telegramSent": true
     },
     "match_15216963": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/498/image/dark",
@@ -3849,9 +3885,9 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "ok",
+          "link": "https://smarthard.click/hls/3QZg5SKsM1P0/index.m3u8",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "Cricz Stream",
+          "name": "beiN SPORTS",
           "source": "main",
           "type": "Direct"
         },
