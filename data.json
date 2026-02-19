@@ -3750,7 +3750,15 @@
       "matchEndTime": "2026-02-20T02:30:00",
       "matchTime": "2026-02-20T00:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "ok",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "Cricz Stream",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/34318/image",
       "team1Name": "Al-Ettifaq",
       "team2Logo": "https://api.sofascore.com/api/v1/team/56023/image",
@@ -3762,7 +3770,15 @@
       "matchEndTime": "2026-02-20T02:30:00",
       "matchTime": "2026-02-20T00:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "ok",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "Cricz Stream",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/269199/image",
       "team1Name": "Al-Kholood",
       "team2Logo": "https://api.sofascore.com/api/v1/team/168088/image",
@@ -4367,7 +4383,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/371682/image",
       "team1Name": "Macarthur FC",
       "team2Logo": "https://api.sofascore.com/api/v1/team/85741/image",
-      "team2Name": "True Bangkok United"
+      "team2Name": "True Bangkok United",
+      "telegramSent": true
     },
     "match_15298464": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
@@ -4577,7 +4594,22 @@
       "matchEndTime": "2026-02-20T01:15:00",
       "matchTime": "2026-02-19T23:15:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "ok",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "Cricz Stream",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "ok",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "Cricz Stream",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/5178/image",
       "team1Name": "HŠK Zrinjski Mostar",
       "team2Logo": "https://api.sofascore.com/api/v1/team/7/image",
@@ -4589,7 +4621,15 @@
       "matchEndTime": "2026-02-20T01:15:00",
       "matchTime": "2026-02-19T23:15:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "ok",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "Cricz Stream",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2207/image",
       "team1Name": "SK Sigma Olomouc",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2446/image",
@@ -4637,7 +4677,15 @@
       "matchEndTime": "2026-02-20T03:30:00",
       "matchTime": "2026-02-20T01:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "ok",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "Cricz Stream",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/229755/image",
       "team1Name": "FC Drita",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2413/image",
