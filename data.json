@@ -3611,9 +3611,9 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "https://no.link",
+          "link": "https://smarthard.click/hls/kjzxkCIqkhtb/index.m3u8",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "Link 1",
+          "name": "Sky Bundesliga SD",
           "source": "main",
           "type": "Direct"
         }
@@ -3621,7 +3621,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2542/image",
       "team1Name": "VfL Bochum 1848",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2523/image",
-      "team2Name": "1. FC Nürnberg"
+      "team2Name": "1. FC Nürnberg",
+      "telegramSent": true
     },
     "match_14065452": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
@@ -3631,9 +3632,9 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "https://no.link",
+          "link": "https://smarthard.click/hls/Mhe8gotoGQlu/index.m3u8?",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "Link 1",
+          "name": "Sky Bundesliga SD",
           "source": "main",
           "type": "Direct"
         }
@@ -3641,7 +3642,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2551/image",
       "team1Name": "SpVgg Greuther Fürth",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2540/image",
-      "team2Name": "Arminia Bielefeld"
+      "team2Name": "Arminia Bielefeld",
+      "telegramSent": true
     },
     "match_14083549": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
@@ -3864,12 +3866,19 @@
       "telegramSent": true
     },
     "match_15437277": {
+      "isStar": false,
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11221/image/dark",
       "leagueTitle": "Sri Lanka Women in West Indies, 3 ODI Series",
-      "matchEndTime": "2026-02-21T02:00:00",
-      "matchTime": "2026-02-20T19:00:00",
+      "matchEndTime": "2026-02-21T02:00",
+      "matchTime": "2026-02-20T19:00",
       "sportType": "CRICKET",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/fancode-plyer/?id=140138\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "FANCODE ",
+          "type": "Embed"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/213120/image",
       "team1Name": "West Indies Women",
       "team2Logo": "https://api.sofascore.com/api/v1/team/187806/image",
