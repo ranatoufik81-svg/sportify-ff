@@ -3971,9 +3971,58 @@
       "sportType": "CRICKET",
       "streamLinks": [
         {
-          "link": "https://no.link",
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/mf6gto31kn/out/v1/156dae6f14124e108e532882262bc92f/cenc.mpd&k1=b51d13fb40e62690e1a22805e1ad502d&k2=f18fe0dc180b7ce0c48e8145c30e7575\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "Link 1",
+          "name": "WILLOW - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://otte.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash/enc/0r0djhe3iq/out/v1/adc4f984bb244252b29bd96adb6a7b44/cenc.mpd&k1=baafdb8ebcbbc0655332291da6f121da&k2=60ac892e0ea0b2c46fc6837c97ed641a\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "PRIME VIDEO",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ml-pull-rtmp-pk1.myco.io/Clean1/dash/index.mpd&k1=a4966ba118d156f99abc0b9a46bbe176&k2=6d2a810a83250a2a0c659fd0332063dc\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "MyCO FHD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://live-pull.aisports.mobi/moviebox/device01/playlist.m3u8|Referer=https://sportslivenow.top/",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "JIO HOTSTAR",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://google.com/&Origin=https://google.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "WILLOW - LQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://cors-proxy.cooks.fyi/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "LEMAR TV HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "SKY SPORTS",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://stream1.liveland.af/hls/tv/tolo-sport/chunklist3.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "HD SERVER ",
           "source": "main",
           "type": "Direct"
         },
@@ -3986,7 +4035,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/187746/image",
       "team1Name": "Australia",
       "team2Logo": "https://api.sofascore.com/api/v1/team/199279/image",
-      "team2Name": "Oman"
+      "team2Name": "Oman",
+      "telegramSent": true
     },
     "match_15216970": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/498/image/dark",
@@ -4011,7 +4061,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/213120/image",
       "team1Name": "West Indies Women",
       "team2Logo": "https://api.sofascore.com/api/v1/team/187806/image",
-      "team2Name": "Sri Lanka Women"
+      "team2Name": "Sri Lanka Women",
+      "telegramSent": true
     },
     "match_15513661": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/1900/image/dark",
@@ -4019,11 +4070,27 @@
       "matchEndTime": "2026-02-20T21:30:00",
       "matchTime": "2026-02-20T19:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd&k1=065051b99bf5cf8d9a3bde5cbde6aaf9&k2=214bd176832872339ce184338320f9a2\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "FANCODE FHD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://abmvm23aaaaaaaamjmmec4lqatq7x.ottb.live.cf.ww.aiv-cdn.net/sin-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd&k1=5689304538fa9f3bb3da99c939a2ad4f&k2=6907c88ed8ebdd35a2fa80b9684715e1\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "FANCODE - SD",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/118660/image",
       "team1Name": "Mohammedan SC",
       "team2Logo": "https://api.sofascore.com/api/v1/team/174594/image",
-      "team2Name": "FC Goa"
+      "team2Name": "FC Goa",
+      "telegramSent": true
     }
   },
   "navigation": {
