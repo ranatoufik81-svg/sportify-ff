@@ -3885,11 +3885,6 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "https://in-mc-flive.fancode.com/mumbai/140438_hindi_hls_83cf9cf89d47323_1ta-di_h264/1080p.m3u8?hdntl=Expires=1771681632~_GO=Generated~acl=/mumbai/140438_hindi_hls_83cf9cf89d47323_1ta-di_h264/*~Signature=AScLvDspZWlRQ9HCmV8uMcy7d8lgbst8ITmKLluSiPKQrVIJM87-8n3Ig0U1PRP1l1qn1ui0006gtzCuP4QUKcqHg3AO",
-          "name": "FANCODE HINDI ",
-          "type": "Direct"
-        },
-        {
           "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd&k1=065051b99bf5cf8d9a3bde5cbde6aaf9&k2=214bd176832872339ce184338320f9a2\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
           "name": "FANCODE FHD",
@@ -3901,6 +3896,11 @@
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
           "name": "FANCODE - SD",
           "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://in-mc-flive.fancode.com/mumbai/140438_hindi_hls_83cf9cf89d47323_1ta-di_h264/1080p.m3u8?hdntl=Expires=1771681632~_GO=Generated~acl=/mumbai/140438_hindi_hls_83cf9cf89d47323_1ta-di_h264/*~Signature=AScLvDspZWlRQ9HCmV8uMcy7d8lgbst8ITmKLluSiPKQrVIJM87-8n3Ig0U1PRP1l1qn1ui0006gtzCuP4QUKcqHg3AO",
+          "name": "FANCODE HINDI ",
           "type": "Direct"
         },
         {
