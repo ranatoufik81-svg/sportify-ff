@@ -3721,7 +3721,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/96/image",
       "team1Name": "Hull City",
       "team2Logo": "https://api.sofascore.com/api/v1/team/1/image",
-      "team2Name": "Queens Park Rangers"
+      "team2Name": "Queens Park Rangers",
+      "telegramSent": true
     },
     "match_14059842": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
@@ -3813,7 +3814,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/74/image",
       "team1Name": "Swansea City",
       "team2Logo": "https://api.sofascore.com/api/v1/team/58/image",
-      "team2Name": "Bristol City"
+      "team2Name": "Bristol City",
+      "telegramSent": true
     },
     "match_14059849": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
@@ -3833,7 +3835,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/29/image",
       "team1Name": "Stoke City",
       "team2Logo": "https://api.sofascore.com/api/v1/team/31/image",
-      "team2Name": "Leicester City"
+      "team2Name": "Leicester City",
+      "telegramSent": true
     },
     "match_14059850": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
@@ -3865,7 +3868,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/8/image",
       "team1Name": "West Bromwich Albion",
       "team2Logo": "https://api.sofascore.com/api/v1/team/11/image",
-      "team2Name": "Coventry City"
+      "team2Name": "Coventry City",
+      "telegramSent": true
     },
     "match_14059852": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
@@ -3909,7 +3913,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/23959/image",
       "team1Name": "Fleetwood Town",
       "team2Logo": "https://api.sofascore.com/api/v1/team/97/image",
-      "team2Name": "Barrow AFC"
+      "team2Name": "Barrow AFC",
+      "telegramSent": true
     },
     "match_14060729": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/25/image/dark",
@@ -3969,7 +3974,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/53/image",
       "team1Name": "Swindon Town",
       "team2Logo": "https://api.sofascore.com/api/v1/team/19/image",
-      "team2Name": "Crewe Alexandra"
+      "team2Name": "Crewe Alexandra",
+      "telegramSent": true
     },
     "match_14060996": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
@@ -4025,7 +4031,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/71/image",
       "team1Name": "Plymouth Argyle",
       "team2Logo": "https://api.sofascore.com/api/v1/team/61/image",
-      "team2Name": "Cardiff City"
+      "team2Name": "Cardiff City",
+      "telegramSent": true
     },
     "match_14061117": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
@@ -4049,7 +4056,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/13/image",
       "team1Name": "Rotherham United",
       "team2Logo": "https://api.sofascore.com/api/v1/team/84/image",
-      "team2Name": "Doncaster Rovers"
+      "team2Name": "Doncaster Rovers",
+      "telegramSent": true
     },
     "match_14061171": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
@@ -4073,7 +4081,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/62/image",
       "team1Name": "Wycombe Wanderers",
       "team2Logo": "https://api.sofascore.com/api/v1/team/133/image",
-      "team2Name": "Stevenage"
+      "team2Name": "Stevenage",
+      "telegramSent": true
     },
     "match_14061203": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/25/image/dark",
@@ -4341,6 +4350,55 @@
           "name": "SKY BUNDESLIGA SD",
           "source": "main",
           "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1771678596-0-0-6b12b3362cb5508290839337cc26763b",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1771678596-0-0-94677a8662912d1c1501bbee8049b4da",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-5126499_lsd.m3u8?auth_key=1771678596-0-0-9f3799baa742d8d83056cc433eb39158",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TURBO FHD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-5126499_lhd.m3u8?auth_key=1771678596-0-0-98b6be8415d363b673b94d4f385976a7",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1771678596-0-0-60cae3f36654d43137e6e593cd4a6022",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy GOLD FHD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1771678596-0-0-742658870fabd019ffd676e2c2ad07ea",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy SD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy GOLD",
+          "source": "api",
+          "type": "Direct"
         }
       ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2553/image",
@@ -4361,6 +4419,13 @@
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
           "name": "SKY BUNDESLIGA SD",
           "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy TV",
+          "source": "api",
           "type": "Direct"
         }
       ],
