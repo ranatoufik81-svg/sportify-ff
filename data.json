@@ -3523,6 +3523,20 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cjttwwjvwu/out/v1/d7e29446d99343f1876919e56e711281/cenc.mpd&k1=59adf31dd242c5140e748a422ab8cf3b&k2=55e1b86f6f06b6de7026dedd36f1b197\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "PARAMOUNT+ AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jezfawhhvn/out/v1/794fe1c7b37d415db80f81555662fdb6/cenc.mpd&k1=50a401e7039075842f1213a6f6a3e393&k2=7ac00d664f22b09514b0b504a062927a\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "FUBO SPORTS",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
           "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd&k1=7995c724a13748ed970840a8ab5bb9b3&k2=67bdaf1e2175b9ff682fcdf0e2354b1e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
           "name": "beIN ENGLISH",
@@ -3535,12 +3549,62 @@
           "name": "CBS Golazo",
           "source": "main",
           "type": "Direct"
+        },
+        {
+          "link": "https://instreams.live/EU/HDTV12/index.m3u8?st=SportzX|Referer=https://instreams.click/",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "SKY SPORTS IT",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1771706341-0-0-bf6c7f7cb67e7552a811d967681fac79",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1771706341-0-0-063ee68092691f2982b33807cd77bb9e",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1771706316-0-0-dc5f3a3ca7a967c4b69dcda30a73c8c6",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy FAST",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1771706316-0-0-c3ec79f63e42006936499c8b5c98eacb",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy SOCCER",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": " https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7",
+          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "name": "SPORTIFy ULTRA",
+          "source": "api",
+          "type": "Direct"
         }
       ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2719/image",
       "team1Name": "Cagliari",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2699/image",
-      "team2Name": "Lazio"
+      "team2Name": "Lazio",
+      "telegramSent": true
     },
     "match_13981678": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
@@ -4223,7 +4287,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/4860/image",
       "team1Name": "Royale Union Saint-Gilloise",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2889/image",
-      "team2Name": "Royal Antwerp FC"
+      "team2Name": "Royal Antwerp FC",
+      "telegramSent": true
     },
     "match_14032418": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/38/image/dark",
@@ -5898,14 +5963,14 @@
           "type": "Direct"
         },
         {
-          "link": "https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1771704876-0-0-a8476a400162ce4b14bfe657f2dcdd62",
+          "link": "https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1771706316-0-0-3246f487eeaf5cd8d9fbe7dc2df691d9",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV",
           "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1771704876-0-0-e2b4cdbafa86b121e0c700303bca1169",
+          "link": "https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1771706316-0-0-7e4ba6d818d5b4f712785a0bd1f6b31d",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV+ HD",
           "source": "api",
@@ -5914,7 +5979,7 @@
         {
           "link": "https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74",
           "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
-          "name": "SPORTIFy MAX",
+          "name": "SPORTIFy SOCCER",
           "source": "api",
           "type": "Direct"
         }
@@ -6127,9 +6192,16 @@
           "type": "Direct"
         },
         {
-          "link": "https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526",
-          "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
+          "link": "https://pull.niues.live/live/stream-586938_lsd.m3u8?auth_key=1771706316-0-0-658d721ae910aae4f4bf7329e2e2f19c",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-586938_lhd.m3u8?auth_key=1771706316-0-0-7b14bb90bad17660ca2735d8403960b2",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV+ HD",
           "source": "api",
           "type": "Direct"
         }
@@ -6162,30 +6234,30 @@
           "type": "Direct"
         },
         {
-          "link": "https://pull.niues.live/live/stream-579144_lsd.m3u8?auth_key=1771704876-0-0-24f89390e7cc1cb44c08167ec0d028e5",
+          "link": "https://pull.niues.live/live/stream-579144_lsd.m3u8?auth_key=1771706316-0-0-356f31f966d4b362356dafea02f2aec6",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV",
           "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://pull.niues.live/live/stream-579144_lhd.m3u8?auth_key=1771704876-0-0-d52409e0f00364272a0ad7c5e8afad38",
+          "link": "https://pull.niues.live/live/stream-579144_lhd.m3u8?auth_key=1771706316-0-0-c59b28f44f55d9ebb1930c2ffc5c1722",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV+ HD",
           "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://pull.niues.live/live/stream-566705_lsd.m3u8?auth_key=1771704876-0-0-835392aab4ee14fd7829c9f34a01688e",
+          "link": "https://pull.niues.live/live/stream-566705_lsd.m3u8?auth_key=1771706316-0-0-744d401af7304fe0ef67910aae8348c1",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy FHD",
+          "name": "SPORTIFy STAR",
           "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://pull.niues.live/live/stream-566705_lhd.m3u8?auth_key=1771704876-0-0-e9f7cb380eecee82fd98a59694f7a1b3",
+          "link": "https://pull.niues.live/live/stream-566705_lhd.m3u8?auth_key=1771706316-0-0-122cd6ecc09e26171bc980e150b79d79",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy PRO",
+          "name": "SPORTIFy MAX FHD",
           "source": "api",
           "type": "Direct"
         }
