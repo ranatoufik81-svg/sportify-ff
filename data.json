@@ -3484,12 +3484,31 @@
   },
   "matches": {
     "match_13694759": {
+      "isStar": false,
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11222/image/dark",
       "leagueTitle": "India Women in Australia, 3 T20I Series",
-      "matchEndTime": "2026-02-21T20:45:00",
-      "matchTime": "2026-02-21T13:45:00",
+      "matchEndTime": "2026-02-21T20:45",
+      "matchTime": "2026-02-21T13:45",
       "sportType": "CRICKET",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd&k1=1d96ab366bbe6451edf7407b58e2fa16&k2=0116201f4a63ac5bf5787d2c610c41a7\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "TNT SPORTS",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd&k1=1d96ab366bbe6451edf7407b58e2fa16&k2=0116201f4a63ac5bf5787d2c610c41a7\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "TNT SPORTS",
+          "type": "Embed"
+        },
+        {
+          "link": "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
+          "name": "WILLOW",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/213117/image",
       "team1Name": "Australia Women",
       "team2Logo": "https://api.sofascore.com/api/v1/team/213119/image",
@@ -4590,58 +4609,6 @@
       "team2Name": "Los Angeles Clippers",
       "telegramSent": true
     },
-    "match_14441806": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
-      "leagueTitle": "NBA",
-      "matchEndTime": "2026-02-21T07:30:00",
-      "matchTime": "2026-02-21T05:30:00",
-      "sportType": "BASKETBALL",
-      "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/3430/image",
-      "team1Name": "Charlotte Hornets",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/3432/image",
-      "team2Name": "Cleveland Cavaliers",
-      "telegramSent": true
-    },
-    "match_14441829": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
-      "leagueTitle": "NBA",
-      "matchEndTime": "2026-02-21T07:30:00",
-      "matchTime": "2026-02-21T05:30:00",
-      "sportType": "BASKETBALL",
-      "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/3431/image",
-      "team1Name": "Washington Wizards",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/3419/image",
-      "team2Name": "Indiana Pacers",
-      "telegramSent": true
-    },
-    "match_14442020": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
-      "leagueTitle": "NBA",
-      "matchEndTime": "2026-02-21T08:00:00",
-      "matchTime": "2026-02-21T06:00:00",
-      "sportType": "BASKETBALL",
-      "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/3423/image",
-      "team1Name": "Atlanta Hawks",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/3435/image",
-      "team2Name": "Miami Heat",
-      "telegramSent": true
-    },
-    "match_14442044": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
-      "leagueTitle": "NBA",
-      "matchEndTime": "2026-02-21T08:00:00",
-      "matchTime": "2026-02-21T06:00:00",
-      "sportType": "BASKETBALL",
-      "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/3426/image",
-      "team1Name": "Minnesota Timberwolves",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/3411/image",
-      "team2Name": "Dallas Mavericks",
-      "telegramSent": true
-    },
     "match_14442072": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
       "leagueTitle": "NBA",
@@ -4666,19 +4633,6 @@
       "team1Name": "Phoenix Suns",
       "team2Logo": "https://api.sofascore.com/api/v1/team/3437/image",
       "team2Name": "Orlando Magic"
-    },
-    "match_14442227": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
-      "leagueTitle": "NBA",
-      "matchEndTime": "2026-02-21T07:30:00",
-      "matchTime": "2026-02-21T05:30:00",
-      "sportType": "BASKETBALL",
-      "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/3415/image",
-      "team1Name": "Memphis Grizzlies",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/3434/image",
-      "team2Name": "Utah Jazz",
-      "telegramSent": true
     },
     "match_14442396": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
@@ -4805,7 +4759,15 @@
       "matchEndTime": "2026-02-22T02:00:00",
       "matchTime": "2026-02-21T19:00:00",
       "sportType": "CRICKET",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "https://no.link",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "Link 1",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/187755/image",
       "team1Name": "New Zealand",
       "team2Logo": "https://api.sofascore.com/api/v1/team/187754/image",
