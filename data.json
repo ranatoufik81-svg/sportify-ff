@@ -4313,7 +4313,15 @@
       "matchEndTime": "2026-02-21T19:30:00",
       "matchTime": "2026-02-21T17:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "https://smarthard.click/hls/6v8yVbveVz4/index.m3u8",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "SKY BUNDESLIGA SD",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2598/image",
       "team1Name": "SV 07 Elversberg",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2557/image",
@@ -4325,7 +4333,15 @@
       "matchEndTime": "2026-02-21T19:30:00",
       "matchTime": "2026-02-21T17:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "https://smarthard.click/hls/kjzxkCIqkhtb/index.m3u8",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "SKY BUNDESLIGA SD",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2553/image",
       "team1Name": "Karlsruher SC",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2573/image",
@@ -4337,7 +4353,15 @@
       "matchEndTime": "2026-02-21T19:30:00",
       "matchTime": "2026-02-21T17:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "https://smarthard.click/hls/Mhe8gotoGQlu/index.m3u8",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "SKY BUNDESLIGA SD",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2576/image",
       "team1Name": "Darmstadt 98",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2588/image",
@@ -4679,45 +4703,6 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/2796/image",
       "team2Name": "Catanzaro"
     },
-    "match_14439138": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
-      "leagueTitle": "NBA",
-      "matchEndTime": "2026-02-21T08:30:00",
-      "matchTime": "2026-02-21T06:30:00",
-      "sportType": "BASKETBALL",
-      "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/5539/image",
-      "team1Name": "New Orleans Pelicans",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/3410/image",
-      "team2Name": "Milwaukee Bucks",
-      "telegramSent": true
-    },
-    "match_14439208": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
-      "leagueTitle": "NBA",
-      "matchEndTime": "2026-02-21T10:30:00",
-      "matchTime": "2026-02-21T08:30:00",
-      "sportType": "BASKETBALL",
-      "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/3427/image",
-      "team1Name": "Los Angeles Lakers",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/3425/image",
-      "team2Name": "Los Angeles Clippers",
-      "telegramSent": true
-    },
-    "match_14442072": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
-      "leagueTitle": "NBA",
-      "matchEndTime": "2026-02-21T08:30:00",
-      "matchTime": "2026-02-21T06:30:00",
-      "sportType": "BASKETBALL",
-      "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/3418/image",
-      "team1Name": "Oklahoma City Thunder",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/3436/image",
-      "team2Name": "Brooklyn Nets",
-      "telegramSent": true
-    },
     "match_14442099": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
       "leagueTitle": "NBA",
@@ -4729,19 +4714,6 @@
       "team1Name": "Phoenix Suns",
       "team2Logo": "https://api.sofascore.com/api/v1/team/3437/image",
       "team2Name": "Orlando Magic"
-    },
-    "match_14442396": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
-      "leagueTitle": "NBA",
-      "matchEndTime": "2026-02-21T10:30:00",
-      "matchTime": "2026-02-21T08:30:00",
-      "sportType": "BASKETBALL",
-      "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/3414/image",
-      "team1Name": "Portland Trail Blazers",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/3417/image",
-      "team2Name": "Denver Nuggets",
-      "telegramSent": true
     },
     "match_14773744": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
@@ -4812,24 +4784,24 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://in-mc-flive.fancode.com/mumbai/140439_english_hls_949484ff3954082_1ta-di_h264/240p.m3u8?hdntl=Expires=1771759145~_GO=Generated~acl=/mumbai/140439_english_hls_949484ff3954082_1ta-di_h264/*~Signature=AScLvDux7SSNTcfQmPbZPQMhcu4x8PPtmfPZM-NljVsAGQS6wKdS76vpfi0xw4VEp6fr14jMp7SFUPwBTy_SD0yeInUL\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "name": "FANCODE ENGLISH ",
-          "type": "Direct"
+          "type": "Embed"
         },
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://in-mc-flive.fancode.com/mumbai/140439_hindi_hls_72a34216c753743_1ta-di_h264/240p.m3u8?hdntl=Expires=1771759146~_GO=Generated~acl=/mumbai/140439_hindi_hls_72a34216c753743_1ta-di_h264/*~Signature=AScLvDv-VE20lb5jNYJIpHsd5us430kEhnAc_zrePVm-gaJTylpuEUwvb9vBZiMTXiMM6EetU_HrlnHPtMs08oMdJzME\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "name": "FANCODE HINDI",
-          "type": "Direct"
+          "type": "Embed"
         },
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://in-mc-flive.fancode.com/mumbai/140439_bengali_hls_8bef81215065858_1ta-di_h264/240p.m3u8?hdntl=Expires=1771759149~_GO=Generated~acl=/mumbai/140439_bengali_hls_8bef81215065858_1ta-di_h264/*~Signature=AScLvDvpFlb8MlzcMFH4pu4wR0B74Bs4CE2YU7BxmBmrgc3LQ41EjhGAuYD5-gySlxlgj9o2s9xMHQhh6_3qE6Rq9rsF\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "name": "FANCODE BENGALI",
-          "type": "Direct"
+          "type": "Embed"
         },
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://in-mc-flive.fancode.com/mumbai/140439_malayalam_hls_ffdaeecf4520485_1ta-di_h264/240p.m3u8?hdntl=Expires=1771759148~_GO=Generated~acl=/mumbai/140439_malayalam_hls_ffdaeecf4520485_1ta-di_h264/*~Signature=AScLvDtPdGAb00Taw20p4hAtcnlSoPeN250s6niMSmICV6kxduF5F46URDIVhDDdcXor9hYjXN3VY2RTfw2bhfZ8gEUB\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "name": "FANCODE MALYALAM",
-          "type": "Direct"
+          "type": "Embed"
         }
       ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/40655/image",
