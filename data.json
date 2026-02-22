@@ -4217,45 +4217,6 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/3430/image",
       "team2Name": "Charlotte Hornets"
     },
-    "match_15289390": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-      "leagueTitle": "MLS",
-      "matchEndTime": "2026-02-22T11:00:00",
-      "matchTime": "2026-02-22T09:00:00",
-      "sportType": "FOOTBALL",
-      "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/22007/image",
-      "team1Name": "Portland Timbers",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/2504/image",
-      "team2Name": "Columbus Crew",
-      "telegramSent": true
-    },
-    "match_15289391": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-      "leagueTitle": "MLS",
-      "matchEndTime": "2026-02-22T11:00:00",
-      "matchTime": "2026-02-22T09:00:00",
-      "sportType": "FOOTBALL",
-      "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/1043961/image",
-      "team1Name": "San Diego FC",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/22006/image",
-      "team2Name": "CF Montréal",
-      "telegramSent": true
-    },
-    "match_15289392": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-      "leagueTitle": "MLS",
-      "matchEndTime": "2026-02-22T11:00:00",
-      "matchTime": "2026-02-22T09:00:00",
-      "sportType": "FOOTBALL",
-      "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/21825/image",
-      "team1Name": "San Jose Earthquakes",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/2509/image",
-      "team2Name": "Sporting Kansas City",
-      "telegramSent": true
-    },
     "match_15437278": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11221/image/dark",
       "leagueTitle": "Sri Lanka Women in West Indies, 3 ODI Series",
@@ -4293,6 +4254,21 @@
         {
           "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://tg-iavnnnnnn.vercel.app/playlist/140441-ENGLISH.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "name": "FANCODE ENGLISH",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://tg-iavnnnnnn.vercel.app/playlist/140441-HINDI.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "FANCODE HINDI",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://tg-iavnnnnnn.vercel.app/playlist/140441-BENGALI.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "FANCODE BENGALI",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://tg-iavnnnnnn.vercel.app/playlist/140441-MALAYALAM.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "FANCODE MALAYALAM",
           "type": "Embed"
         }
       ],
