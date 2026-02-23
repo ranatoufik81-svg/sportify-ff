@@ -3683,12 +3683,55 @@
           "name": "FANCODE - SD",
           "source": "main",
           "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1771857876-0-0-30e866abf56ade9d10b26826d8502c08",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1771857876-0-0-27f1485c3fc370144ee6fc2944e46309",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1771801291-0-0-ddedcf2e5b013df573aed85a731e9ee1",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy SOCCER",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1771801291-0-0-7d2e851ae2b35e8d07068cdbf18797a0",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy PRIME",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-9912035_lsd.m3u8?auth_key=1771857876-0-0-70a3524c3928187748048e31b32716cf",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy SOCCER",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-9912035_lhd.m3u8?auth_key=1771857876-0-0-e150c776105a0213adfdf175f41a4987",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy HD",
+          "source": "api",
+          "type": "Direct"
         }
       ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/370834/image",
       "team1Name": "Mohun Bagan Super Giant",
       "team2Logo": "https://api.sofascore.com/api/v1/team/174590/image",
-      "team2Name": "Chennaiyin FC"
+      "team2Name": "Chennaiyin FC",
+      "telegramSent": true
     },
     "match_15560904": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11185/image/dark",
