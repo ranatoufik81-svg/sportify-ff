@@ -6399,7 +6399,15 @@
       "matchEndTime": "2026-02-24T02:00:00",
       "matchTime": "2026-02-23T19:00:00",
       "sportType": "CRICKET",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "https://no.link",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "Link 1",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/187745/image",
       "team1Name": "Zimbabwe",
       "team2Logo": "https://api.sofascore.com/api/v1/team/187760/image",
