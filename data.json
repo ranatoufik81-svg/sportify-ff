@@ -3483,43 +3483,6 @@
     }
   },
   "matches": {
-    "match_13694760": {
-      "isStar": false,
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11221/image/dark",
-      "leagueTitle": "India Women in Australia, 3 ODI Series",
-      "matchEndTime": "2026-02-24T16:20",
-      "matchTime": "2026-02-24T09:20",
-      "sportType": "CRICKET",
-      "streamLinks": [
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd&k1=294b5761cefc22d0c6312939e13d8278&k2=52148f1042d238849f0a7813f1da8a7b\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "TNT SPORTS",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://api00007.github.io/Jtv/?play=147\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "name": "STAR SPORTS HD",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://api00007.github.io/Jtv/?play=300\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "name": "STAR SPORTS SELECT FHD",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd&k1=48bef83b4c6a3c5189b01b0126210da4&k2=bd085230b7b09e50954fe0af111a8a9f\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "name": "CRICBUZZ 1 ",
-          "type": "Embed"
-        }
-      ],
-      "team1Logo": "https://api.sofascore.com/api/v1/team/213117/image",
-      "team1Name": "AUS-W",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/213119/image",
-      "team2Name": "IND-W",
-      "telegramSent": true
-    },
     "match_14059854": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
       "leagueTitle": "Championship",
@@ -3639,45 +3602,6 @@
       "team1Name": "Wrexham",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2/image",
       "team2Name": "Portsmouth"
-    },
-    "match_14442538": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
-      "leagueTitle": "NBA",
-      "matchEndTime": "2026-02-24T10:00:00",
-      "matchTime": "2026-02-24T08:00:00",
-      "sportType": "BASKETBALL",
-      "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/3412/image",
-      "team1Name": "Rockets",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/3434/image",
-      "team2Name": "Jazz",
-      "telegramSent": true
-    },
-    "match_14442577": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
-      "leagueTitle": "NBA",
-      "matchEndTime": "2026-02-24T07:30:00",
-      "matchTime": "2026-02-24T05:30:00",
-      "sportType": "BASKETBALL",
-      "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/3424/image",
-      "team1Name": "Pistons",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/3429/image",
-      "team2Name": "Spurs",
-      "telegramSent": true
-    },
-    "match_14442679": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
-      "leagueTitle": "NBA",
-      "matchEndTime": "2026-02-24T08:30:00",
-      "matchTime": "2026-02-24T06:30:00",
-      "sportType": "BASKETBALL",
-      "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/3415/image",
-      "team1Name": "Grizzlies",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/3413/image",
-      "team2Name": "Kings",
-      "telegramSent": true
     },
     "match_15220775": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
@@ -3901,10 +3825,11 @@
       "team2Name": "Bodø/Glimt"
     },
     "match_15452779": {
+      "isStar": true,
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
       "leagueTitle": "UEFA Champions League, Knockout stage",
-      "matchEndTime": "2026-02-25T01:15:00",
-      "matchTime": "2026-02-24T23:15:00",
+      "matchEndTime": "2026-02-25T01:15",
+      "matchTime": "2026-02-24T23:15",
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
@@ -3929,10 +3854,43 @@
           "type": "Direct"
         },
         {
+          "link": "https://daffodil.serverbandel.sbs/tnt3.m3u8",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "TNT SPORTS HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
           "link": "https://xn---22--11--33--88--75---------b25zjfpkmbt1n9g9zza94e.xn----------------g34l3fkcn6n2hmd3acobj33ac2a7a8lufomma7cf2b1sh.xn---1l1--5o4dxb.xn--pck.xn--zck.xn--0ck.xn--pck.xn--yck.xn-----0b4asja8cbew2b4b0gd0edbjm2jpa1b1e9zva7a0347s4da2797e7qri.xn--1ck2e1b/docs/hbomax1/__index.m3u8?cc=y&sv=158&nu3zAQc9HC3GbwJq=1771952611-NQpQpGva0GmG2Zqfjgkx%2FFuKF0puTptxw0yVJKyUACE%3D|Referer=https://streamrdc.xyz/",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
           "name": "HBO MAX Brazil",
           "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://areagame.net/1111.php",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "HD SERVER",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://play.ltwxsc.com/live/hd-en-6MvVcw7LXeZwEb8JmL.m3u8?txSecret=1ea62d261e9f766b47e43be243aad16f&txTime=699E0BB9",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "FAST SERVER",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://24.hls-syria.live/live/bein3",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "beIN ARABIC - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771997692~acl=/*~id=06174863687085470909858109159337~hmac=95b77df572720e006dc82e5ac15ca6e6c40c62ddd4dda721c211f256c9b21f10",
+          "name": "SONY LIV ",
           "type": "Direct"
         }
       ],
