@@ -3842,7 +3842,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/3410/image",
       "team1Name": "Bucks",
       "team2Logo": "https://api.sofascore.com/api/v1/team/3435/image",
-      "team2Name": "Heat"
+      "team2Name": "Heat",
+      "telegramSent": true
     },
     "match_14441873": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
@@ -5038,44 +5039,44 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1771982796-0-0-cc0c1115a65713d675d90cb23861b326",
+          "link": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1771983696-0-0-5f83a88eb10add97c10c1178cdc612b4",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV",
           "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1771982796-0-0-c62e5ccc6e366d04bb44e252bb11496f",
+          "link": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1771983696-0-0-f71a4e2b4f0fbe25631d690627eaf5c1",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV+ HD",
           "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://pull.niues.live/live/stream-561379_lsd.m3u8?auth_key=1771982796-0-0-bb6481250e505f0eeb70b9c93ce96cc3",
+          "link": "https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1771983696-0-0-a61ae13912ae5c6981e9936a15af77bf",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy GOLD HD",
+          "name": "SPORTIFy SOCCER",
           "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://pull.niues.live/live/stream-561379_lhd.m3u8?auth_key=1771982796-0-0-88d8e348758e4ac68f7cdc053a62c18e",
+          "link": "https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1771983696-0-0-121fbb7d8279e4b47a2c79f813f4d1c7",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy HD",
+          "name": "SPORTIFy FOOTBALL",
           "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1771982796-0-0-5fcd55dfd75ebf565fb539a2be290b8b",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy ULTRA",
-          "source": "api",
-          "type": "Direct"
-        },
-        {
-          "link": "https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1771982796-0-0-e00edd6f329b55fd9ce4394941d3a751",
+          "link": "https://pull.niues.live/live/stream-561379_lsd.m3u8?auth_key=1771983696-0-0-e7c2b6680f49f423406b1ec7c616b8f7",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy PRO",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-561379_lhd.m3u8?auth_key=1771983696-0-0-e02e35fb3bb47e0e9c00766e3ad22ebb",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy PRIME",
           "source": "api",
           "type": "Direct"
         }
