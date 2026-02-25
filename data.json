@@ -3800,7 +3800,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/3436/image",
       "team1Name": "Nets",
       "team2Logo": "https://api.sofascore.com/api/v1/team/3411/image",
-      "team2Name": "Mavericks"
+      "team2Name": "Mavericks",
+      "telegramSent": true
     },
     "match_14439157": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
@@ -3882,7 +3883,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/3433/image",
       "team1Name": "Raptors",
       "team2Logo": "https://api.sofascore.com/api/v1/team/3418/image",
-      "team2Name": "Thunder"
+      "team2Name": "Thunder",
+      "telegramSent": true
     },
     "match_14441982": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
@@ -4047,7 +4049,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/3432/image",
       "team1Name": "Cavaliers",
       "team2Logo": "https://api.sofascore.com/api/v1/team/3421/image",
-      "team2Name": "Knicks"
+      "team2Name": "Knicks",
+      "telegramSent": true
     },
     "match_14442356": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
@@ -4447,7 +4450,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/6115/image",
       "team1Name": "Ind. Medellín",
       "team2Logo": "https://api.sofascore.com/api/v1/team/6879/image",
-      "team2Name": "Liverpool"
+      "team2Name": "Liverpool",
+      "telegramSent": true
     },
     "match_15399015": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
@@ -5032,11 +5036,55 @@
       "matchEndTime": "2026-02-25T08:00:00",
       "matchTime": "2026-02-25T06:00:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1771982796-0-0-cc0c1115a65713d675d90cb23861b326",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1771982796-0-0-c62e5ccc6e366d04bb44e252bb11496f",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-561379_lsd.m3u8?auth_key=1771982796-0-0-bb6481250e505f0eeb70b9c93ce96cc3",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy GOLD HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-561379_lhd.m3u8?auth_key=1771982796-0-0-88d8e348758e4ac68f7cdc053a62c18e",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1771982796-0-0-5fcd55dfd75ebf565fb539a2be290b8b",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy ULTRA",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1771982796-0-0-e00edd6f329b55fd9ce4394941d3a751",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy PRO",
+          "source": "api",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2302/image",
       "team1Name": "Sporting Cristal",
       "team2Logo": "https://api.sofascore.com/api/v1/team/5992/image",
-      "team2Name": "2 de Mayo"
+      "team2Name": "2 de Mayo",
+      "telegramSent": true
     },
     "match_15458725": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/384/image/dark",
