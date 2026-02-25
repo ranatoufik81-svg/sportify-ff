@@ -3926,7 +3926,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/3409/image",
       "team1Name": "Bulls",
       "team2Logo": "https://api.sofascore.com/api/v1/team/3430/image",
-      "team2Name": "Hornets"
+      "team2Name": "Hornets",
+      "telegramSent": true
     },
     "match_14442036": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
@@ -4133,7 +4134,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/5539/image",
       "team1Name": "Pelicans",
       "team2Logo": "https://api.sofascore.com/api/v1/team/3428/image",
-      "team2Name": "Warriors"
+      "team2Name": "Warriors",
+      "telegramSent": true
     },
     "match_14442618": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
@@ -4235,12 +4237,69 @@
           "name": "TUDN USA",
           "source": "main",
           "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1771984416-0-0-af6199c52aad25dce892e55597f68732",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1771984416-0-0-9f760c325651e8dc85fa53c73999b169",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1771984416-0-0-22dfd8ded4637551d9136f65de63f46f",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy GOAL",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1771984416-0-0-097cf03391fdc1e4423b23c43ff64274",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy STAR",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1771984416-0-0-2686d72d9e0e3fcf2b73939ab82cf362",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy FHD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1771984416-0-0-878d2ca1a1242815e4666b70d8d692dd",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy GOLD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1771984416-0-0-6173a8e7af8f4d2a9aa6af38ae9a27eb",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy PLUS SD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1771984416-0-0-760e894b8f0d4fe4f1a06da064f22bc5",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy PLUS HD",
+          "source": "api",
+          "type": "Direct"
         }
       ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/337612/image",
       "team1Name": "Nashville",
       "team2Logo": "https://api.sofascore.com/api/v1/team/342076/image",
-      "team2Name": "Atl. Ottawa"
+      "team2Name": "Atl. Ottawa",
+      "telegramSent": true
     },
     "match_15220775": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
@@ -5039,44 +5098,44 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1771983696-0-0-5f83a88eb10add97c10c1178cdc612b4",
+          "link": "https://pull.niues.live/live/stream-561379_lsd.m3u8?auth_key=1771984416-0-0-e76566f4853d0483847ce3dc3672ba57",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV",
           "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1771983696-0-0-f71a4e2b4f0fbe25631d690627eaf5c1",
+          "link": "https://pull.niues.live/live/stream-561379_lhd.m3u8?auth_key=1771984416-0-0-186c6d3772721d588b96c2037ed28a6e",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV+ HD",
           "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1771983696-0-0-a61ae13912ae5c6981e9936a15af77bf",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy SOCCER",
-          "source": "api",
-          "type": "Direct"
-        },
-        {
-          "link": "https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1771983696-0-0-121fbb7d8279e4b47a2c79f813f4d1c7",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy FOOTBALL",
-          "source": "api",
-          "type": "Direct"
-        },
-        {
-          "link": "https://pull.niues.live/live/stream-561379_lsd.m3u8?auth_key=1771983696-0-0-e7c2b6680f49f423406b1ec7c616b8f7",
+          "link": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1771984416-0-0-7854a1441141523578683b74ee5edd34",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy PRO",
           "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://pull.niues.live/live/stream-561379_lhd.m3u8?auth_key=1771983696-0-0-e02e35fb3bb47e0e9c00766e3ad22ebb",
+          "link": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1771984416-0-0-b778992f590a06a70fad5ad51ad8234e",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy PRIME",
+          "name": "SPORTIFy HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1771984416-0-0-098dc770c682890e660f8a5e239f3bd8",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy STAR",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1771984416-0-0-3b9a24e148942bc311957a42a1e81b42",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy SD",
           "source": "api",
           "type": "Direct"
         }
