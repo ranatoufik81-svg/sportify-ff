@@ -3699,7 +3699,15 @@
       "matchEndTime": "2026-02-27T02:30:00",
       "matchTime": "2026-02-27T00:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://bbb.exoadash.com/TVD1403/index.mpd&k1=0&k2=0\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "Thmanyah - FHD",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/56023/image",
       "team1Name": "Al-Fateh",
       "team2Logo": "https://api.sofascore.com/api/v1/team/204126/image",
@@ -3712,6 +3720,27 @@
       "matchTime": "2026-02-27T00:30:00",
       "sportType": "FOOTBALL",
       "streamLinks": [
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd&k1=4bbcff3289d457b4dd5dbdd21221de9a&k2=c4906b9a9f8dda3c0725bddb8c497733\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "SporTV BR",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd&k1=d1a163914db8ffad2c3e94f979896a0d&k2=9728800a3959aafdd5b0bcfbf3768811\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "FOX DEPORTES",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://bbb.exoadash.com/TVD1451/index.mpd&k1=0&k2=0\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "Thmanyah - FHD",
+          "source": "main",
+          "type": "Direct"
+        },
         {
           "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://tg-iavnnnnnn.vercel.app/playlist/140701-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
