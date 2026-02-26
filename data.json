@@ -4117,7 +4117,7 @@
       "telegramSent": true
     },
     "match_15558062": {
-      "isStar": false,
+      "isStar": true,
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
       "leagueTitle": "Kuwait in Hong Kong, China, 4 T20I Series",
       "matchEndTime": "2026-02-26T17:45",
@@ -4282,6 +4282,11 @@
           "logo": "https://img.media.jio.com/tvpimages/13/91/302118_1749663894692_l_medium.jpg",
           "name": "Star Sports 1 Kannada",
           "type": "iframe"
+        },
+        {
+          "link": "<iframe src=\"https://api00007.github.io/Jtv/?play=1650\" style=\"width:100%;aspect-ratio:16/9;border:none;\" allow=\"autoplay;encrypted-media;picture-in-picture;fullscreen\" allowfullscreen></iframe>",
+          "name": "TEST",
+          "source": "admin"
         }
       ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/187765/image",
