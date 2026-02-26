@@ -4128,20 +4128,6 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd&k1=065051b99bf5cf8d9a3bde5cbde6aaf9&k2=214bd176832872339ce184338320f9a2\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "FANCODE FHD",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd&k1=5689304538fa9f3bb3da99c939a2ad4f&k2=6907c88ed8ebdd35a2fa80b9684715e1\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "FANCODE - SD",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
           "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://tg-iavnnnnnn.vercel.app/playlist/140445-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
           "name": "FANCODE BLOODY_SWEET (IND)",
@@ -4153,6 +4139,20 @@
           "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
           "name": "FANCODE BLOODY_SWEET (BD)",
           "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd&k1=065051b99bf5cf8d9a3bde5cbde6aaf9&k2=214bd176832872339ce184338320f9a2\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "FANCODE FHD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd&k1=5689304538fa9f3bb3da99c939a2ad4f&k2=6907c88ed8ebdd35a2fa80b9684715e1\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "FANCODE - SD",
+          "source": "main",
           "type": "Direct"
         }
       ],
@@ -4404,12 +4404,86 @@
           "name": "Willow SD",
           "source": "main",
           "type": "Direct"
+        },
+        {
+          "link": "https://matchcentral.pages.dev/?id=jio-hotstar",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "HINDI Stream",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://api00007.github.io/Jtv/?play=1141\" style=\"width:100%;aspect-ratio:16/9;border:none;\" allow=\"autoplay;encrypted-media;picture-in-picture;fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://img.media.jio.com/tvpimages/11/30/302116_1749666029079_l_medium.jpg",
+          "name": "Star Sports 2",
+          "type": "iframe"
+        },
+        {
+          "link": "<iframe src=\"https://api00007.github.io/Jtv/?play=1984\" style=\"width:100%;aspect-ratio:16/9;border:none;\" allow=\"autoplay;encrypted-media;picture-in-picture;fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://img.media.jio.com/tvpimages/56/36/301229_1742214332015_l_medium.jpg",
+          "name": "Star Sports 2 Hindi HD",
+          "type": "iframe"
+        },
+        {
+          "link": "<iframe src=\"https://api00007.github.io/Jtv/?play=4472\" style=\"width:100%;aspect-ratio:16/9;border:none;\" allow=\"autoplay;encrypted-media;picture-in-picture;fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://img.media.jio.com/tvpimages/11/37/301993_1749664589518_l_medium.jpg",
+          "name": "Star Sports 2 Kannada",
+          "type": "iframe"
+        },
+        {
+          "link": "<iframe src=\"https://api00007.github.io/Jtv/?play=4473\" style=\"width:100%;aspect-ratio:16/9;border:none;\" allow=\"autoplay;encrypted-media;picture-in-picture;fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://img.media.jio.com/tvpimages/50/43/302120_1749664850896_l_medium.jpg",
+          "name": "Star Sports 2 Tamil HD",
+          "type": "iframe"
+        },
+        {
+          "link": "<iframe src=\"https://api00007.github.io/Jtv/?play=4474\" style=\"width:100%;aspect-ratio:16/9;border:none;\" allow=\"autoplay;encrypted-media;picture-in-picture;fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://img.media.jio.com/tvpimages/84/67/302121_1749664974599_l_medium.jpg",
+          "name": "Star Sports 2 Telugu HD",
+          "type": "iframe"
+        },
+        {
+          "link": "<iframe src=\"https://api00007.github.io/Jtv/?play=2852\" style=\"width:100%;aspect-ratio:16/9;border:none;\" allow=\"autoplay;encrypted-media;picture-in-picture;fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://img.media.jio.com/tvpimages/41/94/301562_1749665043898_l_medium.jpg",
+          "name": "Star Sports 2 Telugu",
+          "type": "iframe"
+        },
+        {
+          "link": "<iframe src=\"https://api00007.github.io/Jtv/?play=4470\" style=\"width:100%;aspect-ratio:16/9;border:none;\" allow=\"autoplay;encrypted-media;picture-in-picture;fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://img.media.jio.com/tvpimages/76/32/301981_1749665664018_l_medium.jpg",
+          "name": "Star Sports 1 HD",
+          "type": "iframe"
+        },
+        {
+          "link": "<iframe src=\"https://api00007.github.io/Jtv/?play=174\" style=\"width:100%;aspect-ratio:16/9;border:none;\" allow=\"autoplay;encrypted-media;picture-in-picture;fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://img.media.jio.com/tvpimages/5/6/301982_1749665314605_l_medium.jpg",
+          "name": "Star Sports 1 Hindi HD",
+          "type": "iframe"
+        },
+        {
+          "link": "<iframe src=\"https://api00007.github.io/Jtv/?play=4468\" style=\"width:100%;aspect-ratio:16/9;border:none;\" allow=\"autoplay;encrypted-media;picture-in-picture;fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://img.media.jio.com/tvpimages/19/19/302122_1749662923298_l_medium.jpg",
+          "name": "Star Sports 1 Tamil HD",
+          "type": "iframe"
+        },
+        {
+          "link": "<iframe src=\"https://api00007.github.io/Jtv/?play=4471\" style=\"width:100%;aspect-ratio:16/9;border:none;\" allow=\"autoplay;encrypted-media;picture-in-picture;fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://img.media.jio.com/tvpimages/19/57/302123_1749663029798_l_medium.jpg",
+          "name": "Star Sports 1 Telugu HD",
+          "type": "iframe"
+        },
+        {
+          "link": "<iframe src=\"https://api00007.github.io/Jtv/?play=1650\" style=\"width:100%;aspect-ratio:16/9;border:none;\" allow=\"autoplay;encrypted-media;picture-in-picture;fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://img.media.jio.com/tvpimages/13/91/302118_1749663894692_l_medium.jpg",
+          "name": "Star Sports 1 Kannada",
+          "type": "iframe"
         }
       ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/187765/image",
       "team1Name": "IND",
       "team2Logo": "https://api.sofascore.com/api/v1/team/187745/image",
-      "team2Name": "ZIM"
+      "team2Name": "ZIM",
+      "telegramSent": true
     }
   },
   "navigation": {
