@@ -4144,12 +4144,33 @@
         {
           "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://in-mc-flive.fancode.com/mumbai/140445_english_dash_5499_1drmta-di_h264/index.mpd&k1=123af6f785604f73a7cd170cf9039d74&k2=a16352a92bd1595762f91d83c4e74901\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "FANCODE ENG",
+          "name": "FANCODE [ENG]",
           "source": "main",
           "type": "Direct"
         },
         {
-          "link": "https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f",
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://in-mc-flive.fancode.com/mumbai/140445_hindi_dash_92255_1drmta-di_h264/index.mpd&k1=fd6c1868c5df4beeb8df1b4745731ffb&k2=0fa9bf2ba7703ebecd58a6c0139d85c2\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "FANCODE [HIN]",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://in-mc-flive.fancode.com/mumbai/140445_malayalam_dash_78779_1drmta-di_h264/index.mpd&k1=bb66a908311b4b2f8c3c9c44c2427ba1&k2=96175f5e0153a5c8c058821427e958a1\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "FANCODE [MAL]",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://in-mc-flive.fancode.com/mumbai/140445_bengali_dash_52674_1drmta-di_h264/index.mpd&k1=608c641226c84aae9d2c0b4eb10fd8f2&k2=32d0f48a3045929f0d952da008b44c63\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "FANCODE [BAN]",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2",
           "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
           "name": "SPORTIFy TV",
           "source": "api",
@@ -4163,9 +4184,9 @@
           "type": "Direct"
         },
         {
-          "link": "https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2",
+          "link": "https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f",
           "logo": "https://i.ibb.co/k66hvS7j/1000313353.jpg",
-          "name": "SPORTIFy LIVE",
+          "name": "SPORTIFy PRIME",
           "source": "api",
           "type": "Direct"
         }
@@ -4424,6 +4445,13 @@
           "link": "https://matchcentral.pages.dev/?id=jio-hotstar",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
           "name": "HINDI Stream",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/vdx0scnjmm/out/v1/8777014e61534e7c873dc695bc485397/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36&Referer=https://www.primevideo.com/&Origin=https://www.primevideo.com&k1=2904b17cb64c996dbc254981b7602863&k2=66a7ef671b84498e64f94e8401fe8cb9\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "PRIME VID",
           "source": "main",
           "type": "Direct"
         },
