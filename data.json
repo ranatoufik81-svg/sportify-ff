@@ -3511,20 +3511,6 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://tg-iavnnnnnn.vercel.app/playlist/140701-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
-          "name": "FANCODE BLOODY_SWEET (IND)",
-          "source": "fancode",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://tg-iavnnnnnn-bd.vercel.app/playlist/140701-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
-          "name": "FANCODE BLOODY_SWEET (BD)",
-          "source": "fancode",
-          "type": "Direct"
-        },
-        {
           "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd&k1=4bbcff3289d457b4dd5dbdd21221de9a&k2=c4906b9a9f8dda3c0725bddb8c497733\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
           "name": "SporTV BR",
@@ -3543,6 +3529,20 @@
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
           "name": "Thmanyah - FHD",
           "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://tg-iavnnnnnn.vercel.app/playlist/140701-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (IND)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://tg-iavnnnnnn-bd.vercel.app/playlist/140701-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (BD)",
+          "source": "fancode",
           "type": "Direct"
         }
       ],
@@ -3598,6 +3598,13 @@
       "matchTime": "2026-02-26T23:15:00",
       "sportType": "FOOTBALL",
       "streamLinks": [
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://apac-live.akamaized.net/ehyrzisobs/bein_sports_vflow14/index.mpd?hdntl=exp%3D1772212924%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dhdntl%2Cfp%3D1%7Ehmac%3D46f688898d5161531e445b678322322b9ebb7ff4ee101d2fc56e3bff68ed12f4&hdnts=st%3D1772040120%7Eexp%3D1772126818%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dfp%3D1%7Ehmac%3Df99ab15a5f1221cb234bf6997c149b838d31cebcce93fc2e331a1ed66bc01f28&k1=243b260ec94a35bb130f17e86825aa8b&k2=626c8597e8c419b9bb77a44e8cc7b5db\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "beIN SPORTS FHD",
+          "source": "main",
+          "type": "Direct"
+        },
         {
           "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bowrjnjdfv/out/v1/71ab4d889392445b9e0aae03d5cb6c77/cenc.mpd&k1=e4616ae52a41e9f3c50dc9ee302c0bff&k2=3de5c2ca2831acb06a20eff3c94a5b2a\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
@@ -3768,7 +3775,7 @@
         {
           "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36&k1=1d96ab366bbe6451edf7407b58e2fa16&k2=0116201f4a63ac5bf5787d2c610c41a7\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "TNT Sports 3",
+          "name": "TNT SPORTS",
           "source": "main",
           "type": "Direct"
         }
@@ -3785,6 +3792,13 @@
       "matchTime": "2026-02-26T23:15:00",
       "sportType": "FOOTBALL",
       "streamLinks": [
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://apac-live.akamaized.net/ehyrzisobs/bein_sports_vflow07/index.mpd?hdntl=exp%3D1772212924%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dhdntl%2Cfp%3D1%7Ehmac%3D46f688898d5161531e445b678322322b9ebb7ff4ee101d2fc56e3bff68ed12f4&hdnts=st%3D1772040120%7Eexp%3D1772126818%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dfp%3D1%7Ehmac%3Df99ab15a5f1221cb234bf6997c149b838d31cebcce93fc2e331a1ed66bc01f28&k1=597b1d0fdddb383fd37febd057d3fd1c&k2=a728d9c017f83e3e6e77b7d7c0231b22\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "beIN SPORTS FHD",
+          "source": "main",
+          "type": "Direct"
+        },
         {
           "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/41728cr5xa/out/v1/f7950b12ed844d15bada882c70729eb1/cenc.mpd&k1=f76a05d59b9ce908419ded7cf1d031e3&k2=43395d32508207efc6669ba9f980b53d\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
@@ -3953,9 +3967,9 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36&k1=f288380ca4cef9ad3f27a92a08e9bb8b&k2=9f18d26291d9230833501f7f822f6875\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "SPORTIFy Live",
+          "name": "TNT SPORTS",
           "source": "main",
           "type": "Direct"
         }
@@ -3972,6 +3986,13 @@
       "matchTime": "2026-02-26T23:15:00",
       "sportType": "FOOTBALL",
       "streamLinks": [
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://apac-live.akamaized.net/ehyrzisobs/bein_sports_vflow06/index.mpd?hdntl=exp%3D1772212924%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dhdntl%2Cfp%3D1%7Ehmac%3D46f688898d5161531e445b678322322b9ebb7ff4ee101d2fc56e3bff68ed12f4&hdnts=st%3D1772040120%7Eexp%3D1772126818%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dfp%3D1%7Ehmac%3Df99ab15a5f1221cb234bf6997c149b838d31cebcce93fc2e331a1ed66bc01f28&k1=672a1f46b66c6bdd26b1680d39baa922&k2=16169547eb9b0a14146cdbd21490279e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "beIN SPORTS FHD",
+          "source": "main",
+          "type": "Direct"
+        },
         {
           "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jlqbpdn34p/out/v1/84636269a21f441ab85f05c711253fe4/cenc.mpd&k1=75f4db0d8e63a9e15de50566f0b92a81&k2=185c47042c0a7f6449697d57ef1308cb\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
@@ -4049,7 +4070,7 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd&k1=294b5761cefc22d0c6312939e13d8278&k2=52148f1042d238849f0a7813f1da8a7b\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36&k1=294b5761cefc22d0c6312939e13d8278&k2=52148f1042d238849f0a7813f1da8a7b\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
           "name": "TNT SPORTS",
           "source": "main",
@@ -4072,6 +4093,13 @@
           "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vuu3gcknb0/out/v1/a72160db73194e07874d91db0cc2c746/cenc.mpd&k1=4ebfbc0bb025210a68407116ca2f8742&k2=e82ad032a7261d079ba7a9a360ceede1\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
           "name": "VIX ESPANOL",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://cdn3.skygo.mn/live/disk1/SPSPrime/DASH-FTA/SPSPrime.mpd&k1=3501bd323a6a35c28eb7654bf298b9aa&k2=2db4c8089d627e1b2c480c57baa86a7b\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "PSN SPORTS",
           "source": "main",
           "type": "Direct"
         },
@@ -4193,20 +4221,6 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://tg-iavnnnnnn.vercel.app/playlist/140445-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
-          "name": "FANCODE BLOODY_SWEET (IND)",
-          "source": "fancode",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://tg-iavnnnnnn-bd.vercel.app/playlist/140445-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
-          "name": "FANCODE BLOODY_SWEET (BD)",
-          "source": "fancode",
-          "type": "Direct"
-        },
-        {
           "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd&k1=065051b99bf5cf8d9a3bde5cbde6aaf9&k2=214bd176832872339ce184338320f9a2\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
           "name": "FANCODE FHD",
@@ -4239,6 +4253,20 @@
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
           "name": "FANCODE [BAN]",
           "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://tg-iavnnnnnn.vercel.app/playlist/140445-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (IND)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://tg-iavnnnnnn-bd.vercel.app/playlist/140445-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (BD)",
+          "source": "fancode",
           "type": "Direct"
         },
         {
