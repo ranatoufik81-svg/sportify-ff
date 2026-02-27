@@ -3585,7 +3585,22 @@
       "matchEndTime": "2026-02-28T03:00:00",
       "matchTime": "2026-02-28T01:00:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36&k1=1d96ab366bbe6451edf7407b58e2fa16&k2=0116201f4a63ac5bf5787d2c610c41a7\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "TNT SPORTS",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://play.ltwxsc.com/live/hd-en-6MvYrF3o4hAtTYMCUE.m3u8?txSecret=7428a7c21542e428d69cf64f978711b8&txTime=69A0CF16",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "PARAMOUNT+ HD",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2600/image",
       "team1Name": "Augsburg",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2671/image",
