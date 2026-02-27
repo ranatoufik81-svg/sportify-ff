@@ -3757,7 +3757,36 @@
       "matchEndTime": "2026-02-28T00:30:00",
       "matchTime": "2026-02-27T22:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1772214816-0-0-17bdaeb444ae5a298c5206911b359d75",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1772214816-0-0-7542a07945f7b4055f76523ad575afef",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1772214816-0-0-06cf9e7213d9a7dba0c442fdabd9f3fe",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy PLUS",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1772214816-0-0-a662b3de7162ae39eb1603f3664e9346",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy FHD",
+          "source": "api",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/3086/image",
       "team1Name": "Başakşehir",
       "team2Logo": "https://api.sofascore.com/api/v1/team/3085/image",
@@ -3770,11 +3799,41 @@
       "matchEndTime": "2026-02-28T00:30:00",
       "matchTime": "2026-02-27T22:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "https://pull.niues.live/live/stream-579144_lsd.m3u8?auth_key=1772214816-0-0-0f47a9ba23f2bf3b696296f13637eaf0",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-579144_lhd.m3u8?auth_key=1772214816-0-0-d0a52d4de9dce9ee9f82a449e08fa10b",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1772214816-0-0-e6c3e51a046b0afbd457465bab7aa403",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy SOCCER",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1772214816-0-0-f292127e526b4a9823d31cc2b9d256fd",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy STAR FHD",
+          "source": "api",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/3051/image",
       "team1Name": "Trabzonspor",
       "team2Logo": "https://api.sofascore.com/api/v1/team/4954/image",
-      "team2Name": "Karagümrük"
+      "team2Name": "Karagümrük",
+      "telegramSent": true
     },
     "match_14167891": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
