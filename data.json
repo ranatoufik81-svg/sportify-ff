@@ -3483,6 +3483,45 @@
     }
   },
   "matches": {
+    "match_13694762": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11221/image/dark",
+      "leagueTitle": "India Women in Australia, 3 ODI Series",
+      "matchEndTime": "2026-03-01T16:20:00",
+      "matchTime": "2026-03-01T09:20:00",
+      "sportType": "CRICKET",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://video-player-amber-pi.vercel.app/?play=https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd&k1=1d96ab366bbe6451edf7407b58e2fa16&k2=0116201f4a63ac5bf5787d2c610c41a7\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "TNT SPORTS",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://video-player-amber-pi.vercel.app/?play=https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd&k1=290e09c837da78d5cd961978d390515c&k2=b748836c71e6a4ca68ef5b5652db6247\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "WILLOW FHD",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/213117/image",
+      "team1Name": "AUS-W",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/213119/image",
+      "team2Name": "IND-W"
+    },
+    "match_13926506": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18793/image/dark",
+      "leagueTitle": "Pakistan Women in South Africa, 3 ODI Series",
+      "matchEndTime": "2026-03-01T20:30:00",
+      "matchTime": "2026-03-01T13:30:00",
+      "sportType": "CRICKET",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/213118/image",
+      "team1Name": "SA-W",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/187808/image",
+      "team2Name": "PAK-W"
+    },
     "match_13981683": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
       "leagueTitle": "Serie A",
@@ -4736,6 +4775,18 @@
       "team1Name": "Cercle Brugge",
       "team2Logo": "https://api.sofascore.com/api/v1/team/389232/image",
       "team2Name": "Dender "
+    },
+    "match_14048754": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11222/image/dark",
+      "leagueTitle": "Zimbabwe Women in New Zealand, 3 T20I Series",
+      "matchEndTime": "2026-03-01T12:45:00",
+      "matchTime": "2026-03-01T05:45:00",
+      "sportType": "CRICKET",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/213115/image",
+      "team1Name": "NZ-W",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/417062/image",
+      "team2Name": "ZIM-W"
     },
     "match_14059865": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
@@ -7014,6 +7065,47 @@
       "team2Name": "Bruins",
       "telegramSent": true
     },
+    "match_14201355": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+      "leagueTitle": "NHL",
+      "matchEndTime": "2026-03-01T07:30:00",
+      "matchTime": "2026-03-01T05:30:00",
+      "sportType": "ICE-HOCKEY",
+      "streamLinks": [
+        {
+          "link": "https://edge2caster.pro/hls/poiryezafv56.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "SPORTIFy Live",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://instreams.pro/US/NHL7/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "HD SERVER",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://live.webcastserver.online/newz/newz/175.m3u8?|Referer=https://slapstreams.com/",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "HOME CAM.",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://live.webcastserver.online/newz/newz/173.m3u8?|Referer=https://slapstreams.com/",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "AWAY CAM.",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3688/image",
+      "team1Name": "Kings",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3679/image",
+      "team2Name": "Flames"
+    },
     "match_14201356": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
       "leagueTitle": "NHL",
@@ -7055,6 +7147,129 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/3681/image",
       "team2Name": "Blackhawks",
       "telegramSent": true
+    },
+    "match_14201357": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+      "leagueTitle": "NHL",
+      "matchEndTime": "2026-03-01T07:30:00",
+      "matchTime": "2026-03-01T05:30:00",
+      "sportType": "ICE-HOCKEY",
+      "streamLinks": [
+        {
+          "link": "https://edge2caster.pro/hls/poiryezafv56.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "SPORTIFy Live",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://instreams.pro/US/NHL7/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "HD SERVER",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pro.packcast.top/newz/newz/167.m3u8?|Referer=https://slapstreams.com/",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "HOME CAM.",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pro.packcast.top/newz/newz/102.m3u8?|Referer=https://slapstreams.com/",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "AWAY CAM.",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3693/image",
+      "team1Name": "Maple Leafs",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3700/image",
+      "team2Name": "Senators"
+    },
+    "match_14201358": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+      "leagueTitle": "NHL",
+      "matchEndTime": "2026-03-01T07:30:00",
+      "matchTime": "2026-03-01T05:30:00",
+      "sportType": "ICE-HOCKEY",
+      "streamLinks": [
+        {
+          "link": "https://edgestreams.pro/hls/bvnzadfvyt59.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "SPORTIFy Live",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://instreams.pro/US/NHL10/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "HD SERVER",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://live.webcastserver.online/newz/newz/92.m3u8?|Referer=https://slapstreams.com/",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "HOME CAM.",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://live.webcastserver.online/newz/newz/178.m3u8?|Referer=https://slapstreams.com/",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "AWAY CAM.",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3680/image",
+      "team1Name": "Hurricanes",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3685/image",
+      "team2Name": "Red Wings"
+    },
+    "match_14201359": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+      "leagueTitle": "NHL",
+      "matchEndTime": "2026-03-01T07:30:00",
+      "matchTime": "2026-03-01T05:30:00",
+      "sportType": "ICE-HOCKEY",
+      "streamLinks": [
+        {
+          "link": "https://mainstreams.pro/hls/earzfddshg58.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "SPORTIFy Live",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://instreams.pro/US/NHL9/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "HD SERVER",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://live.webcastserver.online/newz/newz/171.m3u8?|Referer=https://slapstreams.com/",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "HOME CAM.",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://live.webcastserver.online/newz/newz/101.m3u8?|Referer=https://slapstreams.com/",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "AWAY CAM.",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3694/image",
+      "team1Name": "Lightning",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3678/image",
+      "team2Name": "Sabres"
     },
     "match_14201360": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
@@ -7140,6 +7355,160 @@
       "team2Name": "Devils",
       "telegramSent": true
     },
+    "match_14201362": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+      "leagueTitle": "NHL",
+      "matchEndTime": "2026-03-01T07:30:00",
+      "matchTime": "2026-03-01T05:30:00",
+      "sportType": "ICE-HOCKEY",
+      "streamLinks": [
+        {
+          "link": "https://edgestreams.pro/hls/rzavbdyua57.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "SPORTIFy Live",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://instreams.pro/US/NHL8/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "HD SERVER",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pro.packcast.top/newz/newz/87.m3u8?|Referer=https://slapstreams.com/",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "HOME CAM.",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://live.webcastserver.online/newz/newz/169.m3u8?|Referer=https://slapstreams.com/",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "AWAY CAM.",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3690/image",
+      "team1Name": "Canadiens",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3691/image",
+      "team2Name": "Capitals"
+    },
+    "match_14201363": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+      "leagueTitle": "NHL",
+      "matchEndTime": "2026-03-01T08:30:00",
+      "matchTime": "2026-03-01T06:30:00",
+      "sportType": "ICE-HOCKEY",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3684/image",
+      "team1Name": "Stars",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3705/image",
+      "team2Name": "Predators"
+    },
+    "match_14201364": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+      "leagueTitle": "NHL",
+      "matchEndTime": "2026-03-01T10:30:00",
+      "matchTime": "2026-03-01T08:30:00",
+      "sportType": "ICE-HOCKEY",
+      "streamLinks": [
+        {
+          "link": "https://mainstreams.pro/hls/wxdaztfhd62.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "SPORTIFy Live",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://instreams.pro/US/NHL13/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "HD SERVER",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://live.webcastserver.online/newz/newz/97.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "SD SERVER",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pro.packcast.top/newz/newz/88.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "SPY CAM.",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/381707/image",
+      "team1Name": "Kraken",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3692/image",
+      "team2Name": "Canucks"
+    },
+    "match_14201365": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+      "leagueTitle": "NHL",
+      "matchEndTime": "2026-03-02T01:30:00",
+      "matchTime": "2026-03-01T23:30:00",
+      "sportType": "ICE-HOCKEY",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3697/image",
+      "team1Name": "Penguins",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/257523/image",
+      "team2Name": "Golden Knights"
+    },
+    "match_14201366": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+      "leagueTitle": "NHL",
+      "matchEndTime": "2026-03-02T04:30:00",
+      "matchTime": "2026-03-02T02:30:00",
+      "sportType": "ICE-HOCKEY",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/530472/image",
+      "team1Name": "Mammoth",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3681/image",
+      "team2Name": "Blackhawks"
+    },
+    "match_14201367": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+      "leagueTitle": "NHL",
+      "matchEndTime": "2026-03-02T07:00:00",
+      "matchTime": "2026-03-02T05:00:00",
+      "sportType": "ICE-HOCKEY",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3703/image",
+      "team1Name": "Islanders",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3687/image",
+      "team2Name": "Panthers"
+    },
+    "match_14201368": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+      "leagueTitle": "NHL",
+      "matchEndTime": "2026-03-02T05:30:00",
+      "matchTime": "2026-03-02T03:30:00",
+      "sportType": "ICE-HOCKEY",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3689/image",
+      "team1Name": "Wild",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3695/image",
+      "team2Name": "Blues"
+    },
+    "match_14201370": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+      "leagueTitle": "NHL",
+      "matchEndTime": "2026-03-02T04:30:00",
+      "matchTime": "2026-03-02T02:30:00",
+      "sportType": "ICE-HOCKEY",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3696/image",
+      "team1Name": "Sharks",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3676/image",
+      "team2Name": "Jets"
+    },
     "match_14317559": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
       "leagueTitle": "Serie B",
@@ -7189,6 +7558,127 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/2715/image",
       "team2Name": "Palermo"
     },
+    "match_14326655": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/1692/image/dark",
+      "leagueTitle": "AFC Asian Cup, Women, Group A",
+      "matchEndTime": "2026-03-01T16:30:00",
+      "matchTime": "2026-03-01T14:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://fc-ind-ivan-flux.sptv5204.workers.dev/140794-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (IND)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://fc-bd-ivan-flux.sptv5204.workers.dev/140794-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (BD)",
+          "source": "fancode",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/7410/image",
+      "team1Name": "Australia",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/195588/image",
+      "team2Name": "Philippines"
+    },
+    "match_14441782": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+      "leagueTitle": "NBA",
+      "matchEndTime": "2026-03-01T10:00:00",
+      "matchTime": "2026-03-01T08:00:00",
+      "sportType": "BASKETBALL",
+      "streamLinks": [
+        {
+          "link": "https://edgestreams.pro/hls/zeafwqvhfe69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "SPORTIFy Live",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://instreams.pro/US/NBA5/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "HD SERVER",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://smarthard.click/hls/kaT8Lu6TJc1F/index.m3u8",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "SD SERVER",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://edgestreams.pro/hls/zeafwqvhfe69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "SPY CAM.",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3434/image",
+      "team1Name": "Jazz",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/5539/image",
+      "team2Name": "Pelicans"
+    },
+    "match_14441808": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+      "leagueTitle": "NBA",
+      "matchEndTime": "2026-03-02T05:30:00",
+      "matchTime": "2026-03-02T03:30:00",
+      "sportType": "BASKETBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3419/image",
+      "team1Name": "Pacers",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3415/image",
+      "team2Name": "Grizzlies"
+    },
+    "match_14441894": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+      "leagueTitle": "NBA",
+      "matchEndTime": "2026-03-01T07:30:00",
+      "matchTime": "2026-03-01T05:30:00",
+      "sportType": "BASKETBALL",
+      "streamLinks": [
+        {
+          "link": "https://mainstreams.pro/hls/hfsdqtaxvb67.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "SPORTIFy Live",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://instreams.pro/US/NBA3/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "HD SERVER",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "SD SERVER",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://mainstreams.pro/hls/hfsdqtaxvb67.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "SPY CAM.",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3431/image",
+      "team1Name": "Wizards",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3433/image",
+      "team2Name": "Raptors"
+    },
     "match_14442173": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
       "leagueTitle": "NBA",
@@ -7230,6 +7720,119 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/3412/image",
       "team2Name": "Rockets",
       "telegramSent": true
+    },
+    "match_14442314": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+      "leagueTitle": "NBA",
+      "matchEndTime": "2026-03-02T04:00:00",
+      "matchTime": "2026-03-02T02:00:00",
+      "sportType": "BASKETBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3436/image",
+      "team1Name": "Nets",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3432/image",
+      "team2Name": "Cavaliers"
+    },
+    "match_14442380": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+      "leagueTitle": "NBA",
+      "matchEndTime": "2026-03-02T01:30:00",
+      "matchTime": "2026-03-01T23:30:00",
+      "sportType": "BASKETBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3421/image",
+      "team1Name": "Knicks",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3429/image",
+      "team2Name": "Spurs"
+    },
+    "match_14442402": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+      "leagueTitle": "NBA",
+      "matchEndTime": "2026-03-02T04:00:00",
+      "matchTime": "2026-03-02T02:00:00",
+      "sportType": "BASKETBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3409/image",
+      "team1Name": "Bulls",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3410/image",
+      "team2Name": "Bucks"
+    },
+    "match_14442426": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+      "leagueTitle": "NBA",
+      "matchEndTime": "2026-03-02T06:30:00",
+      "matchTime": "2026-03-02T04:30:00",
+      "sportType": "BASKETBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3437/image",
+      "team1Name": "Magic",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3424/image",
+      "team2Name": "Pistons"
+    },
+    "match_14442484": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+      "leagueTitle": "NBA",
+      "matchEndTime": "2026-03-02T06:30:00",
+      "matchTime": "2026-03-02T04:30:00",
+      "sportType": "BASKETBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3423/image",
+      "team1Name": "Hawks",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3414/image",
+      "team2Name": "Trail Blazers"
+    },
+    "match_14442519": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+      "leagueTitle": "NBA",
+      "matchEndTime": "2026-03-02T04:00:00",
+      "matchTime": "2026-03-02T02:00:00",
+      "sportType": "BASKETBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3417/image",
+      "team1Name": "Nuggets",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3426/image",
+      "team2Name": "Timberwolves"
+    },
+    "match_14442544": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+      "leagueTitle": "NBA",
+      "matchEndTime": "2026-03-01T09:00:00",
+      "matchTime": "2026-03-01T07:00:00",
+      "sportType": "BASKETBALL",
+      "streamLinks": [
+        {
+          "link": "https://edgestreams.pro/hls/zayrtezafgvdv68.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "SPORTIFy Live",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://instreams.pro/US/NBA4/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "HD SERVER",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://smarthard.click/hls/DfF4IkIqKvOP/index.m3u8",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "SD SERVER",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://edgestreams.pro/hls/zayrtezafgvdv68.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "SPY CAM.",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3428/image",
+      "team1Name": "Warriors",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3427/image",
+      "team2Name": "Lakers"
     },
     "match_14442554": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
@@ -7329,6 +7932,33 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/72926/image",
       "team2Name": "Western Sydney",
       "telegramSent": true
+    },
+    "match_14671745": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/136/image/dark",
+      "leagueTitle": "A-League Men",
+      "matchEndTime": "2026-03-01T09:30:00",
+      "matchTime": "2026-03-01T07:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://fc-ind-ivan-flux.sptv5204.workers.dev/140905-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (IND)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://fc-bd-ivan-flux.sptv5204.workers.dev/140905-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (BD)",
+          "source": "fancode",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/7568/image",
+      "team1Name": "Wellington",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/5971/image",
+      "team2Name": "Sydney FC"
     },
     "match_14773751": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
@@ -7650,6 +8280,86 @@
       "team2Name": "SL-W",
       "telegramSent": true
     },
+    "match_15437281": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11222/image/dark",
+      "leagueTitle": "Sri Lanka Women in West Indies, 3 T20I Series",
+      "matchEndTime": "2026-03-02T05:30:00",
+      "matchTime": "2026-03-01T22:30:00",
+      "sportType": "CRICKET",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/213120/image",
+      "team1Name": "WI-W",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/187806/image",
+      "team2Name": "SL-W"
+    },
+    "match_15508305": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/1900/image/dark",
+      "leagueTitle": "Super League",
+      "matchEndTime": "2026-03-01T19:00:00",
+      "matchTime": "2026-03-01T17:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://fc-ind-ivan-flux.sptv5204.workers.dev/140450-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (IND)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://fc-ind-ivan-flux.sptv5204.workers.dev/141089-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (IND)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://fc-bd-ivan-flux.sptv5204.workers.dev/140450-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (BD)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://fc-bd-ivan-flux.sptv5204.workers.dev/141089-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (BD)",
+          "source": "fancode",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/174592/image",
+      "team1Name": "Odisha",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/174590/image",
+      "team2Name": "Chennaiyin"
+    },
+    "match_15508319": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/1900/image/dark",
+      "leagueTitle": "Super League",
+      "matchEndTime": "2026-03-01T21:30:00",
+      "matchTime": "2026-03-01T19:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://fc-ind-ivan-flux.sptv5204.workers.dev/140451-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (IND)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://fc-bd-ivan-flux.sptv5204.workers.dev/140451-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (BD)",
+          "source": "fancode",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/174600/image",
+      "team1Name": "Mumbai City",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/174602/image",
+      "team2Name": "NorthEast Utd"
+    },
     "match_15508333": {
       "isStar": true,
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/1900/image/dark",
@@ -7788,6 +8498,80 @@
       "team2Name": "Mohammedan",
       "telegramSent": true
     },
+    "match_15554895": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11185/image/dark",
+      "leagueTitle": "ICC Men's T20 World Cup, Super 8, Group 1",
+      "matchEndTime": "2026-03-02T02:00:00",
+      "matchTime": "2026-03-01T19:00:00",
+      "sportType": "CRICKET",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://video-player-amber-pi.vercel.app/?play=https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/yiiftorhi8/out/v1/be0f7019b1c448f185520be36ff5c809/cenc.mpd&k1=04ef2776a130e77f2e829d95bdc94d4b&k2=203f0b19e11497baf5910937486692d7\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "Willow [Ad Free]",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://live-pull.aisports.mobi/moviebox/device02/playlist.m3u8|Referer=https://sportslivenow.top/",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "JIO HOTSTAR",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://stream1.liveland.af/hls/tv/tolo-sport/chunklist3.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "SPORTIFy LIVE",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://cdn39591467.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://yahoo.com/&Origin=https://yahoo.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "WILLOW HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "http://103.99.249.139/starsport2/index.m3u8",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "Star Sport HIN",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://cloud.odysee.live/content/99a872d96a2f8461496e2e68c0c7861c86b939c5/live.m3u8|Referer=https://odysee.com/",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "JIO HOTSTAR [HIN]",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/xhwjibNeyAi5t5akBQHh9GQFuNPd6-OpoP9ySVoVrRgIKcM1s-7J6kjqfgNMU6uXniXV55NfRbdOkG_G2Lgf4g/non_transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/master_dynamic_highlatency.m3u8?type=live|referer=https://pscp.tv/",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "URDU Commentary",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/187765/image",
+      "team1Name": "IND",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/187760/image",
+      "team2Name": "WI"
+    },
+    "match_15558060": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
+      "leagueTitle": "Kuwait in Hong Kong, China, 4 T20I Series",
+      "matchEndTime": "2026-03-01T17:45:00",
+      "matchTime": "2026-03-01T10:45:00",
+      "sportType": "CRICKET",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/187774/image",
+      "team1Name": "HK",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/187773/image",
+      "team2Name": "KUW"
+    },
     "match_15558063": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
       "leagueTitle": "Kuwait in Hong Kong, China, 4 T20I Series",
@@ -7801,6 +8585,18 @@
       "team2Name": "KUW",
       "telegramSent": true
     },
+    "match_15558658": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/848/image/dark",
+      "leagueTitle": "I-League",
+      "matchEndTime": "2026-03-01T18:00:00",
+      "matchTime": "2026-03-01T16:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/34217/image",
+      "team1Name": "Dempo",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/245075/image",
+      "team2Name": "Real Kashmir"
+    },
     "match_15558668": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/848/image/dark",
       "leagueTitle": "I-League",
@@ -7813,6 +8609,87 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/403570/image",
       "team2Name": "Sreenidi Deccan",
       "telegramSent": true
+    },
+    "match_15558669": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/848/image/dark",
+      "leagueTitle": "I-League",
+      "matchEndTime": "2026-03-01T20:30:00",
+      "matchTime": "2026-03-01T18:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/58741/image",
+      "team1Name": "Shillong",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/387698/image",
+      "team2Name": "Rajasthan United FC"
+    },
+    "match_15560906": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11185/image/dark",
+      "leagueTitle": "ICC Men's T20 World Cup, Super 8, Group 1",
+      "matchEndTime": "2026-03-01T22:00:00",
+      "matchTime": "2026-03-01T15:00:00",
+      "sportType": "CRICKET",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://video-player-amber-pi.vercel.app/?play=https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/vdx0scnjmm/out/v1/8777014e61534e7c873dc695bc485397/cenc.mpd&k1=2904b17cb64c996dbc254981b7602863&k2=66a7ef671b84498e64f94e8401fe8cb9\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "PRIME VID [ENG]",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://video-player-amber-pi.vercel.app/?play=https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/wdqtgxqtpr/out/v1/d9a29796c1c3468785dbee1776ffd354/cenc.mpd&k1=3319513445704d17b607969c9b4bd5b2&k2=64a75c66e40be8177f4893104722700a\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "PRIME VID [HIN]",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://video-player-amber-pi.vercel.app/?play=https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/vdj8kklfbb/out/v1/6433098763394c0a8552dd92e8da40dc/cenc.mpd&k1=f52a73212bdd837dc6849b688dff8194&k2=d8c8ba05bae74b70d5f57f4e104eafeb\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "WILLOW [Ad Free]",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://live-pull.aisports.mobi/moviebox/football001/playlist.m3u8|Referer=https://sportslivenow.top/",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "JIO HOTSTAR",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://stream1.liveland.af/hls/tv/tolo-sport/chunklist3.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "SPORTIFy Live",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://cdn39591467.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://yahoo.com/&Origin=https://yahoo.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "Willow HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://cdn39591467.blazingcdn.net/dx14sd/index.m3u8|Referer=https://yahoo.com/&Origin=https://yahoo.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "Willow SD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://matchcentral.pages.dev/?id=jio-hotstar",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "HINDI Stream",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/187745/image",
+      "team1Name": "ZIM",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/187747/image",
+      "team2Name": "SA"
     },
     "match_15569679": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11185/image/dark",
