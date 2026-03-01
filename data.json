@@ -5732,6 +5732,13 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
+          "link": "<iframe src=\"https://video-player-amber-pi.vercel.app/?play=https://bbb.exoadash.com/TVD2083/index.mpd&k1=0&k2=0\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "Ligue1+",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
           "link": "https://instreams.live/EU/HDTV23/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
           "name": "CANAL+ HD",
@@ -5742,13 +5749,6 @@
           "link": "https://play.ltwxsc.com/live/sd-6MuT7Y4fHB6p5qHN1L.m3u8?txSecret=4534e20695ad4258a07531ab471c6e1c&txTime=69A4D569",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
           "name": "SPORTIFy Live",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://video-player-amber-pi.vercel.app/?play=https://bbb.exoadash.com/TVD2083/index.mpd&k1=0&k2=0\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "Ligue1+",
           "source": "main",
           "type": "Direct"
         },
