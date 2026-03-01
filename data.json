@@ -4889,44 +4889,44 @@
           "type": "Direct"
         },
         {
-          "link": "https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1772394996-0-0-4a475f9d0c560280b25d6c250a8c7233",
+          "link": "https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1772395716-0-0-9ecaafcae15447ec9d6751b0d3faa476",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV",
           "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1772394996-0-0-e501fec1737a4936fc20469c192c7a10",
+          "link": "https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1772395716-0-0-3d039b60c812e260f265e171b05a0e39",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV+ HD",
           "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1772394996-0-0-07586b8343e29bc725a00073f60f3932",
+          "link": "https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1772395716-0-0-673535581ddc3fe18be4d91992b7f8c6",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy FAST SD",
+          "name": "SPORTIFy SD",
           "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1772394996-0-0-fefc4df142b082d3243c125176476ba6",
+          "link": "https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1772395716-0-0-c05835377840bdb76eb5f87830857b1b",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy FHD",
           "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1772394996-0-0-05d3c77043aca59956b23b6ddab97bbb",
+          "link": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1772395716-0-0-709331c98885c47dae22e942de97c9b6",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy LIVE",
+          "name": "SPORTIFy FHD",
           "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1772394996-0-0-afb71bec52f471d80fb81359221ef6dc",
+          "link": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1772395716-0-0-0146ec5f99f2687b26935872cd31aa7b",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy MAX SD",
+          "name": "SPORTIFy PLUS",
           "source": "api",
           "type": "Direct"
         }
@@ -6078,7 +6078,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/377973/image",
       "team1Name": "Austin",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2502/image",
-      "team2Name": "DC United"
+      "team2Name": "DC United",
+      "telegramSent": true
     },
     "match_15437281": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11222/image/dark",
