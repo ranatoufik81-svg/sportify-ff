@@ -5,10 +5,6 @@
   ],
   "app_control": {
     "show_ticker": true,
-    "ticker": {
-      "ticker_link": "",
-      "ticker_text": "HELLO BHAI "
-    },
     "ticker_link": "https://t.me/+mFVRDyaEbHwwNjc9",
     "ticker_text": "FOR BETTER STREAMING EXPERIENCE PLEASE DOWNLOAD NS PLAYER (ADS FREE) FROM OUR TELEGRAM CHANNEL"
   },
@@ -5096,7 +5092,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/24264/image",
       "team1Name": "Girona",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2821/image",
-      "team2Name": "Celta"
+      "team2Name": "Celta",
+      "telegramSent": true
     },
     "match_14081819": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
@@ -5263,7 +5260,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2839/image",
       "team1Name": "Eibar",
       "team2Logo": "https://api.sofascore.com/api/v1/team/4488/image",
-      "team2Name": "Cádiz"
+      "team2Name": "Cádiz",
+      "telegramSent": true
     },
     "match_14083347": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
