@@ -3914,6 +3914,13 @@
           "type": "Direct"
         },
         {
+          "link": "https://roseaylrsiu.s3.us-east-1.amazonaws.com/pacers.m3u8",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "PEACOCK - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
           "link": "<iframe src=\"https://video-player-amber-pi.vercel.app/?play=https://cdn3.skygo.mn/live/disk1/PSN3/DASH-FTA/PSN3.mpd&k1=3501bd323a6a35c28eb7654bf298b9aa&k2=2db4c8089d627e1b2c480c57baa86a7b\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
           "name": "PSN SPORTS",
@@ -4015,6 +4022,13 @@
           "link": "https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
           "name": "NOW SPORTS PL",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://roseaylrsiu.s3.us-east-1.amazonaws.com/manu.m3u8",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "SPORTIFy - AQ",
           "source": "main",
           "type": "Direct"
         },
@@ -5538,12 +5552,20 @@
           "name": "beIN ENGLISH",
           "source": "main",
           "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://video-player-amber-pi.vercel.app/?play=https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd&k1=11223344556677889900112233445566&k2=4b80724d0ef86bcb2c21f7999d67739d\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "NOVA SPORTS",
+          "source": "main",
+          "type": "Direct"
         }
       ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/1659/image",
       "team1Name": "Strasbourg",
       "team2Logo": "https://api.sofascore.com/api/v1/team/1682/image",
-      "team2Name": "Reims"
+      "team2Name": "Reims",
+      "telegramSent": true
     },
     "match_15497189": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/329/image/dark",
@@ -5552,6 +5574,20 @@
       "matchTime": "2026-03-04T01:30:00",
       "sportType": "FOOTBALL",
       "streamLinks": [
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://fc-ind-ivan-flux.sptv5204.workers.dev/140525-ENGLISH.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE ENGLISH (IND)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://fc-bd-ivan-flux.sptv5204.workers.dev/140525-ENGLISH-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE ENGLISH (BD)",
+          "source": "fancode",
+          "type": "Direct"
+        },
         {
           "link": "<iframe src=\"https://video-player-amber-pi.vercel.app/?play=https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd&k1=1444f4235529f183f0a5a486befe9cdb&k2=e5e3fec67a1bb3472a2089c8a0a2557f\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
@@ -5563,6 +5599,13 @@
           "link": "<iframe src=\"https://video-player-amber-pi.vercel.app/?play=https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd&k1=065051b99bf5cf8d9a3bde5cbde6aaf9&k2=214bd176832872339ce184338320f9a2\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
           "name": "FANCODE FHD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "https://roseaylrsiu.s3.us-east-1.amazonaws.com/spurs.m3u8",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "SPORTIFy - AQ",
           "source": "main",
           "type": "Direct"
         },
@@ -5585,20 +5628,6 @@
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
           "name": "HD SERVER",
           "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://fc-ind-ivan-flux.sptv5204.workers.dev/140525-ENGLISH.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
-          "name": "FANCODE ENGLISH (IND)",
-          "source": "fancode",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://fc-bd-ivan-flux.sptv5204.workers.dev/140525-ENGLISH-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
-          "name": "FANCODE ENGLISH (BD)",
-          "source": "fancode",
           "type": "Direct"
         },
         {
@@ -5661,7 +5690,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2817/image",
       "team1Name": "Barcelona",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2836/image",
-      "team2Name": "Atl. Madrid"
+      "team2Name": "Atl. Madrid",
+      "telegramSent": true
     },
     "match_15501119": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/336/image/dark",
@@ -5791,7 +5821,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2704/image",
       "team1Name": "Como",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2697/image",
-      "team2Name": "Inter"
+      "team2Name": "Inter",
+      "telegramSent": true
     },
     "match_15538902": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/19/image/dark",
