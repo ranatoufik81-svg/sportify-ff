@@ -4461,16 +4461,16 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://fc-ind-ivan-flux.sptv5204.workers.dev/140796-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://fc-ind-ivan-flux.sptv5204.workers.dev/140796-ENGLISH.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
-          "name": "FANCODE BLOODY_SWEET (IND)",
+          "name": "FANCODE ENGLISH (IND)",
           "source": "fancode",
           "type": "Direct"
         },
         {
-          "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://fc-bd-ivan-flux.sptv5204.workers.dev/140796-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://fc-bd-ivan-flux.sptv5204.workers.dev/140796-ENGLISH-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
-          "name": "FANCODE BLOODY_SWEET (BD)",
+          "name": "FANCODE ENGLISH (BD)",
           "source": "fancode",
           "type": "Direct"
         }
@@ -4478,7 +4478,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/7421/image",
       "team1Name": "North Korea",
       "team2Logo": "https://api.sofascore.com/api/v1/team/132956/image",
-      "team2Name": "Uzbekistan"
+      "team2Name": "Uzbekistan",
+      "telegramSent": true
     },
     "match_14326660": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/1692/image/dark",
@@ -4602,7 +4603,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/3434/image",
       "team1Name": "Jazz",
       "team2Logo": "https://api.sofascore.com/api/v1/team/3417/image",
-      "team2Name": "Nuggets"
+      "team2Name": "Nuggets",
+      "telegramSent": true
     },
     "match_14442612": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
