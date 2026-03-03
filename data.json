@@ -4980,7 +4980,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/44443/image",
       "team1Name": "Al-Ahli Doha",
       "team2Logo": "https://api.sofascore.com/api/v1/team/117204/image",
-      "team2Name": "Al-Hussein Irbid"
+      "team2Name": "Al-Hussein Irbid",
+      "telegramSent": true
     },
     "match_15479145": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
@@ -5231,7 +5232,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/39733/image",
       "team1Name": "Al-Sadd",
       "team2Logo": "https://api.sofascore.com/api/v1/team/21895/image",
-      "team2Name": "Al-Hilal"
+      "team2Name": "Al-Hilal",
+      "telegramSent": true
     },
     "match_15492897": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/335/image/dark",
@@ -5261,20 +5263,6 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://fc-ind-ivan-flux.sptv5204.workers.dev/140525-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
-          "name": "FANCODE BLOODY_SWEET (IND)",
-          "source": "fancode",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://fc-bd-ivan-flux.sptv5204.workers.dev/140525-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
-          "name": "FANCODE BLOODY_SWEET (BD)",
-          "source": "fancode",
-          "type": "Direct"
-        },
-        {
           "link": "<iframe src=\"https://video-player-amber-pi.vercel.app/?play=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd&k1=1444f4235529f183f0a5a486befe9cdb&k2=e5e3fec67a1bb3472a2089c8a0a2557f\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
           "name": "PREMIER SPORTS",
@@ -5286,6 +5274,20 @@
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
           "name": "TVE La 1",
           "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://fc-ind-ivan-flux.sptv5204.workers.dev/140525-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (IND)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://fc-bd-ivan-flux.sptv5204.workers.dev/140525-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (BD)",
+          "source": "fancode",
           "type": "Direct"
         }
       ],
