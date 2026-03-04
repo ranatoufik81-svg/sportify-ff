@@ -4155,20 +4155,6 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://fc-ind-ivan-flux.sptv5204.workers.dev/140799-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
-          "name": "FANCODE BLOODY_SWEET (IND)",
-          "source": "fancode",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://fc-bd-ivan-flux.sptv5204.workers.dev/140799-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
-          "name": "FANCODE BLOODY_SWEET (BD)",
-          "source": "fancode",
-          "type": "Direct"
-        },
-        {
           "link": "<iframe src=\"https://video-player-amber-pi.vercel.app/?play=https://bbb.exoadash.com/TVD2088/index.mpd&k1=0&k2=0\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
           "name": "Ligue1+",
@@ -4180,6 +4166,20 @@
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
           "name": "HD SERVER",
           "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://fc-ind-ivan-flux.sptv5204.workers.dev/140799-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (IND)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://fc-bd-ivan-flux.sptv5204.workers.dev/140799-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (BD)",
+          "source": "fancode",
           "type": "Direct"
         }
       ],
@@ -4876,6 +4876,13 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
+          "link": "https://live.alilicloud.com/live/24a550e4fe1f7b07836d2da7f8dd708d/playlist.m3u8",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "SPORTIFy Live",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
           "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://fc-ind-ivan-flux.sptv5204.workers.dev/140863-ENGLISH.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
           "name": "FANCODE ENGLISH (IND)",
@@ -4887,13 +4894,6 @@
           "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
           "name": "FANCODE ENGLISH (BD)",
           "source": "fancode",
-          "type": "Direct"
-        },
-        {
-          "link": "https://live.alilicloud.com/live/24a550e4fe1f7b07836d2da7f8dd708d/playlist.m3u8",
-          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "SPORTIFy Live",
-          "source": "main",
           "type": "Direct"
         }
       ],
@@ -4923,6 +4923,13 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
+          "link": "https://live.alilicloud.com/live/c65adf11139c814108c2c83cb1b01549/playlist.m3u8",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "SPORTIFy Live",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
           "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://fc-ind-ivan-flux.sptv5204.workers.dev/140852-ENGLISH.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
           "name": "FANCODE ENGLISH (IND)",
@@ -4934,13 +4941,6 @@
           "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
           "name": "FANCODE ENGLISH (BD)",
           "source": "fancode",
-          "type": "Direct"
-        },
-        {
-          "link": "https://live.alilicloud.com/live/c65adf11139c814108c2c83cb1b01549/playlist.m3u8",
-          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "SPORTIFy Live",
-          "source": "main",
           "type": "Direct"
         }
       ],
