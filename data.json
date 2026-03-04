@@ -4108,7 +4108,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/5324/image",
       "team1Name": "Juve Stabia",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2711/image",
-      "team2Name": "Sampdoria"
+      "team2Name": "Sampdoria",
+      "telegramSent": true
     },
     "match_14317739": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
@@ -4120,7 +4121,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2715/image",
       "team1Name": "Palermo",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2770/image",
-      "team2Name": "Mantova"
+      "team2Name": "Mantova",
+      "telegramSent": true
     },
     "match_14326661": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/1692/image/dark",
@@ -5365,72 +5367,72 @@
           "type": "Direct"
         },
         {
-          "link": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1772653477-0-0-ea0e6041893bd1fd3f7f98aa7181c121",
+          "link": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1772654017-0-0-454aa0013065c44eb66690b27b984b5a",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV",
           "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1772653477-0-0-e43597581b6397c8cea1fce35c4514f0",
+          "link": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1772654017-0-0-5fd5650bff57d7529ac9d8620eaec489",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV+ HD",
           "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1772653477-0-0-8661e2dbe2545e93da030d2ae8838fdc",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy SD",
-          "source": "api",
-          "type": "Direct"
-        },
-        {
-          "link": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1772653477-0-0-ac2630afd92e7bbdcc3e318e836b597e",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy HD",
-          "source": "api",
-          "type": "Direct"
-        },
-        {
-          "link": "https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1772653477-0-0-da3d22def327a8e2fc4bde34e5d89bf0",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy PLUS FHD",
-          "source": "api",
-          "type": "Direct"
-        },
-        {
-          "link": "https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1772653477-0-0-d5452eee6b0cdb630dd3bbf210922f75",
+          "link": "https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1772654017-0-0-1418e43e025505c3e5df17da9d235794",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy ULTRA SD",
           "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1772653477-0-0-6bcfbed2f565b73645603363e7d1d16f",
+          "link": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1772654017-0-0-265d329beeb422eda3f8728fe175d550",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy MAX SD",
+          "name": "SPORTIFy HD",
           "source": "api",
           "type": "Direct"
         },
         {
-          "link": "https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1772653477-0-0-f6556212807c13ae3be1f02ee8d177dd",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy STAR",
-          "source": "api",
-          "type": "Direct"
-        },
-        {
-          "link": "https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1772653477-0-0-2393a2d0453ff951bf05e87f776259b4",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy SD",
-          "source": "api",
-          "type": "Direct"
-        },
-        {
-          "link": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1772653477-0-0-8fab6a299cda622679877c333ebf9e27",
+          "link": "https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1772654017-0-0-abd4ac70a4a0e385e15a4d37da25bf95",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy FHD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1772654017-0-0-779d1036e0482c40a27e450fd0043474",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy FHD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1772654017-0-0-2ac5dfffa900c823079807546d27ce56",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1772654017-0-0-6d148d8d80a2354a88a9f840d0a9768e",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy ULTRA HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1772654017-0-0-b848a702ed13682c6ca209ae89f4150c",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy FHD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1772654017-0-0-1fd7ab6ab6b31e0a578b1caeed111d62",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy HD",
           "source": "api",
           "type": "Direct"
         }
