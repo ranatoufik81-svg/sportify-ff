@@ -5705,7 +5705,7 @@
       "sportType": "BASKETBALL",
       "streamLinks": [
         {
-          "link": "https://red2.wecanfix8.space/playlist/46262/load-playlist?|Referer=https://gooz.aapmains.net",
+          "link": "https://cdn9.trrfiles.cfd/live/cdn9/chunks.m3u8",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
           "name": "SPORTIFy NBA",
           "source": "main",
@@ -5726,7 +5726,7 @@
           "type": "Direct"
         },
         {
-          "link": "https://smarthard.click/hls/kaT8Lu6TJc1F/index.m3u8",
+          "link": "https://smarthard.click/hls/DfF4IkIqKvOP/index.m3u8",
           "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
           "name": "SD SERVER",
           "source": "main",
@@ -5901,13 +5901,6 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://video-player-amber-pi.vercel.app/?play=https://bbb.exoadash.com/TVD1403/index.mpd&k1=0&k2=0\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "Thmanyah - FHD",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
           "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://fc-ind-owner-tg.ivan-flux.workers.dev/140704-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
           "name": "FANCODE BLOODY_SWEET (IND)",
@@ -5919,6 +5912,13 @@
           "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
           "name": "FANCODE BLOODY_SWEET (BD)",
           "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://video-player-amber-pi.vercel.app/?play=https://bbb.exoadash.com/TVD1403/index.mpd&k1=0&k2=0\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "Thmanyah - FHD",
+          "source": "main",
           "type": "Direct"
         }
       ],
