@@ -5901,13 +5901,6 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://video-player-amber-pi.vercel.app/?play=https://bbb.exoadash.com/TVD1403/index.mpd&k1=0&k2=0\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "Thmanyah - FHD",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
           "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://fc-ind-ivan-flux.sptv5204.workers.dev/140704-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
           "name": "FANCODE BLOODY_SWEET (IND)",
@@ -5919,6 +5912,13 @@
           "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
           "name": "FANCODE BLOODY_SWEET (BD)",
           "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://video-player-amber-pi.vercel.app/?play=https://bbb.exoadash.com/TVD1403/index.mpd&k1=0&k2=0\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "Thmanyah - FHD",
+          "source": "main",
           "type": "Direct"
         }
       ],
@@ -6370,13 +6370,6 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "https://smarthard.click/hls/39LdmGJ7zULD/index.m3u8",
-          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
-          "name": "SPORTIFy Live",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
           "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://fc-ind-ivan-flux.sptv5204.workers.dev/140865-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
           "name": "FANCODE BLOODY_SWEET (IND)",
@@ -6388,6 +6381,13 @@
           "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
           "name": "FANCODE BLOODY_SWEET (BD)",
           "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "https://smarthard.click/hls/39LdmGJ7zULD/index.m3u8",
+          "logo": "https://i.ibb.co/wN1j6XD9/1000342549.png",
+          "name": "SPORTIFy Live",
+          "source": "main",
           "type": "Direct"
         }
       ],
@@ -6791,7 +6791,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/40655/image",
       "team1Name": "East Bengal",
       "team2Logo": "https://api.sofascore.com/api/v1/team/174594/image",
-      "team2Name": "Goa"
+      "team2Name": "Goa",
+      "telegramSent": true
     },
     "match_15530812": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/328/image/dark",
