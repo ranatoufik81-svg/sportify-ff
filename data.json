@@ -5925,7 +5925,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/269199/image",
       "team1Name": "Al-Kholood",
       "team2Logo": "https://api.sofascore.com/api/v1/team/56027/image",
-      "team2Name": "Al-Qadsiah"
+      "team2Name": "Al-Qadsiah",
+      "telegramSent": true
     },
     "match_14771860": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
@@ -5940,12 +5941,69 @@
           "name": "Thmanyah - FHD",
           "source": "main",
           "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-566705_lsd.m3u8?auth_key=1772740597-0-0-de1b10cbaaaf51da88fdb61ae661c3ca",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-566705_lhd.m3u8?auth_key=1772740597-0-0-c0a76d8543ddc4b07d10d89aaa985235",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1772740597-0-0-f4d9756d153effeea87b30689f7cc11b",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy FHD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1772740597-0-0-3b5e6869f115f6c3fe67ed32d50465a0",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy STAR HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1772740597-0-0-b080aec6451d3512b6e928d527fd0ce6",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1772740597-0-0-ec396e64b6fd988086a771874ab1949d",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy MAX HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1772740597-0-0-83deca04c1b4b8729b7b0fa2b49d9609",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy MAX HD",
+          "source": "api",
+          "type": "Direct"
+        },
+        {
+          "link": "https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1772740597-0-0-a23e60b1728b54e5c9d9ab8742fe7c85",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy MAX",
+          "source": "api",
+          "type": "Direct"
         }
       ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/204126/image",
       "team1Name": "Damac",
       "team2Logo": "https://api.sofascore.com/api/v1/team/168088/image",
-      "team2Name": "Al-Riyadh"
+      "team2Name": "Al-Riyadh",
+      "telegramSent": true
     },
     "match_15253536": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/384/image/dark",
