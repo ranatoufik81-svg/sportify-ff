@@ -3585,6 +3585,20 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://instreams.live/US/NFLHD5/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "DAZN IT HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://play.ltwxsc.com/live/hd-en-6MuSNj42A2PscEAjtz.m3u8?txSecret=5934e4f80337e0a56417e480f4b0fe79&txTime=69AC8448\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SPORTIFy Live",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
           "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd&k1=7995c724a13748ed970840a8ab5bb9b3&k2=67bdaf1e2175b9ff682fcdf0e2354b1e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "beIN ENGLISH",
@@ -3592,7 +3606,7 @@
           "type": "Direct"
         },
         {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://bbb.exoadash.com/TVD6414/index.mpd\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://bbb.exoadash.com/TVD6414/index.mpd&k1=0&k2=0\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "ELEVEN SPORTS",
           "source": "main",
@@ -3676,7 +3690,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/389232/image",
       "team1Name": "Dender ",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2898/image",
-      "team2Name": "Charleroi"
+      "team2Name": "Charleroi",
+      "telegramSent": true
     },
     "match_14032364": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/38/image/dark",
@@ -5948,7 +5963,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/22025/image",
       "team1Name": "Italy",
       "team2Logo": "https://api.sofascore.com/api/v1/team/7414/image",
-      "team2Name": "Denmark"
+      "team2Name": "Denmark",
+      "telegramSent": true
     },
     "match_15117944": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/780/image/dark",
