@@ -5164,14 +5164,21 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://bbb.exoadash.com/TVD6412/index.mpd&k1=0&k2=0\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://bbb.exoadash.com/TVD2709/index.mpd&k1=0&k2=0\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "ELEVEN SPORTS",
+          "name": "NOVA SPORTS",
           "source": "main",
           "type": "Direct"
         },
         {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://bbb.exoadash.com/TVD2709/index.mpd&k1=0&k2=0\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://instreams.pro/EU/HDTV18/index.m3u8?st=SportzX|Referer=https://instreams.click/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "DAZN SPORTS",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://bbb.exoadash.com/TVD6412/index.mpd&k1=0&k2=0\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "ELEVEN SPORTS",
           "source": "main",
@@ -6889,7 +6896,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/1715/image",
       "team1Name": "Brest",
       "team2Logo": "https://api.sofascore.com/api/v1/team/1662/image",
-      "team2Name": "Le Havre"
+      "team2Name": "Le Havre",
+      "telegramSent": true
     },
     "match_14167900": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
@@ -6909,7 +6917,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/1661/image",
       "team1Name": "Nice",
       "team2Logo": "https://api.sofascore.com/api/v1/team/1658/image",
-      "team2Name": "Rennes"
+      "team2Name": "Rennes",
+      "telegramSent": true
     },
     "match_14167902": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
@@ -6984,7 +6993,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/1643/image",
       "team1Name": "Lille",
       "team2Logo": "https://api.sofascore.com/api/v1/team/1656/image",
-      "team2Name": "Lorient"
+      "team2Name": "Lorient",
+      "telegramSent": true
     },
     "match_14167908": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
@@ -7297,7 +7307,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2745/image",
       "team1Name": "Carrarese",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2715/image",
-      "team2Name": "Palermo"
+      "team2Name": "Palermo",
+      "telegramSent": true
     },
     "match_14317743": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
@@ -9079,6 +9090,13 @@
       "matchTime": "2026-03-08T22:00:00",
       "sportType": "FOOTBALL",
       "streamLinks": [
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://instreams.pro/US/NFLHD1/index.m3u8?st=SportzX|Referer=https://instreams.click/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "TNT SPORTS HD",
+          "source": "main",
+          "type": "Direct"
+        },
         {
           "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd&k1=294b5761cefc22d0c6312939e13d8278&k2=52148f1042d238849f0a7813f1da8a7b\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
