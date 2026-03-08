@@ -9267,7 +9267,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/55/image",
       "team1Name": "Port Vale",
       "team2Logo": "https://api.sofascore.com/api/v1/team/41/image",
-      "team2Name": "Sunderland"
+      "team2Name": "Sunderland",
+      "telegramSent": true
     },
     "match_15670558": {
       "isStar": true,
@@ -9278,30 +9279,23 @@
       "sportType": "CRICKET",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nn1qrdjaha/out/v1/bc4fa7d9cebf47858bebf14ad589025e/cenc.mpd&k1=9909e33838e1152cc512c4636f513f8f&k2=02f67060c94bcc3307280f505ad508ab\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ptptpteoh7/out/v1/564bb083afea4561a5a60c4447258379/cenc.mpd&k1=470a5bda0ae8965c3ab4004c302bc1c8&k2=b04888df6ed570c9435b97471504bd9b\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "PRIME HINDI",
           "source": "main",
           "type": "Direct"
         },
         {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/wfdj3lglfg/out/v1/b2db8919b7f44ee38826dd1fa0c846d3/cenc.mpd&k1=106c1cd8b773f4486335cd98f4d3b8d8&k2=167828189119ff2eda785eb4c0c7f35c\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/7j8yftutgs/out/v1/8a40608178f045839a1c0c0a055d6a90/cenc.mpd&k1=2d0646dd8a8c511de3b2485071705038&k2=1ddbda2f121875fd43dcd758497cbf82\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "WILLOW [Ad Free]",
           "source": "main",
           "type": "Direct"
         },
         {
-          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ptptpteoh7/out/v1/564bb083afea4561a5a60c4447258379/cenc.m\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nn1qrdjaha/out/v1/bc4fa7d9cebf47858bebf14ad589025e/cenc.mpd&k1=9909e33838e1152cc512c4636f513f8f&k2=02f67060c94bcc3307280f505ad508ab\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "PRIME VIDEO",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/enc/wfdj3lglfg/out/v1/b2db8919b7f44ee38826dd1fa0c846d3/cenc.mpd&k1=106c1cd8b773f4486335cd98f4d3b8d8&k2=167828189119ff2eda785eb4c0c7f35c\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "WILLOW [FHD 2]",
           "source": "main",
           "type": "Direct"
         },
@@ -9419,7 +9413,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/187765/image",
       "team1Name": "IND",
       "team2Logo": "https://api.sofascore.com/api/v1/team/187755/image",
-      "team2Name": "NZ"
+      "team2Name": "NZ",
+      "telegramSent": true
     },
     "match_15671278": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
