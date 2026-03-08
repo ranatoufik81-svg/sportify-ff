@@ -6206,7 +6206,15 @@
       "matchEndTime": "2026-03-08T20:30:00",
       "matchTime": "2026-03-08T18:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "beIN SPORT",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/3085/image",
       "team1Name": "Konyaspor",
       "team2Logo": "https://api.sofascore.com/api/v1/team/6063/image",
@@ -6220,9 +6228,16 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://bbb.exoadash.com/TVD6412/index.mpd&k1=0&k2=0\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://live.alilicloud.com/live/1b439d74b74a8a01e4a9171959bc9d30/playlist.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "ELEVEN SPORTS",
+          "name": "SPORTIFy Live",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "beIN SPORT",
           "source": "main",
           "type": "Direct"
         }
@@ -6230,7 +6245,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/3064/image",
       "team1Name": "Rizespor",
       "team2Logo": "https://api.sofascore.com/api/v1/team/3056/image",
-      "team2Name": "Antalyaspor"
+      "team2Name": "Antalyaspor",
+      "telegramSent": true
     },
     "match_14109834": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
@@ -6238,7 +6254,15 @@
       "matchEndTime": "2026-03-09T00:30:00",
       "matchTime": "2026-03-08T22:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "beIN SPORT",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/3052/image",
       "team1Name": "Fenerbahçe",
       "team2Logo": "https://api.sofascore.com/api/v1/team/3053/image",
@@ -6269,7 +6293,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/5138/image",
       "team1Name": "Gaziantep",
       "team2Logo": "https://api.sofascore.com/api/v1/team/4954/image",
-      "team2Name": "Karagümrük"
+      "team2Name": "Karagümrük",
+      "telegramSent": true
     },
     "match_14109837": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
@@ -8430,7 +8455,22 @@
       "matchEndTime": "2026-03-08T19:30:00",
       "matchTime": "2026-03-08T17:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd&k1=1a5df53609ebc9857898c490f4724918&k2=77f62980d582ec541280796acf8b2d19\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "Premier Sports",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://live.alilicloud.com/live/ba46a756e2d24b3b593200c6a7aa157b/playlist.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SPORTIFy Live",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/43/image",
       "team1Name": "Fulham",
       "team2Logo": "https://api.sofascore.com/api/v1/team/45/image",
@@ -8796,7 +8836,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/936343/image",
       "team1Name": "Diamond Harbour FC",
       "team2Logo": "https://api.sofascore.com/api/v1/team/34217/image",
-      "team2Name": "Dempo"
+      "team2Name": "Dempo",
+      "telegramSent": true
     },
     "match_15558657": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/848/image/dark",
