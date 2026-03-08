@@ -8869,10 +8869,11 @@
       "team2Name": "Sunderland"
     },
     "match_15670558": {
+      "isStar": true,
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11185/image/dark",
       "leagueTitle": "ICC Men's T20 World Cup, Final",
-      "matchEndTime": "2026-03-09T02:00:00",
-      "matchTime": "2026-03-08T19:00:00",
+      "matchEndTime": "2026-03-09T02:00",
+      "matchTime": "2026-03-08T19:00",
       "sportType": "CRICKET",
       "streamLinks": [
         {
@@ -8972,6 +8973,46 @@
           "name": "STAR KAN - IN",
           "source": "main",
           "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Jtv-player/?url=https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd&name=Star_Sports_HD_1&keyId=965dc2ddb1d85138ad787999a7f30ca5&key=859695076e67fe961836b564db6d689c&cookie=__hdnea__=st=1772908177~exp=1772994577~acl=/*~hmac=a75d41857d35a2e4fbada2207e606ec1ff6cf3bd334da54d4e6bf5e5b60e85cd\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "Star Sports HD 1",
+          "source": "admin"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Jtv-player/?url=https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd&name=Star_Sports_1_Hindi_HD&keyId=400131994b445d8c8817202248760fda&key=2d56cb6f07a75b9aff165d534ae2bfc4&cookie=__hdnea__=st=1772908177~exp=1772994577~acl=/*~hmac=a75d41857d35a2e4fbada2207e606ec1ff6cf3bd334da54d4e6bf5e5b60e85cd\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "Star Sports 1 Hindi HD",
+          "source": "admin"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Jtv-player/?url=https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Hindi_BTS/output/index.mpd&name=Star_Sports_1_Hindi&keyId=8ea9b607549252068e260a5f4d7dd321&key=350c0aaffedf51cc1502e9543c7c885e&cookie=__hdnea__=st=1772908177~exp=1772994577~acl=/*~hmac=a75d41857d35a2e4fbada2207e606ec1ff6cf3bd334da54d4e6bf5e5b60e85cd\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "Star Sports 1 Hindi",
+          "source": "admin"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Jtv-player/?url=https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/output/index.mpd&name=Star_Sports_2_HD&keyId=9457eb90129456fa8ea95e10ba4ac51e&key=e620a970cea474c491ac78ae71a4d764&cookie=__hdnea__=st=1772908177~exp=1772994577~acl=/*~hmac=a75d41857d35a2e4fbada2207e606ec1ff6cf3bd334da54d4e6bf5e5b60e85cd\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "Star Sports 2 HD",
+          "source": "admin"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Jtv-player/?url=https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd&name=Star_Sports_1_Tamil_HD&keyId=2272c0bc6b2e5cb090b1f55996e0026c&key=943923934de1d5536ab01c67fca8b337&cookie=__hdnea__=st=1772908177~exp=1772994577~acl=/*~hmac=a75d41857d35a2e4fbada2207e606ec1ff6cf3bd334da54d4e6bf5e5b60e85cd\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "Star Sports 1 Tamil HD",
+          "source": "admin"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Jtv-player/?url=https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_2_Tamil_HD_BTS/output/index.mpd&name=Star_Sports_2_Tamil_HD&keyId=dc44fe6251825774b90d58dcfa7d94e0&key=63e3ae853f483a86752b5b9e6d61eb20&cookie=__hdnea__=st=1772908177~exp=1772994577~acl=/*~hmac=a75d41857d35a2e4fbada2207e606ec1ff6cf3bd334da54d4e6bf5e5b60e85cd\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "Star Sports 2 Tamil HD",
+          "source": "admin"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Jtv-player/?url=https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd&name=Star_Sports_1_Telugu_HD&keyId=49e84b9edfd85379b90c81b7d2d3d2bf&key=19c82d3ff094fa06af95820a1572ecb5&cookie=__hdnea__=st=1772908177~exp=1772994577~acl=/*~hmac=a75d41857d35a2e4fbada2207e606ec1ff6cf3bd334da54d4e6bf5e5b60e85cd\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "Star Sports 1 Telugu HD",
+          "source": "admin"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Jtv-player/?url=https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/output/index.mpd&name=Star_Sports_1_Kannada&keyId=9a6d058fa40b5460a946178900eb44cb&key=791d7444110cec32d731ca0c33ac6c15&cookie=__hdnea__=st=1772908177~exp=1772994577~acl=/*~hmac=a75d41857d35a2e4fbada2207e606ec1ff6cf3bd334da54d4e6bf5e5b60e85cd\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "Star Sports 1 Kannada",
+          "source": "admin"
         }
       ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/187765/image",
