@@ -4921,6 +4921,20 @@
       "sportType": "CRICKET",
       "streamLinks": [
         {
+          "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://fc-ind-owner-tg.ivan-flux.workers.dev/141406-ENGLISH.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE ENGLISH (IND)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://fc-bd-owner.ivan-flux.workers.dev/141406-ENGLISH-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE ENGLISH (BD)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
           "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/sar5qef6wv/out/v1/29e2f2b691a845a5bfe0c25775ef89bd/cenc.mpd&k1=4c1cb172e3dd56d27b7914a26803d8d1&k2=dbd9280a6254f1abf1e45571d6325385\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "WILLOW - AQ",
@@ -4946,20 +4960,6 @@
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "FANCODE - IN",
           "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://fc-ind-owner-tg.ivan-flux.workers.dev/141406-ENGLISH.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
-          "name": "FANCODE ENGLISH (IND)",
-          "source": "fancode",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://fc-bd-owner.ivan-flux.workers.dev/141406-ENGLISH-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
-          "name": "FANCODE ENGLISH (BD)",
-          "source": "fancode",
           "type": "Direct"
         }
       ],
