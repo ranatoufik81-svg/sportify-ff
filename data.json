@@ -4974,7 +4974,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2685/image",
       "team1Name": "Bologna",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2702/image",
-      "team2Name": "Roma"
+      "team2Name": "Roma",
+      "telegramSent": true
     },
     "match_15631830": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
@@ -5014,7 +5015,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2677/image",
       "team1Name": "Stuttgart",
       "team2Logo": "https://api.sofascore.com/api/v1/team/3002/image",
-      "team2Name": "Porto"
+      "team2Name": "Porto",
+      "telegramSent": true
     },
     "match_15631833": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
@@ -5034,7 +5036,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/3248/image",
       "team1Name": "Panathinaikos",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2816/image",
-      "team2Name": "Real Betis"
+      "team2Name": "Real Betis",
+      "telegramSent": true
     },
     "match_15631834": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
@@ -5093,7 +5096,28 @@
         {
           "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd&k1=294b5761cefc22d0c6312939e13d8278&k2=52148f1042d238849f0a7813f1da8a7b\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "TNT SPORTS",
+          "name": "TNT SPORTS - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://instreams.pro/US/NFLHD1/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "TNT SPORTS HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://live.alilicloud.com/live/695984ed629b51f3cefff4c97389905c/playlist.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SPORTIFy Live",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://smarthard.click/hls/sabrouchespn1arg/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "ESPN AR SD",
           "source": "main",
           "type": "Direct"
         }
@@ -5101,7 +5125,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/1643/image",
       "team1Name": "Lille",
       "team2Logo": "https://api.sofascore.com/api/v1/team/40/image",
-      "team2Name": "Aston Villa"
+      "team2Name": "Aston Villa",
+      "telegramSent": true
     },
     "match_15632045": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
@@ -5161,7 +5186,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/3121/image",
       "team1Name": "Lech",
       "team2Logo": "https://api.sofascore.com/api/v1/team/3313/image",
-      "team2Name": "Shakhtar"
+      "team2Name": "Shakhtar",
+      "telegramSent": true
     },
     "match_15632048": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
@@ -5171,7 +5197,14 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://instreams.live/EU/HDTV33/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "TRT 1 HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://instreams.live/EU/HDTV10/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "SPORTIFy Live",
           "source": "main",
@@ -5181,7 +5214,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/3053/image",
       "team1Name": "Samsunspor",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2818/image",
-      "team2Name": "Rayo Vallecano"
+      "team2Name": "Rayo Vallecano",
+      "telegramSent": true
     },
     "match_15632049": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
@@ -5201,7 +5235,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2950/image",
       "team1Name": "AZ",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2218/image",
-      "team2Name": "Sparta Praha"
+      "team2Name": "Sparta Praha",
+      "telegramSent": true
     },
     "match_15632050": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
@@ -5261,7 +5296,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2039/image",
       "team1Name": "Rijeka",
       "team2Logo": "https://api.sofascore.com/api/v1/team/1659/image",
-      "team2Name": "Strasbourg"
+      "team2Name": "Strasbourg",
+      "telegramSent": true
     },
     "match_15645938": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/498/image/dark",
