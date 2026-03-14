@@ -6419,6 +6419,13 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://daffodil.xn--1000-ugoa0hsb9a0hb.com/beines.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "beIN SPORTS ES",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
           "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://bbb.exoadash.com/TVD2083/index.mpd&k1=0&k2=0\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "Ligue1+ HD",
@@ -7128,7 +7135,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2729/image",
       "team1Name": "Monza",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2715/image",
-      "team2Name": "Palermo"
+      "team2Name": "Palermo",
+      "telegramSent": true
     },
     "match_14317593": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
