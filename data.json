@@ -3966,6 +3966,13 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://onebot3c.s3.us-east-1.amazonaws.com/brighton.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SPORTIFy Live - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
           "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://daffodil.lifesharper.com/usa.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "USA TV FHD",
@@ -5806,7 +5813,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2868/image",
       "team1Name": "Cultural Leonesa",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2835/image",
-      "team2Name": "R. Racing Club"
+      "team2Name": "R. Racing Club",
+      "telegramSent": true
     },
     "match_14083411": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
@@ -5928,7 +5936,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2836/image",
       "team1Name": "Atl. Madrid",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2859/image",
-      "team2Name": "Getafe"
+      "team2Name": "Getafe",
+      "telegramSent": true
     },
     "match_14083627": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
