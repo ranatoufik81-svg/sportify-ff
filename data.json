@@ -3525,7 +3525,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2713/image",
       "team1Name": "Genoa",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2695/image",
-      "team2Name": "Udinese"
+      "team2Name": "Udinese",
+      "telegramSent": true
     },
     "match_13981717": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
@@ -3787,16 +3788,16 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://bbb.exoadash.com/TVD6412/index.mpd&k1=0&k2=0\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://play.ltwxsc.com/live/hd-en-6MuT7Y3D9bYjXsVB3k.m3u8?txSecret=c30b276406693130a0f27fdc2f42b3f3&txTime=69BDCA0C\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "ELEVEN SPORTS",
+          "name": "SPORTIFy Live",
           "source": "main",
           "type": "Direct"
         },
         {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://bbb.exoadash.com/TVD2709/index.mpd&k1=0&k2=0\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://3n4x5t25.80386851.net:8443/hls/hvbzk77nd.m3u8?s=qDsl1WR5We6cYc8vVVTheg&e=1774056472|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36&Referer=https://swoparm.net/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "NOVA SPORTS",
+          "name": "HD SERVER",
           "source": "main",
           "type": "Direct"
         },
@@ -4108,9 +4109,16 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://bbb.exoadash.com/TVD2083/index.mpd&k1=0&k2=0\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://play.ltwxsc.com/live/hd-en-6MuT7Y5RSRGvoSye6a.m3u8?txSecret=e2a46901172368eaf303ab6e883162d2&txTime=69BDCA0C\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "Ligue1+ HD",
+          "name": "SPORTIFy Live",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://3n4x5t25.80386851.net:8443/hls/lru1us9mecf.m3u8?s=PkGzh_24sIbZ7GIek5YOhQ&e=1774056687|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36&Referer=https://swoparm.net/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "beIN USA",
           "source": "main",
           "type": "Direct"
         }
@@ -4118,7 +4126,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/1648/image",
       "team1Name": "Lens",
       "team2Logo": "https://api.sofascore.com/api/v1/team/1684/image",
-      "team2Name": "Angers"
+      "team2Name": "Angers",
+      "telegramSent": true
     },
     "match_14201407": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
