@@ -4113,11 +4113,6 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://video-player-amber-pi.vercel.app/?play=https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd&k1=7e9239c1982d984a002df3ed049d0756&k2=1b8a17598129a3618535c8fb05f103fe\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "name": "FANCODE HD",
-          "source": "admin"
-        },
-        {
           "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://fc-ind-owner-tg.ivan-flux.workers.dev/141180-BENGALI.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
           "name": "FANCODE BENGALI (IND)",
@@ -4132,72 +4127,77 @@
           "type": "Direct"
         },
         {
-          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1774018599-0-0-792833d22c39532cc84664038c25e1d0\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://video-player-amber-pi.vercel.app/?play=https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd&k1=7e9239c1982d984a002df3ed049d0756&k2=1b8a17598129a3618535c8fb05f103fe\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "FANCODE HD",
+          "source": "admin"
+        },
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-547345_lsd.m3u8?auth_key=1774019319-0-0-267a12768e1f8261815ba3be9448af84\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV",
           "source": "api",
           "type": "Embed"
         },
         {
-          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1774018599-0-0-b95d0489f85395efe55537c8c83fe8b4\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-547345_lhd.m3u8?auth_key=1774019319-0-0-8fd0b6894d5f1ab6c324366142ba3f7b\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV+ HD",
           "source": "api",
           "type": "Embed"
         },
         {
-          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1774018599-0-0-c24265159f5c667e1a7b9dee78b22985\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1774019319-0-0-3f0e6982141e80b81bca1eafa9273441\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy SD",
+          "name": "SPORTIFy SOCCER",
           "source": "api",
           "type": "Embed"
         },
         {
-          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1774018599-0-0-94c295e0b5c0e646f1e6ea9632a4c41e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1774019319-0-0-3d8edf7098cde63c9da1ef7dd209e5cd\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy FOOTBALL SD",
+          "name": "SPORTIFy FHD",
           "source": "api",
           "type": "Embed"
         },
         {
-          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-547345_lsd.m3u8?auth_key=1774018599-0-0-a81bc03399326d06655fa718c86eeda4\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1774019319-0-0-6bf92f8e2e93b12ed7782c23c4b19a5a\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy FAST",
+          "name": "SPORTIFy ULTRA SD",
           "source": "api",
           "type": "Embed"
         },
         {
-          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-547345_lhd.m3u8?auth_key=1774018599-0-0-947fcc9a31c71e013a788b80b5c26fe4\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1774019319-0-0-8b9bc83b3519bff740684b9c8fdafd60\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy SD",
+          "name": "SPORTIFy FAST FHD",
           "source": "api",
           "type": "Embed"
         },
         {
-          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1774018599-0-0-666859ba81bb098a5768205ab9f538b8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1774019319-0-0-c96da9aaca6be0b60e39cc043cfcbd49\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy STAR FHD",
+          "name": "SPORTIFy FOOTBALL",
           "source": "api",
           "type": "Embed"
         },
         {
-          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1774018599-0-0-edf6ea8c8f47cf4dc1de77813ae00969\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1774019319-0-0-4e24a37a4a21f57fdaf4e116e433f6d3\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy LIVE SD",
+          "name": "SPORTIFy PRIME",
           "source": "api",
           "type": "Embed"
         },
         {
-          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1774018599-0-0-5153127c8e3a4358242cdb34abacf752\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1774019319-0-0-79ff0dd9148bf2c968e9d6b905d15db4\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy MAX HD",
+          "name": "SPORTIFy GOAL HD",
           "source": "api",
           "type": "Embed"
         },
         {
-          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1774018599-0-0-b78270909cd4240bb648ef21b41bd7cb\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1774019319-0-0-17b753a47a5326bf3ce71be5fc70e0d4\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy FOOTBALL HD",
+          "name": "SPORTIFy TURBO",
           "source": "api",
           "type": "Embed"
         }
