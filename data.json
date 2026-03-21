@@ -5549,20 +5549,6 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://istreameast.app/laliga/getafe-espanyol/35004704\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "SPORTIFy Live",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://live.uu6611.com/live/hd-en-1-4358913.m3u8?txSecret=2b0b9962bb6c576f25d83448b43bbce5&txTime=69BF0006|Referer=https://player.up909.com/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "FAST SERVER",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
           "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://fc-ind-owner-tg.ivan-flux.workers.dev/131116-ENGLISH.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
           "name": "FANCODE ENGLISH (IND)",
@@ -5574,6 +5560,20 @@
           "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
           "name": "FANCODE ENGLISH (BD)",
           "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://istreameast.app/laliga/getafe-espanyol/35004704\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SPORTIFy Live",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://live.uu6611.com/live/hd-en-1-4358913.m3u8?txSecret=2b0b9962bb6c576f25d83448b43bbce5&txTime=69BF0006|Referer=https://player.up909.com/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "FAST SERVER",
+          "source": "main",
           "type": "Direct"
         },
         {
