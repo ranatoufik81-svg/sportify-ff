@@ -3919,6 +3919,13 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://olegivoniv.s3.us-east-1.amazonaws.com/manu.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SPORTIFy Live - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
           "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd&k1=96b67fa09140329a89b7a1ead134eda3&k2=c618d32c56cdc6cad8330eb98507ca3f\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "NBC UNIVERSO",
@@ -5349,7 +5356,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/324871/image",
       "team1Name": "FC Andorra",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2839/image",
-      "team2Name": "Eibar"
+      "team2Name": "Eibar",
+      "telegramSent": true
     },
     "match_14083449": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
@@ -5369,7 +5377,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2835/image",
       "team1Name": "R. Racing Club",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2848/image",
-      "team2Name": "Albacete"
+      "team2Name": "Albacete",
+      "telegramSent": true
     },
     "match_14083451": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
@@ -5585,7 +5594,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2814/image",
       "team1Name": "Espanyol",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2859/image",
-      "team2Name": "Getafe"
+      "team2Name": "Getafe",
+      "telegramSent": true
     },
     "match_14083678": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
