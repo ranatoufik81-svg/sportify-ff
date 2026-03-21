@@ -4725,14 +4725,7 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://bbb.exoadash.com/TVD2083/index.mpd&k1=0&k2=0\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "Ligue1+ HD",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://bbb.exoadash.com/TVD6414/index.mpd&k1=0&k2=0\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sports_2/D11/Manifest.mpd&k1=586dddf468ae3dcd8b4df34cbd17ab37&k2=b50bfd59dc72a57930a38776bd9c3cc4\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "ELEVEN SPORTS",
           "source": "main",
@@ -5218,7 +5211,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/7418/image",
       "team1Name": "Japan",
       "team2Logo": "https://api.sofascore.com/api/v1/team/7410/image",
-      "team2Name": "Australia"
+      "team2Name": "Australia",
+      "telegramSent": true
     },
     "match_14439246": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
@@ -5829,7 +5823,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/417053/image",
       "team1Name": "GHA-W",
       "team2Logo": "https://api.sofascore.com/api/v1/team/1176956/image",
-      "team2Name": "SA-WU19"
+      "team2Name": "SA-WU19",
+      "telegramSent": true
     },
     "match_15756595": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/20131/image/dark",
