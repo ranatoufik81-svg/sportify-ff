@@ -4269,6 +4269,13 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://cdn3.skygo.mn/live/disk1/PSN3/STRM-CH2-1/PSN3.mpd&k1=cb705d43ec369891b851a078cabfac5c&k2=fdfefad94eac611692a9e790f266ae4d\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "PSN SPORTS FHD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
           "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://s3.us-east-1.amazonaws.com/e.patsay.offece/usa.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "PEACOCK TV - AQ",
@@ -7082,7 +7089,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/35092/image",
       "team1Name": "Mirandés",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2831/image",
-      "team2Name": "Real Valladolid"
+      "team2Name": "Real Valladolid",
+      "telegramSent": true
     },
     "match_14083445": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
@@ -7149,7 +7157,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/24360/image",
       "team1Name": "Real Sociedad B U21",
       "team2Logo": "https://api.sofascore.com/api/v1/team/33779/image",
-      "team2Name": "Granada"
+      "team2Name": "Granada",
+      "telegramSent": true
     },
     "match_14083657": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
@@ -7868,7 +7877,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2821/image",
       "team1Name": "Celta",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2885/image",
-      "team2Name": "Alavés"
+      "team2Name": "Alavés",
+      "telegramSent": true
     },
     "match_14167930": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
