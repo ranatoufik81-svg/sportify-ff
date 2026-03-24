@@ -4174,11 +4174,41 @@
       "matchEndTime": "2026-03-25T03:15:00",
       "matchTime": "2026-03-25T01:15:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1774384359-0-0-23ed04c42dd53e36798fe98ce31350ea\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1774384359-0-0-4c666ba19e517f036575af52f80482e1\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-596191_lsd.m3u8?auth_key=1774384359-0-0-cedd44534edfe977c393b7436ee6f296\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy ULTRA",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-596191_lhd.m3u8?auth_key=1774384359-0-0-341cb1ef30a819445bec98590b2b8bf1\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy FHD",
+          "source": "api",
+          "type": "Embed"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/65/image",
       "team1Name": "Oldham",
       "team2Logo": "https://api.sofascore.com/api/v1/team/56/image",
-      "team2Name": "Notts County"
+      "team2Name": "Notts County",
+      "telegramSent": true
     },
     "match_15416606": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/25/image/dark",
@@ -4190,7 +4220,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/63/image",
       "team1Name": "Cambridge",
       "team2Logo": "https://api.sofascore.com/api/v1/team/18/image",
-      "team2Name": "Grimsby"
+      "team2Name": "Grimsby",
+      "telegramSent": true
     },
     "match_15471604": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/696/image/dark",
@@ -4214,30 +4245,30 @@
           "type": "Direct"
         },
         {
-          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1774383999-0-0-636bd905c918a14dd878458a2f436842\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1774384359-0-0-a5d0cea7c439f59f3173e8091f1ae69f\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV",
           "source": "api",
           "type": "Embed"
         },
         {
-          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1774383999-0-0-e989372bb0a7c147e9d3b13d525a0148\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1774384359-0-0-f729e4997c2f7776c65b780a4f5c8931\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV+ HD",
           "source": "api",
           "type": "Embed"
         },
         {
-          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1774383999-0-0-0409d72ae18e09fc50a26e5b32d86ce5\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1774384359-0-0-8715e497dd8d06889713735e2dfc3cee\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy ULTRA",
+          "name": "SPORTIFy LIVE",
           "source": "api",
           "type": "Embed"
         },
         {
-          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1774383999-0-0-c0943587d5a6a89e186a84b2ded099ae\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1774384359-0-0-96e9a87e4e3fdc447c7fe0ebcf8b7cb9\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy TURBO FHD",
+          "name": "SPORTIFy PRO",
           "source": "api",
           "type": "Embed"
         }
@@ -4293,7 +4324,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/84/image",
       "team1Name": "Doncaster",
       "team2Logo": "https://api.sofascore.com/api/v1/team/55/image",
-      "team2Name": "Port Vale"
+      "team2Name": "Port Vale",
+      "telegramSent": true
     },
     "match_15608342": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/23358/image/dark",
