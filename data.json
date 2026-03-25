@@ -5368,30 +5368,30 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1774448799-0-0-97347a7b7a2eb9aa6751d0a90ec5ce29\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1774449699-0-0-5951e1408e3f939d51ebe5d92bb7f61e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV",
           "source": "api",
           "type": "Embed"
         },
         {
-          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1774448799-0-0-cda96a03dc2d14fb227c74b33a3b9170\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1774449699-0-0-4938304655125e7055ba2237d80f37d2\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV+ HD",
           "source": "api",
           "type": "Embed"
         },
         {
-          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1774448799-0-0-74cacb887321948641a5c68d9c1c36b9\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1774449699-0-0-ad7a2602daf1517da8145b67d53ef4dc\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy TURBO",
+          "name": "SPORTIFy FHD",
           "source": "api",
           "type": "Embed"
         },
         {
-          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1774448799-0-0-84a961e06dfb406f37219b9b34364140\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1774449699-0-0-e86974ce1afbd730e0d8599679711f75\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy PRIME SD",
+          "name": "SPORTIFy HD",
           "source": "api",
           "type": "Embed"
         }
@@ -5526,7 +5526,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/448594/image",
       "team1Name": "MAW",
       "team2Logo": "https://api.sofascore.com/api/v1/team/448592/image",
-      "team2Name": "GHA"
+      "team2Name": "GHA",
+      "telegramSent": true
     },
     "match_15662771": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/1848/image/dark",
