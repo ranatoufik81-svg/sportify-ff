@@ -3738,6 +3738,13 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://sonymtmnew-akamaized.pages.dev/hls/live/2018458/Switzerl2703/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SonyLiv",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
           "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd&k1=fa5e8db5359fc7d1f15207d5de2a3ac4&k2=78a6c0a41972dfdba2145ae0ad4bd681\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "FUBO SPORTS - AQ",
@@ -3852,6 +3859,13 @@
       "matchTime": "2026-03-27T20:00:00.000Z",
       "sportType": "FOOTBALL",
       "streamLinks": [
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/1yumcpcojq/out/v1/71ab4d889392445b9e0aae03d5cb6c77/cenc.mpd&k1=1675c559b4e5a307c7ac02c00a8c1ea5&k2=639781bebaf86fb69ec1a61e04e8049f\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "VIX SPANISH - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
         {
           "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=http://195.178.110.37/hls/frfrfr.m3u8|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
@@ -3981,7 +3995,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/4778/image",
       "team1Name": "Morocco",
       "team2Logo": "https://api.sofascore.app/api/v1/team/4757/image",
-      "team2Name": "Ecuador"
+      "team2Name": "Ecuador",
+      "telegramSent": true
     },
     "match_14061025": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/25/image/dark",
