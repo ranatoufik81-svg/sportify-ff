@@ -4717,11 +4717,41 @@
       "matchEndTime": "2026-03-27T20:30:00",
       "matchTime": "2026-03-27T18:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1774619799-0-0-0ed6c85438ddd5d8e4048cb06a0ea705\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1774619799-0-0-784a5d87064d062c28a38f779a68bbed\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1774619799-0-0-65f0e469974332efe95db6ee52ebfddb\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy LIVE",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1774619799-0-0-9d05386717b9d389023054662406beb0\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy ULTRA",
+          "source": "api",
+          "type": "Embed"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/23472/image",
       "team1Name": "Somalia",
       "team2Logo": "https://api.sofascore.com/api/v1/team/4780/image",
-      "team2Name": "Mauritius"
+      "team2Name": "Mauritius",
+      "telegramSent": true
     },
     "match_15662769": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/1848/image/dark",
@@ -4729,11 +4759,41 @@
       "matchEndTime": "2026-03-27T20:30:00",
       "matchTime": "2026-03-27T18:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1774619799-0-0-c4ce54e73cd48f617bcbfa74e930f4e3\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1774619799-0-0-8617d8d9ca1789ab854d60c4b969d9ea\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1774619799-0-0-2748b871a4a9855fafc413f66606ae37\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy HD",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1774619799-0-0-0007800c8a6b8723c4a313a116583f8b\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy FHD",
+          "source": "api",
+          "type": "Embed"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/8039/image",
       "team1Name": "Chad",
       "team2Logo": "https://api.sofascore.com/api/v1/team/4750/image",
-      "team2Name": "Burundi"
+      "team2Name": "Burundi",
+      "telegramSent": true
     },
     "match_15662772": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/1848/image/dark",
@@ -4770,7 +4830,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/417055/image",
       "team1Name": "NGR-W",
       "team2Logo": "https://api.sofascore.com/api/v1/team/1176956/image",
-      "team2Name": "SA-WU19"
+      "team2Name": "SA-WU19",
+      "telegramSent": true
     }
   },
   "navigation": {
