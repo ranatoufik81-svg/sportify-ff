@@ -3507,7 +3507,7 @@
       "team2Name": "ISLAMABAD UNITED"
     },
     "-OooVXdY_d8X6xBV9Vdd": {
-      "isStar": false,
+      "isStar": true,
       "leagueLogo": "https://i.ibb.co/QjrYCBsP/1000295077.png",
       "leagueTitle": "INDIAN PREMIER LEAGUE 2026",
       "matchEndTime": "2026-03-29T00:15",
@@ -4761,19 +4761,6 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/3413/image",
       "team2Name": "Kings"
     },
-    "match_15220692": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/748/image/dark",
-      "leagueTitle": "U19 UEFA European Championship, Elite round Gr. 5",
-      "matchEndTime": "2026-03-28T17:30:00",
-      "matchTime": "2026-03-28T15:30:00",
-      "sportType": "FOOTBALL",
-      "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/22552/image",
-      "team1Name": "Romania U19",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/22551/image",
-      "team2Name": "Ireland U19",
-      "telegramSent": true
-    },
     "match_15220780": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/748/image/dark",
       "leagueTitle": "U19 UEFA European Championship, Elite round Gr. 5",
@@ -4798,103 +4785,6 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/22513/image",
       "team2Name": "Greece U19"
     },
-    "match_15224852": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/748/image/dark",
-      "leagueTitle": "U19 UEFA European Championship, Elite round Gr. 1",
-      "matchEndTime": "2026-03-28T18:30:00",
-      "matchTime": "2026-03-28T16:30:00",
-      "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1774706019-0-0-5ce0a274a3d1adb4c7c7c392f22e8803\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy TV",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1774706019-0-0-7b46907bdf8c569586ff4979c7d79d85\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy TV+ HD",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1774706019-0-0-4be0a18ca3633f7404359f0d95d9a685\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy LIVE SD",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1774706019-0-0-419b12f2bdba898557e9c40f68d4b980\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy FOOTBALL",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1774706019-0-0-4e82030c104de52e177eacba5e3ede28\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy FHD",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1774706019-0-0-59de4feee74c13bbae06a481c735d707\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy SD",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1774706019-0-0-a70c9975dbf9018a03a4e492a1780996\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy GOLD SD",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1774706019-0-0-ea879a0ebc2e447bac874a411dc88d1b\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy LIVE",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-585206_lsd.m3u8?auth_key=1774706019-0-0-fcab8489923f04298733316a0420a96d\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy SOCCER",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://sportify-tv.github.io/stream-yy/?play=https://pull.niues.live/live/stream-585206_lhd.m3u8?auth_key=1774706019-0-0-ba6e323b0b277a602901094c088b1725\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy PLUS SD",
-          "source": "api",
-          "type": "Embed"
-        }
-      ],
-      "team1Logo": "https://api.sofascore.com/api/v1/team/22486/image",
-      "team1Name": "Austria U19",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/22561/image",
-      "team2Name": "Sweden U19",
-      "telegramSent": true
-    },
-    "match_15224853": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/748/image/dark",
-      "leagueTitle": "U19 UEFA European Championship, Elite round Gr. 2",
-      "matchEndTime": "2026-03-28T18:30:00",
-      "matchTime": "2026-03-28T16:30:00",
-      "sportType": "FOOTBALL",
-      "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/22505/image",
-      "team1Name": "England U19",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/22548/image",
-      "team2Name": "Poland U19",
-      "telegramSent": true
-    },
     "match_15224854": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/748/image/dark",
       "leagueTitle": "U19 UEFA European Championship, Elite round Gr. 2",
@@ -4906,19 +4796,6 @@
       "team1Name": "Portugal U19",
       "team2Logo": "https://api.sofascore.com/api/v1/team/22556/image",
       "team2Name": "Serbia U19"
-    },
-    "match_15224855": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/748/image/dark",
-      "leagueTitle": "U19 UEFA European Championship, Elite round Gr. 3",
-      "matchEndTime": "2026-03-28T18:30:00",
-      "matchTime": "2026-03-28T16:30:00",
-      "sportType": "FOOTBALL",
-      "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/22499/image",
-      "team1Name": "Croatia U19",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/22545/image",
-      "team2Name": "Norway U19",
-      "telegramSent": true
     },
     "match_15224856": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/748/image/dark",
@@ -4957,19 +4834,6 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/22530/image",
       "team2Name": "Latvia U19"
     },
-    "match_15224859": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/748/image/dark",
-      "leagueTitle": "U19 UEFA European Championship, Elite round Gr. 5",
-      "matchEndTime": "2026-03-28T16:30:00",
-      "matchTime": "2026-03-28T14:30:00",
-      "sportType": "FOOTBALL",
-      "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/22568/image",
-      "team1Name": "Ukraine U19",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/22525/image",
-      "team2Name": "Kazakhstan U19",
-      "telegramSent": true
-    },
     "match_15224860": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/748/image/dark",
       "leagueTitle": "U19 UEFA European Championship, Elite round Gr. 6",
@@ -4981,19 +4845,6 @@
       "team1Name": "Italy U19",
       "team2Logo": "https://api.sofascore.com/api/v1/team/22558/image",
       "team2Name": "Slovakia U19"
-    },
-    "match_15224861": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/748/image/dark",
-      "leagueTitle": "U19 UEFA European Championship, Elite round Gr. 6",
-      "matchEndTime": "2026-03-28T18:30:00",
-      "matchTime": "2026-03-28T16:30:00",
-      "sportType": "FOOTBALL",
-      "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/22566/image",
-      "team1Name": "Türkiye U19",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/22515/image",
-      "team2Name": "Hungary U19",
-      "telegramSent": true
     },
     "match_15224862": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/748/image/dark",
@@ -5018,58 +4869,6 @@
       "team1Name": "Netherlands U19",
       "team2Logo": "https://api.sofascore.com/api/v1/team/22559/image",
       "team2Name": "Slovenia U19"
-    },
-    "match_15427820": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/19200/image/dark",
-      "leagueTitle": "Major League Tournament, Super 8",
-      "matchEndTime": "2026-03-28T17:00:00",
-      "matchTime": "2026-03-28T10:00:00",
-      "sportType": "CRICKET",
-      "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/416425/image",
-      "team1Name": "BRC",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/416416/image",
-      "team2Name": "BAC",
-      "telegramSent": true
-    },
-    "match_15427821": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/19200/image/dark",
-      "leagueTitle": "Major League Tournament, Super 8",
-      "matchEndTime": "2026-03-28T17:00:00",
-      "matchTime": "2026-03-28T10:00:00",
-      "sportType": "CRICKET",
-      "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/416421/image",
-      "team1Name": "NCC",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/416427/image",
-      "team2Name": "CCC",
-      "telegramSent": true
-    },
-    "match_15427822": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/19200/image/dark",
-      "leagueTitle": "Major League Tournament, Super 8",
-      "matchEndTime": "2026-03-28T17:00:00",
-      "matchTime": "2026-03-28T10:00:00",
-      "sportType": "CRICKET",
-      "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/416417/image",
-      "team1Name": "MSC",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/416413/image",
-      "team2Name": "CCC",
-      "telegramSent": true
-    },
-    "match_15427823": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/19200/image/dark",
-      "leagueTitle": "Major League Tournament, Super 8",
-      "matchEndTime": "2026-03-28T17:00:00",
-      "matchTime": "2026-03-28T10:00:00",
-      "sportType": "CRICKET",
-      "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/416433/image",
-      "team1Name": "ACCC",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/416428/image",
-      "team2Name": "POL",
-      "telegramSent": true
     },
     "match_15608351": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/23358/image/dark",
