@@ -4062,6 +4062,36 @@
       "sportType": "CRICKET",
       "streamLinks": [
         {
+          "link": "<iframe src=\"https://api00007.github.io/Jtv/?play=4470\" style=\"width:100%;aspect-ratio:16/9;border:none;\" allow=\"autoplay;encrypted-media;picture-in-picture;fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://img.media.jio.com/tvpimages/76/32/301981_1749665664018_l_medium.jpg",
+          "name": "Star Sports 1 HD",
+          "type": "iframe"
+        },
+        {
+          "link": "<iframe src=\"https://api00007.github.io/Jtv/?play=148\" style=\"width:100%;aspect-ratio:16/9;border:none;\" allow=\"autoplay;encrypted-media;picture-in-picture;fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://img.media.jio.com/tvpimages/13/81/302112_1749665154709_l_medium.jpg",
+          "name": "Star Sports 1 Hindi",
+          "type": "iframe"
+        },
+        {
+          "link": "<iframe src=\"https://api00007.github.io/Jtv/?play=1124\" style=\"width:100%;aspect-ratio:16/9;border:none;\" allow=\"autoplay;encrypted-media;picture-in-picture;fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://img.media.jio.com/tvpimages/69/73/301995_1749664384503_l_medium.jpg",
+          "name": "Star Sports 1 Tamil",
+          "type": "iframe"
+        },
+        {
+          "link": "<iframe src=\"https://api00007.github.io/Jtv/?play=4471\" style=\"width:100%;aspect-ratio:16/9;border:none;\" allow=\"autoplay;encrypted-media;picture-in-picture;fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://img.media.jio.com/tvpimages/19/57/302123_1749663029798_l_medium.jpg",
+          "name": "Star Sports 1 Telugu HD",
+          "type": "iframe"
+        },
+        {
+          "link": "<iframe src=\"https://api00007.github.io/Jtv/?play=1650\" style=\"width:100%;aspect-ratio:16/9;border:none;\" allow=\"autoplay;encrypted-media;picture-in-picture;fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://img.media.jio.com/tvpimages/13/91/302118_1749663894692_l_medium.jpg",
+          "name": "Star Sports 1 Kannada",
+          "type": "iframe"
+        },
+        {
           "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd&k1=290e09c837da78d5cd961978d390515c&k2=b748836c71e6a4cJ68ef$b5652db6247\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "WILLOW [Ad-Free]",
@@ -4107,7 +4137,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/187842/image",
       "team1Name": "RR",
       "team2Logo": "https://api.sofascore.com/api/v1/team/187777/image",
-      "team2Name": "CSK"
+      "team2Name": "CSK",
+      "telegramSent": true
     }
   },
   "navigation": {
