@@ -3717,7 +3717,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/257523/image",
       "team1Name": "Golden Knights",
       "team2Logo": "https://api.sofascore.com/api/v1/team/3692/image",
-      "team2Name": "Canucks"
+      "team2Name": "Canucks",
+      "telegramSent": true
     },
     "match_14201486": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
@@ -3856,7 +3857,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/3696/image",
       "team1Name": "Sharks",
       "team2Logo": "https://api.sofascore.com/api/v1/team/3695/image",
-      "team2Name": "Blues"
+      "team2Name": "Blues",
+      "telegramSent": true
     },
     "match_14201490": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
@@ -3904,7 +3906,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/3675/image",
       "team1Name": "Ducks",
       "team2Logo": "https://api.sofascore.com/api/v1/team/3693/image",
-      "team2Name": "Maple Leafs"
+      "team2Name": "Maple Leafs",
+      "telegramSent": true
     },
     "match_14439243": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
@@ -4211,7 +4214,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/3427/image",
       "team1Name": "Lakers",
       "team2Logo": "https://api.sofascore.com/api/v1/team/3431/image",
-      "team2Name": "Wizards"
+      "team2Name": "Wizards",
+      "telegramSent": true
     },
     "match_14442520": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
@@ -4732,7 +4736,71 @@
       "matchEndTime": "2026-04-01T02:30:00",
       "matchTime": "2026-03-31T19:30:00",
       "sportType": "CRICKET",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xuhexd0axc/out/v1/f448c404f8df4b7e981df6d539a3a0c1/cenc.mpd&k1=dcf479dce804483b35c00658d135bac0&k2=07d52667cd9d7a8294aeb65f0211f586\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "WILLOW [Ad-Free]",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd&k1=290e09c837da78d5cd961978d390515c&k2=b748836c71e6a4ca68ef5b5652db6247\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "WILLOW - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SKY CRICKET HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=blacklandfj\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "JIO HOTSTAR",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=gift15gta\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "FOX CRICKET - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=http://195.178.110.25/hls/HHHHHH.m3u8|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SD SERVER",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://jcevents-hotstar.pages.dev/bpk-tv/f0e3e64ae415771d8e460317ce97aa5e/Fallback/index.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&cookie=hdntl=exp=1774917005~acl=%2f*~id=6d43e761798d36ec05a613eb9ce9f8e6~data=hdntl~hmac=49c2d7ef63598c16319a388939cb28edd92ab9ae5bbb752533ea6d96c35cc970&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "HIN [IND]",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://jcevents-hotstar.pages.dev/bpk-tv/4db6f833701e78ae4443cb268020f03b/Fallback/index.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&cookie=hdntl=exp=1774917005~acl=%2f*~id=6d43e761798d36ec05a613eb9ce9f8e6~data=hdntl~hmac=49c2d7ef63598c16319a388939cb28edd92ab9ae5bbb752533ea6d96c35cc970&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "TAMIL [IND]",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://jcevents-hotstar.pages.dev/bpk-tv/034d1fb94cae87294a06f4dc266084b9/Fallback/index.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&cookie=hdntl=exp=1774917005~acl=%2f*~id=6d43e761798d36ec05a613eb9ce9f8e6~data=hdntl~hmac=49c2d7ef63598c16319a388939cb28edd92ab9ae5bbb752533ea6d96c35cc970&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "TELGU [IND]",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/187776/image",
       "team1Name": "PBKS",
       "team2Logo": "https://api.sofascore.com/api/v1/team/216006/image",
