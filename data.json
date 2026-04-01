@@ -3536,12 +3536,69 @@
           "name": "Laliga Hypermotion ES",
           "source": "main",
           "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1775066200-0-0-e5c97a770c821b979f050d487733bf03\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1775066200-0-0-1717837b84c1c0b0ab6e19cb48b9d86c\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1775066200-0-0-975964ae16af3b4e414419783db1bc0a\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy ULTRA",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1775066200-0-0-06ad0cf157dd0ff01c706de07d441c38\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy HD",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1775066200-0-0-27babd1406e493725fc0b97b217fd8b5\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy SD",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1775066200-0-0-2bfd37c4dd57bb196f631ed5a8398d36\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy HD",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1775066200-0-0-0085aeb7aaa235a85b7dd1195727e665\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy SD",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1775066200-0-0-07349e11dc8b851d8a2e66efa4afe864\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy SOCCER",
+          "source": "api",
+          "type": "Embed"
         }
       ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/324871/image",
       "team1Name": "FC Andorra",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2830/image",
-      "team2Name": "Málaga"
+      "team2Name": "Málaga",
+      "telegramSent": true
     },
     "match_14201502": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
@@ -4161,86 +4218,86 @@
           "type": "Direct"
         },
         {
-          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1775065300-0-0-a9ae53feb338bd89624bd15ad8c04bcd\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1775066200-0-0-fd0cfeee43da1f2a094e69bed94e5086\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV",
           "source": "api",
           "type": "Embed"
         },
         {
-          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1775065300-0-0-0bbba96f59cb93a7fcbb8ac571622e35\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1775066200-0-0-158837d066ecf45eb922298e22156965\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV+ HD",
           "source": "api",
           "type": "Embed"
         },
         {
-          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1775065300-0-0-7095467e99a7b09f59f6e1ac4af904d5\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1775066200-0-0-bc915dc5baa95147e75100ca00528096\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy GOAL",
+          "name": "SPORTIFy SOCCER FHD",
           "source": "api",
           "type": "Embed"
         },
         {
-          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1775065300-0-0-41992560b71adc036a6c58403b497c80\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy SD",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1775065300-0-0-ae457645d9ada805be64c0575d9e1120\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy GOAL HD",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1775065300-0-0-6fd5d2a2f700d1887a0f2bcc07e21cf6\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy GOAL SD",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1775065300-0-0-afe2031e055ba329bdf261f06305995a\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy STAR",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1775065300-0-0-8b41b1d69db321b9c070b0232ca953e5\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1775066200-0-0-b01281d3c124b5d4599b955cc6e13472\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy FHD",
           "source": "api",
           "type": "Embed"
         },
         {
-          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1775065300-0-0-ee0937343da4d3825a101826198c5a95\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1775066200-0-0-d2b7ae15a23ea95a99000b2f20114047\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy TURBO FHD",
+          "name": "SPORTIFy LIVE",
           "source": "api",
           "type": "Embed"
         },
         {
-          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1775065300-0-0-26f624e11b332ca3ef80f4ff8c70ebba\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1775066200-0-0-5690b7cefcfca5e57e1b959386865c83\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy FOOTBALL HD",
+          "name": "SPORTIFy FHD",
           "source": "api",
           "type": "Embed"
         },
         {
-          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-585206_lsd.m3u8?auth_key=1775065300-0-0-6d25d4833a5c8d90ee5fc172f43b97c8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1775066200-0-0-d1d9e5978ab44a382a44370e828c9fbd\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy FAST FHD",
+          "name": "SPORTIFy LIVE HD",
           "source": "api",
           "type": "Embed"
         },
         {
-          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-585206_lhd.m3u8?auth_key=1775065300-0-0-29fbb91fdc46335a4a91da38a63577c5\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1775066200-0-0-072b87c659a81d53efd01186f5275cdb\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy SD",
+          "name": "SPORTIFy PRIME",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-585206_lsd.m3u8?auth_key=1775066200-0-0-383e28fcf645baa4854693e7b7479abb\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy FHD",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-585206_lhd.m3u8?auth_key=1775066200-0-0-e2679f732dcc546a3fec451349221a90\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy FHD",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1775066200-0-0-46e4023b2ed9fef8c7f19368392c0999\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy FHD",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1775066200-0-0-34b4e487f8f8b58664136bc61fe677f4\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy HD",
           "source": "api",
           "type": "Embed"
         }
