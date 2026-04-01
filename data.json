@@ -4839,7 +4839,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/1150504/image",
       "team1Name": "Thailand U20",
       "team2Logo": "https://api.sofascore.com/api/v1/team/1106610/image",
-      "team2Name": "Bangladesh U20"
+      "team2Name": "Bangladesh U20",
+      "telegramSent": true
     },
     "match_15038434": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/21791/image/dark",
@@ -5446,11 +5447,83 @@
       "matchEndTime": "2026-04-01T20:30:00",
       "matchTime": "2026-04-01T18:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1775051620-0-0-f3249aa542a2b4d5224dbdeeb64c669a\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1775051620-0-0-1b21dba0cf4b90311ad61ad6f5698d65\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1775051620-0-0-fc4b184eb190a684e5fc9bb68ed40315\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy HD",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1775051620-0-0-aaaf00a5d82e8510ae2a565d2972569a\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy SOCCER",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-597924_lsd.m3u8?auth_key=1775051620-0-0-f0e9fad479e412c3c38d9f3ebcc415d4\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy STAR",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-597924_lhd.m3u8?auth_key=1775051620-0-0-cfaf7335a9fa78932033c8293c599725\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy GOAL",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1775051620-0-0-5d4da9190bc82b1576e0b8758a46fa5d\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy FHD",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1775051620-0-0-417b7f93b0905fbcdf450b8c978e98b1\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy PRO",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1775051620-0-0-f6506b6cdcf86cad3f9e4f0f59e12725\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy ULTRA SD",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1775051620-0-0-0c302d50e2e3c058bcd961311b15fda9\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy PLUS",
+          "source": "api",
+          "type": "Embed"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/403570/image",
       "team1Name": "Sreenidi Deccan",
       "team2Logo": "https://api.sofascore.com/api/v1/team/58741/image",
-      "team2Name": "Shillong"
+      "team2Name": "Shillong",
+      "telegramSent": true
     },
     "match_15662775": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/1848/image/dark",
