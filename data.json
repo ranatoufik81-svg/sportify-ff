@@ -3505,11 +3505,41 @@
       "matchEndTime": "2026-04-03T21:30:00",
       "matchTime": "2026-04-03T19:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1775228020-0-0-5c5d1212c45be417a47c375a5d9c5141\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1775228020-0-0-419b2b5cd43f5a7b186effbeacd6b05a\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1775228020-0-0-0de50fe0e67e0c72f94de9e5836cf574\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy SD",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1775228020-0-0-834e52a8b365b253e2862e067af52dba\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy GOAL",
+          "source": "api",
+          "type": "Embed"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/9/image",
       "team1Name": "Birmingham",
       "team2Logo": "https://api.sofascore.com/api/v1/team/46/image",
-      "team2Name": "Blackburn"
+      "team2Name": "Blackburn",
+      "telegramSent": true
     },
     "match_14059927": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
@@ -3517,11 +3547,41 @@
       "matchEndTime": "2026-04-03T21:30:00",
       "matchTime": "2026-04-03T19:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1775228020-0-0-77c32cbc74e9501eed97f535d0c85131\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1775228020-0-0-4e0a81341e01e5b15649aba55feea5e2\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1775228020-0-0-3b7bd9789dfbe18e882e607f898f17fe\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TURBO FHD",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1775228020-0-0-dc78c907811e18a024277c1ab150cbc6\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy SD",
+          "source": "api",
+          "type": "Embed"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/47/image",
       "team1Name": "Charlton",
       "team2Logo": "https://api.sofascore.com/api/v1/team/58/image",
-      "team2Name": "Bristol City"
+      "team2Name": "Bristol City",
+      "telegramSent": true
     },
     "match_14059928": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
@@ -3543,12 +3603,27 @@
           "name": "CBS NETWORK",
           "source": "main",
           "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1775228020-0-0-6071ebdb2ed59149a835bbe2d84953d9\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1775228020-0-0-4acf9e1b815d0b5850cd626a4087f96c\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Embed"
         }
       ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/31/image",
       "team1Name": "Leicester",
       "team2Logo": "https://api.sofascore.com/api/v1/team/21/image",
-      "team2Name": "Preston"
+      "team2Name": "Preston",
+      "telegramSent": true
     },
     "match_14059929": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
@@ -3583,11 +3658,27 @@
       "matchEndTime": "2026-04-03T21:30:00",
       "matchTime": "2026-04-03T19:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-585206_lsd.m3u8?auth_key=1775228020-0-0-eb3463c7d8cf5717b3c06529c2dda320\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-585206_lhd.m3u8?auth_key=1775228020-0-0-9a9481c32279962a9d8d86772dcf9f57\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Embed"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/263/image",
       "team1Name": "Norwich",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2/image",
-      "team2Name": "Portsmouth"
+      "team2Name": "Portsmouth",
+      "telegramSent": true
     },
     "match_14059931": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
@@ -3602,12 +3693,41 @@
           "name": "beIN ENGLISH",
           "source": "main",
           "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1775228020-0-0-782a68af910d37ccbb326e11d17505e1\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1775228020-0-0-98c8ef30ade0c077247df44ffc6f294c\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-351530_lsd.m3u8?auth_key=1775228020-0-0-b47cef5f0f159f5ce545fa81531fa3ed\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy HD",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-351530_lhd.m3u8?auth_key=1775228020-0-0-223e81cb9a038fea97d8410bbf564eb9\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TURBO HD",
+          "source": "api",
+          "type": "Embed"
         }
       ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/95/image",
       "team1Name": "Oxford Utd",
       "team2Logo": "https://api.sofascore.com/api/v1/team/96/image",
-      "team2Name": "Hull"
+      "team2Name": "Hull",
+      "telegramSent": true
     },
     "match_14059932": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
@@ -3717,7 +3837,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/1/image",
       "team1Name": "QPR",
       "team2Logo": "https://api.sofascore.com/api/v1/team/24/image",
-      "team2Name": "Watford"
+      "team2Name": "Watford",
+      "telegramSent": true
     },
     "match_14059934": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
@@ -3725,11 +3846,41 @@
       "matchEndTime": "2026-04-03T21:30:00",
       "matchTime": "2026-04-03T19:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1775228020-0-0-de51a970ca7859f318e38f6a20d9fd8d\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1775228020-0-0-7e314fa9d7319e5b2ede709c1da91147\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-596191_lsd.m3u8?auth_key=1775228020-0-0-b41aa26716f44884f5e0bbf2456f79f3\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy FHD",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-596191_lhd.m3u8?auth_key=1775228020-0-0-7bc21943ed226a0365e706e48e1f2118\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy MAX",
+          "source": "api",
+          "type": "Embed"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/15/image",
       "team1Name": "Sheffield Utd",
       "team2Logo": "https://api.sofascore.com/api/v1/team/74/image",
-      "team2Name": "Swansea"
+      "team2Name": "Swansea",
+      "telegramSent": true
     },
     "match_14059935": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
@@ -3756,12 +3907,41 @@
           "name": "SPORTIFy Live",
           "source": "main",
           "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-579144_lsd.m3u8?auth_key=1775228020-0-0-835a732dd63bc6b82db50396a603f579\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-579144_lhd.m3u8?auth_key=1775228020-0-0-30cf7fef17b2c314f86bc15d523e82d4\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1775228020-0-0-82a3291670a392d3b076f6b931b05a7e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy FAST HD",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1775228020-0-0-f13c6b3f8518a7df72b4f5ad76508c31\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy HD",
+          "source": "api",
+          "type": "Embed"
         }
       ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/29/image",
       "team1Name": "Stoke",
       "team2Logo": "https://api.sofascore.com/api/v1/team/12/image",
-      "team2Name": "Sheffield Wed"
+      "team2Name": "Sheffield Wed",
+      "telegramSent": true
     },
     "match_14059938": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
@@ -3776,12 +3956,41 @@
           "name": "SPORTIFy Live",
           "source": "main",
           "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1775228020-0-0-582fef2d0f01e9dfd114edfa620af626\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1775228020-0-0-0d66249bb876fb0e5e69548a6117a5e2\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1775228020-0-0-bd526d919987dd2d19c03affeffdeb77\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy PRIME HD",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1775228020-0-0-8ddffa45bd22517f91be1e97dbd433dd\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy GOAL",
+          "source": "api",
+          "type": "Embed"
         }
       ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/8/image",
       "team1Name": "West Brom",
       "team2Logo": "https://api.sofascore.com/api/v1/team/64/image",
-      "team2Name": "Wrexham"
+      "team2Name": "Wrexham",
+      "telegramSent": true
     },
     "match_14061107": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/25/image/dark",
@@ -7234,7 +7443,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/273650/image",
       "team1Name": "MUL",
       "team2Logo": "https://api.sofascore.com/api/v1/team/212419/image",
-      "team2Name": "LAH"
+      "team2Name": "LAH",
+      "telegramSent": true
     },
     "match_15711389": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
@@ -7419,7 +7629,14 @@
       "sportType": "CRICKET",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/woq7brvajz/out/v1/86f8068f569543858d2093c80d35bfa8/cenc.mpd&k1=986e2a9cba0cdcdc0fce71908249ae63&k2=f5035dff716cd2aje939!bb10c126a98\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://livevideos.cricbuzz.com/hls/live/2123519/WCB-CA-HINDI/9241/149684/master.m3u8|user-agent=Cricbuzz/7.00.01 (Linux;Android 13) AndroidXMedia3/1.5.1&X-Forwarded-For=100.42.240.25&cookie=hdntl=exp=1775309959~acl=/*~id=xunivamy@denipl.com~data=hdntl,flavour:CB,matchId:149684,debug4xx:false,country:AE~hmac=4b684370c04d109e4e7088c4e22f20c0caeed68e703ea4f5c889c2d57eb38192\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "WILLOW HINDI",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/zsoj3odnee/out/v1/c952c04aa15d47eba29b175c89afb90c/cenc.mpd&k1=bf4a5c832ba137a31310a5f4f3870cce&k2=50a644fbe5f123eKf74454c272766861\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "WILLOW [Ad-Free]",
           "source": "main",
@@ -7485,7 +7702,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/187777/image",
       "team1Name": "CSK",
       "team2Logo": "https://api.sofascore.com/api/v1/team/187776/image",
-      "team2Name": "PBKS"
+      "team2Name": "PBKS",
+      "telegramSent": true
     },
     "match_15864125": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18792/image/dark",
