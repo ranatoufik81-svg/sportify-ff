@@ -3892,7 +3892,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/45/image",
       "team1Name": "Southampton",
       "team2Logo": "https://api.sofascore.com/api/v1/team/32/image",
-      "team2Name": "Ipswich"
+      "team2Name": "Ipswich",
+      "telegramSent": true
     },
     "match_14059937": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
@@ -5421,9 +5422,16 @@
       "sportType": "BASKETBALL",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://chatgpt.hereisman.net/playlist/48194/load-playlist?|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pro.packcast.top/newz/newz/137.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "SPORTIFy NBA",
+          "name": "HOME CAM.",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pro.packcast.top/newz/newz/164.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "AWAY CAM.",
           "source": "main",
           "type": "Direct"
         },
@@ -5438,20 +5446,6 @@
           "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://instreams.live/US/NBA2/index.m3u8?st=SportzX|Referer=https://streamfree.click/&Origin=https://streamfree.click\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "HD SERVER",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://smarthard.click/hls/z1Lb4SbqsIWU/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "SD SERVER",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://mainstreams.pro/hls/wfazgsqtrezu66.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "SPY CAM.",
           "source": "main",
           "type": "Direct"
         }
@@ -5623,16 +5617,9 @@
       "sportType": "BASKETBALL",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://chatgpt.hereisman.net/playlist/48195/load-playlist?|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://chatgpt.hereisman.net/playlist/48218/load-playlist?|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "SPORTIFy NBA",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://nyachamselizabeth.s3.us-east-1.amazonaws.com/warriors.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "NBA LIVE - AQ",
           "source": "main",
           "type": "Direct"
         },
@@ -5651,14 +5638,14 @@
           "type": "Direct"
         },
         {
-          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pro.packcast.top/newz/newz/165.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pro.packcast.top/newz/newz/150.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "HOME CAM.",
           "source": "main",
           "type": "Direct"
         },
         {
-          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pro.packcast.top/newz/newz/141.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pro.packcast.top/newz/newz/140.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "AWAY CAM.",
           "source": "main",
@@ -5783,9 +5770,16 @@
       "sportType": "BASKETBALL",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://chatgpt.hereisman.net/playlist/48193/load-playlist?|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pro.packcast.top/newz/newz/147.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "SPORTIFy NBA",
+          "name": "HOME CAM.",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pro.packcast.top/newz/newz/156.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "AWAY CAM.",
           "source": "main",
           "type": "Direct"
         },
@@ -5800,20 +5794,6 @@
           "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://instreams.live/US/NBA1/index.m3u8?st=SportzX|Referer=https://streamfree.click/&Origin=https://streamfree.click\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "HD SERVER",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "SD SERVER",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://mainstreams.pro/hls/mlkijfezag65.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "SPY CAM.",
           "source": "main",
           "type": "Direct"
         }
@@ -6174,16 +6154,9 @@
       "sportType": "BASKETBALL",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://chatgpt.hereisman.net/playlist/48184/load-playlist?|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://chatgpt.hereisman.net/playlist/48217/load-playlist?|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "SPORTIFy NBA",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://nyachamselizabeth.s3.us-east-1.amazonaws.com/prime.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "NBA LIVE - AQ",
           "source": "main",
           "type": "Direct"
         },
@@ -6202,14 +6175,14 @@
           "type": "Direct"
         },
         {
-          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pro.packcast.top/newz/newz/163.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pro.packcast.top/newz/newz/154.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "HOME CAM.",
           "source": "main",
           "type": "Direct"
         },
         {
-          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pro.packcast.top/newz/newz/151.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pro.packcast.top/newz/newz/145.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "AWAY CAM.",
           "source": "main",
