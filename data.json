@@ -3902,7 +3902,15 @@
       "matchEndTime": "2026-04-05T00:00:00",
       "matchTime": "2026-04-04T22:00:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SPORTIFy Live",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2677/image",
       "team1Name": "Stuttgart",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2673/image",
@@ -4506,6 +4514,47 @@
       "team2Name": "Flyers",
       "telegramSent": true
     },
+    "match_14201520": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+      "leagueTitle": "NHL",
+      "matchEndTime": "2026-04-04T09:30:00",
+      "matchTime": "2026-04-04T07:30:00",
+      "sportType": "ICE-HOCKEY",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://mainstreams.pro/hls/hjksgdfauzy51.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SPORTIFy Live",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://instreams.live/US/NHL2/index.m3u8?st=SportzX|Referer=https://streamfree.click/&Origin=https://streamfree.click\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "HD SERVER",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://webcast-cdn.b-cdn.net/newz/newz/90.m3u8?|Referer=https://slapstreams.com/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "HOME CAM.",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://webcast-cdn.b-cdn.net/newz/newz/86.m3u8?|Referer=https://slapstreams.com/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "AWAY CAM.",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3675/image",
+      "team1Name": "Ducks",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3695/image",
+      "team2Name": "Blues"
+    },
     "match_14201522": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
       "leagueTitle": "NHL",
@@ -4517,6 +4566,114 @@
       "team1Name": "Rangers",
       "team2Logo": "https://api.sofascore.com/api/v1/team/3685/image",
       "team2Name": "Red Wings"
+    },
+    "match_14201523": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+      "leagueTitle": "NHL",
+      "matchEndTime": "2026-04-05T02:30:00",
+      "matchTime": "2026-04-05T00:30:00",
+      "sportType": "ICE-HOCKEY",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3684/image",
+      "team1Name": "Stars",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3682/image",
+      "team2Name": "Avalanche"
+    },
+    "match_14201524": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+      "leagueTitle": "NHL",
+      "matchEndTime": "2026-04-05T04:30:00",
+      "matchTime": "2026-04-05T02:30:00",
+      "sportType": "ICE-HOCKEY",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3697/image",
+      "team1Name": "Penguins",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3687/image",
+      "team2Name": "Panthers"
+    },
+    "match_14201525": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+      "leagueTitle": "NHL",
+      "matchEndTime": "2026-04-05T04:30:00",
+      "matchTime": "2026-04-05T02:30:00",
+      "sportType": "ICE-HOCKEY",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3694/image",
+      "team1Name": "Lightning",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3677/image",
+      "team2Name": "Bruins"
+    },
+    "match_14201526": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+      "leagueTitle": "NHL",
+      "matchEndTime": "2026-04-05T06:30:00",
+      "matchTime": "2026-04-05T04:30:00",
+      "sportType": "ICE-HOCKEY",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3680/image",
+      "team1Name": "Hurricanes",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3703/image",
+      "team2Name": "Islanders"
+    },
+    "match_14201527": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+      "leagueTitle": "NHL",
+      "matchEndTime": "2026-04-05T06:30:00",
+      "matchTime": "2026-04-05T04:30:00",
+      "sportType": "ICE-HOCKEY",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3683/image",
+      "team1Name": "Blue Jackets",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3676/image",
+      "team2Name": "Jets"
+    },
+    "match_14201528": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+      "leagueTitle": "NHL",
+      "matchEndTime": "2026-04-05T06:30:00",
+      "matchTime": "2026-04-05T04:30:00",
+      "sportType": "ICE-HOCKEY",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3688/image",
+      "team1Name": "Kings",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3693/image",
+      "team2Name": "Maple Leafs"
+    },
+    "match_14201529": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+      "leagueTitle": "NHL",
+      "matchEndTime": "2026-04-05T06:30:00",
+      "matchTime": "2026-04-05T04:30:00",
+      "sportType": "ICE-HOCKEY",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3692/image",
+      "team1Name": "Canucks",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/530472/image",
+      "team2Name": "Mammoth"
+    },
+    "match_14201530": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+      "leagueTitle": "NHL",
+      "matchEndTime": "2026-04-05T06:30:00",
+      "matchTime": "2026-04-05T04:30:00",
+      "sportType": "ICE-HOCKEY",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3691/image",
+      "team1Name": "Capitals",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3678/image",
+      "team2Name": "Sabres"
+    },
+    "match_14201531": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+      "leagueTitle": "NHL",
+      "matchEndTime": "2026-04-05T06:30:00",
+      "matchTime": "2026-04-05T04:30:00",
+      "sportType": "ICE-HOCKEY",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3704/image",
+      "team1Name": "Devils",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3690/image",
+      "team2Name": "Canadiens"
     },
     "match_14383025": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/182/image/dark",
@@ -4612,6 +4769,18 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/3426/image",
       "team2Name": "Timberwolves",
       "telegramSent": true
+    },
+    "match_14441804": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+      "leagueTitle": "NBA",
+      "matchEndTime": "2026-04-05T02:30:00",
+      "matchTime": "2026-04-05T00:30:00",
+      "sportType": "BASKETBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3435/image",
+      "team1Name": "Heat",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3431/image",
+      "team2Name": "Wizards"
     },
     "match_14441866": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
@@ -4931,6 +5100,30 @@
       "team2Name": "Hawks",
       "telegramSent": true
     },
+    "match_14442406": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+      "leagueTitle": "NBA",
+      "matchEndTime": "2026-04-05T02:30:00",
+      "matchTime": "2026-04-05T00:30:00",
+      "sportType": "BASKETBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3417/image",
+      "team1Name": "Nuggets",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3429/image",
+      "team2Name": "Spurs"
+    },
+    "match_14442474": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+      "leagueTitle": "NBA",
+      "matchEndTime": "2026-04-05T06:30:00",
+      "matchTime": "2026-04-05T04:30:00",
+      "sportType": "BASKETBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3420/image",
+      "team1Name": "76ers",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3424/image",
+      "team2Name": "Pistons"
+    },
     "match_14671767": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/136/image/dark",
       "leagueTitle": "A-League Men",
@@ -5015,6 +5208,18 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/1150504/image",
       "team2Name": "Thailand U20"
     },
+    "match_15171441": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
+      "leagueTitle": "MLS",
+      "matchEndTime": "2026-04-05T07:00:00",
+      "matchTime": "2026-04-05T05:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/337602/image",
+      "team1Name": "Inter Miami",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/377973/image",
+      "team2Name": "Austin"
+    },
     "match_15171446": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
       "leagueTitle": "MLS",
@@ -5026,6 +5231,18 @@
       "team1Name": "Atlanta",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2504/image",
       "team2Name": "Columbus"
+    },
+    "match_15171451": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
+      "leagueTitle": "MLS",
+      "matchEndTime": "2026-04-05T07:00:00",
+      "matchTime": "2026-04-05T05:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2502/image",
+      "team1Name": "DC United",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2512/image",
+      "team2Name": "Dallas"
     },
     "match_15171453": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
@@ -5039,6 +5256,18 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/39833/image",
       "team2Name": "Philadelphia"
     },
+    "match_15171456": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
+      "leagueTitle": "MLS",
+      "matchEndTime": "2026-04-05T07:00:00",
+      "matchTime": "2026-04-05T05:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2506/image",
+      "team1Name": "NY Red Bulls",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/215167/image",
+      "team2Name": "Cincinnati"
+    },
     "match_15171461": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
       "leagueTitle": "MLS",
@@ -5050,6 +5279,18 @@
       "team1Name": "New England",
       "team2Logo": "https://api.sofascore.com/api/v1/team/22006/image",
       "team2Name": "Montréal"
+    },
+    "match_15171464": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
+      "leagueTitle": "MLS",
+      "matchEndTime": "2026-04-05T07:00:00",
+      "matchTime": "2026-04-05T05:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/187643/image",
+      "team1Name": "NY City",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/407803/image",
+      "team2Name": "St. Louis"
     },
     "match_15171465": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
@@ -5105,7 +5346,22 @@
       "matchEndTime": "2026-04-04T19:15:00",
       "matchTime": "2026-04-04T17:15:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd&k1=294b5761cefc22d0c6312939e13d8278&k2=52148f1042d238849f0a7813f1da8a7b\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "TNT SPORTS FHD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://smarthard.click/hls/sabrouchespndeportes/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "ESPN DEPORTES",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/17/image",
       "team1Name": "Man City",
       "team2Logo": "https://api.sofascore.com/api/v1/team/44/image",
@@ -5117,7 +5373,15 @@
       "matchEndTime": "2026-04-04T23:45:00",
       "matchTime": "2026-04-04T21:45:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd&k1=294b5761cefc22d0c6312939e13d8278&k2=52148f1042d238849f0a7813f1da8a7b\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "TNT SPORTS FHD",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/38/image",
       "team1Name": "Chelsea",
       "team2Logo": "https://api.sofascore.com/api/v1/team/55/image",
@@ -5129,7 +5393,15 @@
       "matchEndTime": "2026-04-05T02:30:00",
       "matchTime": "2026-04-05T00:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd&k1=294b5761cefc22d0c6312939e13d8278&k2=52148f1042d238849f0a7813f1da8a7b\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "TNT SPORTS FHD",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/45/image",
       "team1Name": "Southampton",
       "team2Logo": "https://api.sofascore.com/api/v1/team/42/image",
