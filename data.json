@@ -4115,7 +4115,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/7802/image",
       "team1Name": "Gençlerbirliği",
       "team2Logo": "https://api.sofascore.com/api/v1/team/3054/image",
-      "team2Name": "Göztepe"
+      "team2Name": "Göztepe",
+      "telegramSent": true
     },
     "match_14109867": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
@@ -4162,7 +4163,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/6063/image",
       "team1Name": "Kasımpaşa",
       "team2Logo": "https://api.sofascore.com/api/v1/team/3072/image",
-      "team2Name": "Kayserispor"
+      "team2Name": "Kayserispor",
+      "telegramSent": true
     },
     "match_14167949": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
@@ -4935,7 +4937,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/267915/image",
       "team1Name": "Jamshedpur",
       "team2Logo": "https://api.sofascore.com/api/v1/team/370834/image",
-      "team2Name": "Mohun Bagan"
+      "team2Name": "Mohun Bagan",
+      "telegramSent": true
     },
     "match_15508341": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/1900/image/dark",
@@ -4956,6 +4959,20 @@
       "matchTime": "2026-04-04T17:15:00",
       "sportType": "FOOTBALL",
       "streamLinks": [
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://instreams.live/US/NFLHD1/index.m3u8?st=SportzX|Referer=https://streamfree.click/&Origin=https://streamfree.click\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "TNT SPORTS HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://darmasaki888.s3.us-east-1.amazonaws.com/hornets.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SPORTIFy Live - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
         {
           "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://a1.kora-plus.dad/watch/b1.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
@@ -5190,7 +5207,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/523303/image",
       "team1Name": "CYP-W",
       "team2Logo": "https://api.sofascore.com/api/v1/team/453163/image",
-      "team2Name": "GRE-W"
+      "team2Name": "GRE-W",
+      "telegramSent": true
     }
   },
   "navigation": {
