@@ -4553,7 +4553,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/3675/image",
       "team1Name": "Ducks",
       "team2Logo": "https://api.sofascore.com/api/v1/team/3695/image",
-      "team2Name": "Blues"
+      "team2Name": "Blues",
+      "telegramSent": true
     },
     "match_14201522": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
@@ -5053,7 +5054,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/3413/image",
       "team1Name": "Kings",
       "team2Logo": "https://api.sofascore.com/api/v1/team/5539/image",
-      "team2Name": "Pelicans"
+      "team2Name": "Pelicans",
+      "telegramSent": true
     },
     "match_14442361": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
@@ -5158,7 +5160,15 @@
       "matchEndTime": "2026-04-04T23:45:00",
       "matchTime": "2026-04-04T21:45:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SPORTIFy Live",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/34469/image",
       "team1Name": "Al-Ahli",
       "team2Logo": "https://api.sofascore.com/api/v1/team/204126/image",
@@ -5170,7 +5180,15 @@
       "matchEndTime": "2026-04-05T01:30:00",
       "matchTime": "2026-04-04T23:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd&k1=09453ce820d65fbc675de3185f9e454c&k2=98cff9600995fa381c76fdacf3c7edae\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "FOX SPORTS FHD",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/21895/image",
       "team1Name": "Al-Hilal",
       "team2Logo": "https://api.sofascore.com/api/v1/team/56021/image",
@@ -5182,7 +5200,15 @@
       "matchEndTime": "2026-04-05T00:00:00",
       "matchTime": "2026-04-04T22:00:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SPORTIFy Live",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/530631/image",
       "team1Name": "Neom SC",
       "team2Logo": "https://api.sofascore.com/api/v1/team/168094/image",
@@ -5419,7 +5445,7 @@
       "sportType": "CRICKET",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/k2699dsdaw/out/v1/95ae1e16f1574a86be6e4da822100025/cenc.mpd&k1=588bd7dc74db5d293d56de88ff51bbbb&k2=4de42d17a6f484405b15e18dd607f675\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd&k1=290e09c837da78d5cd961978d390515c&k2=b748836c71e6a4ca68ef5b5652db6246\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "WILLOW [Ad-Free]",
           "source": "main",
