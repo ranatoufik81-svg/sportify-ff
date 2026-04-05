@@ -4697,7 +4697,22 @@
       "matchEndTime": "2026-04-06T01:30:00",
       "matchTime": "2026-04-05T23:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd&k1=09453ce820d65fbc675de3185f9e454c&k2=98cff9600995fa381c76fdacf3c7edae\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "FOX SPORTS FHD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://live.uu6611.com/live/sd-1-4404627.m3u8?txSecret=2e6c2fd954aef11592a6a64ff1c19630&txTime=69D1987A|Referer=https://player.up909.com/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SPORTIFy Live",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/34318/image",
       "team1Name": "Al-Ettifaq",
       "team2Logo": "https://api.sofascore.com/api/v1/team/56027/image",
@@ -4709,7 +4724,15 @@
       "matchEndTime": "2026-04-05T23:25:00",
       "matchTime": "2026-04-05T21:25:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://live.uu6611.com/live/sd-1-4404631.m3u8?txSecret=70ce1bc799c3bc81bc2c61f5fb385455&txTime=69D17BBB|Referer=https://player.up909.com/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SPORTIFy Live",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/336456/image",
       "team1Name": "Al-Okhdood",
       "team2Logo": "https://api.sofascore.com/api/v1/team/56023/image",
@@ -4721,7 +4744,15 @@
       "matchEndTime": "2026-04-06T01:30:00",
       "matchTime": "2026-04-05T23:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://live.uu6611.com/live/sd-1-4404621.m3u8?txSecret=190617356e8602740a6d8384955ff7ff&txTime=69D17BFC|Referer=https://player.up909.com/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SPORTIFy Live",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/168088/image",
       "team1Name": "Al-Riyadh",
       "team2Logo": "https://api.sofascore.com/api/v1/team/34313/image",
@@ -4737,7 +4768,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/516529/image",
       "team1Name": "Jordan U20",
       "team2Logo": "https://api.sofascore.com/api/v1/team/43217/image",
-      "team2Name": "South Korea U20"
+      "team2Name": "South Korea U20",
+      "telegramSent": true
     },
     "match_15038441": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/21791/image/dark",
@@ -4749,7 +4781,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/1076466/image",
       "team1Name": "India U20",
       "team2Logo": "https://api.sofascore.com/api/v1/team/228022/image",
-      "team2Name": "Australia U20"
+      "team2Name": "Australia U20",
+      "telegramSent": true
     },
     "match_15038442": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/21791/image/dark",
@@ -5239,7 +5272,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/412701/image",
       "team1Name": "NOR",
       "team2Logo": "https://api.sofascore.com/api/v1/team/417779/image",
-      "team2Name": "FRA"
+      "team2Name": "FRA",
+      "telegramSent": true
     },
     "match_15755606": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/33070/image/dark",
