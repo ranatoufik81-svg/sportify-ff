@@ -3725,6 +3725,13 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://chatgpt.hereisman.net/playlist/48391/load-playlist?|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "HD SERVER",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
           "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://live.uu6611.com/live/sd-1-4351679.m3u8?txSecret=b8dd5a0824d6f24fd0727f3b957a7a42&txTime=69D435D1|Referer=https://player.up909.com/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "SPORTIFy Live",
@@ -3749,7 +3756,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/96/image",
       "team1Name": "Hull",
       "team2Logo": "https://api.sofascore.com/api/v1/team/11/image",
-      "team2Name": "Coventry"
+      "team2Name": "Coventry",
+      "telegramSent": true
     },
     "match_14059940": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
@@ -4454,7 +4462,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/24264/image",
       "team1Name": "Girona",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2819/image",
-      "team2Name": "Villarreal"
+      "team2Name": "Villarreal",
+      "telegramSent": true
     },
     "match_14083523": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
