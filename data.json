@@ -5019,6 +5019,34 @@
           "name": "ESPN NL SD",
           "source": "main",
           "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1775652821-0-0-b7d619693817a7b0d1239d8095d9f3c8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1775652821-0-0-0318efdedca42d39acda0e842939aa3a\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1775652821-0-0-894bf0e5edaf083e359c6dc2726d8690\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy STAR FHD",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1775652821-0-0-ae71bdd7bfbdcf71265fb82d703bbaba\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy FOOTBALL FHD",
+          "source": "api",
+          "type": "Embed"
         }
       ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/3138/image",
@@ -5955,7 +5983,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/417056/image",
       "team1Name": "SRL-W",
       "team2Logo": "https://api.sofascore.com/api/v1/team/489475/image",
-      "team2Name": "LES-W"
+      "team2Name": "LES-W",
+      "telegramSent": true
     },
     "match_15729319": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/22312/image/dark",
@@ -5992,7 +6021,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/489475/image",
       "team1Name": "LES-W",
       "team2Logo": "https://api.sofascore.com/api/v1/team/425358/image",
-      "team2Name": "MOZ-W"
+      "team2Name": "MOZ-W",
+      "telegramSent": true
     },
     "match_15755609": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/33070/image/dark",
