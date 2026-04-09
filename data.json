@@ -4705,7 +4705,64 @@
       "matchEndTime": "2026-04-10T02:30:00",
       "matchTime": "2026-04-10T00:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd&k1=294b5761cefc22d0c6312939e13d8278&k2=52148f1042d238849f0a7813f1da8a7b\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "TNT SPORTS - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ebyufuwrml/out/v1/8e4dbe981d574983a5a0c96b874cc5b9/cenc.mpd&k1=19ddf4e42f18bfc3c71c57af73949b17&k2=e8f8f994d08cadb95fe1e29027214d21\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "TNT BRASIL - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/67tnkd7hwi/out/v1/5ffdefde68be4b0cba143306037bbdf3/cenc.mpd&k1=6c962c64abaf676810401b19a0c5cfd0&k2=516eb7efea20dcb819ce3d9b1d227418\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "VIX SPANISH - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://chatgpt.hereisman.net/playlist/48503/load-playlist?|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "TNT SPORTS HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://sarajane589.s3.us-east-1.amazonaws.com/arsenal.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SPORTIFy LIVE - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://live.uu6611.com/live/hd-en-1-4517580.m3u8?txSecret=440255911d190ee7c912cf462af61b4b&txTime=69D6E673|Referer=https://player.up909.com/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SPORTIFy Live",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://sonydaimenew.akamaized.net/hls/live/2005444/PSG_vs_L0804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775715507~acl=/*~id=71072633869108980149817182469581~hmac=f5f6cc65b6f1dcd273dffa43a993a057df937b41953312c0ba1572d251ac4c2d|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; SmartTV 4K FFM; Build/RTT2.220118.001)\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SonyLiv [ENG]",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://xhdujshsn.github.io/Hls/?play=https://sonydaimenew.akamaized.net/hls/live/2005444/PSG_vs_L0804/HIN/std_lrh-800300010.m3u8?hdnea=exp=1775715507~acl=/*~id=71072633869108980149817182469581~hmac=f5f6cc65b6f1dcd273dffa43a993a057df937b41953312c0ba1572d251ac4c2d|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; SmartTV 4K FFM; Build/RTT2.220118.001)\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SonyLiv [HIN]",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/3002/image",
       "team1Name": "Porto",
       "team2Logo": "https://api.sofascore.com/api/v1/team/14/image",
@@ -4717,7 +4774,22 @@
       "matchEndTime": "2026-04-10T02:30:00",
       "matchTime": "2026-04-10T00:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd&k1=f288380ca4cef9ad3f27a92a08e9bb8b&k2=9f18d26291d9230833501f7f822f6875\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "TNT SPORTS FHD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Linktest/?play=https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,&k1=3cfa8625f650406ebf6a4d1ea737f572&k2=0534e747c70b364aa7210e1bf3191df0\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "ZIGGO SPORTS",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2685/image",
       "team1Name": "Bologna",
       "team2Logo": "https://api.sofascore.com/api/v1/team/40/image",
