@@ -3679,6 +3679,13 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://live.uu6611.com/live/sd-1-4355813.m3u8?txSecret=3238f73b34a6658472f60fb2381eb730&txTime=69D96AAC|Referer=https://player.up909.com/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SPORTIFy Live",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
           "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://smarthard.click/hls/kjzxkCIqkhtb/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "Sky Bundesliga SD",
@@ -3689,7 +3696,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2588/image",
       "team1Name": "Fortuna",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2573/image",
-      "team2Name": "Kiel"
+      "team2Name": "Kiel",
+      "telegramSent": true
     },
     "match_14065506": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
@@ -3699,7 +3707,14 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-flux.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://smarthard.click/hls/Mhe8gotoGQlu/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "Sky Bundesliga SD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://live.uu6611.com/live/sd-1-4355816.m3u8?txSecret=f7d51eb0b68dc7d9c87d3f437ea03bf7&txTime=69D96AAC|Referer=https://player.up909.com/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "SPORTIFy Live",
           "source": "main",
@@ -3709,7 +3724,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2553/image",
       "team1Name": "Karlsruhe",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2540/image",
-      "team2Name": "Bielefeld"
+      "team2Name": "Bielefeld",
+      "telegramSent": true
     },
     "match_14083191": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
@@ -3834,7 +3850,7 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-flux.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://live.uu6611.com/live/hd-en-1-4347938.m3u8?txSecret=170aa2699c31a66b3b5479b78186d53e&txTime=69D96AAC|Referer=https://player.up909.com/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "SPORTIFy Live",
           "source": "main",
