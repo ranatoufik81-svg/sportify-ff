@@ -3546,6 +3546,20 @@
           "name": "FANCODE BLOODY_SWEET (BD)",
           "source": "fancode",
           "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd&k1=7995c724a13748ed970840a8ab5bb9b3&k2=67bdaf1e2175b9ff682fcdf0e2354b1e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "beIN ENGLISH",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd&k1=d9623774ac5c8c351aafe97c5fe70267&k2=5164e6d05164a2d65fa8fcc962aa4861\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "CBS NETWORK",
+          "source": "main",
+          "type": "Direct"
         }
       ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/8/image",
@@ -3645,9 +3659,9 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-flux.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://smarthard.click/hls/8r59wy2BRApK/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "SPORTIFy Live",
+          "name": "SKY Bundesliga SD",
           "source": "main",
           "type": "Direct"
         }
@@ -3663,7 +3677,15 @@
       "matchEndTime": "2026-04-11T00:00:00",
       "matchTime": "2026-04-10T22:00:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-flux.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SPORTIFy Live",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2588/image",
       "team1Name": "Fortuna",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2573/image",
@@ -3675,7 +3697,15 @@
       "matchEndTime": "2026-04-11T00:00:00",
       "matchTime": "2026-04-10T22:00:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-flux.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SPORTIFy Live",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2553/image",
       "team1Name": "Karlsruhe",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2540/image",
@@ -3742,7 +3772,15 @@
       "matchEndTime": "2026-04-11T02:00:00",
       "matchTime": "2026-04-11T00:00:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://live.uu6611.com/live/sd-1-4351674.m3u8?txSecret=7ca9a4274430cbc988659e74c333a806&txTime=69D3F8EE|Referer=https://player.up909.com/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SPORTIFy Live",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2869/image",
       "team1Name": "Ceuta",
       "team2Logo": "https://api.sofascore.com/api/v1/team/24360/image",
@@ -3754,7 +3792,15 @@
       "matchEndTime": "2026-04-11T00:30:00",
       "matchTime": "2026-04-10T22:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-flux.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SPORTIFy Live",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/3050/image",
       "team1Name": "Beşiktaş",
       "team2Logo": "https://api.sofascore.com/api/v1/team/3056/image",
