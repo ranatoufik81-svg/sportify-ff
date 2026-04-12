@@ -4572,13 +4572,6 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://live.uu6611.com/live/hd-en-1-4358829.m3u8?txSecret=9e75c315c22ec1ca1223dfa7409af235&txTime=69DC3192|Referer=https://player.up909.com/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "SPORTIFy Live",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
           "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Live-2/?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/131132-ENGLISH.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
           "name": "FANCODE ENGLISH (IND)",
@@ -4590,6 +4583,13 @@
           "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
           "name": "FANCODE ENGLISH (BD)",
           "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://live.uu6611.com/live/hd-en-1-4358829.m3u8?txSecret=9e75c315c22ec1ca1223dfa7409af235&txTime=69DC3192|Referer=https://player.up909.com/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SPORTIFy Live",
+          "source": "main",
           "type": "Direct"
         },
         {
@@ -4631,7 +4631,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2825/image",
       "team1Name": "Athletic Club",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2819/image",
-      "team2Name": "Villarreal"
+      "team2Name": "Villarreal",
+      "telegramSent": true
     },
     "match_14083123": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
@@ -5042,7 +5043,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2835/image",
       "team1Name": "R. Racing Club",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2858/image",
-      "team2Name": "Almería"
+      "team2Name": "Almería",
+      "telegramSent": true
     },
     "match_14083558": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
@@ -5517,7 +5519,7 @@
       "sportType": "ICE-HOCKEY",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://chatgpt.hereisman.net/playlist/48717/load-playlist?|Referer=https://gooz.aapmains.net/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://chatgpt.hereisman.net/playlist/48846/load-playlist?|Referer=https://gooz.aapmains.net/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "SPORTIFy NHL",
           "source": "main",
@@ -5538,14 +5540,14 @@
           "type": "Direct"
         },
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/175.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://webcast-origin.b-cdn.net/bcdn_token=42pMm6OMRUdWSchwuE_NhmFTvQXhI7gxwJXSDxH_Yas&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFGpu-9Sam2jQ9k5hPDLsw9%2F&expires=1776034200/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFGpu-9Sam2jQ9k5hPDLsw9/169.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "HOME CAM.",
           "source": "main",
           "type": "Direct"
         },
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/101.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://webcast-origin.b-cdn.net/bcdn_token=IAQkCD4UGTUsqmw0i3HJPbe3xFHeAETIMWRW2hQicmc&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhG0FFZbz0ur9jCT7HGsSmfs%2F&expires=1776034223/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhG0FFZbz0ur9jCT7HGsSmfs/99.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "AWAY CAM.",
           "source": "main",
@@ -5555,7 +5557,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/3691/image",
       "team1Name": "Capitals",
       "team2Logo": "https://api.sofascore.com/api/v1/team/3697/image",
-      "team2Name": "Penguins"
+      "team2Name": "Penguins",
+      "telegramSent": true
     },
     "match_14201597": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
@@ -6724,7 +6727,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/59628/image",
       "team1Name": "Espérance",
       "team2Logo": "https://api.sofascore.com/api/v1/team/7665/image",
-      "team2Name": "Sundowns"
+      "team2Name": "Sundowns",
+      "telegramSent": true
     }
   },
   "navigation": {
