@@ -3710,6 +3710,18 @@
       "team2Name": "Inter",
       "telegramSent": true
     },
+    "match_13981738": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+      "leagueTitle": "Serie A",
+      "matchEndTime": "2026-04-14T02:15:00",
+      "matchTime": "2026-04-14T00:15:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2693/image",
+      "team1Name": "Fiorentina",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2699/image",
+      "team2Name": "Lazio"
+    },
     "match_13981740": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
       "leagueTitle": "Serie A",
@@ -4059,6 +4071,18 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/39/image",
       "team2Name": "Newcastle",
       "telegramSent": true
+    },
+    "match_14025024": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+      "leagueTitle": "Premier League",
+      "matchEndTime": "2026-04-14T02:30:00",
+      "matchTime": "2026-04-14T00:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/35/image",
+      "team1Name": "Man Utd",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/34/image",
+      "team2Name": "Leeds"
     },
     "match_14025025": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
@@ -5012,6 +5036,33 @@
       "team2Name": "Real Betis",
       "telegramSent": true
     },
+    "match_14083182": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+      "leagueTitle": "LaLiga",
+      "matchEndTime": "2026-04-14T02:30:00",
+      "matchTime": "2026-04-14T00:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Live-2/?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/131130-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (IND)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Live-2/?url=https://fc-bd-owner.ivan-flux.workers.dev/131130-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (BD)",
+          "source": "fancode",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2849/image",
+      "team1Name": "Levante",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2859/image",
+      "team2Name": "Getafe"
+    },
     "match_14083546": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
       "leagueTitle": "LaLiga 2",
@@ -5081,6 +5132,33 @@
       "team2Name": "Deportivo",
       "telegramSent": true
     },
+    "match_14083552": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+      "leagueTitle": "LaLiga 2",
+      "matchEndTime": "2026-04-14T02:00:00",
+      "matchTime": "2026-04-14T00:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Live-2/?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/141690-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (IND)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Live-2/?url=https://fc-bd-owner.ivan-flux.workers.dev/141690-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (BD)",
+          "source": "fancode",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2831/image",
+      "team1Name": "Real Valladolid",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2839/image",
+      "team2Name": "Eibar"
+    },
     "match_14083557": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
       "leagueTitle": "LaLiga 2",
@@ -5137,6 +5215,18 @@
       "team2Name": "FC Andorra",
       "telegramSent": true
     },
+    "match_14109870": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
+      "leagueTitle": "Trendyol Süper Lig",
+      "matchEndTime": "2026-04-14T00:30:00",
+      "matchTime": "2026-04-13T22:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/7040/image",
+      "team1Name": "Eyüpspor",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3053/image",
+      "team2Name": "Samsunspor"
+    },
     "match_14109871": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
       "leagueTitle": "Trendyol Süper Lig",
@@ -5192,6 +5282,18 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/4954/image",
       "team2Name": "Karagümrük",
       "telegramSent": true
+    },
+    "match_14109875": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
+      "leagueTitle": "Trendyol Süper Lig",
+      "matchEndTime": "2026-04-14T00:30:00",
+      "matchTime": "2026-04-13T22:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3064/image",
+      "team1Name": "Rizespor",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/5138/image",
+      "team2Name": "Gaziantep"
     },
     "match_14109879": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
@@ -5542,6 +5644,30 @@
       "team2Name": "Canadiens",
       "telegramSent": true
     },
+    "match_14201593": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+      "leagueTitle": "NHL",
+      "matchEndTime": "2026-04-14T06:30:00",
+      "matchTime": "2026-04-14T04:30:00",
+      "sportType": "ICE-HOCKEY",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3687/image",
+      "team1Name": "Panthers",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3701/image",
+      "team2Name": "Rangers"
+    },
+    "match_14201594": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+      "leagueTitle": "NHL",
+      "matchEndTime": "2026-04-14T06:30:00",
+      "matchTime": "2026-04-14T04:30:00",
+      "sportType": "ICE-HOCKEY",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3694/image",
+      "team1Name": "Lightning",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3685/image",
+      "team2Name": "Red Wings"
+    },
     "match_14201595": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
       "leagueTitle": "NHL",
@@ -5639,36 +5765,7 @@
       "matchEndTime": "2026-04-13T07:30:00",
       "matchTime": "2026-04-13T05:30:00",
       "sportType": "ICE-HOCKEY",
-      "streamLinks": [
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://mainstreams.pro/hls/sdezqfza55.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "SPORTIFy Live",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://instreams.live/US/NHL6/index.m3u8?st=SportzX|Referer=https://streamfree.click/&Origin=https://streamfree.click\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "HD SERVER",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/104.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "HOME CAM.",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/91.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "AWAY CAM.",
-          "source": "main",
-          "type": "Direct"
-        }
-      ],
+      "streamLinks": "",
       "team1Logo": "https://api.sofascore.com/api/v1/team/3675/image",
       "team1Name": "Ducks",
       "team2Logo": "https://api.sofascore.com/api/v1/team/3692/image",
@@ -5680,40 +5777,35 @@
       "matchEndTime": "2026-04-13T08:30:00",
       "matchTime": "2026-04-13T06:30:00",
       "sportType": "ICE-HOCKEY",
-      "streamLinks": [
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://mainstreams.pro/hls/rzavbdyua57.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "SPORTIFy Live",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://instreams.live/US/NHL8/index.m3u8?st=SportzX|Referer=https://streamfree.click/&Origin=https://streamfree.click\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "HD SERVER",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/97.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "HOME CAM.",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/169.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "AWAY CAM.",
-          "source": "main",
-          "type": "Direct"
-        }
-      ],
+      "streamLinks": "",
       "team1Logo": "https://api.sofascore.com/api/v1/team/3679/image",
       "team1Name": "Flames",
       "team2Logo": "https://api.sofascore.com/api/v1/team/530472/image",
       "team2Name": "Mammoth"
+    },
+    "match_14201600": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+      "leagueTitle": "NHL",
+      "matchEndTime": "2026-04-14T06:30:00",
+      "matchTime": "2026-04-14T04:30:00",
+      "sportType": "ICE-HOCKEY",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3699/image",
+      "team1Name": "Flyers",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3680/image",
+      "team2Name": "Hurricanes"
+    },
+    "match_14201602": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+      "leagueTitle": "NHL",
+      "matchEndTime": "2026-04-14T07:00:00",
+      "matchTime": "2026-04-14T05:00:00",
+      "sportType": "ICE-HOCKEY",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3693/image",
+      "team1Name": "Maple Leafs",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3684/image",
+      "team2Name": "Stars"
     },
     "match_14317564": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
@@ -6528,6 +6620,18 @@
       "team2Name": "Punjab",
       "telegramSent": true
     },
+    "match_15525385": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/182/image/dark",
+      "leagueTitle": "Ligue 2",
+      "matchEndTime": "2026-04-14T02:15:00",
+      "matchTime": "2026-04-14T00:15:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/6925/image",
+      "team1Name": "Rodez",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/1652/image",
+      "team2Name": "Troyes"
+    },
     "match_15558693": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/848/image/dark",
       "leagueTitle": "I-League",
@@ -6546,6 +6650,18 @@
       "leagueTitle": "Sweden in Indonesia, 8 T20I Series",
       "matchEndTime": "2026-04-13T14:00:00",
       "matchTime": "2026-04-13T07:00:00",
+      "sportType": "CRICKET",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/445294/image",
+      "team1Name": "INA",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/417746/image",
+      "team2Name": "SWE"
+    },
+    "match_15643529": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
+      "leagueTitle": "Sweden in Indonesia, 8 T20I Series",
+      "matchEndTime": "2026-04-13T18:30:00",
+      "matchTime": "2026-04-13T11:30:00",
       "sportType": "CRICKET",
       "streamLinks": "",
       "team1Logo": "https://api.sofascore.com/api/v1/team/445294/image",
@@ -6629,6 +6745,61 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/212416/image",
       "team2Name": "ISL",
       "telegramSent": true
+    },
+    "match_15706170": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
+      "leagueTitle": "Pakistan Super League",
+      "matchEndTime": "2026-04-14T02:30:00",
+      "matchTime": "2026-04-13T19:30:00",
+      "sportType": "CRICKET",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kq9asei23n/out/v1/12e4e39869014ef19f3c30f0d598191b/cenc.mpd&k1=1fc04170e5671d37c8286afcfeb505f7&k2=9751880fa496d361d780019bdcd91d8a\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "WILLOW FHD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd&k1=7e9239c1982d984a002df3ed049d0756&k2=1b8a17598129a3618535c8fb05f103fe\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "Fancode FHD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd&k1=709c812e1b4174002605df1d17d34a4c&k2=0bbee6c9c20a0f065bf8369d54cbf83e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "FANCODE SD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://stream.snexus.co/live/SN_WILDLIFE/main_stream.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "Solhsports HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://bd-mc-fdlive.fancode.com/mumbai/138946_english_hls_32955a282b57487_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "FANCODE (BD)",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://in-mc-fdlive.fancode.com/mumbai/138946_english_hls_32955a282b57487_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "FANCODE (IND)",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/212420/image",
+      "team1Name": "PES",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/273650/image",
+      "team2Name": "MUL"
     },
     "match_15711547": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
@@ -6797,6 +6968,195 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/187843/image",
       "team2Name": "RCB",
       "telegramSent": true
+    },
+    "match_15864129": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18792/image/dark",
+      "leagueTitle": "Mirwais Nika Regional 3-day Tournament",
+      "matchEndTime": "2026-04-13T18:00:00",
+      "matchTime": "2026-04-13T11:00:00",
+      "sportType": "CRICKET",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/413983/image",
+      "team1Name": "BOS",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/413984/image",
+      "team2Name": "MA"
+    },
+    "match_15864130": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18792/image/dark",
+      "leagueTitle": "Mirwais Nika Regional 3-day Tournament",
+      "matchEndTime": "2026-04-13T18:00:00",
+      "matchTime": "2026-04-13T11:00:00",
+      "sportType": "CRICKET",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/413985/image",
+      "team1Name": "SG",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/413987/image",
+      "team2Name": "BEA"
+    },
+    "match_15884736": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
+      "leagueTitle": "AFC Champions League Elite",
+      "matchEndTime": "2026-04-13T22:15:00",
+      "matchTime": "2026-04-13T20:15:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Live-2/?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/140854-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (IND)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Live-2/?url=https://fc-bd-owner.ivan-flux.workers.dev/140854-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (BD)",
+          "source": "fancode",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/34469/image",
+      "team1Name": "Al-Ahli",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/44441/image",
+      "team2Name": "Al Duhail"
+    },
+    "match_15884737": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
+      "leagueTitle": "AFC Champions League Elite",
+      "matchEndTime": "2026-04-14T01:30:00",
+      "matchTime": "2026-04-13T23:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Live-2/?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/140858-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (IND)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Live-2/?url=https://fc-bd-owner.ivan-flux.workers.dev/140858-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (BD)",
+          "source": "fancode",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/21895/image",
+      "team1Name": "Al-Hilal",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/39733/image",
+      "team2Name": "Al-Sadd"
+    },
+    "match_15885308": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
+      "leagueTitle": "Indian Premier League",
+      "matchEndTime": "2026-04-14T02:30:00",
+      "matchTime": "2026-04-13T19:30:00",
+      "sportType": "CRICKET",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ptptpteoh7/out/v1/564bb083afea4561a5a60c4447258379/cenc.mpd&k1=470a5bda0ae8965c3ab4004c302bc1c8&k2=b04888df6ed570c9435b97471504bd9b\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "PRIME VIDEO",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/7j8yftutgs/out/v1/8a40608178f045839a1c0c0a055d6a90/cenc.mpd&k1=2d0646dd8a8c511de3b2485071705038&k2=1ddbda2f121875fd43dcd758497cbf82\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "WILLOW [Ad Free]",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/nn1qrdjaha/out/v1/bc4fa7d9cebf47858bebf14ad589025e/cenc.mpd&k1=9909e33838e1152cc512c4636f513f8f&k2=02f67060c94bcc3307280f505ad508ab\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "PRIME HINDI",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SKY SPORTS - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://customer-jfpjrgh1mi5y63cd.cloudflarestream.com/57c9fd581995339676bb330a024502e2/manifest/stream_t9e72c8d63ef150818cea65aca509f8bd_r1479738631.m3u8?llhlsHBs=0.9\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "PTV Sports",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://sfsfs.valverdeae7.workers.dev/live.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&Referer=https://matcheslinkz.pages.dev/&origin=https://matcheslinkz.pages.dev\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "S©portzX Live",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://live-pull.aisports.mobi/moviebox/device01/playlist.m3u8|Referer=https://sportslivenow.top/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "JIO HOTSTAR",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://yahoo.com/&Origin=https://yahoo.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "WILLOW HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=http://103.229.254.25:7001/play/a0a0/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "Star Sports [HIN]",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "STAR ENG - IN",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "STAR HIN - IN",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=2272c0bc6b2e5cb090b1f55996e0026c:943923934de1d5536ab01c67fca8b337|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "STAR TAM - IN",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "STAR TEL - IN",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=9a6d058fa40b5460a946178900eb44cb:791d7444110cec32d731ca0c33ac6c15|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "STAR KAN - IN",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/187844/image",
+      "team1Name": "SRH",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/187842/image",
+      "team2Name": "RR"
     },
     "match_15924987": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/1054/image/dark",
