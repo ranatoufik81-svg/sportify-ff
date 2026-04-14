@@ -4470,7 +4470,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/32484/image",
       "team1Name": "Netherlands",
       "team2Logo": "https://api.sofascore.com/api/v1/team/32485/image",
-      "team2Name": "France"
+      "team2Name": "France",
+      "telegramSent": true
     },
     "match_15117959": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/780/image/dark",
@@ -4562,7 +4563,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/55/image",
       "team1Name": "Port Vale",
       "team2Logo": "https://api.sofascore.com/api/v1/team/23/image",
-      "team2Name": "Barnsley"
+      "team2Name": "Barnsley",
+      "telegramSent": true
     },
     "match_15422420": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/25/image/dark",
@@ -4574,7 +4576,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/66/image",
       "team1Name": "Colchester",
       "team2Logo": "https://api.sofascore.com/api/v1/team/187/image",
-      "team2Name": "Accrington"
+      "team2Name": "Accrington",
+      "telegramSent": true
     },
     "match_15438208": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
@@ -4586,7 +4589,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/83/image",
       "team1Name": "Leyton Orient",
       "team2Logo": "https://api.sofascore.com/api/v1/team/70/image",
-      "team2Name": "Mansfield"
+      "team2Name": "Mansfield",
+      "telegramSent": true
     },
     "match_15441641": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
@@ -4598,7 +4602,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/49/image",
       "team1Name": "Wigan",
       "team2Logo": "https://api.sofascore.com/api/v1/team/13/image",
-      "team2Name": "Rotherham"
+      "team2Name": "Rotherham",
+      "telegramSent": true
     },
     "match_15471597": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
@@ -4678,7 +4683,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/97/image",
       "team1Name": "Barrow",
       "team2Logo": "https://api.sofascore.com/api/v1/team/65/image",
-      "team2Name": "Oldham"
+      "team2Name": "Oldham",
+      "telegramSent": true
     },
     "match_15525385": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/182/image/dark",
@@ -4703,7 +4709,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/69/image",
       "team1Name": "Cheltenham",
       "team2Logo": "https://api.sofascore.com/api/v1/team/20/image",
-      "team2Name": "Gillingham"
+      "team2Name": "Gillingham",
+      "telegramSent": true
     },
     "match_15632087": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
@@ -4712,6 +4719,20 @@
       "matchTime": "2026-04-15T00:30:00",
       "sportType": "FOOTBALL",
       "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://s3.us-east-1.amazonaws.com/emre.gundap/ESPN.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "PREMIER SPORTS",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://chatgpt.hereisman.net/playlist/48945/load-playlist?|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "PARAMOUNT+ HD",
+          "source": "main",
+          "type": "Direct"
+        },
         {
           "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EqbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c%7EKZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621|User-Agent=Mozila&k1=ef34ae91b4f2415e8439b2ad105e7488&k2=243248d8de1ff8c7c587ee2057317523\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
@@ -4732,6 +4753,13 @@
       "matchTime": "2026-04-15T00:30:00",
       "sportType": "FOOTBALL",
       "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://chatgpt.hereisman.net/playlist/48944/load-playlist?|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "TNT SPORTS HD",
+          "source": "main",
+          "type": "Direct"
+        },
         {
           "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd&k1=294b5761cefc22d0c6312939e13d8278&k2=52148f1042d238849f0a7813f1da8a7b\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
@@ -4983,7 +5011,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/59/image",
       "team1Name": "Huddersfield",
       "team2Logo": "https://api.sofascore.com/api/v1/team/61/image",
-      "team2Name": "Cardiff"
+      "team2Name": "Cardiff",
+      "telegramSent": true
     },
     "match_15781456": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
@@ -4995,7 +5024,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/5/image",
       "team1Name": "Bolton",
       "team2Logo": "https://api.sofascore.com/api/v1/team/133/image",
-      "team2Name": "Stevenage"
+      "team2Name": "Stevenage",
+      "telegramSent": true
     },
     "match_15832052": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/480/image/dark",
@@ -5191,7 +5221,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/68/image",
       "team1Name": "Chesterfield",
       "team2Logo": "https://api.sofascore.com/api/v1/team/18/image",
-      "team2Name": "Grimsby"
+      "team2Name": "Grimsby",
+      "telegramSent": true
     },
     "match_15852836": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/498/image/dark",
