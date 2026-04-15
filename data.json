@@ -3479,6 +3479,30 @@
     }
   },
   "matches": {
+    "match_14061128": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
+      "leagueTitle": "League One",
+      "matchEndTime": "2026-04-16T02:15:00",
+      "matchTime": "2026-04-16T00:15:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/72/image",
+      "team1Name": "Luton",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/57/image",
+      "team2Name": "Northampton"
+    },
+    "match_14198639": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+      "leagueTitle": "NHL",
+      "matchEndTime": "2026-04-16T09:30:00",
+      "matchTime": "2026-04-16T07:30:00",
+      "sportType": "ICE-HOCKEY",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/257523/image",
+      "team1Name": "Golden Knights",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/381707/image",
+      "team2Name": "Kraken"
+    },
     "match_14201603": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
       "leagueTitle": "NHL",
@@ -3647,6 +3671,18 @@
       "team2Name": "Avalanche",
       "telegramSent": true
     },
+    "match_14201613": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+      "leagueTitle": "NHL",
+      "matchEndTime": "2026-04-16T06:30:00",
+      "matchTime": "2026-04-16T04:30:00",
+      "sportType": "ICE-HOCKEY",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3678/image",
+      "team1Name": "Sabres",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3684/image",
+      "team2Name": "Stars"
+    },
     "match_14201614": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
       "leagueTitle": "NHL",
@@ -3674,6 +3710,18 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/3688/image",
       "team2Name": "Kings",
       "telegramSent": true
+    },
+    "match_14201615": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+      "leagueTitle": "NHL",
+      "matchEndTime": "2026-04-16T06:30:00",
+      "matchTime": "2026-04-16T04:30:00",
+      "sportType": "ICE-HOCKEY",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3687/image",
+      "team1Name": "Panthers",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3685/image",
+      "team2Name": "Red Wings"
     },
     "match_14201616": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
@@ -3731,28 +3779,90 @@
       "team2Name": "Penguins",
       "telegramSent": true
     },
+    "match_14201618": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+      "leagueTitle": "NHL",
+      "matchEndTime": "2026-04-16T06:30:00",
+      "matchTime": "2026-04-16T04:30:00",
+      "sportType": "ICE-HOCKEY",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3694/image",
+      "team1Name": "Lightning",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3701/image",
+      "team2Name": "Rangers"
+    },
+    "match_14201619": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+      "leagueTitle": "NHL",
+      "matchEndTime": "2026-04-16T07:00:00",
+      "matchTime": "2026-04-16T05:00:00",
+      "sportType": "ICE-HOCKEY",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3700/image",
+      "team1Name": "Senators",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3693/image",
+      "team2Name": "Maple Leafs"
+    },
+    "match_14201622": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+      "leagueTitle": "NHL",
+      "matchEndTime": "2026-04-16T08:00:00",
+      "matchTime": "2026-04-16T06:00:00",
+      "sportType": "ICE-HOCKEY",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3681/image",
+      "team1Name": "Blackhawks",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3696/image",
+      "team2Name": "Sharks"
+    },
+    "match_14773793": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+      "leagueTitle": "Saudi Pro League",
+      "matchEndTime": "2026-04-16T01:30:00",
+      "matchTime": "2026-04-15T23:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd&k1=09453ce820d65fbc675de3185f9e454c&k2=98cff9600995fa381c76fdacf3c7edae\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "FOX SPORTS FHD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd&k1=d1a163914db8ffad2c3e94f979896a0d&k2=9728800a3959aafdd5b0bcfbf3768811\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "FOX DEPORTES",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd&k1=0ad4080cdff8c60b1233b22087f0b340&k2=285f129c5eca01dd08a5d5a14ad801c8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SportDigital Fussball",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://live.vivo200.com/live/sd-1-4404671.m3u8?txSecret=f20186adb65cd6a99d11246b0a82988a&txTime=69DEC34D|Referer=https://player.787200.com/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SPORTIFy Live",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/23400/image",
+      "team1Name": "Al-Nassr",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/34318/image",
+      "team2Name": "Al-Ettifaq"
+    },
     "match_15227422": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/21791/image/dark",
       "leagueTitle": "U20 AFC Asian Cup, Knockout Stage, Women",
       "matchEndTime": "2026-04-15T16:30:00",
       "matchTime": "2026-04-15T14:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Live-2/?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/141634-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
-          "name": "FANCODE BLOODY_SWEET (IND)",
-          "source": "fancode",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Live-2/?url=https://fc-bd-owner.ivan-flux.workers.dev/141634-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
-          "name": "FANCODE BLOODY_SWEET (BD)",
-          "source": "fancode",
-          "type": "Direct"
-        }
-      ],
+      "streamLinks": "",
       "team1Logo": "https://api.sofascore.com/api/v1/team/43218/image",
       "team1Name": "North Korea U20",
       "team2Logo": "https://api.sofascore.com/api/v1/team/43217/image",
@@ -3764,26 +3874,23 @@
       "matchEndTime": "2026-04-15T20:30:00",
       "matchTime": "2026-04-15T18:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Live-2/?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/141633-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
-          "name": "FANCODE BLOODY_SWEET (IND)",
-          "source": "fancode",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Live-2/?url=https://fc-bd-owner.ivan-flux.workers.dev/141633-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
-          "name": "FANCODE BLOODY_SWEET (BD)",
-          "source": "fancode",
-          "type": "Direct"
-        }
-      ],
+      "streamLinks": "",
       "team1Logo": "https://api.sofascore.com/api/v1/team/71904/image",
       "team1Name": "China U20",
       "team2Logo": "https://api.sofascore.com/api/v1/team/43223/image",
       "team2Name": "Japan U20"
+    },
+    "match_15399012": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
+      "leagueTitle": "League One",
+      "matchEndTime": "2026-04-16T02:15:00",
+      "matchTime": "2026-04-16T00:15:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/23957/image",
+      "team1Name": "Wimbledon",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/10/image",
+      "team2Name": "Stockport County"
     },
     "match_15471597": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
@@ -3792,20 +3899,6 @@
       "matchTime": "2026-04-15T17:45:00",
       "sportType": "FOOTBALL",
       "streamLinks": [
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Live-2/?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/140873-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
-          "name": "FANCODE BLOODY_SWEET (IND)",
-          "source": "fancode",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Live-2/?url=https://fc-bd-owner.ivan-flux.workers.dev/140873-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
-          "name": "FANCODE BLOODY_SWEET (BD)",
-          "source": "fancode",
-          "type": "Direct"
-        },
         {
           "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd&k1=0ad4080cdff8c60b1233b22087f0b340&k2=285f129c5eca01dd08a5d5a14ad801c8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
@@ -3825,40 +3918,79 @@
       "matchEndTime": "2026-04-15T21:30:00",
       "matchTime": "2026-04-15T19:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Live-2/?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/140486-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
-          "name": "FANCODE BLOODY_SWEET (IND)",
-          "source": "fancode",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Live-2/?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/141812-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
-          "name": "FANCODE BLOODY_SWEET (IND)",
-          "source": "fancode",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Live-2/?url=https://fc-bd-owner.ivan-flux.workers.dev/140486-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
-          "name": "FANCODE BLOODY_SWEET (BD)",
-          "source": "fancode",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Live-2/?url=https://fc-bd-owner.ivan-flux.workers.dev/141812-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
-          "name": "FANCODE BLOODY_SWEET (BD)",
-          "source": "fancode",
-          "type": "Direct"
-        }
-      ],
+      "streamLinks": "",
       "team1Logo": "https://api.sofascore.com/api/v1/team/174598/image",
       "team1Name": "Kerala",
       "team2Logo": "https://api.sofascore.com/api/v1/team/174602/image",
       "team2Name": "NorthEast Utd"
+    },
+    "match_15632088": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+      "leagueTitle": "UEFA Champions League, Knockout stage",
+      "matchEndTime": "2026-04-16T02:30:00",
+      "matchTime": "2026-04-16T00:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd&k1=f288380ca4cef9ad3f27a92a08e9bb8b&k2=9f18d26291d9230833501f7f822f6875\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "TNT SPORTS FHD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SonyLiv [ENG]",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SonyLiv [HIN]",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2672/image",
+      "team1Name": "Bayern",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2829/image",
+      "team2Name": "Real Madrid"
+    },
+    "match_15632631": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+      "leagueTitle": "UEFA Champions League, Knockout stage",
+      "matchEndTime": "2026-04-16T02:30:00",
+      "matchTime": "2026-04-16T00:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd&k1=294b5761cefc22d0c6312939e13d8278&k2=52148f1042d238849f0a7813f1da8a7b\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "TNT SPORTS FHD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SonyLiv [ENG]",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SonyLiv [HIN]",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/42/image",
+      "team1Name": "Arsenal",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3001/image",
+      "team2Name": "Sporting"
     },
     "match_15652558": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
@@ -3866,36 +3998,7 @@
       "matchEndTime": "2026-04-16T00:30:00",
       "matchTime": "2026-04-15T17:30:00",
       "sportType": "CRICKET",
-      "streamLinks": [
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Live-2/?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/142015-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
-          "name": "FANCODE BLOODY_SWEET (IND)",
-          "source": "fancode",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Live-2/?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/142016-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
-          "name": "FANCODE BLOODY_SWEET (IND)",
-          "source": "fancode",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Live-2/?url=https://fc-bd-owner.ivan-flux.workers.dev/142015-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
-          "name": "FANCODE BLOODY_SWEET (BD)",
-          "source": "fancode",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Live-2/?url=https://fc-bd-owner.ivan-flux.workers.dev/142016-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
-          "name": "FANCODE BLOODY_SWEET (BD)",
-          "source": "fancode",
-          "type": "Direct"
-        }
-      ],
+      "streamLinks": "",
       "team1Logo": "https://api.sofascore.com/api/v1/team/199275/image",
       "team1Name": "NAM",
       "team2Logo": "https://api.sofascore.com/api/v1/team/187576/image",
@@ -3977,6 +4080,50 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/212417/image",
       "team2Name": "QUE"
     },
+    "match_15832030": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/480/image/dark",
+      "leagueTitle": "CONMEBOL Sudamericana, Group A",
+      "matchEndTime": "2026-04-16T09:30:00",
+      "matchTime": "2026-04-16T07:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/6102/image",
+      "team1Name": "América",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2307/image",
+      "team2Name": "Alianza Atlético"
+    },
+    "match_15832048": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/480/image/dark",
+      "leagueTitle": "CONMEBOL Sudamericana, Group E",
+      "matchEndTime": "2026-04-16T05:30:00",
+      "matchTime": "2026-04-16T03:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/6230/image",
+      "team1Name": "Caracas",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/372975/image",
+      "team2Name": "Independiente Petrolero"
+    },
+    "match_15832049": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/480/image/dark",
+      "leagueTitle": "CONMEBOL Sudamericana, Group E",
+      "matchEndTime": "2026-04-16T05:30:00",
+      "matchTime": "2026-04-16T03:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd&k1=335dad778109954503dcbb21dc92015f&k2=24bfd75d436cbf73168a2a2dccd40281\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "beIN ENGLISH FHD",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3215/image",
+      "team1Name": "Racing",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/1958/image",
+      "team2Name": "Botafogo"
+    },
     "match_15832052": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/480/image/dark",
       "leagueTitle": "CONMEBOL Sudamericana, Group F",
@@ -4023,6 +4170,50 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/3162/image",
       "team2Name": "Audax Italiano",
       "telegramSent": true
+    },
+    "match_15832055": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/480/image/dark",
+      "leagueTitle": "CONMEBOL Sudamericana, Group G",
+      "matchEndTime": "2026-04-16T07:30:00",
+      "matchTime": "2026-04-16T05:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/5997/image",
+      "team1Name": "Olimpia",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/65668/image",
+      "team2Name": "Barracas"
+    },
+    "match_15832058": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/480/image/dark",
+      "leagueTitle": "CONMEBOL Sudamericana, Group H",
+      "matchEndTime": "2026-04-16T08:00:00",
+      "matchTime": "2026-04-16T06:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd&k1=335dad778109954503dcbb21dc92015f&k2=24bfd75d436cbf73168a2a2dccd40281\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "beIN ENGLISH FHD",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3211/image",
+      "team1Name": "River Plate",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/6229/image",
+      "team2Name": "Carabobo"
+    },
+    "match_15832089": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/480/image/dark",
+      "leagueTitle": "CONMEBOL Sudamericana, Group C",
+      "matchEndTime": "2026-04-16T09:30:00",
+      "matchTime": "2026-04-16T07:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/6117/image",
+      "team1Name": "Millonarios",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/174970/image",
+      "team2Name": "Boston River"
     },
     "match_15832090": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/480/image/dark",
@@ -4079,6 +4270,26 @@
       "team2Name": "Cusco",
       "telegramSent": true
     },
+    "match_15832751": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/384/image/dark",
+      "leagueTitle": "CONMEBOL Libertadores, Group E",
+      "matchEndTime": "2026-04-16T08:00:00",
+      "matchTime": "2026-04-16T06:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd&k1=0b42be2664d7e811d04f3e504e0924c5&k2=ae24090123b8c72ac5404dc152847cb8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "beIN ENGLISH FHD",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/1957/image",
+      "team1Name": "Corinthians",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/6116/image",
+      "team2Name": "Santa Fe"
+    },
     "match_15832762": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/384/image/dark",
       "leagueTitle": "CONMEBOL Libertadores, Group F",
@@ -4112,6 +4323,38 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/21982/image",
       "team2Name": "Mirassol",
       "telegramSent": true
+    },
+    "match_15832770": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/384/image/dark",
+      "leagueTitle": "CONMEBOL Libertadores, Group H",
+      "matchEndTime": "2026-04-16T05:30:00",
+      "matchTime": "2026-04-16T03:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd&k1=0b42be2664d7e811d04f3e504e0924c5&k2=ae24090123b8c72ac5404dc152847cb8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "beIN ENGLISH FHD",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/5996/image",
+      "team1Name": "Libertad",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3217/image",
+      "team2Name": "Rosario Central"
+    },
+    "match_15832771": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/384/image/dark",
+      "leagueTitle": "CONMEBOL Libertadores, Group H",
+      "matchEndTime": "2026-04-16T09:30:00",
+      "matchTime": "2026-04-16T07:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/39723/image",
+      "team1Name": "Ind. del Valle",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/249952/image",
+      "team2Name": "UCV"
     },
     "match_15832772": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/384/image/dark",
@@ -4160,6 +4403,46 @@
       "team2Name": "La Guaira",
       "telegramSent": true
     },
+    "match_15832793": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/384/image/dark",
+      "leagueTitle": "CONMEBOL Libertadores, Group C",
+      "matchEndTime": "2026-04-16T08:00:00",
+      "matchTime": "2026-04-16T06:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd&k1=7995c724a13748ed970840a8ab5bb9b3&k2=67bdaf1e2175b9ff682fcdf0e2354b1e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "beIN ENGLISH FHD",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/1961/image",
+      "team1Name": "Fluminense",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/36842/image",
+      "team2Name": "Ind. Rivadavia"
+    },
+    "match_15832830": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/384/image/dark",
+      "leagueTitle": "CONMEBOL Libertadores, Group D",
+      "matchEndTime": "2026-04-16T05:30:00",
+      "matchTime": "2026-04-16T03:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd&k1=7995c724a13748ed970840a8ab5bb9b3&k2=67bdaf1e2175b9ff682fcdf0e2354b1e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "beIN ENGLISH FHD",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/1954/image",
+      "team1Name": "Cruzeiro",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3151/image",
+      "team2Name": "Universidad Católica"
+    },
     "match_15832831": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/384/image/dark",
       "leagueTitle": "CONMEBOL Libertadores, Group D",
@@ -4172,6 +4455,30 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/5250/image",
       "team2Name": "Barcelona SC",
       "telegramSent": true
+    },
+    "match_15852811": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/498/image/dark",
+      "leagueTitle": "CONCACAF Champions Cup",
+      "matchEndTime": "2026-04-16T11:00:00",
+      "matchTime": "2026-04-16T09:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/22009/image",
+      "team1Name": "Seattle",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/1940/image",
+      "team2Name": "Tigres"
+    },
+    "match_15852826": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/498/image/dark",
+      "leagueTitle": "CONCACAF Champions Cup",
+      "matchEndTime": "2026-04-16T08:30:00",
+      "matchTime": "2026-04-16T06:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2513/image",
+      "team1Name": "LA Galaxy",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/1931/image",
+      "team2Name": "Toluca"
     },
     "match_15852836": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/498/image/dark",
@@ -4312,6 +4619,30 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/410010/image",
       "team2Name": "LSG"
     },
+    "match_15935910": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/495/image/dark",
+      "leagueTitle": "US Open Cup",
+      "matchEndTime": "2026-04-16T07:00:00",
+      "matchTime": "2026-04-16T05:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/404108/image",
+      "team1Name": "Charlotte",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/197072/image",
+      "team2Name": "Charlotte Independence"
+    },
+    "match_15935911": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/495/image/dark",
+      "leagueTitle": "US Open Cup",
+      "matchEndTime": "2026-04-16T07:00:00",
+      "matchTime": "2026-04-16T05:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/153486/image",
+      "team1Name": "Chattanooga",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/243211/image",
+      "team2Name": "Atlanta"
+    },
     "match_15935912": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/495/image/dark",
       "leagueTitle": "US Open Cup",
@@ -4324,6 +4655,18 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/2509/image",
       "team2Name": "Kansas City",
       "telegramSent": true
+    },
+    "match_15935913": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/495/image/dark",
+      "leagueTitle": "US Open Cup",
+      "matchEndTime": "2026-04-16T07:00:00",
+      "matchTime": "2026-04-16T05:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2502/image",
+      "team1Name": "DC United",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/407748/image",
+      "team2Name": "ONE Knoxville"
     },
     "match_15935914": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/495/image/dark",
@@ -4364,6 +4707,30 @@
       "team2Name": "Rhode Island",
       "telegramSent": true
     },
+    "match_15935917": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/495/image/dark",
+      "leagueTitle": "US Open Cup",
+      "matchEndTime": "2026-04-16T07:00:00",
+      "matchTime": "2026-04-16T05:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/23841/image",
+      "team1Name": "Richmond Kickers",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2504/image",
+      "team2Name": "Columbus"
+    },
+    "match_15935918": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/495/image/dark",
+      "leagueTitle": "US Open Cup",
+      "matchEndTime": "2026-04-16T07:30:00",
+      "matchTime": "2026-04-16T05:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2508/image",
+      "team1Name": "Houston",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/310532/image",
+      "team2Name": "Locomotive"
+    },
     "match_15935919": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/495/image/dark",
       "leagueTitle": "US Open Cup",
@@ -4389,6 +4756,54 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/41618/image",
       "team2Name": "Minnesota",
       "telegramSent": true
+    },
+    "match_15935921": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/495/image/dark",
+      "leagueTitle": "US Open Cup",
+      "matchEndTime": "2026-04-16T07:30:00",
+      "matchTime": "2026-04-16T05:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/407803/image",
+      "team1Name": "St. Louis",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/197071/image",
+      "team2Name": "FC Tulsa"
+    },
+    "match_15935922": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/495/image/dark",
+      "leagueTitle": "US Open Cup",
+      "matchEndTime": "2026-04-16T09:30:00",
+      "matchTime": "2026-04-16T07:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/21825/image",
+      "team1Name": "San Jose",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/154018/image",
+      "team2Name": "Phoenix Rising"
+    },
+    "match_15935924": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/495/image/dark",
+      "leagueTitle": "US Open Cup",
+      "matchEndTime": "2026-04-16T07:00:00",
+      "matchTime": "2026-04-16T05:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2506/image",
+      "team1Name": "NY Red Bulls",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/23635/image",
+      "team2Name": "Pittsburgh Riverhounds"
+    },
+    "match_15935927": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/495/image/dark",
+      "leagueTitle": "US Open Cup",
+      "matchEndTime": "2026-04-16T06:30:00",
+      "matchTime": "2026-04-16T04:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/1044341/image",
+      "team1Name": "FC Naples",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/52237/image",
+      "team2Name": "Orlando"
     },
     "match_15935929": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/495/image/dark",
