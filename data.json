@@ -3646,13 +3646,6 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://cdn.damitv.pro/iptv-proxy/streamed/play?source=echo&id=udinese-vs-parma-football-1378192&streamNo=1\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "DAZN IT HD",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
           "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://live.vivo200.com/live/hd-en-1-4339757.m3u8?txSecret=51f1a24276bb53e3c647a01e953ebd31&txTime=69E3C48E|Referer=https://player.787200.com/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "SPORTIFy Live",
@@ -3679,12 +3672,69 @@
           "name": "FOX DEPORTES",
           "source": "main",
           "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1776520602-0-0-33e4e835de572e2c1f6d6c8e6924216d\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1776520602-0-0-74b5f944fc6adfef23f8851a6da7a897\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1776513646-0-0-a781122dec75a0f16dd68e64748f4501\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy HD",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1776513646-0-0-e36cb57e96c53f9b5d08d58202f086f8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy FHD",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1776520602-0-0-8f5844bfd5298dbacc79811d1dcc66a4\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy SD",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1776520602-0-0-1824b4619658389fe78bde00b5bf1757\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy PRO",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1776520602-0-0-1c2ac35c1011b2c7b489d23c1ea5447e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy FHD",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1776520602-0-0-d9bf8b293a40430723f4f9fbe264dc50\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy PRO",
+          "source": "api",
+          "type": "Embed"
         }
       ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2695/image",
       "team1Name": "Udinese",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2690/image",
-      "team2Name": "Parma"
+      "team2Name": "Parma",
+      "telegramSent": true
     },
     "match_13981744": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
@@ -3813,20 +3863,6 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://soccer.250909.cc/event/944/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "TNT SPORTS HD",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://cdn.damitv.pro/iptv-proxy/streamed/play?source=delta&id=live_premier-league_brentford-fulham-live-streaming-1094598306&streamNo=1\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "DELTA SERVER",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
           "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd&k1=dc69b6159a0f9f0a4e03b3ff91cbacd5&k2=d0dcbcd7723bc40df0bf34c9c092d51f\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "FUBO SPORTS",
@@ -3834,7 +3870,7 @@
           "type": "Direct"
         },
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://chatgpt.hereisman.net/playlist/49142/load-playlist?|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://chatgpt.hereisman.net/playlist/49142/load-playlist|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "HD SERVER",
           "source": "main",
@@ -3876,72 +3912,72 @@
           "type": "Direct"
         },
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1776519702-0-0-b8afb5cfc5c48da72ff0cc59f92138dc\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1776520602-0-0-0311dbed7a185edaa18e00a4cd636db4\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV",
           "source": "api",
           "type": "Embed"
         },
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1776519702-0-0-51e0d544040c5c1efe39adb68b2dfd9b\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1776520602-0-0-a9d8803a40ac1832e25e2b57afa63832\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV+ HD",
           "source": "api",
           "type": "Embed"
         },
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1776519702-0-0-cc63206e2f7555f9953ae64cbb224d88\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1776520602-0-0-af4d8ef14008d48b94aa1382e5c9dbbe\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy PRIME",
+          "name": "SPORTIFy STAR SD",
           "source": "api",
           "type": "Embed"
         },
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1776519702-0-0-8d6c64067c4f3e21e3a39e88e2b582cc\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1776520602-0-0-49173bbf0ff27bf24a5bd079f27ada7a\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy FHD",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1776520602-0-0-9f97ef24eba32d8c85fc9f82b4906702\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy FAST HD",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1776520602-0-0-07ecc8119ee174bec7167423e6198191\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TURBO",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1776520602-0-0-1332dce26a7f6fd9d16c474b73744b83\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy FHD",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1776520602-0-0-7ec39aa14d0b990f48f9be437375f7b0\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy SD",
           "source": "api",
           "type": "Embed"
         },
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1776519702-0-0-ad8d8eb848888a02645abfbd766f49d6\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1776520602-0-0-f638742640a426551641a7e0c3ba0034\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy LIVE",
+          "name": "SPORTIFy FOOTBALL HD",
           "source": "api",
           "type": "Embed"
         },
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1776519702-0-0-2bd940be3a264118c4a0a9cdccb409ed\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1776520602-0-0-3bd1656f025ca07c031a3f7ca2e291a5\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy GOAL FHD",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1776519702-0-0-d7f3773debe73d38f38e7794f2458ccc\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy SD",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1776519702-0-0-3c3e59e6aaf42f5b2fd5faf2c2d48cb3\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy SD",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1776519702-0-0-c77caa23120c423be51299a7ca5a8687\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy HD",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1776519702-0-0-a43c27c398b4d9a8a851ff621fbdd940\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy PRIME",
+          "name": "SPORTIFy PLUS",
           "source": "api",
           "type": "Embed"
         }
@@ -4266,30 +4302,30 @@
           "type": "Direct"
         },
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-564362_lsd.m3u8?auth_key=1776519702-0-0-ca3f3f3cf5a351a0eb6c9b48776f04a8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1776520602-0-0-cd1f60f1b84d19cc3f31a3ad1620039a\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV",
           "source": "api",
           "type": "Embed"
         },
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1776519702-0-0-4604251070915e396d8503a1fd6aa08f\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1776520602-0-0-52c0c9545f75f59537fa7a3c3fa7f03e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV+ HD",
           "source": "api",
           "type": "Embed"
         },
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1776519702-0-0-e75f01a8a402d0fc5d4fa7192b297363\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-564362_lsd.m3u8?auth_key=1776520602-0-0-ab92edce8c43d1f9bca246f3e42c2732\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy FOOTBALL",
+          "name": "SPORTIFy FAST FHD",
           "source": "api",
           "type": "Embed"
         },
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1776519702-0-0-840fb22d8ddfa5f892a7236678cbd557\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1776520602-0-0-1d0445ad0c6abf1857f0f54f485718a4\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy TURBO HD",
+          "name": "SPORTIFy PRO",
           "source": "api",
           "type": "Embed"
         }
@@ -4307,13 +4343,6 @@
       "matchTime": "2026-04-18T17:00:00",
       "sportType": "FOOTBALL",
       "streamLinks": [
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://cdn.damitv.pro/iptv-proxy/streamed/play?source=echo&id=millwall-vs-qpr-football-1387063&streamNo=1\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "PARAMOUNT+ HD",
-          "source": "main",
-          "type": "Direct"
-        },
         {
           "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://live.vivo200.com/live/sd-1-4351732.m3u8?txSecret=3fb723966a85c42998d91a6b5c65c9f9&txTime=69E3B04A|Referer=https://player.787200.com/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
@@ -6014,7 +6043,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2712/image",
       "team1Name": "Bari",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2688/image",
-      "team2Name": "Venezia"
+      "team2Name": "Venezia",
+      "telegramSent": true
     },
     "match_14317576": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
@@ -6038,7 +6068,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2770/image",
       "team1Name": "Mantova",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2730/image",
-      "team2Name": "Avellino"
+      "team2Name": "Avellino",
+      "telegramSent": true
     },
     "match_14317580": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
@@ -6050,7 +6081,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2706/image",
       "team1Name": "Modena",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2801/image",
-      "team2Name": "Frosinone"
+      "team2Name": "Frosinone",
+      "telegramSent": true
     },
     "match_14317581": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
@@ -6075,7 +6107,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2735/image",
       "team1Name": "Spezia",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2760/image",
-      "team2Name": "Südtirol"
+      "team2Name": "Südtirol",
+      "telegramSent": true
     },
     "match_14317589": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
@@ -6320,7 +6353,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/7414/image",
       "team1Name": "Denmark",
       "team2Logo": "https://api.sofascore.com/api/v1/team/22025/image",
-      "team2Name": "Italy"
+      "team2Name": "Italy",
+      "telegramSent": true
     },
     "match_15117941": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/780/image/dark",
@@ -6476,7 +6510,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/38090/image",
       "team1Name": "Hungary",
       "team2Logo": "https://api.sofascore.com/api/v1/team/38086/image",
-      "team2Name": "North Macedonia"
+      "team2Name": "North Macedonia",
+      "telegramSent": true
     },
     "match_15118023": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/780/image/dark",
@@ -6488,7 +6523,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/38080/image",
       "team1Name": "Azerbaijan",
       "team2Logo": "https://api.sofascore.com/api/v1/team/191657/image",
-      "team2Name": "Andorra"
+      "team2Name": "Andorra",
+      "telegramSent": true
     },
     "match_15118029": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/780/image/dark",
@@ -6500,7 +6536,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/7611/image",
       "team1Name": "Romania",
       "team2Logo": "https://api.sofascore.com/api/v1/team/144472/image",
-      "team2Name": "Cyprus"
+      "team2Name": "Cyprus",
+      "telegramSent": true
     },
     "match_15118043": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/780/image/dark",
@@ -7314,7 +7351,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/58741/image",
       "team1Name": "Shillong",
       "team2Logo": "https://api.sofascore.com/api/v1/team/212389/image",
-      "team2Name": "Aizawl"
+      "team2Name": "Aizawl",
+      "telegramSent": true
     },
     "match_15632618": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
@@ -8493,7 +8531,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/7665/image",
       "team1Name": "Sundowns",
       "team2Logo": "https://api.sofascore.com/api/v1/team/59628/image",
-      "team2Name": "Espérance"
+      "team2Name": "Espérance",
+      "telegramSent": true
     },
     "match_15885311": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
