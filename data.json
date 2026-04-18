@@ -5102,6 +5102,20 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://mainstreams.pro/hls/dza5z8f69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "beIN SPORTS US",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/live_usa_bein_sport_espanol/index.m3u8|Referer=https://kilatlive.net/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "beIN SPORTS ES",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
           "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://live.vivo200.com/live/hd-en-1-4347946.m3u8?txSecret=346594712c930ec7a96c24c41b5111fb&txTime=69E3DC82|Referer=https://player.787200.com/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "SPORTIFy Live",
@@ -5271,7 +5285,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2715/image",
       "team1Name": "Palermo",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2742/image",
-      "team2Name": "Cesena"
+      "team2Name": "Cesena",
+      "telegramSent": true
     },
     "match_14383029": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/182/image/dark",
