@@ -3479,6 +3479,30 @@
     }
   },
   "matches": {
+    "match_13980098": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+      "leagueTitle": "Serie A",
+      "matchEndTime": "2026-04-20T02:15:00",
+      "matchTime": "2026-04-20T00:15:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2687/image",
+      "team1Name": "Juventus",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2685/image",
+      "team2Name": "Bologna"
+    },
+    "match_13980100": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+      "leagueTitle": "Serie A",
+      "matchEndTime": "2026-04-19T23:30:00",
+      "matchTime": "2026-04-19T21:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2737/image",
+      "team1Name": "Pisa",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2713/image",
+      "team2Name": "Genoa"
+    },
     "match_13980101": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
       "leagueTitle": "Serie A",
@@ -3780,6 +3804,42 @@
       "team2Name": "Parma",
       "telegramSent": true
     },
+    "match_13980115": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+      "leagueTitle": "Serie A",
+      "matchEndTime": "2026-04-19T20:30:00",
+      "matchTime": "2026-04-19T18:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2701/image",
+      "team1Name": "Verona",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2692/image",
+      "team2Name": "Milan"
+    },
+    "match_13981743": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+      "leagueTitle": "Serie A",
+      "matchEndTime": "2026-04-19T18:00:00",
+      "matchTime": "2026-04-19T16:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2761/image",
+      "team1Name": "Cremonese",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2696/image",
+      "team2Name": "Torino"
+    },
+    "match_14025030": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+      "leagueTitle": "Premier League",
+      "matchEndTime": "2026-04-19T20:30:00",
+      "matchTime": "2026-04-19T18:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/40/image",
+      "team1Name": "Aston Villa",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/41/image",
+      "team2Name": "Sunderland"
+    },
     "match_14025031": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
       "leagueTitle": "Premier League",
@@ -4074,6 +4134,26 @@
       "team2Name": "Man Utd",
       "telegramSent": true
     },
+    "match_14025035": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+      "leagueTitle": "Premier League",
+      "matchEndTime": "2026-04-19T20:30:00",
+      "matchTime": "2026-04-19T18:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "NOW SPORTS PL",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/48/image",
+      "team1Name": "Everton",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/44/image",
+      "team2Name": "Liverpool"
+    },
     "match_14025036": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
       "leagueTitle": "Premier League",
@@ -4115,6 +4195,40 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/3/image",
       "team2Name": "Wolves",
       "telegramSent": true
+    },
+    "match_14025039": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+      "leagueTitle": "Premier League",
+      "matchEndTime": "2026-04-19T23:00:00",
+      "matchTime": "2026-04-19T21:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd&k1=dc69b6159a0f9f0a4e03b3ff91cbacd5&k2=d0dcbcd7723bc40df0bf34c9c092d51f\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "FUBO SPORTS",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "NOW SPORTS PL",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=SportzX|Referer=https://player.787200.com/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SPORTIFy Live",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/17/image",
+      "team1Name": "Man City",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/42/image",
+      "team2Name": "Arsenal"
     },
     "match_14025040": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
@@ -4241,6 +4355,18 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/60/image",
       "team2Name": "Bournemouth",
       "telegramSent": true
+    },
+    "match_14025041": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+      "leagueTitle": "Premier League",
+      "matchEndTime": "2026-04-19T20:30:00",
+      "matchTime": "2026-04-19T18:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/14/image",
+      "team1Name": "Forest",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/6/image",
+      "team2Name": "Burnley"
     },
     "match_14025042": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
@@ -4591,6 +4717,33 @@
       "team2Name": "Norwich",
       "telegramSent": true
     },
+    "match_14059971": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+      "leagueTitle": "Championship",
+      "matchEndTime": "2026-04-19T18:30:00",
+      "matchTime": "2026-04-19T16:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Live-2/?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/141529-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (IND)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Live-2/?url=https://fc-bd-owner.ivan-flux.workers.dev/141529-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (BD)",
+          "source": "fancode",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/32/image",
+      "team1Name": "Ipswich",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/36/image",
+      "team2Name": "Middlesbrough"
+    },
     "match_14059972": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
       "leagueTitle": "Championship",
@@ -4828,6 +4981,30 @@
       "team2Name": "Cardiff",
       "telegramSent": true
     },
+    "match_14061336": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
+      "leagueTitle": "League One",
+      "matchEndTime": "2026-04-19T21:30:00",
+      "matchTime": "2026-04-19T19:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/55/image",
+      "team1Name": "Port Vale",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/49/image",
+      "team2Name": "Wigan"
+    },
+    "match_14061342": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
+      "leagueTitle": "League One",
+      "matchEndTime": "2026-04-19T19:30:00",
+      "matchTime": "2026-04-19T17:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/54/image",
+      "team1Name": "Peterborough Utd",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/134/image",
+      "team2Name": "Burton"
+    },
     "match_14061349": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
       "leagueTitle": "League One",
@@ -5042,6 +5219,18 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/2600/image",
       "team2Name": "Augsburg",
       "telegramSent": true
+    },
+    "match_14065222": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
+      "leagueTitle": "Bundesliga",
+      "matchEndTime": "2026-04-19T23:00:00",
+      "matchTime": "2026-04-19T21:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2672/image",
+      "team1Name": "Bayern",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2677/image",
+      "team2Name": "Stuttgart"
     },
     "match_14065223": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
@@ -5316,6 +5505,30 @@
       "team2Name": "Wolfsburg",
       "telegramSent": true
     },
+    "match_14065226": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
+      "leagueTitle": "Bundesliga",
+      "matchEndTime": "2026-04-19T21:00:00",
+      "matchTime": "2026-04-19T19:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2538/image",
+      "team1Name": "Freiburg",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/5885/image",
+      "team2Name": "Heidenheim"
+    },
+    "match_14065227": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
+      "leagueTitle": "Bundesliga",
+      "matchEndTime": "2026-04-20T01:00:00",
+      "matchTime": "2026-04-19T23:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2527/image",
+      "team1Name": "M'gladbach",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2556/image",
+      "team2Name": "Mainz 05"
+    },
     "match_14065230": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
       "leagueTitle": "Bundesliga",
@@ -5434,6 +5647,54 @@
       "team2Name": "Paderborn",
       "telegramSent": true
     },
+    "match_14065514": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+      "leagueTitle": "2. Bundesliga",
+      "matchEndTime": "2026-04-19T19:00:00",
+      "matchTime": "2026-04-19T17:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2551/image",
+      "team1Name": "Fürth",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2576/image",
+      "team2Name": "Darmstadt"
+    },
+    "match_14065515": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+      "leagueTitle": "2. Bundesliga",
+      "matchEndTime": "2026-04-19T19:00:00",
+      "matchTime": "2026-04-19T17:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2557/image",
+      "team1Name": "Braunschweig",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2528/image",
+      "team2Name": "Hertha"
+    },
+    "match_14065516": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+      "leagueTitle": "2. Bundesliga",
+      "matchEndTime": "2026-04-19T19:00:00",
+      "matchTime": "2026-04-19T17:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2530/image",
+      "team1Name": "Schalke",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2590/image",
+      "team2Name": "Münster"
+    },
+    "match_14081722": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+      "leagueTitle": "LaLiga 2",
+      "matchEndTime": "2026-04-19T21:45:00",
+      "matchTime": "2026-04-19T19:45:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2852/image",
+      "team1Name": "Sporting",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/4488/image",
+      "team2Name": "Cádiz"
+    },
     "match_14081723": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
       "leagueTitle": "LaLiga 2",
@@ -5446,6 +5707,18 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/2850/image",
       "team2Name": "Córdoba",
       "telegramSent": true
+    },
+    "match_14081725": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+      "leagueTitle": "LaLiga 2",
+      "matchEndTime": "2026-04-19T19:30:00",
+      "matchTime": "2026-04-19T17:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/324871/image",
+      "team1Name": "FC Andorra",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2831/image",
+      "team2Name": "Real Valladolid"
     },
     "match_14081726": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
@@ -5503,6 +5776,57 @@
       "team2Name": "Ceuta",
       "telegramSent": true
     },
+    "match_14081736": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+      "leagueTitle": "LaLiga 2",
+      "matchEndTime": "2026-04-20T02:30:00",
+      "matchTime": "2026-04-20T00:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Live-2/?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/141961-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (IND)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Live-2/?url=https://fc-bd-owner.ivan-flux.workers.dev/141961-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (BD)",
+          "source": "fancode",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2858/image",
+      "team1Name": "Almería",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2830/image",
+      "team2Name": "Málaga"
+    },
+    "match_14083559": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+      "leagueTitle": "LaLiga 2",
+      "matchEndTime": "2026-04-20T00:00:00",
+      "matchTime": "2026-04-19T22:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2848/image",
+      "team1Name": "Albacete",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/33779/image",
+      "team2Name": "Granada"
+    },
+    "match_14083563": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+      "leagueTitle": "LaLiga 2",
+      "matchEndTime": "2026-04-20T00:00:00",
+      "matchTime": "2026-04-19T22:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2839/image",
+      "team1Name": "Eibar",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/24265/image",
+      "team2Name": "Huesca"
+    },
     "match_14109880": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
       "leagueTitle": "Trendyol Süper Lig",
@@ -5530,6 +5854,42 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/7040/image",
       "team2Name": "Eyüpspor",
       "telegramSent": true
+    },
+    "match_14109882": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
+      "leagueTitle": "Trendyol Süper Lig",
+      "matchEndTime": "2026-04-19T21:30:00",
+      "matchTime": "2026-04-19T19:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3053/image",
+      "team1Name": "Samsunspor",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3050/image",
+      "team2Name": "Beşiktaş"
+    },
+    "match_14109883": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
+      "leagueTitle": "Trendyol Süper Lig",
+      "matchEndTime": "2026-04-19T19:00:00",
+      "matchTime": "2026-04-19T17:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/6063/image",
+      "team1Name": "Kasımpaşa",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/6362/image",
+      "team2Name": "Alanyaspor"
+    },
+    "match_14109884": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
+      "leagueTitle": "Trendyol Süper Lig",
+      "matchEndTime": "2026-04-20T00:30:00",
+      "matchTime": "2026-04-19T22:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3051/image",
+      "team1Name": "Trabzonspor",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3086/image",
+      "team2Name": "Başakşehir"
     },
     "match_14109886": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
@@ -5713,6 +6073,30 @@
       "team2Name": "Marseille",
       "telegramSent": true
     },
+    "match_14167967": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
+      "leagueTitle": "Ligue 1",
+      "matchEndTime": "2026-04-19T22:45:00",
+      "matchTime": "2026-04-19T20:45:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/1659/image",
+      "team1Name": "Strasbourg",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/1658/image",
+      "team2Name": "Rennes"
+    },
+    "match_14167968": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
+      "leagueTitle": "Ligue 1",
+      "matchEndTime": "2026-04-19T22:45:00",
+      "matchTime": "2026-04-19T20:45:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/1651/image",
+      "team1Name": "Metz",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/6070/image",
+      "team2Name": "Paris"
+    },
     "match_14167970": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
       "leagueTitle": "Ligue 1",
@@ -5747,6 +6131,30 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/1662/image",
       "team2Name": "Le Havre",
       "telegramSent": true
+    },
+    "match_14167971": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
+      "leagueTitle": "Ligue 1",
+      "matchEndTime": "2026-04-19T20:30:00",
+      "matchTime": "2026-04-19T18:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/1653/image",
+      "team1Name": "AS Monaco",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/1646/image",
+      "team2Name": "Auxerre"
+    },
+    "match_14167972": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
+      "leagueTitle": "Ligue 1",
+      "matchEndTime": "2026-04-19T22:45:00",
+      "matchTime": "2026-04-19T20:45:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/1647/image",
+      "team1Name": "Nantes",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/1715/image",
+      "team2Name": "Brest"
     },
     "match_14167973": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
@@ -5797,6 +6205,18 @@
       "team2Name": "Nice",
       "telegramSent": true
     },
+    "match_14167974": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
+      "leagueTitle": "Ligue 1",
+      "matchEndTime": "2026-04-20T02:15:00",
+      "matchTime": "2026-04-20T00:15:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/1644/image",
+      "team1Name": "PSG",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/1649/image",
+      "team2Name": "Lyon"
+    },
     "match_14317569": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
       "leagueTitle": "Serie B",
@@ -5809,6 +6229,18 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/2688/image",
       "team2Name": "Venezia",
       "telegramSent": true
+    },
+    "match_14317574": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
+      "leagueTitle": "Serie B",
+      "matchEndTime": "2026-04-20T01:00:00",
+      "matchTime": "2026-04-19T23:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2705/image",
+      "team1Name": "Empoli",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/43680/image",
+      "team2Name": "Entella"
     },
     "match_14317576": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
@@ -5849,6 +6281,18 @@
       "team2Name": "Frosinone",
       "telegramSent": true
     },
+    "match_14317582": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
+      "leagueTitle": "Serie B",
+      "matchEndTime": "2026-04-19T22:45:00",
+      "matchTime": "2026-04-19T20:45:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2741/image",
+      "team1Name": "Padova",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/24516/image",
+      "team2Name": "Reggiana"
+    },
     "match_14317584": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
       "leagueTitle": "Serie B",
@@ -5861,6 +6305,18 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/2760/image",
       "team2Name": "Südtirol",
       "telegramSent": true
+    },
+    "match_14317588": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
+      "leagueTitle": "Serie B",
+      "matchEndTime": "2026-04-19T20:30:00",
+      "matchTime": "2026-04-19T18:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2745/image",
+      "team1Name": "Carrarese",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/7935/image",
+      "team2Name": "Pescara"
     },
     "match_14317589": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
@@ -5887,6 +6343,60 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/1711/image",
       "team2Name": "Boulogne-sur-Mer",
       "telegramSent": true
+    },
+    "match_14671784": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/136/image/dark",
+      "leagueTitle": "A-League Men",
+      "matchEndTime": "2026-04-19T10:30:00",
+      "matchTime": "2026-04-19T08:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Live-2/?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/140939-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (IND)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Live-2/?url=https://fc-bd-owner.ivan-flux.workers.dev/140939-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (BD)",
+          "source": "fancode",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/800224/image",
+      "team1Name": "Auckland FC",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/5966/image",
+      "team2Name": "Central Coast"
+    },
+    "match_14671786": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/136/image/dark",
+      "leagueTitle": "A-League Men",
+      "matchEndTime": "2026-04-19T13:00:00",
+      "matchTime": "2026-04-19T11:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Live-2/?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/140940-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (IND)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Live-2/?url=https://fc-bd-owner.ivan-flux.workers.dev/140940-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (BD)",
+          "source": "fancode",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2946/image",
+      "team1Name": "Adelaide United",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/371682/image",
+      "team2Name": "Macarthur"
     },
     "match_15024668": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/780/image/dark",
@@ -6395,6 +6905,18 @@
       "team2Name": "DC United",
       "telegramSent": true
     },
+    "match_15171480": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
+      "leagueTitle": "MLS",
+      "matchEndTime": "2026-04-19T09:00:00",
+      "matchTime": "2026-04-19T07:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/5133/image",
+      "team1Name": "Salt Lake",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/1043961/image",
+      "team2Name": "San Diego FC"
+    },
     "match_15171481": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
       "leagueTitle": "MLS",
@@ -6407,6 +6929,42 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/2508/image",
       "team2Name": "Houston",
       "telegramSent": true
+    },
+    "match_15171482": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
+      "leagueTitle": "MLS",
+      "matchEndTime": "2026-04-19T09:00:00",
+      "matchTime": "2026-04-19T07:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/22009/image",
+      "team1Name": "Seattle",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/407803/image",
+      "team2Name": "St. Louis"
+    },
+    "match_15171483": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
+      "leagueTitle": "MLS",
+      "matchEndTime": "2026-04-20T06:30:00",
+      "matchTime": "2026-04-20T04:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/274650/image",
+      "team1Name": "Los Angeles",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/21825/image",
+      "team2Name": "San Jose"
+    },
+    "match_15401522": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11222/image/dark",
+      "leagueTitle": "India Women in South Africa, 5 T20I Series",
+      "matchEndTime": "2026-04-20T00:30:00",
+      "matchTime": "2026-04-19T17:30:00",
+      "sportType": "CRICKET",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/213118/image",
+      "team1Name": "SA-W",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/213119/image",
+      "team2Name": "IND-W"
     },
     "match_15426971": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
@@ -6548,6 +7106,47 @@
       "team2Name": "Jamshedpur",
       "telegramSent": true
     },
+    "match_15508423": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/1900/image/dark",
+      "leagueTitle": "Super League",
+      "matchEndTime": "2026-04-19T21:30:00",
+      "matchTime": "2026-04-19T19:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Live-2/?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/140492-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (IND)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Live-2/?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/141817-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (IND)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Live-2/?url=https://fc-bd-owner.ivan-flux.workers.dev/140492-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (BD)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Live-2/?url=https://fc-bd-owner.ivan-flux.workers.dev/141817-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (BD)",
+          "source": "fancode",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/174602/image",
+      "team1Name": "NorthEast Utd",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/370834/image",
+      "team2Name": "Mohun Bagan"
+    },
     "match_15508427": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/1900/image/dark",
       "leagueTitle": "Super League",
@@ -6630,6 +7229,30 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/212389/image",
       "team2Name": "Aizawl",
       "telegramSent": true
+    },
+    "match_15558697": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/848/image/dark",
+      "leagueTitle": "I-League",
+      "matchEndTime": "2026-04-19T18:00:00",
+      "matchTime": "2026-04-19T16:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/34217/image",
+      "team1Name": "Dempo",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/387698/image",
+      "team2Name": "Rajasthan United FC"
+    },
+    "match_15558698": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/848/image/dark",
+      "leagueTitle": "I-League",
+      "matchEndTime": "2026-04-19T20:30:00",
+      "matchTime": "2026-04-19T18:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/245075/image",
+      "team1Name": "Real Kashmir",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/403570/image",
+      "team2Name": "Sreenidi Deccan"
     },
     "match_15652561": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
@@ -6841,6 +7464,191 @@
       "team2Name": "RAP",
       "telegramSent": true
     },
+    "match_15706176": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
+      "leagueTitle": "Pakistan Super League",
+      "matchEndTime": "2026-04-19T22:00:00",
+      "matchTime": "2026-04-19T15:00:00",
+      "sportType": "CRICKET",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/agrfja7gas/out/v1/a29896e7103245859581d53e02a62904/cenc.mpd&k1=cd12c8ede0d455b52ea726b12d8d5213&k2=2f2c89c6b393f1300e8fa77wa6[3b846\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "WILLOW [Ad-Free]",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd&k1=290e09c837da78d5cd961978d390515c&k2=b748836c71e6a4ca68ef5b5x52[b6247\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "WILLOW FHD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "PSL Urdu - PK",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "PSL ENG - PK",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://live.incableinternet.com/v/kooker_ptvsportshd/kooker_ptvsportshd.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "PTV SPORTS HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tencentcdn7.tamashaweb.com/v1/019beffa3f101567ee93346674d021/019bff96b0e415fc600b1b67f81951/TMSH_APP2_DIRTY.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "TAMASHA - PK",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=http://93.123.109.82/hls/HOOOO.m3u8|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SD SERVER",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=http://103.175.242.10:8080/tsports1/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "TSports HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://ottlive.dishhome.com.np/protected/jQTOzZkB0RDJ74Ryniuo/dash/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&k1=a7712196dbee413ab510c825e5c4d3f0&k2=1ade126fa6a9162ba34bd5dV5b(427ca\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "PTV SPORTS - AQ",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/273650/image",
+      "team1Name": "MUL",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/212418/image",
+      "team2Name": "KAR"
+    },
+    "match_15706177": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
+      "leagueTitle": "Pakistan Super League",
+      "matchEndTime": "2026-04-20T02:30:00",
+      "matchTime": "2026-04-19T19:30:00",
+      "sportType": "CRICKET",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/uf6q4ol38t/out/v1/7a4c44e6855443efa0c96d0cbb35d6f5/cenc.mpd&k1=7ad536ee5e2852047335bc34078f5adc&k2=0a772085604f9126c1e14c4d6f94370f\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "WILLOW - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "PSL Urdu - PK",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd&k1=290e09c837da78d5cd961978d390515c&k2=b748836c71e6a4ca68ef5b5652db6247\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "WILLOW FHD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "PSL ENG - PK",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://live.incableinternet.com/v/kooker_ptvsportshd/kooker_ptvsportshd.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "PTV SPORTS HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tencentcdn7.tamashaweb.com/v1/019beffa3f101567ee93346674d021/019bff96b0e415fc600b1b67f81951/TMSH_APP2_DIRTY.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "TAMASHA - PK",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/212420/image",
+      "team1Name": "PES",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/212417/image",
+      "team2Name": "QUE"
+    },
+    "match_15795260": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
+      "leagueTitle": "AFC Champions League Two, Knockout stage",
+      "matchEndTime": "2026-04-19T21:30:00",
+      "matchTime": "2026-04-19T19:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Live-2/?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/140870-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (IND)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Live-2/?url=https://fc-bd-owner.ivan-flux.workers.dev/140870-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (BD)",
+          "source": "fancode",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/47674/image",
+      "team1Name": "Al-Wasl",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/23400/image",
+      "team2Name": "Al-Nassr"
+    },
+    "match_15795268": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
+      "leagueTitle": "AFC Champions League Two, Knockout stage",
+      "matchEndTime": "2026-04-20T02:30:00",
+      "matchTime": "2026-04-20T00:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Live-2/?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/140872-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (IND)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://sptvhelpdesk-ship-it.github.io/Live-2/?url=https://fc-bd-owner.ivan-flux.workers.dev/140872-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (BD)",
+          "source": "fancode",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/44443/image",
+      "team1Name": "Al-Ahli Doha",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/117204/image",
+      "team2Name": "Al-Hussein Irbid"
+    },
     "match_15870603": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/1054/image/dark",
       "leagueTitle": "CAF Champions League, Knockout stage",
@@ -7028,6 +7836,175 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/187777/image",
       "team2Name": "CSK",
       "telegramSent": true
+    },
+    "match_15885315": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
+      "leagueTitle": "Indian Premier League",
+      "matchEndTime": "2026-04-19T22:30:00",
+      "matchTime": "2026-04-19T15:30:00",
+      "sportType": "CRICKET",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/aluw6sbekd/out/v1/9d1d6c30ffb54e49ada82f217509d5f0/cenc.mpd&k1=37552b55f620758d16945215d71e8419&k2=7f3f418aaeca0f05a3291bb5U9dB2992\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "WILLOW [Ad-Free]",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SKY CRICKET HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=http://195.178.110.55/hls/FERRR.m3u8|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SD SERVER",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://livetv.hotstar.com/mp1/gec-india-1540065782/fce958099ca84fc3b980e651a4a668a8/index.mpd?|cookie=hdntl=exp=1776246328~acl=%2f*~id=e9eb63b07e60dea4e6f62148ac65684f~data=hdntl~hmac=a435411af7d3cc1ad40c54b8f490ba1b276409517e297c4d2a36f65fcebdb977&User-agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169+%28Android%2F15%29&origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&k1=b7cdde012ce04e90a08b90622e020000&k2=13603245acab444faef6cab5t98De55f\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "STAR ENGLISH [IN]",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://livetv.hotstar.com/mp1/gec-india-1540065788/fa6a4f0005ef4f90ab24484d165b0aaf/index.mpd?|cookie=hdntl=exp=1776246328~acl=%2f*~id=e9eb63b07e60dea4e6f62148ac65684f~data=hdntl~hmac=a435411af7d3cc1ad40c54b8f490ba1b276409517e297c4d2a36f65fcebdb977&User-agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169+%28Android%2F15%29&origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&k1=81872faa1d6b45fa9045cdeb2e310000&k2=9b88168e61274587a471962cw6b\u00194675\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "STAR HINDI [IN]",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://jcevents.hotstar.com/bpk-tv/4db6f833701e78ae4443cb268020f03b/Fallback/4db6f833701e78ae4443cb268020f03b.m3u8?|cookie=hdntl=exp=1776038442~acl=%2f*~id=ace1b379b9dac2d9e8e35c3945d654d1~data=hdntl~hmac=46e1ded0a1cb45c1054cf0d0710b311d3110068031b95ea126adc4611249853a&User-agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169+%28Android%2F15%29&origin=https://www.hotstar.com&Referer=https://www.hotstar.com\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "STAR TAMIL [IN]",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://jcevents.hotstar.com/bpk-tv/034d1fb94cae87294a06f4dc266084b9/Fallback/034d1fb94cae87294a06f4dc266084b9.m3u8?|cookie=hdntl=exp=1776038442~acl=%2f*~id=ace1b379b9dac2d9e8e35c3945d654d1~data=hdntl~hmac=46e1ded0a1cb45c1054cf0d0710b311d3110068031b95ea126adc4611249853a&User-agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169+%28Android%2F15%29&origin=https://www.hotstar.com&Referer=https://www.hotstar.com\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "STAR TELUGU [IN]",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/187775/image",
+      "team1Name": "KKR",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/187842/image",
+      "team2Name": "RR"
+    },
+    "match_15885316": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
+      "leagueTitle": "Indian Premier League",
+      "matchEndTime": "2026-04-20T02:30:00",
+      "matchTime": "2026-04-19T19:30:00",
+      "sportType": "CRICKET",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ke59mrh50f/out/v1/599ab0fe67fb4b9fb895b33b07b69d1e/cenc.mpd&k1=44bf026ee69d3feb4ea63001fdc1472b&k2=697b3102583203f9f3e053754f4e2829\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "WILLOW [Ad-Free]",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/ke59mrh50f/out/v1/599ab0fe67fb4b9fb895b33b07b69d1e/cenc.mpd&k1=44bf026ee69d3feb4ea63001fdc1472b&k2=697b3102583203f9f3e053754f4e2829\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "WILLOW - FHD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://dice-live-oc.akamaized.net/hdntl=exp=1776580323~acl=%2F*~id=c3306428-dcb4-4a74-a24a-d10f3725b3bc~data=hdntl,aXA9MzguMTM3LjIwLjQ1JmV4cD0xNzc2NDkzOTUyJmVpZD04Mzc5MTcmb2lkPTIyJnR5cGU9Vk9EJnVpZD1udWxsJmNpZD1udWxsJnB0PW51bGw~hmac=2693665239735aa8fa728925ce4cee35dcc6f06599c7fcd5068d359e1a9f97ed/dash/live/2093734/219028-313801/manifest-d.mpd&k1=2e2636daa74141b68cc14882ea3ff82b&k2=0961f48287324adbb4b7ff3c9d82b3c9\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SKY SPORTS NZ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://vsd233.okcdn.ru/cmaf/15099590085375/sig/8qcBlQYA0Ak/expires/1776590764841/srcIp/152.58.159.241/urls/185.226.55.70/clientType/36/srcAg/CHROME/mid/13909091895295/get/hls_13909091895295.tu-BEHp8Bko.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "FOX CRICKET HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SKY CRICKET",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://jiotvioslive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd?__hdnea__=st=1775385215~exp=1775406815~acl=/*~hmac=9a4fc1ddf5dd175aa7686dd36e2405c697964732d869fab61a713895cfb4b240|cookie=__hdnea__=st=1775395804~exp=1775482204~acl=/*~hmac=45803f9e63aa713a908516973f9fa7a54ee172ba1f9b4663f56d951216a3bf2e&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&k1=965dc2ddb1d85138ad787999a7f30ca5&k2=859695076e67fe961836b564db6d689c\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "STAR IN [ENG]",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://jiotvioslive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd?__hdnea__=st=1775385215~exp=1775406815~acl=/*~hmac=9a4fc1ddf5dd175aa7686dd36e2405c697964732d869fab61a713895cfb4b240|cookie=__hdnea__=st=1775395804~exp=1775482204~acl=/*~hmac=45803f9e63aa713a908516973f9fa7a54ee172ba1f9b4663f56d951216a3bf2e&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&k1=400131994b445d8c8817202248760fda&k2=2d56cb6f07a75b9aff165d534ae2bfc4\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "STAR IN [HIN]",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://jiotvioslive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd?__hdnea__=st=1775385215~exp=1775406815~acl=/*~hmac=9a4fc1ddf5dd175aa7686dd36e2405c697964732d869fab61a713895cfb4b240|cookie=__hdnea__=st=1775395804~exp=1775482204~acl=/*~hmac=45803f9e63aa713a908516973f9fa7a54ee172ba1f9b4663f56d951216a3bf2e&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&k1=2272c0bc6b2e5cb090b1f55996e0026c&k2=943923934de1d5536ab01c67fca8b337\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "STAR IN [TAM]",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://jiotvioslive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd?__hdnea__=st=1775385215~exp=1775406815~acl=/*~hmac=9a4fc1ddf5dd175aa7686dd36e2405c697964732d869fab61a713895cfb4b240|cookie=__hdnea__=st=1775395804~exp=1775482204~acl=/*~hmac=45803f9e63aa713a908516973f9fa7a54ee172ba1f9b4663f56d951216a3bf2e&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&k1=49e84b9edfd85379b90c81b7d2d3d2bf&k2=19c82d3ff094fa06af95820a1572ecb5\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "STAR IN [TEL]",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://z.ukurvf.shop/hls/YIIIQQQQQ.m3u8|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SD SERVER",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/187776/image",
+      "team1Name": "PBKS",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/410010/image",
+      "team2Name": "LSG"
+    },
+    "match_15913189": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18710/image/dark",
+      "leagueTitle": "National Super League 4-Day Tournament",
+      "matchEndTime": "2026-04-19T17:00:00",
+      "matchTime": "2026-04-19T10:00:00",
+      "sportType": "CRICKET",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/369185/image",
+      "team1Name": "COL",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/285534/image",
+      "team2Name": "KAN"
+    },
+    "match_15913190": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18710/image/dark",
+      "leagueTitle": "National Super League 4-Day Tournament",
+      "matchEndTime": "2026-04-19T17:00:00",
+      "matchTime": "2026-04-19T10:00:00",
+      "sportType": "CRICKET",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/285533/image",
+      "team1Name": "DAM",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/285532/image",
+      "team2Name": "GAL"
     }
   },
   "navigation": {
