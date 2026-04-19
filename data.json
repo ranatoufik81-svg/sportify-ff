@@ -5913,7 +5913,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2551/image",
       "team1Name": "Fürth",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2576/image",
-      "team2Name": "Darmstadt"
+      "team2Name": "Darmstadt",
+      "telegramSent": true
     },
     "match_14065515": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
@@ -5925,7 +5926,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2557/image",
       "team1Name": "Braunschweig",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2528/image",
-      "team2Name": "Hertha"
+      "team2Name": "Hertha",
+      "telegramSent": true
     },
     "match_14065516": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
@@ -5937,7 +5939,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2530/image",
       "team1Name": "Schalke",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2590/image",
-      "team2Name": "Münster"
+      "team2Name": "Münster",
+      "telegramSent": true
     },
     "match_14081722": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
@@ -6133,7 +6136,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/6063/image",
       "team1Name": "Kasımpaşa",
       "team2Logo": "https://api.sofascore.com/api/v1/team/6362/image",
-      "team2Name": "Alanyaspor"
+      "team2Name": "Alanyaspor",
+      "telegramSent": true
     },
     "match_14109884": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
@@ -7773,7 +7777,7 @@
       "sportType": "CRICKET",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/agrfja7gas/out/v1/a29896e7103245859581d53e02a62904/cenc.mpd&k1=cd12c8ede0d455b52ea726b12d8d5213&k2=2f2c89c6b393f1300e8fa77wa6[3b846\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd&k1=290e09c837da78d5cd961978d390515c&k2=b748836c71e6a4ca68ef5b5x52[b6247\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "WILLOW [Ad-Free]",
           "source": "main",
@@ -8147,7 +8151,14 @@
       "sportType": "CRICKET",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/aluw6sbekd/out/v1/9d1d6c30ffb54e49ada82f217509d5f0/cenc.mpd&k1=37552b55f620758d16945215d71e8419&k2=7f3f418aaeca0f05a3291bb5U9dB2992\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://iplstream.noon.com/hls/live/2098770/NOON/9241/151829/master.m3u8|user-agent=Cricbuzz/7.00.01 (Linux;Android 13) AndroidXMedia3/1.5.1&X-Forwarded-For=1.178.20.23&cookie=hdntl=exp=1776679696~acl=%2f*~id=0f315406-f1c9-43f7-a925-01554eb0416f~data=hdntl~hmac=1640614048e473889bc238f24c637743843b589052be065453ebaf61b8838b93\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "CRICBUZZ ENG - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uxfgeomshq/out/v1/821a400ce1774390830544a8b83391ff/cenc.mpd&k1=cf8dc1675617f4e166c6caecd68fad93&k2=6bd5dd50f57c78fc7386aa28ye3\u00191d19\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "WILLOW [Ad-Free]",
           "source": "main",
