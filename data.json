@@ -5454,7 +5454,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/21825/image",
       "team1Name": "San Jose",
       "team2Logo": "https://api.sofascore.com/api/v1/team/377973/image",
-      "team2Name": "Austin"
+      "team2Name": "Austin",
+      "telegramSent": true
     },
     "match_15171500": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
@@ -5466,7 +5467,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/274650/image",
       "team1Name": "Los Angeles",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2510/image",
-      "team2Name": "Colorado"
+      "team2Name": "Colorado",
+      "telegramSent": true
     },
     "match_15171508": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
@@ -5476,6 +5478,13 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://cdn.damitv.live/ppv-extract/proxy?url=https%3A%2F%2Fnetanyahu.modifiles.fans%2Fsecure%2FnAgrkXxdDlhZmWnxwwuWjDvazcyoxSia%2F1776897000%2F1776925800%2Fmls_rsl%2Ftracks-v1a1%2Fmono.ts.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "FHD SERVER",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
           "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://602.intelsystech.com.br/mls.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "MLS TV FHD",
@@ -5483,7 +5492,7 @@
           "type": "Direct"
         },
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://lchd-314.zenostreams-cdn-001.com/mls-1.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://lchd-314.zenostreams-cdn-001.com/mls-1.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36&referer=https://www.foulembeds.live/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "APPLE+ TV HD",
           "source": "main",
