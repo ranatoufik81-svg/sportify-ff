@@ -6626,7 +6626,15 @@
       "matchEndTime": "2026-04-24T03:15:00",
       "matchTime": "2026-04-24T01:15:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-flux.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SPORTIFy Live",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/25787/image",
       "team1Name": "Torreense",
       "team2Logo": "https://api.sofascore.com/api/v1/team/45146/image",
@@ -6879,6 +6887,13 @@
           "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
           "name": "FANCODE BLOODY_SWEET (BD)",
           "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-flux.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SPORTIFy Live",
+          "source": "main",
           "type": "Direct"
         }
       ],
