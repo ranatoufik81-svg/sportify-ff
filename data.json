@@ -4395,7 +4395,50 @@
       "matchEndTime": "2026-04-25T02:30:00",
       "matchTime": "2026-04-24T19:30:00",
       "sportType": "CRICKET",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/88tcrziisd/out/v1/14a712da109749bc8160010644e21708/cenc.mpd&k1=72e996f31b04e633c00ec579c8fb39e9&k2=4b87096cb3e8e359097aa609ufb\u0011f455\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "WILLOW [Ad-Free]",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://cdn.damitv.live/ppv-extract/play?url=https%3A%2F%2Fpooembed.eu%2Fembed%2Fipl%2F2026-04-23%2Fmi-csk\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "FOX CRICKET",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://vsd273.okcdn.ru/cmaf/15486383098623/sig/12CtEuwN3v8/expires/1776947340856/srcIp/152.59.145.24/urls/185.226.55.89/clientType/36/srcAg/CHROME/mid/14109681141759/get/hls_14109681141759.wzcVJYGf6DI.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SKY CRICKET HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=http://195.178.110.40/hls/UPPPZQQ.m3u8|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SD SERVER",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://valverdeaethegoat.hogix28221.workers.dev/live.m3u8|User-agent=Mozilla/5.0 (Linux; Android 13; RMX3363 Build/TP1A.220905.001) AppleWebKit/537.36 (KHTML, like Gecko) Hyscvwnv/4.0 Chrome/146.0.7680.164 Mobile Safari/537.36&referer=https://matcheslinkz.pages.dev/&origin=https://matcheslinkz.pages.dev\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "JIO HINDI - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://lchd-314.zenostreams-cdn-001.com/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJzdGFyLXNwb3J0LTEtaGluZGkiLCJleHAiOjE3NzY5NjIzNjZ9.PadPgoyXZPyEypPyj_eKGqzLnoBzflL3eFVVeIwMbGg/star-sport-1-hindi.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "STAR SPORTS HIN",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/187843/image",
       "team1Name": "RCB",
       "team2Logo": "https://api.sofascore.com/api/v1/team/216006/image",
