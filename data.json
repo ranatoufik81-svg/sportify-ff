@@ -4003,6 +4003,34 @@
           "name": "FANCODE BENGALI (BD)",
           "source": "fancode",
           "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1777035204-0-0-c29118f36db371bb3c95acb9598e510a\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1777035204-0-0-544e922d1c3c49ee432080d5b464a35e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1777035204-0-0-4cf4d881a056ac3e3560c9aa1c8d7ae8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy FAST",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1777035204-0-0-a535c39af518e0d42a65094213f4ff47\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy HD",
+          "source": "api",
+          "type": "Embed"
         }
       ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/174602/image",
