@@ -7171,6 +7171,18 @@
       "team2Name": "Philadelphia",
       "telegramSent": true
     },
+    "match_15171501": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
+      "leagueTitle": "MLS",
+      "matchEndTime": "2026-04-27T06:30:00",
+      "matchTime": "2026-04-27T04:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2513/image",
+      "team1Name": "LA Galaxy",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/5133/image",
+      "team2Name": "Salt Lake"
+    },
     "match_15171502": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
       "leagueTitle": "MLS",
@@ -7270,6 +7282,13 @@
       "matchTime": "2026-04-26T05:00:00",
       "sportType": "FOOTBALL",
       "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://live.vivo200.com/live/sd-1-4460221.m3u8?txSecret=7dadc8abb497d99b108764280b17d680&txTime=69ED95BA|Referer=https://player.787200.com/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SPORTIFy Live",
+          "source": "main",
+          "type": "Direct"
+        },
         {
           "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://cdn.damitv.live/iptv-proxy/streamed/play?source=admin&id=ppv-inter-miami-cf-vs-new-england-revolution&streamNo=1\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
@@ -7979,7 +7998,64 @@
       "matchEndTime": "2026-04-27T02:30:00",
       "matchTime": "2026-04-26T19:30:00",
       "sportType": "CRICKET",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fpspuirqoc/out/v1/a047840f50a84f47ba6d765d910ffc5b/cenc.mpd&k1=dedbf883004d1468d70fb008ff2430d0&k2=ac7928fcd566ddebdf2b63cb4d1daeb6\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "WILLOW [Ad-Free]",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://cdn.damitv.live/iptv-proxy/streamed/play?source=admin&id=ppv-rajasthan-royals-vs-sunrisers-hyderabad&streamNo=1\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "FOX CRICKET HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=http://datahub11.com:80/live/Jen12345/Jen54321/703300.ts\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "WILLOW HINDI",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://jiotvioslive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd?__hdnea__=st=1775385215~exp=1775406815~acl=/*~hmac=9a4fc1ddf5dd175aa7686dd36e2405c697964732d869fab61a713895cfb4b240|cookie=__hdnea__=st=1775395804~exp=1775482204~acl=/*~hmac=45803f9e63aa713a908516973f9fa7a54ee172ba1f9b4663f56d951216a3bf2e&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&k1=965dc2ddb1d85138ad787999a7f30ca5&k2=859695076e67fe961836b564db6d689c\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "STAR IN [ENG]",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://jiotvioslive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd?__hdnea__=st=1775385215~exp=1775406815~acl=/*~hmac=9a4fc1ddf5dd175aa7686dd36e2405c697964732d869fab61a713895cfb4b240|cookie=__hdnea__=st=1775395804~exp=1775482204~acl=/*~hmac=45803f9e63aa713a908516973f9fa7a54ee172ba1f9b4663f56d951216a3bf2e&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&k1=400131994b445d8c8817202248760fda&k2=2d56cb6f07a75b9aff165d534ae2bfc4\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "STAR IN [HIN]",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://jiotvioslive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd?__hdnea__=st=1775385215~exp=1775406815~acl=/*~hmac=9a4fc1ddf5dd175aa7686dd36e2405c697964732d869fab61a713895cfb4b240|cookie=__hdnea__=st=1775395804~exp=1775482204~acl=/*~hmac=45803f9e63aa713a908516973f9fa7a54ee172ba1f9b4663f56d951216a3bf2e&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&k1=2272c0bc6b2e5cb090b1f55996e0026c&k2=943923934de1d5536ab01c67fca8b337\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "STAR IN [TAM]",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://jiotvioslive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd?__hdnea__=st=1775385215~exp=1775406815~acl=/*~hmac=9a4fc1ddf5dd175aa7686dd36e2405c697964732d869fab61a713895cfb4b240|cookie=__hdnea__=st=1775395804~exp=1775482204~acl=/*~hmac=45803f9e63aa713a908516973f9fa7a54ee172ba1f9b4663f56d951216a3bf2e&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&k1=49e84b9edfd85379b90c81b7d2d3d2bf&k2=19c82d3ff094fa06af95820a1572ecb5\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "STAR IN [TEL]",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=http://195.178.110.76/hls/ZDDDZQQ.m3u8|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SD SERVER",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/410010/image",
       "team1Name": "LSG",
       "team2Logo": "https://api.sofascore.com/api/v1/team/187775/image",
@@ -7991,7 +8067,64 @@
       "matchEndTime": "2026-04-26T22:30:00",
       "matchTime": "2026-04-26T15:30:00",
       "sportType": "CRICKET",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tmogb8d6mr/out/v1/a308127095ef4670b3a52a01e084861e/cenc.mpd&k1=1fdfa22f8178fbeb884d688729b5d71f&k2=0a7f1b23797d9eaadd735c88X60\u001424de\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "WILLOW [Ad-Free]",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://cdn.damitv.live/iptv-proxy/streamed/play?source=admin&id=ppv-delhi-capitals-vs-punjab-kings&streamNo=1\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "FOX CRICKET",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=http://datahub11.com:80/live/Jen12345/Jen54321/703300.ts\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "WILLOW HINDI",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://cdn.damitv.live/stream/Willow%20Cricket\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "Willow HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://cdn.damitv.live/stream/SuperSport%20Cricket\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SuperSport Cricket",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=http://195.178.110.40/hls/UPPPZQQ.m3u8|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SD SERVER",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://valverdeaethegoat.hogix28221.workers.dev/live.m3u8|User-agent=Mozilla/5.0 (Linux; Android 13; RMX3363 Build/TP1A.220905.001) AppleWebKit/537.36 (KHTML, like Gecko) Hyscvwnv/4.0 Chrome/146.0.7680.164 Mobile Safari/537.36&referer=https://matcheslinkz.pages.dev/&origin=https://matcheslinkz.pages.dev\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "JIO HINDI - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://lchd-314.zenostreams-cdn-001.com/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJzdGFyLXNwb3J0LTEtaGluZGkiLCJleHAiOjE3NzY5NjIzNjZ9.PadPgoyXZPyEypPyj_eKGqzLnoBzflL3eFVVeIwMbGg/star-sport-1-hindi.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "STAR SPORTS HIN",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/187777/image",
       "team1Name": "CSK",
       "team2Logo": "https://api.sofascore.com/api/v1/team/216006/image",
