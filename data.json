@@ -3695,7 +3695,22 @@
       "matchEndTime": "2026-04-26T19:00:00",
       "matchTime": "2026-04-26T17:00:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://cdn.damitv.live/iptv-proxy/streamed/play?source=echo&id=sc-paderborn-07-vs-fc-schalke-04-football-1388891&streamNo=1\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SKY BUNDESLIGA HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://instreams.pro/bil2/bundes2/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SKY BUNDESLIGA SD",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2561/image",
       "team1Name": "Paderborn",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2530/image",
@@ -3707,7 +3722,22 @@
       "matchEndTime": "2026-04-26T19:00:00",
       "matchTime": "2026-04-26T17:00:00",
       "sportType": "FOOTBALL",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://cdn.damitv.live/iptv-proxy/streamed/play?source=echo&id=vfl-bochum-vs-spvgg-greuther-furth-football-1388884&streamNo=1\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SKY BUNDESLIGA HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://instreams.pro/bil2/bundes4/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SKY BUNDESLIGA SD",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2542/image",
       "team1Name": "Bochum",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2551/image",
@@ -4456,7 +4486,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/1178235/image",
       "team1Name": "HYK",
       "team2Logo": "https://api.sofascore.com/api/v1/team/1178236/image",
-      "team2Name": "RAP"
+      "team2Name": "RAP",
+      "telegramSent": true
     },
     "match_15706188": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
@@ -4625,7 +4656,7 @@
           "type": "Direct"
         },
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://cdn.damitv.live/iptv-proxy/streamed/play?source=admin&id=ppv-delhi-capitals-vs-punjab-kings&streamNo=1\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://cdn.damitv.live/iptv-proxy/streamed/play?source=admin&id=ppv-chennai-super-kings-vs-gujarat-titans&streamNo=1\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "FOX CRICKET",
           "source": "main",
