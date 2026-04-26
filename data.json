@@ -3703,6 +3703,85 @@
       "team2Name": "Juventus",
       "telegramSent": true
     },
+    "match_13980111": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+      "leagueTitle": "Serie A",
+      "matchEndTime": "2026-04-28T00:00:00",
+      "matchTime": "2026-04-27T22:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2719/image",
+      "team1Name": "Cagliari",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2686/image",
+      "team2Name": "Atalanta"
+    },
+    "match_13980112": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+      "leagueTitle": "Serie A",
+      "matchEndTime": "2026-04-28T02:15:00",
+      "matchTime": "2026-04-28T00:15:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2699/image",
+      "team1Name": "Lazio",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2695/image",
+      "team2Name": "Udinese"
+    },
+    "match_14023926": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+      "leagueTitle": "Premier League",
+      "matchEndTime": "2026-04-28T02:30:00",
+      "matchTime": "2026-04-28T00:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd&k1=dc69b6159a0f9f0a4e03b3ff91cbacd5&k2=d0dcbcd7723bc40df0bf34c9c092d51f\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "FUBO SPORTS",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "NOW SPORTS PL",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd&k1=96b67fa09140329a89b7a1ead134eda3&k2=c618d32c56cdc6cad8330eb98507ca3f\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "NBC UNIVERSO",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://cdn.damitv.live/iptv-proxy/streamed/play?source=admin&id=ppv-manchester-united-vs-brentford&streamNo=1\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SKY SPORTS PL FHD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://hls.iill.top/api/Hub-Premier-1/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "HUB PREMIER HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://live.vivo200.com/live/hd-en-1-4343376.m3u8?txSecret=8aede2e6c489e767a9f85c7cf18cfd2a&txTime=69ED2E3E|Referer=https://player.787200.com/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SPORTIFy Live",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/35/image",
+      "team1Name": "Man Utd",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/50/image",
+      "team2Name": "Brentford"
+    },
     "match_14065228": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
       "leagueTitle": "Bundesliga",
@@ -3876,6 +3955,30 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/2815/image",
       "team2Name": "Real Zaragoza",
       "telegramSent": true
+    },
+    "match_14081749": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+      "leagueTitle": "LaLiga 2",
+      "matchEndTime": "2026-04-28T02:00:00",
+      "matchTime": "2026-04-28T00:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/4488/image",
+      "team1Name": "Cádiz",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/6577/image",
+      "team2Name": "Las Palmas"
+    },
+    "match_14083221": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+      "leagueTitle": "LaLiga",
+      "matchEndTime": "2026-04-28T02:30:00",
+      "matchTime": "2026-04-28T00:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2814/image",
+      "team1Name": "Espanyol",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2849/image",
+      "team2Name": "Levante"
     },
     "match_14083231": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
@@ -4149,6 +4252,42 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/2821/image",
       "team2Name": "Celta",
       "telegramSent": true
+    },
+    "match_14109893": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
+      "leagueTitle": "Trendyol Süper Lig",
+      "matchEndTime": "2026-04-28T00:30:00",
+      "matchTime": "2026-04-27T22:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3085/image",
+      "team1Name": "Konyaspor",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3051/image",
+      "team2Name": "Trabzonspor"
+    },
+    "match_14109894": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
+      "leagueTitle": "Trendyol Süper Lig",
+      "matchEndTime": "2026-04-27T21:30:00",
+      "matchTime": "2026-04-27T19:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/6362/image",
+      "team1Name": "Alanyaspor",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3053/image",
+      "team2Name": "Samsunspor"
+    },
+    "match_14109896": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
+      "leagueTitle": "Trendyol Süper Lig",
+      "matchEndTime": "2026-04-28T00:30:00",
+      "matchTime": "2026-04-27T22:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3050/image",
+      "team1Name": "Beşiktaş",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/4954/image",
+      "team2Name": "Karagümrük"
     },
     "match_14109897": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
@@ -4541,6 +4680,30 @@
       "team2Name": "Salt Lake",
       "telegramSent": true
     },
+    "match_15401525": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11222/image/dark",
+      "leagueTitle": "India Women in South Africa, 5 T20I Series",
+      "matchEndTime": "2026-04-28T00:30:00",
+      "matchTime": "2026-04-27T17:30:00",
+      "sportType": "CRICKET",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/213118/image",
+      "team1Name": "SA-W",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/213119/image",
+      "team2Name": "IND-W"
+    },
+    "match_15665335": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/182/image/dark",
+      "leagueTitle": "Ligue 2",
+      "matchEndTime": "2026-04-28T02:15:00",
+      "matchTime": "2026-04-28T00:15:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/1711/image",
+      "team1Name": "Boulogne-sur-Mer",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/6918/image",
+      "team2Name": "Dunkerque"
+    },
     "match_15706188": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
       "leagueTitle": "Pakistan Super League",
@@ -4625,6 +4788,18 @@
       "team2Name": "MUL",
       "telegramSent": true
     },
+    "match_15756587": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
+      "leagueTitle": "New Zealand in Bangladesh, 3 T20I Series",
+      "matchEndTime": "2026-04-27T20:30:00",
+      "matchTime": "2026-04-27T13:30:00",
+      "sportType": "CRICKET",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/187744/image",
+      "team1Name": "BAN",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/187755/image",
+      "team2Name": "NZ"
+    },
     "match_15885325": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
       "leagueTitle": "Indian Premier League",
@@ -4701,6 +4876,18 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/187775/image",
       "team2Name": "KKR",
       "telegramSent": true
+    },
+    "match_15885326": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
+      "leagueTitle": "Indian Premier League",
+      "matchEndTime": "2026-04-28T02:30:00",
+      "matchTime": "2026-04-27T19:30:00",
+      "sportType": "CRICKET",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/187841/image",
+      "team1Name": "DC",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/187843/image",
+      "team2Name": "RCB"
     },
     "match_15885353": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
