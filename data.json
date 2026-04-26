@@ -3772,7 +3772,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2561/image",
       "team1Name": "Paderborn",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2530/image",
-      "team2Name": "Schalke"
+      "team2Name": "Schalke",
+      "telegramSent": true
     },
     "match_14065521": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
@@ -3806,7 +3807,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2542/image",
       "team1Name": "Bochum",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2551/image",
-      "team2Name": "Fürth"
+      "team2Name": "Fürth",
+      "telegramSent": true
     },
     "match_14065530": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
@@ -3840,7 +3842,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2523/image",
       "team1Name": "Nürnberg",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2591/image",
-      "team2Name": "Magdeburg"
+      "team2Name": "Magdeburg",
+      "telegramSent": true
     },
     "match_14081737": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
@@ -4030,16 +4033,16 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/131145-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/131145-ENGLISH.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
-          "name": "FANCODE BLOODY_SWEET (IND)",
+          "name": "FANCODE ENGLISH (IND)",
           "source": "fancode",
           "type": "Direct"
         },
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-bd-owner.ivan-flux.workers.dev/131145-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-bd-owner.ivan-flux.workers.dev/131145-ENGLISH-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
-          "name": "FANCODE BLOODY_SWEET (BD)",
+          "name": "FANCODE ENGLISH (BD)",
           "source": "fancode",
           "type": "Direct"
         },
@@ -4253,7 +4256,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/7802/image",
       "team1Name": "Gençlerbirliği",
       "team2Logo": "https://api.sofascore.com/api/v1/team/3065/image",
-      "team2Name": "Kocaelispor"
+      "team2Name": "Kocaelispor",
+      "telegramSent": true
     },
     "match_14167975": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
@@ -4573,7 +4577,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/331840/image",
       "team1Name": "SC Delhi",
       "team2Logo": "https://api.sofascore.com/api/v1/team/118660/image",
-      "team2Name": "Mohammedan"
+      "team2Name": "Mohammedan",
+      "telegramSent": true
     },
     "match_15706187": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
