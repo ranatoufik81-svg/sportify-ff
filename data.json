@@ -3970,9 +3970,9 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-flux.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dreuxu0g6z/out/v1/5edd423d949e412c98bf34042cb95d4e/cenc.mpd&k1=7c97b182e199e81a6aabcb94e5667c3d&k2=401e3d498c36085b82de442aa66f3341\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "SPORTIFy Live",
+          "name": "ViX SPANISH FHD",
           "source": "main",
           "type": "Direct"
         }
@@ -3990,9 +3990,9 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/142174-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/142174-ENGLISH.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
-          "name": "FANCODE BLOODY_SWEET (IND)",
+          "name": "FANCODE ENGLISH (IND)",
           "source": "fancode",
           "type": "Direct"
         },
@@ -4004,9 +4004,9 @@
           "type": "Direct"
         },
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-bd-owner.ivan-flux.workers.dev/142174-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-bd-owner.ivan-flux.workers.dev/142174-ENGLISH-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
-          "name": "FANCODE BLOODY_SWEET (BD)",
+          "name": "FANCODE ENGLISH (BD)",
           "source": "fancode",
           "type": "Direct"
         },
@@ -4035,7 +4035,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/45/image",
       "team1Name": "Southampton",
       "team2Logo": "https://api.sofascore.com/api/v1/team/32/image",
-      "team2Name": "Ipswich"
+      "team2Name": "Ipswich",
+      "telegramSent": true
     },
     "match_15794169": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
@@ -4047,7 +4048,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/57/image",
       "team1Name": "Northampton",
       "team2Logo": "https://api.sofascore.com/api/v1/team/23/image",
-      "team2Name": "Barnsley"
+      "team2Name": "Barnsley",
+      "telegramSent": true
     },
     "match_15832069": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/480/image/dark",
@@ -4123,7 +4125,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/10/image",
       "team1Name": "Stockport County",
       "team2Logo": "https://api.sofascore.com/api/v1/team/55/image",
-      "team2Name": "Port Vale"
+      "team2Name": "Port Vale",
+      "telegramSent": true
     },
     "match_15840464": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
@@ -4135,7 +4138,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/54/image",
       "team1Name": "Peterborough Utd",
       "team2Logo": "https://api.sofascore.com/api/v1/team/70/image",
-      "team2Name": "Mansfield"
+      "team2Name": "Mansfield",
+      "telegramSent": true
     },
     "match_15875029": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11222/image/dark",
