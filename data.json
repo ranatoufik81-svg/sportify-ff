@@ -4407,6 +4407,13 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://live.vivo200.com/live/sd-1-4355842.m3u8?txSecret=99450e9c8e2108f9d9a72c1751d3d080&txTime=69F61F54|Referer=https://player.787200.com/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SPORTIFy Live",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
           "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://instreams.pro/bil2/bundes5/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "SKY BUNDESLIGA SD",
@@ -4417,7 +4424,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2573/image",
       "team1Name": "Kiel",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2557/image",
-      "team2Name": "Braunschweig"
+      "team2Name": "Braunschweig",
+      "telegramSent": true
     },
     "match_14065534": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
@@ -4447,9 +4455,9 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sports_3/D11/Manifest.mpd&k1=222e6835692435b0a2ac692a17343c2d&k2=18f03461c9a9282d7baf09b6b75aa6ef\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://live.vivo200.com/live/sd-1-4355846.m3u8?txSecret=6bb3304361882dd59977217b997b81bd&txTime=69F6205F|Referer=https://player.787200.com/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "ELEVEN SPORTS",
+          "name": "SPORTIFy Live",
           "source": "main",
           "type": "Direct"
         },
@@ -4464,7 +4472,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2595/image",
       "team1Name": "Dresden",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2675/image",
-      "team2Name": "Kaiserslautern"
+      "team2Name": "Kaiserslautern",
+      "telegramSent": true
     },
     "match_14065537": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
@@ -4473,6 +4482,13 @@
       "matchTime": "2026-05-02T16:30:00",
       "sportType": "FOOTBALL",
       "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://live.vivo200.com/live/sd-1-4355838.m3u8?txSecret=42a21b53c8c84edcc91ef5b95b499d34&txTime=69F61FD0|Referer=https://player.787200.com/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SPORTIFy Live",
+          "source": "main",
+          "type": "Direct"
+        },
         {
           "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd&k1=69021095220f3c0eae9bc24215fd692b&k2=eb58cfe0458ed0b48f7351fa3393ad59\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
@@ -4491,7 +4507,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2540/image",
       "team1Name": "Bielefeld",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2542/image",
-      "team2Name": "Bochum"
+      "team2Name": "Bochum",
+      "telegramSent": true
     },
     "match_14081733": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
