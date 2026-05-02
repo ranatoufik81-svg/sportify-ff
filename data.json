@@ -3700,7 +3700,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/64/image",
       "team1Name": "Wrexham",
       "team2Logo": "https://api.sofascore.com/api/v1/team/36/image",
-      "team2Name": "Middlesbrough"
+      "team2Name": "Middlesbrough",
+      "telegramSent": true
     },
     "match_14059999": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
@@ -3712,7 +3713,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/12/image",
       "team1Name": "Sheffield Wed",
       "team2Logo": "https://api.sofascore.com/api/v1/team/8/image",
-      "team2Name": "West Brom"
+      "team2Name": "West Brom",
+      "telegramSent": true
     },
     "match_14060000": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
@@ -3724,7 +3726,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2/image",
       "team1Name": "Portsmouth",
       "team2Logo": "https://api.sofascore.com/api/v1/team/9/image",
-      "team2Name": "Birmingham"
+      "team2Name": "Birmingham",
+      "telegramSent": true
     },
     "match_14060001": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
@@ -3736,7 +3739,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/74/image",
       "team1Name": "Swansea",
       "team2Logo": "https://api.sofascore.com/api/v1/team/47/image",
-      "team2Name": "Charlton"
+      "team2Name": "Charlton",
+      "telegramSent": true
     },
     "match_14060002": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
@@ -3763,7 +3767,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/24/image",
       "team1Name": "Watford",
       "team2Logo": "https://api.sofascore.com/api/v1/team/11/image",
-      "team2Name": "Coventry"
+      "team2Name": "Coventry",
+      "telegramSent": true
     },
     "match_14060003": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
@@ -3772,6 +3777,13 @@
       "matchTime": "2026-05-02T17:00:00",
       "sportType": "FOOTBALL",
       "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pul-tenm.nbs3g.com/live/sd-1-4351809.m3u8?txSecret=0ac253d145cc7e8104199471a6a03ef2&txTime=69F72C95\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SD SERVER",
+          "source": "main",
+          "type": "Direct"
+        },
         {
           "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://live.vivo200.com/live/sd-1-4351809.m3u8?txSecret=20c49926c73bc1fe0565f26ce7abd60e&txTime=69F622C7|Referer=https://player.787200.com/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
@@ -3783,7 +3795,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/21/image",
       "team1Name": "Preston",
       "team2Logo": "https://api.sofascore.com/api/v1/team/45/image",
-      "team2Name": "Southampton"
+      "team2Name": "Southampton",
+      "telegramSent": true
     },
     "match_14060004": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
@@ -3793,9 +3806,23 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/142383-ENGLISH.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE ENGLISH (IND)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
           "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/142383-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
           "name": "FANCODE BLOODY_SWEET (IND)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-bd-owner.ivan-flux.workers.dev/142383-ENGLISH-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE ENGLISH (BD)",
           "source": "fancode",
           "type": "Direct"
         },
@@ -3824,7 +3851,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/25/image",
       "team1Name": "Millwall",
       "team2Logo": "https://api.sofascore.com/api/v1/team/95/image",
-      "team2Name": "Oxford Utd"
+      "team2Name": "Oxford Utd",
+      "telegramSent": true
     },
     "match_14060005": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
@@ -3851,7 +3879,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/32/image",
       "team1Name": "Ipswich",
       "team2Logo": "https://api.sofascore.com/api/v1/team/1/image",
-      "team2Name": "QPR"
+      "team2Name": "QPR",
+      "telegramSent": true
     },
     "match_14060006": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
@@ -3860,6 +3889,13 @@
       "matchTime": "2026-05-02T17:00:00",
       "sportType": "FOOTBALL",
       "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pul-tenm.nbs3g.com/live/sd-1-4351801.m3u8?txSecret=f6ab0d19353bf0abd4fd7489ce89aed8&txTime=69F72C95\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SD SERVER",
+          "source": "main",
+          "type": "Direct"
+        },
         {
           "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://live.vivo200.com/live/sd-1-4351801.m3u8?txSecret=b19eea5aad20a05f32b88048cbfafb25&txTime=69F62338|Referer=https://player.787200.com/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
@@ -3871,7 +3907,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/96/image",
       "team1Name": "Hull",
       "team2Logo": "https://api.sofascore.com/api/v1/team/263/image",
-      "team2Name": "Norwich"
+      "team2Name": "Norwich",
+      "telegramSent": true
     },
     "match_14060007": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
@@ -3898,7 +3935,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/58/image",
       "team1Name": "Bristol City",
       "team2Logo": "https://api.sofascore.com/api/v1/team/29/image",
-      "team2Name": "Stoke"
+      "team2Name": "Stoke",
+      "telegramSent": true
     },
     "match_14060008": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
@@ -3918,7 +3956,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/27/image",
       "team1Name": "Derby",
       "team2Logo": "https://api.sofascore.com/api/v1/team/15/image",
-      "team2Name": "Sheffield Utd"
+      "team2Name": "Sheffield Utd",
+      "telegramSent": true
     },
     "match_14060009": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
@@ -3927,6 +3966,13 @@
       "matchTime": "2026-05-02T17:00:00",
       "sportType": "FOOTBALL",
       "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pul-tenm.nbs3g.com/live/sd-1-4351795.m3u8?txSecret=456ee831165ee5a3ebc264c9eceba55e&txTime=69F72C95\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SD SERVER",
+          "source": "main",
+          "type": "Direct"
+        },
         {
           "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://live.vivo200.com/live/sd-1-4351795.m3u8?txSecret=24b896771a2c3c52e87d36513db68672&txTime=69F623AE|Referer=https://player.787200.com/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
@@ -3938,7 +3984,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/46/image",
       "team1Name": "Blackburn",
       "team2Logo": "https://api.sofascore.com/api/v1/team/31/image",
-      "team2Name": "Leicester"
+      "team2Name": "Leicester",
+      "telegramSent": true
     },
     "match_14060277": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/25/image/dark",
@@ -5161,13 +5208,6 @@
           "type": "Direct"
         },
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/140503-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
-          "name": "FANCODE BLOODY_SWEET (IND)",
-          "source": "fancode",
-          "type": "Direct"
-        },
-        {
           "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-bd-owner.ivan-flux.workers.dev/140503-ENGLISH-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
           "name": "FANCODE ENGLISH (BD)",
@@ -5194,19 +5234,13 @@
           "name": "FANCODE BENGALI (BD)",
           "source": "fancode",
           "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-bd-owner.ivan-flux.workers.dev/140503-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
-          "name": "FANCODE BLOODY_SWEET (BD)",
-          "source": "fancode",
-          "type": "Direct"
         }
       ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/494686/image",
       "team1Name": "Inter Kashi FC",
       "team2Logo": "https://api.sofascore.com/api/v1/team/174602/image",
-      "team2Name": "NorthEast Utd"
+      "team2Name": "NorthEast Utd",
+      "telegramSent": true
     },
     "match_15508377": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/1900/image/dark",
@@ -5271,7 +5305,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/509621/image",
       "team1Name": "Australia U17",
       "team2Logo": "https://api.sofascore.com/api/v1/team/448398/image",
-      "team2Name": "India U17"
+      "team2Name": "India U17",
+      "telegramSent": true
     },
     "match_15547666": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/22103/image/dark",
@@ -5283,7 +5318,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/44558/image",
       "team1Name": "North Korea U17",
       "team2Logo": "https://api.sofascore.com/api/v1/team/1136286/image",
-      "team2Name": "Chinese Taipei U17"
+      "team2Name": "Chinese Taipei U17",
+      "telegramSent": true
     },
     "match_15756589": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
@@ -5482,13 +5518,6 @@
           "type": "Direct"
         },
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/140503-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
-          "name": "FANCODE BLOODY_SWEET (IND)",
-          "source": "fancode",
-          "type": "Direct"
-        },
-        {
           "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-bd-owner.ivan-flux.workers.dev/140503-ENGLISH-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
           "name": "FANCODE ENGLISH (BD)",
@@ -5515,19 +5544,13 @@
           "name": "FANCODE BENGALI (BD)",
           "source": "fancode",
           "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-bd-owner.ivan-flux.workers.dev/140503-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
-          "name": "FANCODE BLOODY_SWEET (BD)",
-          "source": "fancode",
-          "type": "Direct"
         }
       ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/174602/image",
       "team1Name": "NorthEast Utd",
       "team2Logo": "https://api.sofascore.com/api/v1/team/494686/image",
-      "team2Name": "Inter Kashi FC"
+      "team2Name": "Inter Kashi FC",
+      "telegramSent": true
     }
   },
   "navigation": {
