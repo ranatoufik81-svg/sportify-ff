@@ -3487,6 +3487,13 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd&k1=f288380ca4cef9ad3f27a92a08e9bb8b&k2=9f18d26291d9230833501f7f822f6875\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "TNT Sports 2",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
           "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd&k1=0b42be2664d7e811d04f3e504e0924c5&k2=ae24090123b8c72ac5404dc152847cb8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "beIN ENGLISH FHD",
@@ -3518,7 +3525,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2697/image",
       "team1Name": "Inter",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2690/image",
-      "team2Name": "Parma"
+      "team2Name": "Parma",
+      "telegramSent": true
     },
     "match_14023927": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
@@ -3570,7 +3578,7 @@
           "type": "Direct"
         },
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://hghndasw.dg7yhiudjydg.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJlcGwtNzQwOTM3IiwiZXhwIjoxNzc3ODM5NzAzfQ.zQbcoLYCDKXgvCWvnLm0Ih-gwmvfS0O2DO0fC92Wmco/epl-740937.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://hghndasw.dg7yhiudjydg.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJlcGwtNzQwOTM3IiwiZXhwIjoxNzc3ODQyMDg3fQ.bxJdIJ8QBufiw8LFOkU0A70E1HbjiYQU0VTLwNfWWCY/epl-740937.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "SKY SPORTS FHD",
           "source": "main",
@@ -4159,7 +4167,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/1649/image",
       "team1Name": "Lyon",
       "team2Logo": "https://api.sofascore.com/api/v1/team/1658/image",
-      "team2Name": "Rennes"
+      "team2Name": "Rennes",
+      "telegramSent": true
     },
     "match_14771868": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
@@ -4402,7 +4411,7 @@
           "type": "Direct"
         },
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://hghndasw.dg7yhiudjydg.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJ3aWxsb3ctMiIsImV4cCI6MTc3NzgzMjE1N30.Yrgg7e9-obshJfSQpdzSGicGfBkcNI6FTSZbbSpGLhc/willow-2.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://hghndasw.dg7yhiudjydg.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJ3aWxsb3ctMiIsImV4cCI6MTc3Nzg0MjA1M30.IGIb0B-CFRjT_lEBZJfyVThg1HT_a6laUFjtNhDFbIM/willow-2.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "WILLOW FHD",
           "source": "main",
