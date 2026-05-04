@@ -5486,6 +5486,33 @@
       "team2Name": "Bengaluru",
       "telegramSent": true
     },
+    "match_15508451": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/1900/image/dark",
+      "leagueTitle": "Super League",
+      "matchEndTime": "2026-05-05T21:30:00",
+      "matchTime": "2026-05-05T19:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/140509-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (IND)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-bd-owner.ivan-flux.workers.dev/140509-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (BD)",
+          "source": "fancode",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/174600/image",
+      "team1Name": "Mumbai City",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/40655/image",
+      "team2Name": "East Bengal"
+    },
     "match_15547667": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/22103/image/dark",
       "leagueTitle": "U17 AFC Asian Cup, Women, Group A",
@@ -5568,6 +5595,174 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/36911/image",
       "team2Name": "China U17",
       "telegramSent": true
+    },
+    "match_15547669": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/22103/image/dark",
+      "leagueTitle": "U17 AFC Asian Cup, Women, Group B",
+      "matchEndTime": "2026-05-05T15:00:00",
+      "matchTime": "2026-05-05T13:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/1136270/image",
+      "team1Name": "Lebanon U17",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/509621/image",
+      "team2Name": "Australia U17"
+    },
+    "match_15547670": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/22103/image/dark",
+      "leagueTitle": "U17 AFC Asian Cup, Women, Group C",
+      "matchEndTime": "2026-05-05T15:00:00",
+      "matchTime": "2026-05-05T13:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/1136286/image",
+      "team1Name": "Chinese Taipei U17",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/36914/image",
+      "team2Name": "South Korea U17"
+    },
+    "match_15547671": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/22103/image/dark",
+      "leagueTitle": "U17 AFC Asian Cup, Women, Group B",
+      "matchEndTime": "2026-05-05T19:00:00",
+      "matchTime": "2026-05-05T17:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/448398/image",
+      "team1Name": "India U17",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/36913/image",
+      "team2Name": "Japan U17"
+    },
+    "match_15547672": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/22103/image/dark",
+      "leagueTitle": "U17 AFC Asian Cup, Women, Group C",
+      "matchEndTime": "2026-05-05T19:00:00",
+      "matchTime": "2026-05-05T17:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/509620/image",
+      "team1Name": "Philippines U17",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/44558/image",
+      "team2Name": "North Korea U17"
+    },
+    "match_15552454": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/20163/image/dark",
+      "leagueTitle": "U17 AFC Asian Cup, Group B",
+      "matchEndTime": "2026-05-05T23:30:00",
+      "matchTime": "2026-05-05T21:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/22618/image",
+      "team1Name": "Japan U17",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/468401/image",
+      "team2Name": "Qatar U17"
+    },
+    "match_15552519": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/20163/image/dark",
+      "leagueTitle": "U17 AFC Asian Cup, Group A",
+      "matchEndTime": "2026-05-06T00:30:00",
+      "matchTime": "2026-05-05T22:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/468403/image",
+      "team1Name": "Saudi Arabia U17",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/934437/image",
+      "team2Name": "Myanmar  U17"
+    },
+    "match_15552523": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/20163/image/dark",
+      "leagueTitle": "U17 AFC Asian Cup, Group A",
+      "matchEndTime": "2026-05-06T01:00:00",
+      "matchTime": "2026-05-05T23:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/229664/image",
+      "team1Name": "Tajikistan U17",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/468396/image",
+      "team2Name": "Thailand U17"
+    },
+    "match_15552525": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/20163/image/dark",
+      "leagueTitle": "U17 AFC Asian Cup, Group B",
+      "matchEndTime": "2026-05-06T00:00:00",
+      "matchTime": "2026-05-05T22:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/486196/image",
+      "team1Name": "Indonesia U17",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/468402/image",
+      "team2Name": "China U17"
+    },
+    "match_15632635": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+      "leagueTitle": "UEFA Champions League, Knockout stage",
+      "matchEndTime": "2026-05-06T02:30:00",
+      "matchTime": "2026-05-06T00:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/42/image",
+      "team1Name": "Arsenal",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2836/image",
+      "team2Name": "Atl. Madrid"
+    },
+    "match_15832066": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/480/image/dark",
+      "leagueTitle": "CONMEBOL Sudamericana, Group B",
+      "matchEndTime": "2026-05-06T05:30:00",
+      "matchTime": "2026-05-06T03:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3224/image",
+      "team1Name": "Juventud",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/1977/image",
+      "team2Name": "Atlético-MG"
+    },
+    "match_15832096": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/480/image/dark",
+      "leagueTitle": "CONMEBOL Sudamericana, Group E",
+      "matchEndTime": "2026-05-06T05:30:00",
+      "matchTime": "2026-05-06T03:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/372975/image",
+      "team1Name": "Independiente Petrolero",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/6230/image",
+      "team2Name": "Caracas"
+    },
+    "match_15832105": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/480/image/dark",
+      "leagueTitle": "CONMEBOL Sudamericana, Group F",
+      "matchEndTime": "2026-05-06T05:30:00",
+      "matchTime": "2026-05-06T03:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/189723/image",
+      "team1Name": "Dep. Riestra",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/5926/image",
+      "team2Name": "Grêmio"
+    },
+    "match_15832803": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/384/image/dark",
+      "leagueTitle": "CONMEBOL Libertadores, Group F",
+      "matchEndTime": "2026-05-06T05:30:00",
+      "matchTime": "2026-05-06T03:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2302/image",
+      "team1Name": "Sporting Cristal",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/1963/image",
+      "team2Name": "Palmeiras"
+    },
+    "match_15832815": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/384/image/dark",
+      "leagueTitle": "CONMEBOL Libertadores, Group H",
+      "matchEndTime": "2026-05-06T05:30:00",
+      "matchTime": "2026-05-06T03:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3217/image",
+      "team1Name": "Rosario Central",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/5996/image",
+      "team2Name": "Libertad"
     },
     "match_15885333": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
@@ -5702,6 +5897,18 @@
       "team2Name": "LSG",
       "telegramSent": true
     },
+    "match_15885335": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
+      "leagueTitle": "Indian Premier League",
+      "matchEndTime": "2026-05-06T02:30:00",
+      "matchTime": "2026-05-05T19:30:00",
+      "sportType": "CRICKET",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/187841/image",
+      "team1Name": "DC",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/187777/image",
+      "team2Name": "CSK"
+    },
     "match_15987487": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18793/image/dark",
       "leagueTitle": "Zimbabwe Women in Pakistan, 3 ODI Series",
@@ -5715,6 +5922,33 @@
       "team2Name": "ZIM-W",
       "telegramSent": true
     },
+    "match_16017798": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+      "leagueTitle": "Saudi Pro League",
+      "matchEndTime": "2026-05-06T01:30:00",
+      "matchTime": "2026-05-05T23:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/142147-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (IND)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-bd-owner.ivan-flux.workers.dev/142147-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (BD)",
+          "source": "fancode",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/167228/image",
+      "team1Name": "Al-Khaleej",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/21895/image",
+      "team2Name": "Al-Hilal"
+    },
     "match_16018933": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
       "leagueTitle": "Indonesia in Malaysia, 4 T20I Series",
@@ -5727,6 +5961,18 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/445294/image",
       "team2Name": "INA",
       "telegramSent": true
+    },
+    "match_16018934": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
+      "leagueTitle": "Indonesia in Malaysia, 4 T20I Series",
+      "matchEndTime": "2026-05-05T14:30:00",
+      "matchTime": "2026-05-05T07:30:00",
+      "sportType": "CRICKET",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/187811/image",
+      "team1Name": "MAS",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/445294/image",
+      "team2Name": "INA"
     },
     "match_16085472": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
