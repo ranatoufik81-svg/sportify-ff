@@ -5917,7 +5917,71 @@
       "matchEndTime": "2026-05-06T02:30:00",
       "matchTime": "2026-05-05T19:30:00",
       "sportType": "CRICKET",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d1szunmd7y/out/v1/8ea178a462f24ec09879efbeda25a06e/cenc.mpd&k1=38fa07d67a407ee3abd04c0d52f6a751&k2=7433bad605361863a2f145ebue4\u0010e074\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "WILLOW [Ad-Free]",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://dice-live-oc.akamaized.net/hdntl=exp=1777979074~acl=%2F*~id=56e77704-cbce-4e23-b4ae-4c4c571e97b7~data=hdntl,aXA9MjA4Ljg3LjI0Mi4yMyZleHA9MTc3Nzg5MjcwNCZlaWQ9OTM5OTYzJm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=4c99bdef290b91bfee53d2db98c22de768087da0961840a3a4f1842cfe4d63c8/dash/live/2093749/219026-314033/manifest-d.mpd&k1=aefc2c8d1c8840f1b6981f856c9269ba&k2=cf8ea114c45b4d6596b27482x8aB74d6\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SKY SPORTS FHD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://dice-live-oc.akamaized.net/hdntl=exp=1777979074~acl=%2F*~id=56e77704-cbce-4e23-b4ae-4c4c571e97b7~data=hdntl,aXA9MjA4Ljg3LjI0Mi4yMyZleHA9MTc3Nzg5MjcwNCZlaWQ9OTM5OTYzJm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=4c99bdef290b91bfee53d2db98c22de768087da0961840a3a4f1842cfe4d63c8/dash/live/2093666/294921-318514/manifest-d.mpd&k1=4d346b1d1ae64d4a800409cffa14983e&k2=208c972bd2da4359ac94e694wfe\u001378b6\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SKY SPORTS 4k",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://dai.google.com/linear/hls/event/mbsfWpAoS2Olw5e-nkM-gw/master.m3u8|user-agent=Cricbuzz/7.00.01 (Linux;Android 13) AndroidXMedia3/1.5.1&x-forwarded-for=1.178.20.23\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "NOON SPORTS",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SKY CRICKET",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://hghndasw.gbgdhdffhf.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJmb3gtc3BvcnRzLTUwMSIsImlwIjoiMTE4LjE3OS4xODQuMC8yNCIsInNlc3Npb25faWQiOiI5NjA2ZTJmYi0wM2UyLTQ2ZDgtYmUwMi1mMzQxZDE0ZGE0MWUiLCJleHAiOjE3Nzc5MjAzOTJ9.Wd8ZxLO3CfOCuYIpnCxyyeX8WP8Gp1yAbmcBfAlU2fc/fox-sports-501.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "FOX CRICKET",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://hghndasw.gbgdhdffhf.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJzdGFyLXNwb3J0LTEtaGluZGkiLCJpcCI6IjExOC4xNzkuMTg0LjAvMjQiLCJzZXNzaW9uX2lkIjoiYzAwMDE1YzctYWRmMy00M2FjLTg2NmUtMGJiMmRkMDEwYjdkIiwiZXhwIjoxNzc3OTIwNDA1fQ.ZleV4nVmP3aYWYdfculgqvjoZSZGxKVYwKbAJqDmwAQ/star-sport-1-hindi.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "Star Sports HIN",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=http://datahub11.com/live/Jen12345/Jen54321/703300.ts\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "WILLOW HINDI",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://d.kscasar.shop/hls/XAAAQQQQQ.m3u8|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SD SERVER",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/187841/image",
       "team1Name": "DC",
       "team2Logo": "https://api.sofascore.com/api/v1/team/187777/image",
@@ -5943,6 +6007,20 @@
       "matchTime": "2026-05-05T23:30:00",
       "sportType": "FOOTBALL",
       "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://d1yi40sjj0ca0v.cloudfront.net/TVD1451/index.mpd&k1=0&k2=0\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "THMANYAH HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pul-tenm.nbs3g.com/live/sd-1-4404647.m3u8?txSecret=fbbfb6e09fcaa207dd4656d1238d8591&txTime=69FA2FA9\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SPORTIFy Live",
+          "source": "main",
+          "type": "Direct"
+        },
         {
           "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/142147-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
