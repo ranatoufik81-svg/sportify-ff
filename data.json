@@ -3567,12 +3567,41 @@
           "name": "FANCODE BLOODY_SWEET (BD)",
           "source": "fancode",
           "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1777992985-0-0-8f2b45e1979d5b92f7905709f20042e0\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1777992985-0-0-9cee7b7d666fb585cebcbe46a5bf22fd\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1777992985-0-0-4422dd9e545b92db719b501dee00e387\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy FHD",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1777992985-0-0-ef1e37608c5ccf313b78d69490f80c17\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy PLUS",
+          "source": "api",
+          "type": "Embed"
         }
       ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/174600/image",
       "team1Name": "Mumbai City",
       "team2Logo": "https://api.sofascore.com/api/v1/team/40655/image",
-      "team2Name": "East Bengal"
+      "team2Name": "East Bengal",
+      "telegramSent": true
     },
     "match_15547669": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/22103/image/dark",
@@ -3869,20 +3898,6 @@
           "type": "Direct"
         },
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://hghndasw.gbgdhdffhf.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJmb3gtc3BvcnRzLTUwMSIsImlwIjoiMTE4LjE3OS4xODQuMC8yNCIsInNlc3Npb25faWQiOiI5NjA2ZTJmYi0wM2UyLTQ2ZDgtYmUwMi1mMzQxZDE0ZGE0MWUiLCJleHAiOjE3Nzc5MjAzOTJ9.Wd8ZxLO3CfOCuYIpnCxyyeX8WP8Gp1yAbmcBfAlU2fc/fox-sports-501.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "FOX CRICKET",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://hghndasw.gbgdhdffhf.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJzdGFyLXNwb3J0LTEtaGluZGkiLCJpcCI6IjExOC4xNzkuMTg0LjAvMjQiLCJzZXNzaW9uX2lkIjoiYzAwMDE1YzctYWRmMy00M2FjLTg2NmUtMGJiMmRkMDEwYjdkIiwiZXhwIjoxNzc3OTIwNDA1fQ.ZleV4nVmP3aYWYdfculgqvjoZSZGxKVYwKbAJqDmwAQ/star-sport-1-hindi.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "Star Sports HIN",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
           "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=http://datahub11.com/live/Jen12345/Jen54321/703300.ts\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "WILLOW HINDI",
@@ -3890,7 +3905,7 @@
           "type": "Direct"
         },
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://d.kscasar.shop/hls/XAAAQQQQQ.m3u8|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://a.jyulkil.shop/hls/FEEEEQQQQQq.m3u8|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "SD SERVER",
           "source": "main",
@@ -3900,7 +3915,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/187841/image",
       "team1Name": "DC",
       "team2Logo": "https://api.sofascore.com/api/v1/team/187777/image",
-      "team2Name": "CSK"
+      "team2Name": "CSK",
+      "telegramSent": true
     },
     "match_16017798": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
