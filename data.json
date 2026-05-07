@@ -4560,6 +4560,20 @@
       "sportType": "CRICKET",
       "streamLinks": [
         {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://dice-live-oc.akamaized.net/hdntl=exp=1778238536~acl=%2F*~id=af025ef8-b76f-48f1-982c-1f6c569f2d9e~data=hdntl,aXA9MTA4LjE4MS4wLjEwOSZleHA9MTc3ODE1MjE2NiZlaWQ9OTM2MDAwJm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=86ee821ad6b5498d907829f982ff21de75a0b5f121bdf77764606d628c3bf1ee/dash/live/2093710/219026-321025/manifest-d.mpd&k1=aefc2c8d1c8840f1b6981f856c9269ba&k2=cf8ea114c45b4d6596b27482x8aB74d6\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SKY SPORTS FHD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://dice-live-oc.akamaized.net/hdntl=exp=1778238538~acl=%2F*~id=dc6e1c27-0a3b-4d79-a416-0820f8433266~data=hdntl,aXA9MTA4LjE4MS4wLjEwOSZleHA9MTc3ODE1MjE2OCZlaWQ9OTM5OTU5Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=a64b976d727c6a42220edad5e45e5673a9408f9ae8f4e06b91be5e0775cc8f58/dash/live/2093666/294921-318514/manifest-d.mpd&k1=4d346b1d1ae64d4a800409cffa14983e&k2=208c972bd2da4359ac94e694wfe\u001378b6\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SKY SPORTS 4k",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
           "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7uk7kcx8hc/out/v1/5abb539d810f4f1faef0547d1282b0e9/cenc.mpd&k1=ef4828a787a483a1c7b3dfb0348549eb&k2=6e1beea97c21c4a5be178be018a\u0017a3d9\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "WILLOW [Ad-Free]",
@@ -4605,7 +4619,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/410010/image",
       "team1Name": "LSG",
       "team2Logo": "https://api.sofascore.com/api/v1/team/187843/image",
-      "team2Name": "RCB"
+      "team2Name": "RCB",
+      "telegramSent": true
     },
     "match_15917172": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/19918/image/dark",
