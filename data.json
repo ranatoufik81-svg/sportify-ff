@@ -3609,6 +3609,13 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=397508636a282d0664a97c78856437fa4cf7b893&x-sign=6c8a2a9b7e3fc18c4ef97accbd76ec12&x-time=1778264040\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "BUNDESLIGA HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
           "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd&k1=4bbcff3289d457b4dd5dbdd21221de9a&k2=c4906b9a9f8dda3c0725bddb8c497733\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "SporTV BR FHD",
@@ -3640,7 +3647,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2673/image",
       "team1Name": "Dortmund",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2674/image",
-      "team2Name": "Frankfurt"
+      "team2Name": "Frankfurt",
+      "telegramSent": true
     },
     "match_14065535": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
@@ -3892,7 +3900,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/4488/image",
       "team1Name": "Cádiz",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2832/image",
-      "team2Name": "Deportivo"
+      "team2Name": "Deportivo",
+      "telegramSent": true
     },
     "match_14081756": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
@@ -3991,7 +4000,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2730/image",
       "team1Name": "Avellino",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2706/image",
-      "team2Name": "Modena"
+      "team2Name": "Modena",
+      "telegramSent": true
     },
     "match_14317639": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
@@ -4003,7 +4013,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/43680/image",
       "team1Name": "Entella",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2745/image",
-      "team2Name": "Carrarese"
+      "team2Name": "Carrarese",
+      "telegramSent": true
     },
     "match_14317640": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
@@ -4015,7 +4026,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2742/image",
       "team1Name": "Cesena",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2741/image",
-      "team2Name": "Padova"
+      "team2Name": "Padova",
+      "telegramSent": true
     },
     "match_14317641": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
@@ -4027,7 +4039,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2796/image",
       "team1Name": "Catanzaro",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2712/image",
-      "team2Name": "Bari"
+      "team2Name": "Bari",
+      "telegramSent": true
     },
     "match_14317642": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
@@ -4039,7 +4052,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/7935/image",
       "team1Name": "Pescara",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2735/image",
-      "team2Name": "Spezia"
+      "team2Name": "Spezia",
+      "telegramSent": true
     },
     "match_14317643": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
@@ -4051,7 +4065,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2801/image",
       "team1Name": "Frosinone",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2770/image",
-      "team2Name": "Mantova"
+      "team2Name": "Mantova",
+      "telegramSent": true
     },
     "match_14317644": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
@@ -4063,7 +4078,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/24516/image",
       "team1Name": "Reggiana",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2711/image",
-      "team2Name": "Sampdoria"
+      "team2Name": "Sampdoria",
+      "telegramSent": true
     },
     "match_14317646": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
@@ -4075,7 +4091,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2729/image",
       "team1Name": "Monza",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2705/image",
-      "team2Name": "Empoli"
+      "team2Name": "Empoli",
+      "telegramSent": true
     },
     "match_14317647": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
@@ -4087,7 +4104,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2688/image",
       "team1Name": "Venezia",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2715/image",
-      "team2Name": "Palermo"
+      "team2Name": "Palermo",
+      "telegramSent": true
     },
     "match_14317648": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
@@ -4099,7 +4117,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2760/image",
       "team1Name": "Südtirol",
       "team2Logo": "https://api.sofascore.com/api/v1/team/5324/image",
-      "team2Name": "Juve Stabia"
+      "team2Name": "Juve Stabia",
+      "telegramSent": true
     },
     "match_15508446": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/1900/image/dark",
