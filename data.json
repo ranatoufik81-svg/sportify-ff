@@ -3479,283 +3479,71 @@
     }
   },
   "matches": {
-    "match_14773797": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
-      "leagueTitle": "Saudi Pro League",
-      "matchEndTime": "2026-05-08T01:30:00",
-      "matchTime": "2026-05-07T23:30:00",
+    "match_13980073": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+      "leagueTitle": "Serie A",
+      "matchEndTime": "2026-05-09T02:15:00",
+      "matchTime": "2026-05-09T00:15:00",
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/142148-ENGLISH.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
-          "name": "FANCODE ENGLISH (IND)",
-          "source": "fancode",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/142148-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
-          "name": "FANCODE BLOODY_SWEET (IND)",
-          "source": "fancode",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-bd-owner.ivan-flux.workers.dev/142148-ENGLISH-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
-          "name": "FANCODE ENGLISH (BD)",
-          "source": "fancode",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-bd-owner.ivan-flux.workers.dev/142148-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
-          "name": "FANCODE BLOODY_SWEET (BD)",
-          "source": "fancode",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd&k1=0ad4080cdff8c60b1233b22087f0b340&k2=285f129c5eca01dd08a5d5a14ad801c8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://d1yi40sjj0ca0v.cloudfront.net/TVD2084/index.mpd&k1=0&k2=0\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "SportDigital Fussball",
+          "name": "LIGUE1+ HD",
           "source": "main",
           "type": "Direct"
         },
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd&k1=d1a163914db8ffad2c3e94f979896a0d&k2=9728800a3959aafdd5b0bcfbf3768811\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://edgestreams.pro/hls/dza5z8f69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "FOX DEPORTES",
+          "name": "beIN SPORTS US",
           "source": "main",
           "type": "Direct"
         },
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://livecdn-bp-iptv.rumsport7.live/live_abr/161357_hd/index.m3u8?is_vip=false&token=397508636a282d0664a97c78856437fa4cf7b893&x-sign=25ff2bba07fac3b59b46518c7f98a4e0&x-time=1778176620\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "Sport TV HD",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://chatgpt.hereisman.net/playlist/50198/load-playlist?|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "FOX SOCCER+ HD",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://d1yi40sjj0ca0v.cloudfront.net/TVD1451/index.mpd&k1=0&k2=0\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "THMANYAH HD",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pul-tenm.nbs3g.com/live/sd-1-4404676.m3u8?txSecret=3c83e6b69da972b024662e12ac1f5d2c&txTime=69FE242E\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://live.vivo200.com/live/hd-en-1-4347963.m3u8?txSecret=742011b44acca43ad67d6d62a4383744&txTime=69F7DE6B|Referer=https://player.787200.com/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "SPORTIFy Live",
           "source": "main",
           "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1778186514-0-0-30282876786b900929874e54e98701c4\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy TV",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1778186514-0-0-f68f610b14d0b31edcf439f8c5074991\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy TV+ HD",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1778186514-0-0-c59d09a2e9d6184bd922c0199f02f3ef\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy SD",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1778186514-0-0-f073fe60d4bc4f005c71f30e4e1504a2\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy HD",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1778186514-0-0-48ad17f071289f048adf326219949ca7\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy SOCCER SD",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1778186514-0-0-6d8abc85a402e02f6cd36b80d1f38e9e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy STAR",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1778186514-0-0-308370bc3a53ecc8f7b4392b1c83c8e4\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy SD",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1778186514-0-0-c1488585ef8285d47d592b1efaa26831\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy LIVE HD",
-          "source": "api",
-          "type": "Embed"
         }
       ],
-      "team1Logo": "https://api.sofascore.com/api/v1/team/34313/image",
-      "team1Name": "Al-Shabab",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/23400/image",
-      "team2Name": "Al-Nassr",
-      "telegramSent": true
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2696/image",
+      "team1Name": "Torino",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2793/image",
+      "team2Name": "Sassuolo"
     },
-    "match_15632624": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
-      "leagueTitle": "UEFA Europa League, Knockout stage",
-      "matchEndTime": "2026-05-08T02:30:00",
-      "matchTime": "2026-05-08T00:30:00",
+    "match_13980088": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+      "leagueTitle": "Serie A",
+      "matchEndTime": "2026-05-09T20:30:00",
+      "matchTime": "2026-05-09T18:30:00",
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=397508636a282d0664a97c78856437fa4cf7b893&x-sign=55c64d10ae0d8c57aaa56146b72b74eb&x-time=1778180100\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "SPORTIFy Live",
           "source": "main",
           "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/shyc39mi7a/out/v1/c36180058f2a49a9ac8e96607922aa95/cenc.mpd&k1=fb194ba1c53f8c89a159f76e7830e2fb&k2=37fca5c5cdd27d87ce1c78070d237274\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "VIX SPANISH FHD",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd&k1=1d96ab366bbe6451edf7407b58e2fa16&k2=0116201f4a63ac5bf5787d2c610c41a7\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "TNT SPORTS FHD",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://sonymtmnew-akamaized.pages.dev/hls/live/20000301/UEFA_Eur0705/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "SonyLiv [ENG]",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1778190114-0-0-9eb44d021aedb7bed0bde18b362c3230\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy TV",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1778190114-0-0-64f8482eeb723bd1c7ef4c4d5232596f\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy TV+ HD",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1778190114-0-0-06b4863b6b367c2317db63c59581206f\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy STAR FHD",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1778190114-0-0-567a6de64fe3a9aeb07db643e282cc0d\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy FHD",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1778190114-0-0-5e6e6502c3018a92e546c22d0d17eced\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy FAST",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1778190114-0-0-4b8990de30f4be781b0acf4792eccd90\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy FHD",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1778190114-0-0-f3d518bc1b45e1e6ed9aa70f8019a0b6\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy LIVE",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1778190114-0-0-065f5eb7e65f5cd05b284b778d63b665\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy PRO HD",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1778190114-0-0-5f6a684a678f939f0e14549f2f63143c\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy FHD",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1778190114-0-0-fc2a64266464b4beac6e11a8c19a68b8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy FOOTBALL",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1778190114-0-0-fd695aaa6482e86cc254789fc2c57ed8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy FHD",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1778190114-0-0-9616b02633f05b5ce746e24372998990\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy ULTRA",
-          "source": "api",
-          "type": "Embed"
         }
       ],
-      "team1Logo": "https://api.sofascore.com/api/v1/team/2538/image",
-      "team1Name": "Freiburg",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/2999/image",
-      "team2Name": "Braga",
-      "telegramSent": true
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2719/image",
+      "team1Name": "Cagliari",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2695/image",
+      "team2Name": "Udinese"
     },
-    "match_15632625": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
-      "leagueTitle": "UEFA Europa League, Knockout stage",
-      "matchEndTime": "2026-05-08T02:30:00",
-      "matchTime": "2026-05-08T00:30:00",
+    "match_14024024": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+      "leagueTitle": "Premier League",
+      "matchEndTime": "2026-05-09T19:00:00",
+      "matchTime": "2026-05-09T17:00:00",
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=397508636a282d0664a97c78856437fa4cf7b893&x-sign=1dd3b3342f8533cbfd1c7198ecb69060&x-time=1778180340\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd&k1=294b5761cefc22d0c6312939e13d8278&k2=52148f1042d238849f0a7813f1da8a7b\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "CBS SPORTS HD",
+          "name": "TNT SPORTS - AQ",
           "source": "main",
           "type": "Direct"
         },
@@ -3767,9 +3555,9 @@
           "type": "Direct"
         },
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd&k1=294b5761cefc22d0c6312939e13d8278&k2=52148f1042d238849f0a7813f1da8a7b\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=397508636a282d0664a97c78856437fa4cf7b893&x-sign=1dd3b3342f8533cbfd1c7198ecb69060&x-time=1778180340\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "TNT SPORTS - AQ",
+          "name": "CBS SPORTS HD",
           "source": "main",
           "type": "Direct"
         },
@@ -3786,410 +3574,217 @@
           "name": "SonyLiv [ENG]",
           "source": "main",
           "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1778190114-0-0-9916d3db88e8e9331cdf565910c341fa\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy TV",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1778190114-0-0-8efdea4d692b001719d138f6d03d3945\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy TV+ HD",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1778190114-0-0-ec13ccf711d3dd803a5c3d1ede7e0f5c\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy FHD",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1778190114-0-0-537db3f184e1020815560695dd53a6a4\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy SOCCER FHD",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1778190114-0-0-579f1d5cd196cff7686dcfbe453cb9b9\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy PRIME",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1778190114-0-0-514b711048d4c0884ff5d2b78418763d\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy FHD",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1778190114-0-0-98dcfbf0c254e92dbf6557dae85289cf\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy LIVE",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1778190114-0-0-1b0d608c4ee6bfca90eb69b3b6bc7822\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy LIVE",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1778190114-0-0-8923ae67dfe59d65a5543104edef7695\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy LIVE FHD",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1778190114-0-0-9182324d34584addeca7515f7feb7fd2\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy HD",
-          "source": "api",
-          "type": "Embed"
         }
       ],
-      "team1Logo": "https://api.sofascore.com/api/v1/team/40/image",
-      "team1Name": "Aston Villa",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/14/image",
-      "team2Name": "Forest",
-      "telegramSent": true
+      "team1Logo": "https://api.sofascore.com/api/v1/team/44/image",
+      "team1Name": "Liverpool",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/38/image",
+      "team2Name": "Chelsea"
     },
-    "match_15632647": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-      "leagueTitle": "UEFA Conference League, Knockout stage",
-      "matchEndTime": "2026-05-08T02:30:00",
-      "matchTime": "2026-05-08T00:30:00",
+    "match_14064514": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
+      "leagueTitle": "Ligue 1",
+      "matchEndTime": "2026-05-09T02:15:00",
+      "matchTime": "2026-05-09T00:15:00",
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=397508636a282d0664a97c78856437fa4cf7b893&x-sign=2f9fabee55202520279a67d3cdd4c396&x-time=1778180160\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "SPORTIFy Live",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3pxu2gzore/out/v1/59dc0639d2c44432bf89984131478749/cenc.mpd&k1=7ba2e290f682b30416182bc363a660a1&k2=f2b3686e840c38fbdbea8c9a01b6638d\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "VIX SPANISH FHD",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://sonymtmnew-akamaized.pages.dev/hls/live/20000296/Football0705/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "SonyLiv [ENG]",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd&k1=f288380ca4cef9ad3f27a92a08e9bb8b&k2=9f18d26291d9230833501f7f822f6875\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "TNT SPORTS FHD",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://chatgpt.hereisman.net/playlist/50207/load-playlist?|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "TNT SPORTS HD",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1778190114-0-0-a4201ab5aeb00bdc47e272cf1412351e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy TV",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1778190114-0-0-f784be90b36bc526cc2c72b364fd4ac8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy TV+ HD",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1778190114-0-0-485e7b9d03a2df1a5b51f62e03864397\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy FOOTBALL",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1778190114-0-0-c3cdba26f102050d941d4dd0ca77d219\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy MAX",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1778190114-0-0-d4f0ecbc8d2a71b7885f06bf02c8126d\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy GOLD",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1778190114-0-0-3b744ac2265be48df2eaa478055a78d5\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy PRIME HD",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1778190114-0-0-b02752c68dfa55a022f06c5364cdb836\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy SOCCER",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1778190114-0-0-8a61db3f6988bdb0972523525b7dadd1\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy HD",
-          "source": "api",
-          "type": "Embed"
-        }
-      ],
-      "team1Logo": "https://api.sofascore.com/api/v1/team/7/image",
-      "team1Name": "Crystal Palace",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/3313/image",
-      "team2Name": "Shakhtar",
-      "telegramSent": true
-    },
-    "match_15632648": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-      "leagueTitle": "UEFA Conference League, Knockout stage",
-      "matchEndTime": "2026-05-08T02:30:00",
-      "matchTime": "2026-05-08T00:30:00",
-      "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=397508636a282d0664a97c78856437fa4cf7b893&x-sign=96ad65fce9dd0ab85c46b4b70a8ed3a1&x-time=1778179980\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "SPY LIVE HD",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/if97djnean/out/v1/b853456a96d8434cb6cea6ade4feddd3/cenc.mpd&k1=055a60e4c666c2100d35e208fa8674a4&k2=8635d0eb122d911e9a72f318fc21c59d\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "VIX SPANISH FHD",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/UEFA_Str0705/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "SonyLiv [ENG]",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://chatgpt.hereisman.net/playlist/50203/load-playlist?|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "SPORTIFy TV+ HD",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1778190114-0-0-e1cd8fefad34f3089c840183a67db84b\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy TV",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1778190114-0-0-76ebea5eab9219390b4cec5f73b3fc71\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy TV+ HD",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-581585_lsd.m3u8?auth_key=1778190114-0-0-2c75d8f3608d67562ef7df016fff65c4\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy TURBO",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-581585_lhd.m3u8?auth_key=1778190114-0-0-768c331f08f472a392cdaaaf094fb273\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy FHD",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1778190114-0-0-b8abb942b8ebfa7da65d652fce9f1181\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy FHD",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1778190114-0-0-cc9b6631f0f9f15cee77c12143eb5f00\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy FHD",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1778190114-0-0-a065fb74ec6073563f3d53fdfeecc86a\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy GOAL HD",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1778190114-0-0-27143656f1052b15d0913e33c5e9ed09\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy PLUS",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1778190114-0-0-20ef8c17e3d96e0691c77032578edea6\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy SOCCER",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1778190114-0-0-d7f4adac88a508948922d2aed4cb75d3\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy FHD",
-          "source": "api",
-          "type": "Embed"
-        }
-      ],
-      "team1Logo": "https://api.sofascore.com/api/v1/team/1659/image",
-      "team1Name": "Strasbourg",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/2818/image",
-      "team2Name": "Rayo Vallecano",
-      "telegramSent": true
-    },
-    "match_15832101": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/480/image/dark",
-      "leagueTitle": "CONMEBOL Sudamericana, Group C",
-      "matchEndTime": "2026-05-08T05:30:00",
-      "matchTime": "2026-05-08T03:30:00",
-      "sportType": "FOOTBALL",
-      "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/174970/image",
-      "team1Name": "Boston River",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/6117/image",
-      "team2Name": "Millonarios",
-      "telegramSent": true
-    },
-    "match_15832102": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/480/image/dark",
-      "leagueTitle": "CONMEBOL Sudamericana, Group C",
-      "matchEndTime": "2026-05-08T05:30:00",
-      "matchTime": "2026-05-08T03:30:00",
-      "sportType": "FOOTBALL",
-      "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/3163/image",
-      "team1Name": "O'Higgins",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/1981/image",
-      "team2Name": "São Paulo",
-      "telegramSent": true
-    },
-    "match_15832116": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/480/image/dark",
-      "leagueTitle": "CONMEBOL Sudamericana, Group H",
-      "matchEndTime": "2026-05-08T08:00:00",
-      "matchTime": "2026-05-08T06:00:00",
-      "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://d1yi40sjj0ca0v.cloudfront.net/TVD2088/index.mpd&k1=0&k2=0\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "LIGUE1+ HD",
-          "source": "main",
-          "type": "Direct"
-        }
-      ],
-      "team1Logo": "https://api.sofascore.com/api/v1/team/6968/image",
-      "team1Name": "Blooming",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/1999/image",
-      "team2Name": "RB Bragantino",
-      "telegramSent": true
-    },
-    "match_15832117": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/480/image/dark",
-      "leagueTitle": "CONMEBOL Sudamericana, Group H",
-      "matchEndTime": "2026-05-08T08:00:00",
-      "matchTime": "2026-05-08T06:00:00",
-      "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd&k1=0b42be2664d7e811d04f3e504e0924c5&k2=ae24090123b8c72ac5404dc152847cb8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "beIN ENGLISH",
-          "source": "main",
-          "type": "Direct"
-        }
-      ],
-      "team1Logo": "https://api.sofascore.com/api/v1/team/6229/image",
-      "team1Name": "Carabobo",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/3211/image",
-      "team2Name": "River Plate",
-      "telegramSent": true
-    },
-    "match_15832760": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/384/image/dark",
-      "leagueTitle": "CONMEBOL Libertadores, Group A",
-      "matchEndTime": "2026-05-08T08:00:00",
-      "matchTime": "2026-05-08T06:00:00",
-      "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-flux.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "SPORTIFy Live",
           "source": "main",
           "type": "Direct"
         }
       ],
-      "team1Logo": "https://api.sofascore.com/api/v1/team/6115/image",
-      "team1Name": "Ind. Medellín",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/5981/image",
-      "team2Name": "Flamengo",
-      "telegramSent": true
+      "team1Logo": "https://api.sofascore.com/api/v1/team/1648/image",
+      "team1Name": "Lens",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/1647/image",
+      "team2Name": "Nantes"
     },
-    "match_15832779": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/384/image/dark",
-      "leagueTitle": "CONMEBOL Libertadores, Group B",
-      "matchEndTime": "2026-05-08T07:30:00",
-      "matchTime": "2026-05-08T05:30:00",
-      "sportType": "FOOTBALL",
-      "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/3165/image",
-      "team1Name": "Coquimbo Unido",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/2305/image",
-      "team2Name": "Universitario",
-      "telegramSent": true
-    },
-    "match_15832797": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/384/image/dark",
-      "leagueTitle": "CONMEBOL Libertadores, Group E",
-      "matchEndTime": "2026-05-08T05:30:00",
-      "matchTime": "2026-05-08T03:30:00",
+    "match_14065245": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
+      "leagueTitle": "Bundesliga",
+      "matchEndTime": "2026-05-09T02:00:00",
+      "matchTime": "2026-05-09T00:00:00",
       "sportType": "FOOTBALL",
       "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd&k1=d9623774ac5c8c351aafe97c5fe70267&k2=5164e6d05164a2d65fa8fcc962aa4861\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "CBS NETWORK",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://smarthard.click/hls/sabrouchespndeportes/index.m3u8|referer=https://hardsmart.click/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "ESPN DEPORTES",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2673/image",
+      "team1Name": "Dortmund",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2674/image",
+      "team2Name": "Frankfurt"
+    },
+    "match_14065535": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+      "leagueTitle": "2. Bundesliga",
+      "matchEndTime": "2026-05-09T18:30:00",
+      "matchTime": "2026-05-09T16:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2573/image",
+      "team1Name": "Kiel",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2591/image",
+      "team2Name": "Magdeburg"
+    },
+    "match_14065538": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+      "leagueTitle": "2. Bundesliga",
+      "matchEndTime": "2026-05-09T00:00:00",
+      "matchTime": "2026-05-08T22:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://d1yi40sjj0ca0v.cloudfront.net/TVD2700/index.mpd&k1=0&k2=0\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "NOVA SPORTS",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://live.vivo200.com/live/sd-1-4344737.m3u8?txSecret=b316a00ded4f81ba86f1c4350b0b98c6&txTime=69F78567|Referer=https://player.787200.com/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SPORTIFy Live",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://instreams.pro/bil2/foxnl3/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "ESPN NL",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2561/image",
+      "team1Name": "Paderborn",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2553/image",
+      "team2Name": "Karlsruhe"
+    },
+    "match_14065539": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+      "leagueTitle": "2. Bundesliga",
+      "matchEndTime": "2026-05-09T18:30:00",
+      "matchTime": "2026-05-09T16:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2542/image",
+      "team1Name": "Bochum",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2541/image",
+      "team2Name": "Hannover"
+    },
+    "match_14065541": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+      "leagueTitle": "2. Bundesliga",
+      "matchEndTime": "2026-05-09T00:00:00",
+      "matchTime": "2026-05-08T22:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://instreams.pro/bil2/foxnl2/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "ESPN NL",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2675/image",
+      "team1Name": "Kaiserslautern",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2540/image",
+      "team2Name": "Bielefeld"
+    },
+    "match_14065544": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+      "leagueTitle": "2. Bundesliga",
+      "matchEndTime": "2026-05-09T18:30:00",
+      "matchTime": "2026-05-09T16:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2557/image",
+      "team1Name": "Braunschweig",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2595/image",
+      "team2Name": "Dresden"
+    },
+    "match_14081751": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+      "leagueTitle": "LaLiga 2",
+      "matchEndTime": "2026-05-09T02:00:00",
+      "matchTime": "2026-05-09T00:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/142376-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (IND)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-bd-owner.ivan-flux.workers.dev/142376-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (BD)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-flux.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SPORTIFy Live",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/4488/image",
+      "team1Name": "Cádiz",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2832/image",
+      "team2Name": "Deportivo"
+    },
+    "match_14081756": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+      "leagueTitle": "LaLiga 2",
+      "matchEndTime": "2026-05-09T19:30:00",
+      "matchTime": "2026-05-09T17:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2869/image",
+      "team1Name": "Ceuta",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/5067/image",
+      "team2Name": "Castellón"
+    },
+    "match_14083568": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+      "leagueTitle": "LaLiga",
+      "matchEndTime": "2026-05-09T02:30:00",
+      "matchTime": "2026-05-09T00:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/131174-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (IND)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-bd-owner.ivan-flux.workers.dev/131174-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (BD)",
+          "source": "fancode",
+          "type": "Direct"
+        },
         {
           "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://mainstreams.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
@@ -4198,57 +3793,217 @@
           "type": "Direct"
         }
       ],
-      "team1Logo": "https://api.sofascore.com/api/v1/team/36837/image",
-      "team1Name": "Platense",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/3227/image",
-      "team2Name": "Peñarol",
-      "telegramSent": true
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2849/image",
+      "team1Name": "Levante",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2820/image",
+      "team2Name": "Osasuna"
     },
-    "match_15832802": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/384/image/dark",
-      "leagueTitle": "CONMEBOL Libertadores, Group F",
-      "matchEndTime": "2026-05-08T09:30:00",
-      "matchTime": "2026-05-08T07:30:00",
-      "sportType": "FOOTBALL",
-      "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/6105/image",
-      "team1Name": "Junior Barranquilla",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/5991/image",
-      "team2Name": "Cerro Porteño",
-      "telegramSent": true
-    },
-    "match_15832809": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/384/image/dark",
-      "leagueTitle": "CONMEBOL Libertadores, Group G",
-      "matchEndTime": "2026-05-08T05:30:00",
-      "matchTime": "2026-05-08T03:30:00",
+    "match_14083578": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+      "leagueTitle": "LaLiga",
+      "matchEndTime": "2026-05-09T19:30:00",
+      "matchTime": "2026-05-09T17:30:00",
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://mainstreams.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/131176-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (IND)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-bd-owner.ivan-flux.workers.dev/131176-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (BD)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://chatgpt.hereisman.net/playlist/50197/load-playlist?|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SPORTIFy MLB",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://edge2caster.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "SPORTIFy Live",
           "source": "main",
           "type": "Direct"
         }
       ],
-      "team1Logo": "https://api.sofascore.com/api/v1/team/21982/image",
-      "team1Name": "Mirassol",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/5257/image",
-      "team2Name": "LDU",
-      "telegramSent": true
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2846/image",
+      "team1Name": "Elche",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2885/image",
+      "team2Name": "Alavés"
     },
-    "match_15885337": {
+    "match_14317635": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
+      "leagueTitle": "Serie B",
+      "matchEndTime": "2026-05-09T02:00:00",
+      "matchTime": "2026-05-09T00:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2730/image",
+      "team1Name": "Avellino",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2706/image",
+      "team2Name": "Modena"
+    },
+    "match_14317639": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
+      "leagueTitle": "Serie B",
+      "matchEndTime": "2026-05-09T02:00:00",
+      "matchTime": "2026-05-09T00:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/43680/image",
+      "team1Name": "Entella",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2745/image",
+      "team2Name": "Carrarese"
+    },
+    "match_14317640": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
+      "leagueTitle": "Serie B",
+      "matchEndTime": "2026-05-09T02:00:00",
+      "matchTime": "2026-05-09T00:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2742/image",
+      "team1Name": "Cesena",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2741/image",
+      "team2Name": "Padova"
+    },
+    "match_14317641": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
+      "leagueTitle": "Serie B",
+      "matchEndTime": "2026-05-09T02:00:00",
+      "matchTime": "2026-05-09T00:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2796/image",
+      "team1Name": "Catanzaro",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2712/image",
+      "team2Name": "Bari"
+    },
+    "match_14317642": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
+      "leagueTitle": "Serie B",
+      "matchEndTime": "2026-05-09T02:00:00",
+      "matchTime": "2026-05-09T00:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/7935/image",
+      "team1Name": "Pescara",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2735/image",
+      "team2Name": "Spezia"
+    },
+    "match_14317643": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
+      "leagueTitle": "Serie B",
+      "matchEndTime": "2026-05-09T02:00:00",
+      "matchTime": "2026-05-09T00:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2801/image",
+      "team1Name": "Frosinone",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2770/image",
+      "team2Name": "Mantova"
+    },
+    "match_14317644": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
+      "leagueTitle": "Serie B",
+      "matchEndTime": "2026-05-09T02:00:00",
+      "matchTime": "2026-05-09T00:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/24516/image",
+      "team1Name": "Reggiana",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2711/image",
+      "team2Name": "Sampdoria"
+    },
+    "match_14317646": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
+      "leagueTitle": "Serie B",
+      "matchEndTime": "2026-05-09T02:00:00",
+      "matchTime": "2026-05-09T00:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2729/image",
+      "team1Name": "Monza",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2705/image",
+      "team2Name": "Empoli"
+    },
+    "match_14317647": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
+      "leagueTitle": "Serie B",
+      "matchEndTime": "2026-05-09T02:00:00",
+      "matchTime": "2026-05-09T00:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2688/image",
+      "team1Name": "Venezia",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2715/image",
+      "team2Name": "Palermo"
+    },
+    "match_14317648": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
+      "leagueTitle": "Serie B",
+      "matchEndTime": "2026-05-09T02:00:00",
+      "matchTime": "2026-05-09T00:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2760/image",
+      "team1Name": "Südtirol",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/5324/image",
+      "team2Name": "Juve Stabia"
+    },
+    "match_15508446": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/1900/image/dark",
+      "leagueTitle": "Super League",
+      "matchEndTime": "2026-05-09T19:00:00",
+      "matchTime": "2026-05-09T17:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/140510-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (IND)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-bd-owner.ivan-flux.workers.dev/140510-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (BD)",
+          "source": "fancode",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/174594/image",
+      "team1Name": "Goa",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/370834/image",
+      "team2Name": "Mohun Bagan"
+    },
+    "match_15885338": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
       "leagueTitle": "Indian Premier League",
-      "matchEndTime": "2026-05-08T02:30:00",
-      "matchTime": "2026-05-07T19:30:00",
+      "matchEndTime": "2026-05-09T02:30:00",
+      "matchTime": "2026-05-08T19:30:00",
       "sportType": "CRICKET",
       "streamLinks": [
         {
           "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/clients/dash/enc/nyhtosqh5k/out/v1/170ea63dc5ab4a09b1ee549b92b6e15f/cenc.mpd&k1=222545886018e93c2db68f393d748faf&k2=50c45f45da5fb19842ab6b49xe7\u0019e8a4\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "WILLOW FHD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/etfucc0arp/out/v1/66dfa44fa35240958306401fa8ca0cf3/cenc-sd.mpd&k1=bf5fc3a8ef9be88d9fc23a853028015d&k2=ada046fda0c799235eb6c9a3z59\u0018177f\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "WILLOW [Ad-Free]",
           "source": "main",
           "type": "Direct"
         },
@@ -4274,13 +4029,6 @@
           "type": "Direct"
         },
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/etfucc0arp/out/v1/66dfa44fa35240958306401fa8ca0cf3/cenc-sd.mpd&k1=bf5fc3a8ef9be88d9fc23a853028015d&k2=ada046fda0c799235eb6c9a3z59\u0018177f\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "WILLOW [Ad-Free]",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
           "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://dai.google.com/linear/hls/event/mbsfWpAoS2Olw5e-nkM-gw/master.m3u8|user-agent=Cricbuzz/7.00.01 (Linux;Android 13) AndroidXMedia3/1.5.1&x-forwarded-for=1.178.20.23\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "NOON SPORTS",
@@ -4295,7 +4043,7 @@
           "type": "Direct"
         },
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://bhghgh.gbgdhdffhf.shop/starhindi.m3u8|referer=https://estraaw.pages.dev\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD&uid=999&pass=999\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "Star Sports HIN",
           "source": "main",
@@ -4316,155 +4064,188 @@
           "type": "Direct"
         }
       ],
-      "team1Logo": "https://api.sofascore.com/api/v1/team/410010/image",
-      "team1Name": "LSG",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/187843/image",
-      "team2Name": "RCB",
-      "telegramSent": true
+      "team1Logo": "https://api.sofascore.com/api/v1/team/187841/image",
+      "team1Name": "DC",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/187775/image",
+      "team2Name": "KKR"
     },
-    "match_15917172": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/19918/image/dark",
-      "leagueTitle": "ICC Men's T20 World Cup East Asia Pacific Qualifier, Group 2",
-      "matchEndTime": "2026-05-08T13:00:00",
-      "matchTime": "2026-05-08T06:00:00",
-      "sportType": "CRICKET",
-      "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/412034/image",
-      "team1Name": "PHI",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/445294/image",
-      "team2Name": "INA",
-      "telegramSent": true
-    },
-    "match_15917173": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/19918/image/dark",
-      "leagueTitle": "ICC Men's T20 World Cup East Asia Pacific Qualifier, Group 3",
-      "matchEndTime": "2026-05-08T17:30:00",
-      "matchTime": "2026-05-08T10:30:00",
-      "sportType": "CRICKET",
-      "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/425423/image",
-      "team1Name": "COK",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/445295/image",
-      "team2Name": "KOR",
-      "telegramSent": true
-    },
-    "match_15917595": {
+    "match_15917208": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/19918/image/dark",
       "leagueTitle": "ICC Men's T20 World Cup East Asia Pacific Qualifier, Group 1",
-      "matchEndTime": "2026-05-08T13:00:00",
-      "matchTime": "2026-05-08T06:00:00",
-      "sportType": "CRICKET",
-      "streamLinks": [
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/142304-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
-          "name": "FANCODE BLOODY_SWEET (IND)",
-          "source": "fancode",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-bd-owner.ivan-flux.workers.dev/142304-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
-          "name": "FANCODE BLOODY_SWEET (BD)",
-          "source": "fancode",
-          "type": "Direct"
-        }
-      ],
-      "team1Logo": "https://api.sofascore.com/api/v1/team/213108/image",
-      "team1Name": "FIJ",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/425419/image",
-      "team2Name": "VAN",
-      "telegramSent": true
-    },
-    "match_16030923": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",
-      "leagueTitle": "Pakistan in Bangladesh, 2 Test Series",
-      "matchEndTime": "2026-05-08T16:30:00",
-      "matchTime": "2026-05-08T09:30:00",
-      "sportType": "CRICKET",
-      "streamLinks": [
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/142160-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
-          "name": "FANCODE BLOODY_SWEET (IND)",
-          "source": "fancode",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-bd-owner.ivan-flux.workers.dev/142160-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
-          "name": "FANCODE BLOODY_SWEET (BD)",
-          "source": "fancode",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=http://datahub11.com/live/gGFotsfxZm/mundane2basis/1856.ts\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "FOX CRICKET FHD",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oel2fnzvjx/out/v1/77f22dcc960c4aa6a62392c552ec2930/cenc.mpd&k1=c3c6dcd8c0211c4ae43a9e91417ab3e0&k2=48b8eb26027c0eb2c9655cf1f68bf455\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "WILLOW [Ad-Free]",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/ha6eigwvps/out/v1/b5438f60c0e542668e392b9d4ab615cf/cenc-sd.mpd&k1=f991f8d21990530ccd469179be41b367&k2=7ec9beccf0a7834aeffd27c566a87fe7\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "WILLOW - LQ",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJyZWZlcmVyIjoiaHR0cHM6Ly9kb25pcy5qaW1wZW5vcGlzb25saW5lLm9ubGluZS9wcmVtaXVtdHYvZGFkZHk0LnBocD9pZD01OTIiLCJtM3U4IjoiaHR0cHM6Ly96b3Rvcy52b2dsZW1wYW5pcy5vbmxpbmUvcHJlbWl1bTU5Mi90cmFja3MtdjFhMS9tb25vLmNzcyIsInRzIjoxNzc4MjEzNTYyODIwLCJjaGFubmVsSWQiOiI1OTIifQ\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "SKY SPORTS HD",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd&k1=1a5df53609ebc9857898c490f4724918&k2=77f62980d582ec541280796acf8b2d19\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "PREMIER SPORTS",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd&k1=7e9239c1982d984a002df3ed049d0756&k2=1b8a17598129a3618535c8fb05f103fe\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "FANCODE FHD",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd&k1=709c812e1b4174002605df1d17d34a4c&k2=0bbee6c9c20a0f065bf8369d54cbf83e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "FANCODE - SD",
-          "source": "main",
-          "type": "Direct"
-        }
-      ],
-      "team1Logo": "https://api.sofascore.com/api/v1/team/187744/image",
-      "team1Name": "BAN",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/187754/image",
-      "team2Name": "PAK",
-      "telegramSent": true
-    },
-    "match_16078175": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/24284/image/dark",
-      "leagueTitle": "Women's T20I Tri-Series in Hong Kong, China",
-      "matchEndTime": "2026-05-08T13:30:00",
-      "matchTime": "2026-05-08T06:30:00",
+      "matchEndTime": "2026-05-09T13:00:00",
+      "matchTime": "2026-05-09T06:00:00",
       "sportType": "CRICKET",
       "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/476894/image",
-      "team1Name": "CHN-W",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/417860/image",
-      "team2Name": "MAS-W",
-      "telegramSent": true
+      "team1Logo": "https://api.sofascore.com/api/v1/team/445296/image",
+      "team1Name": "JPN",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/425419/image",
+      "team2Name": "VAN"
+    },
+    "match_15917209": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/19918/image/dark",
+      "leagueTitle": "ICC Men's T20 World Cup East Asia Pacific Qualifier, Group 2",
+      "matchEndTime": "2026-05-09T13:00:00",
+      "matchTime": "2026-05-09T06:00:00",
+      "sportType": "CRICKET",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/445294/image",
+      "team1Name": "INA",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/425422/image",
+      "team2Name": "SAM"
+    },
+    "match_15917210": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/19918/image/dark",
+      "leagueTitle": "ICC Men's T20 World Cup East Asia Pacific Qualifier, Group 3",
+      "matchEndTime": "2026-05-09T17:30:00",
+      "matchTime": "2026-05-09T10:30:00",
+      "sportType": "CRICKET",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/445295/image",
+      "team1Name": "KOR",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/199278/image",
+      "team2Name": "PNG"
+    },
+    "match_15987489": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18793/image/dark",
+      "leagueTitle": "Zimbabwe Women in Pakistan, 3 ODI Series",
+      "matchEndTime": "2026-05-09T23:00:00",
+      "matchTime": "2026-05-09T16:00:00",
+      "sportType": "CRICKET",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/187808/image",
+      "team1Name": "PAK-W",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/417062/image",
+      "team2Name": "ZIM-W"
+    },
+    "match_15987592": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
+      "leagueTitle": "Gibraltar in Malta, 6 T20I Series",
+      "matchEndTime": "2026-05-09T19:30:00",
+      "matchTime": "2026-05-09T12:30:00",
+      "sportType": "CRICKET",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/412703/image",
+      "team1Name": "MLT",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/412704/image",
+      "team2Name": "GIB"
+    },
+    "match_15987593": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
+      "leagueTitle": "Gibraltar in Malta, 6 T20I Series",
+      "matchEndTime": "2026-05-10T00:30:00",
+      "matchTime": "2026-05-09T17:30:00",
+      "sportType": "CRICKET",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/412703/image",
+      "team1Name": "MLT",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/412704/image",
+      "team2Name": "GIB"
+    },
+    "match_16054374": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11222/image/dark",
+      "leagueTitle": "Denmark Women in Greece, 4 T20I Series",
+      "matchEndTime": "2026-05-09T20:30:00",
+      "matchTime": "2026-05-09T13:30:00",
+      "sportType": "CRICKET",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/453163/image",
+      "team1Name": "GRE-W",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/417075/image",
+      "team2Name": "DEN-W"
+    },
+    "match_16054375": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11222/image/dark",
+      "leagueTitle": "Denmark Women in Greece, 4 T20I Series",
+      "matchEndTime": "2026-05-10T00:30:00",
+      "matchTime": "2026-05-09T17:30:00",
+      "sportType": "CRICKET",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/453163/image",
+      "team1Name": "GRE-W",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/417075/image",
+      "team2Name": "DEN-W"
+    },
+    "match_16077799": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
+      "leagueTitle": "Finland in Cyprus, 4 T20I Series",
+      "matchEndTime": "2026-05-09T20:00:00",
+      "matchTime": "2026-05-09T13:00:00",
+      "sportType": "CRICKET",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/417775/image",
+      "team1Name": "CYP",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/322676/image",
+      "team2Name": "FIN"
+    },
+    "match_16077800": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
+      "leagueTitle": "Finland in Cyprus, 4 T20I Series",
+      "matchEndTime": "2026-05-10T01:00:00",
+      "matchTime": "2026-05-09T18:00:00",
+      "sportType": "CRICKET",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/417775/image",
+      "team1Name": "CYP",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/322676/image",
+      "team2Name": "FIN"
+    },
+    "match_16092820": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
+      "leagueTitle": "Bulgaria in Romania, 5 T20I Series",
+      "matchEndTime": "2026-05-09T19:30:00",
+      "matchTime": "2026-05-09T12:30:00",
+      "sportType": "CRICKET",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/412706/image",
+      "team1Name": "ROM",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/412708/image",
+      "team2Name": "BUL"
+    },
+    "match_16092821": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
+      "leagueTitle": "Bulgaria in Romania, 5 T20I Series",
+      "matchEndTime": "2026-05-09T23:30:00",
+      "matchTime": "2026-05-09T16:30:00",
+      "sportType": "CRICKET",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/412706/image",
+      "team1Name": "ROM",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/412708/image",
+      "team2Name": "BUL"
+    },
+    "match_16126975": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/2058/image/dark",
+      "leagueTitle": "King's Cup",
+      "matchEndTime": "2026-05-09T01:30:00",
+      "matchTime": "2026-05-08T23:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/142162-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (IND)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-bd-owner.ivan-flux.workers.dev/142162-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (BD)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://live.vivo200.com/live/sd-1-4369067.m3u8?txSecret=8756e0b68e9b71f5ee342291d70fd6ce&txTime=69F7C3B2|Referer=https://player.787200.com/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SPORTIFy Live",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/21895/image",
+      "team1Name": "Al-Hilal",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/269199/image",
+      "team2Name": "Al-Kholood"
     }
   },
   "navigation": {
