@@ -4087,6 +4087,13 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://dice-live-oc.akamaized.net/hdntl=exp=1778479835~acl=/*~id=adfecf30-7146-41d7-96cb-b3f40b0779c3~data=hdntl,aXA9MTA4LjE4MS4wLjEwOSZleHA9MTc3ODM5MzQ2NSZlaWQ9OTM2NTc1Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=db8acad46f3aa0d3921ecb81859cdbf7b7a2ea991bb46e48aabc27499dc61ca7/dash/live/2093712/219035-321027/manifest-d.mpd&k1=7a2758575dc04d63acc3573ab594d441&k2=47071dd80de746a38cdc6a4dcde21abc\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SKY SPORTS FHD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
           "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd&k1=dc69b6159a0f9f0a4e03b3ff91cbacd5&k2=d0dcbcd7723bc40df0bf34c9c092d51f\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "FUBO SPORTS FHD",
@@ -4111,7 +4118,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/37/image",
       "team1Name": "West Ham",
       "team2Logo": "https://api.sofascore.com/api/v1/team/42/image",
-      "team2Name": "Arsenal"
+      "team2Name": "Arsenal",
+      "telegramSent": true
     },
     "match_14023943": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
@@ -4437,7 +4445,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2671/image",
       "team1Name": "Köln",
       "team2Logo": "https://api.sofascore.com/api/v1/team/5885/image",
-      "team2Name": "Heidenheim"
+      "team2Name": "Heidenheim",
+      "telegramSent": true
     },
     "match_14065255": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
