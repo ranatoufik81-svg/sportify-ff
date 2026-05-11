@@ -6781,16 +6781,16 @@
       "sportType": "CRICKET",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://dice-live-oc.akamaized.net/hdntl=exp=1778479839~acl=%2F*~id=c52d0b69-3c58-4413-b232-bbcc30356f04~data=hdntl,aXA9MTA4LjE4MS4wLjEwOSZleHA9MTc3ODM5MzQ2OCZlaWQ9OTM5OTU5Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=c1e6210ae1d481c8b6d83ef80e8008939a5ad0900b6e7ee90a4d12acf39f1ddc/dash/live/2093715/219027-321028/manifest-d.mpd&k1=708a98b352bd4418a73a028edd84da8f&k2=b1fa5c2bca4c4b57b924b748x64\u001532cb\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://dice-live-oc.akamaized.net/hdntl=exp=1778587832~acl=%2F*~id=3e53fdab-0006-452e-a705-3d1dcaebb26c~data=hdntl,aXA9MjA4Ljg3LjI0MS4yMjEmZXhwPTE3Nzg1MDE0NjImZWlkPTkzODE1NiZvaWQ9MTU0JnR5cGU9Vk9EJnVpZD14UlJxbzl8YmNhZWE3Y2YtYzMzNy00MDM5LTgxNTgtM2MxY2U0OWU3MjkzJmNpZD1kY2UuZmlzZmVkJnB0PW51bGw~hmac=43c1664cdab9b7211beaac74e28ffa4cbae1d65ed5801db308ae944d27e7dbb9/dash/live/2093666/294921-318514/manifest-d.mpd&k1=4d346b1d1ae64d4a800409cffa14983e&k2=208c972bd2da4359ac94e694wfe\u001378b6\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "SKY SPORTS FHD",
+          "name": "SKY SPORTS 4k",
           "source": "main",
           "type": "Direct"
         },
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/zdkmm4fqqh/out/v1/314343225df34e4eb8c128a327b8652a/cenc-sd.mpd&k1=972c0f230e5cffd3f79dce694a1e2052&k2=69340051ae5c04e1fdd16d6fy2c\u0015a59f\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://dice-live-oc.akamaized.net/hdntl=exp=1778587825~acl=%2F*~id=11065933-048f-4261-a5a5-0b5871557227~data=hdntl,aXA9MjA4Ljg3LjI0MS4yMjEmZXhwPTE3Nzg1MDE0NTUmZWlkPTkzOTk4NyZvaWQ9MTU0JnR5cGU9Vk9EJnVpZD14UlJxbzl8YmNhZWE3Y2YtYzMzNy00MDM5LTgxNTgtM2MxY2U0OWU3MjkzJmNpZD1kY2UuZmlzZmVkJnB0PW51bGw~hmac=b4c011074c3216fce24f8e91e89ee940515333adb07a43881f570fb076657ccd/dash/live/2093710/219026-321025/manifest-d.mpd&k1=aefc2c8d1c8840f1b6981f856c9269ba&k2=cf8ea114c45b4d6596b27482x8aB74d6\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "WILLOW [Ad-Free]",
+          "name": "SKY SPORTS FHD",
           "source": "main",
           "type": "Direct"
         },
@@ -6873,6 +6873,20 @@
           "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/140496-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
           "name": "FANCODE BLOODY_SWEET (IND)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/140496-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (IND)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-bd-owner.ivan-flux.workers.dev/140496-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (BD)",
           "source": "fancode",
           "type": "Direct"
         },
