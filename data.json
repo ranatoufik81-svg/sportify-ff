@@ -3706,7 +3706,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/331840/image",
       "team1Name": "SC Delhi",
       "team2Logo": "https://api.sofascore.com/api/v1/team/494686/image",
-      "team2Name": "Inter Kashi FC"
+      "team2Name": "Inter Kashi FC",
+      "telegramSent": true
     },
     "match_15885342": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
@@ -3782,7 +3783,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/187776/image",
       "team1Name": "PBKS",
       "team2Logo": "https://api.sofascore.com/api/v1/team/187841/image",
-      "team2Name": "DC"
+      "team2Name": "DC",
+      "telegramSent": true
     },
     "match_15933380": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/1900/image/dark",
@@ -3865,12 +3867,41 @@
           "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd&k1=065051b99bf5cf8d9a3bde5cbde6aaf9&k2=214bd176832872339ce184338320f9a2\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "name": "FANCODE FHD",
           "source": "admin"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1778511234-0-0-24516ddf1e030e4d1f5bc9e709d3026d\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1778511234-0-0-a41ff16e4d52b77245a609d9012594cc\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1778511234-0-0-66243f97ec494665074fc1b2a9f96c95\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy HD",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1778511234-0-0-c3eb590112eb7a9bc0c80e8f7e6d8225\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy PLUS",
+          "source": "api",
+          "type": "Embed"
         }
       ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/40655/image",
       "team1Name": "East Bengal",
       "team2Logo": "https://api.sofascore.com/api/v1/team/230661/image",
-      "team2Name": "Punjab"
+      "team2Name": "Punjab",
+      "telegramSent": true
     }
   },
   "navigation": {
