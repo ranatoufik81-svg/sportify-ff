@@ -5342,9 +5342,23 @@
           "type": "Direct"
         },
         {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/142259-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (IND)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
           "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-bd-owner.ivan-flux.workers.dev/142259-ENGLISH-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
           "name": "FANCODE ENGLISH (BD)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-bd-owner.ivan-flux.workers.dev/142259-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (BD)",
           "source": "fancode",
           "type": "Direct"
         }
@@ -5352,7 +5366,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/22578/image",
       "team1Name": "Australia U17",
       "team2Logo": "https://api.sofascore.com/api/v1/team/22662/image",
-      "team2Name": "Uzbekistan U17"
+      "team2Name": "Uzbekistan U17",
+      "telegramSent": true
     },
     "match_15552471": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/20163/image/dark",
@@ -5364,7 +5379,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/233785/image",
       "team1Name": "India U17",
       "team2Logo": "https://api.sofascore.com/api/v1/team/22636/image",
-      "team2Name": "North Korea U17"
+      "team2Name": "North Korea U17",
+      "telegramSent": true
     },
     "match_15552524": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/20163/image/dark",
