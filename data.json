@@ -3920,6 +3920,41 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://chatgpt.hereisman.net/playlist/50734/load-playlist?|Referer=https://gooz.aapmains.net\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "USA TV HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://perjaka.s3.us-east-1.amazonaws.com/btsport.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "USA TV - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://livecdn-bp-iptv.rumsport7.live/live_abr/52432/chunks.m3u8?is_vip=false&token=2223516ee6861d31f8b0239a4aaf0e07a93fd97b&x-sign=761dc8bc53b25b67e1c9081ef6969b24&x-time=1779016320\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SKY MAIN EVENT",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1779102834-Kv4cPTAAP5YTi-2223516ee6861d31f8b0239a4aaf0e07a93fd97b-91b91db581ad10e12b4591a215bd5208\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "STAN SPORTS HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://23syrialive.s3.us-east-2.amazonaws.com/bein1/master.m3u8|referer=https://a11.kooora-sia.com/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "beIN ARABIC HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
           "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://livecdn-bp-iptv.rumsport7.live/live_abr/144253/chunks.m3u8?is_vip=false&token=2223516ee6861d31f8b0239a4aaf0e07a93fd97b&x-sign=9e9dcb2f05e0aea2f431fc4eb66e721b&x-time=1779016320\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "HUB PREMIER HD",
@@ -3944,7 +3979,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/35/image",
       "team1Name": "Man Utd",
       "team2Logo": "https://api.sofascore.com/api/v1/team/14/image",
-      "team2Name": "Forest"
+      "team2Name": "Forest",
+      "telegramSent": true
     },
     "match_14023957": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
@@ -4837,7 +4873,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/44558/image",
       "team1Name": "North Korea U17",
       "team2Logo": "https://api.sofascore.com/api/v1/team/36913/image",
-      "team2Name": "Japan U17"
+      "team2Name": "Japan U17",
+      "telegramSent": true
     },
     "match_15885348": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
@@ -5059,7 +5096,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/331840/image",
       "team1Name": "SC Delhi",
       "team2Logo": "https://api.sofascore.com/api/v1/team/494686/image",
-      "team2Name": "Inter Kashi FC"
+      "team2Name": "Inter Kashi FC",
+      "telegramSent": true
     },
     "match_15940324": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/1900/image/dark",
