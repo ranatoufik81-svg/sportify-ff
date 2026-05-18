@@ -4969,12 +4969,41 @@
           "name": "Laliga Hypermotion ES",
           "source": "main",
           "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1779132415-0-0-56d11ab854b25bc6ac9fa21e25441c3c\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1779132415-0-0-16fdd6abb89a52208e087c16f7fd1a66\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1779132415-0-0-3ae4ece9186907bace7dc1df38a0049a\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy STAR FHD",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1779132415-0-0-e0bc243eef5ddf1642e389afca3b444a\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy PRO HD",
+          "source": "api",
+          "type": "Embed"
         }
       ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2845/image",
       "team1Name": "Leganés",
       "team2Logo": "https://api.sofascore.com/api/v1/team/24265/image",
-      "team2Name": "Huesca"
+      "team2Name": "Huesca",
+      "telegramSent": true
     },
     "match_14081771": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
@@ -6397,7 +6426,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/267915/image",
       "team1Name": "Jamshedpur",
       "team2Logo": "https://api.sofascore.com/api/v1/team/174592/image",
-      "team2Name": "Odisha"
+      "team2Name": "Odisha",
+      "telegramSent": true
     },
     "match_15885348": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
