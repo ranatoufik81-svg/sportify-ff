@@ -3829,6 +3829,18 @@
       "team2Name": "Lecce",
       "telegramSent": true
     },
+    "match_14023936": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+      "leagueTitle": "Premier League",
+      "matchEndTime": "2026-05-20T02:00:00",
+      "matchTime": "2026-05-20T00:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/60/image",
+      "team1Name": "Bournemouth",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/17/image",
+      "team2Name": "Man City"
+    },
     "match_14023950": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
       "leagueTitle": "Premier League",
@@ -6402,6 +6414,47 @@
       "team2Name": "Los Angeles",
       "telegramSent": true
     },
+    "match_15508381": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/1900/image/dark",
+      "leagueTitle": "Super League",
+      "matchEndTime": "2026-05-19T19:00:00",
+      "matchTime": "2026-05-19T17:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/140520-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (IND)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/140520-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (IND)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-bd-owner.ivan-flux.workers.dev/140520-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (BD)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-bd-owner.ivan-flux.workers.dev/140520-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (BD)",
+          "source": "fancode",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/174602/image",
+      "team1Name": "NorthEast Utd",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/118660/image",
+      "team2Name": "Mohammedan"
+    },
     "match_15508386": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/1900/image/dark",
       "leagueTitle": "Super League",
@@ -6583,6 +6636,180 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/174592/image",
       "team2Name": "Odisha",
       "telegramSent": true
+    },
+    "match_15808050": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/20163/image/dark",
+      "leagueTitle": "U17 AFC Asian Cup, Knockout Stage",
+      "matchEndTime": "2026-05-19T22:30:00",
+      "matchTime": "2026-05-19T20:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/142552-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (IND)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-bd-owner.ivan-flux.workers.dev/142552-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (BD)",
+          "source": "fancode",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/22618/image",
+      "team1Name": "Japan U17",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/22662/image",
+      "team2Name": "Uzbekistan U17"
+    },
+    "match_15808052": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/20163/image/dark",
+      "leagueTitle": "U17 AFC Asian Cup, Knockout Stage",
+      "matchEndTime": "2026-05-20T02:00:00",
+      "matchTime": "2026-05-20T00:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/142553-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (IND)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-bd-owner.ivan-flux.workers.dev/142553-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (BD)",
+          "source": "fancode",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/468402/image",
+      "team1Name": "China U17",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/22578/image",
+      "team2Name": "Australia U17"
+    },
+    "match_15832108": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/480/image/dark",
+      "leagueTitle": "CONMEBOL Sudamericana, Group C",
+      "matchEndTime": "2026-05-20T07:30:00",
+      "matchTime": "2026-05-20T05:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/1981/image",
+      "team1Name": "São Paulo",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/6117/image",
+      "team2Name": "Millonarios"
+    },
+    "match_15832109": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/480/image/dark",
+      "leagueTitle": "CONMEBOL Sudamericana, Group C",
+      "matchEndTime": "2026-05-20T07:30:00",
+      "matchTime": "2026-05-20T05:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/174970/image",
+      "team1Name": "Boston River",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3163/image",
+      "team2Name": "O'Higgins"
+    },
+    "match_15832125": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/480/image/dark",
+      "leagueTitle": "CONMEBOL Sudamericana, Group F",
+      "matchEndTime": "2026-05-20T05:30:00",
+      "matchTime": "2026-05-20T03:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/174972/image",
+      "team1Name": "Torque",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/189723/image",
+      "team2Name": "Dep. Riestra"
+    },
+    "match_15832131": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/480/image/dark",
+      "leagueTitle": "CONMEBOL Sudamericana, Group G",
+      "matchEndTime": "2026-05-20T05:30:00",
+      "matchTime": "2026-05-20T03:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3162/image",
+      "team1Name": "Audax Italiano",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/65668/image",
+      "team2Name": "Barracas"
+    },
+    "match_15832784": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/384/image/dark",
+      "leagueTitle": "CONMEBOL Libertadores, Group B",
+      "matchEndTime": "2026-05-20T05:30:00",
+      "matchTime": "2026-05-20T03:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3165/image",
+      "team1Name": "Coquimbo Unido",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/6111/image",
+      "team2Name": "Tolima"
+    },
+    "match_15832811": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/384/image/dark",
+      "leagueTitle": "CONMEBOL Libertadores, Group C",
+      "matchEndTime": "2026-05-20T05:30:00",
+      "matchTime": "2026-05-20T03:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/1961/image",
+      "team1Name": "Fluminense",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/7059/image",
+      "team2Name": "Bolívar"
+    },
+    "match_15832826": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/384/image/dark",
+      "leagueTitle": "CONMEBOL Libertadores, Group E",
+      "matchEndTime": "2026-05-20T07:30:00",
+      "matchTime": "2026-05-20T05:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/6116/image",
+      "team1Name": "Santa Fe",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/36837/image",
+      "team2Name": "Platense"
+    },
+    "match_15832833": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/384/image/dark",
+      "leagueTitle": "CONMEBOL Libertadores, Group G",
+      "matchEndTime": "2026-05-20T07:30:00",
+      "matchTime": "2026-05-20T05:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/268083/image",
+      "team1Name": "Always Ready",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/21982/image",
+      "team2Name": "Mirassol"
+    },
+    "match_15832838": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/384/image/dark",
+      "leagueTitle": "CONMEBOL Libertadores, Group H",
+      "matchEndTime": "2026-05-20T05:30:00",
+      "matchTime": "2026-05-20T03:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3217/image",
+      "team1Name": "Rosario Central",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/249952/image",
+      "team2Name": "UCV"
+    },
+    "match_15832841": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/384/image/dark",
+      "leagueTitle": "CONMEBOL Libertadores, Group D",
+      "matchEndTime": "2026-05-20T08:00:00",
+      "matchTime": "2026-05-20T06:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3202/image",
+      "team1Name": "Boca Juniors",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/1954/image",
+      "team2Name": "Cruzeiro"
     },
     "match_15885348": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
@@ -6836,6 +7063,18 @@
       "team2Name": "SRH",
       "telegramSent": true
     },
+    "match_15885351": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
+      "leagueTitle": "Indian Premier League",
+      "matchEndTime": "2026-05-20T02:30:00",
+      "matchTime": "2026-05-19T19:30:00",
+      "sportType": "CRICKET",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/187842/image",
+      "team1Name": "RR",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/410010/image",
+      "team2Name": "LSG"
+    },
     "match_15940324": {
       "isStar": true,
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/1900/image/dark",
@@ -6973,6 +7212,90 @@
       "team2Name": "JSY",
       "telegramSent": true
     },
+    "match_16074349": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/19918/image/dark",
+      "leagueTitle": "ICC Men's T20 World Cup Europe Sub Regional Qualifier A, Group A",
+      "matchEndTime": "2026-05-19T20:00:00",
+      "matchTime": "2026-05-19T13:00:00",
+      "sportType": "CRICKET",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/199277/image",
+      "team1Name": "JSY",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/417779/image",
+      "team2Name": "FRA"
+    },
+    "match_16074350": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/19918/image/dark",
+      "leagueTitle": "ICC Men's T20 World Cup Europe Sub Regional Qualifier A, Group B",
+      "matchEndTime": "2026-05-19T20:00:00",
+      "matchTime": "2026-05-19T13:00:00",
+      "sportType": "CRICKET",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/417746/image",
+      "team1Name": "SWE",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/417782/image",
+      "team2Name": "SVN"
+    },
+    "match_16074351": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/19918/image/dark",
+      "leagueTitle": "ICC Men's T20 World Cup Europe Sub Regional Qualifier A, Group A",
+      "matchEndTime": "2026-05-20T01:00:00",
+      "matchTime": "2026-05-19T18:00:00",
+      "sportType": "CRICKET",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/417783/image",
+      "team1Name": "CHE",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/417777/image",
+      "team2Name": "CRO"
+    },
+    "match_16074352": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/19918/image/dark",
+      "leagueTitle": "ICC Men's T20 World Cup Europe Sub Regional Qualifier A, Group B",
+      "matchEndTime": "2026-05-20T01:00:00",
+      "matchTime": "2026-05-19T18:00:00",
+      "sportType": "CRICKET",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/412700/image",
+      "team1Name": "GSY",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/417463/image",
+      "team2Name": "AUT"
+    },
+    "match_16087727": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+      "leagueTitle": "Premier League",
+      "matchEndTime": "2026-05-20T02:45:00",
+      "matchTime": "2026-05-20T00:45:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/38/image",
+      "team1Name": "Chelsea",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/33/image",
+      "team2Name": "Tottenham"
+    },
+    "match_16106725": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/495/image/dark",
+      "leagueTitle": "US Open Cup",
+      "matchEndTime": "2026-05-20T07:00:00",
+      "matchTime": "2026-05-20T05:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/52237/image",
+      "team1Name": "Orlando",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/243211/image",
+      "team2Name": "Atlanta"
+    },
+    "match_16106726": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/495/image/dark",
+      "leagueTitle": "US Open Cup",
+      "matchEndTime": "2026-05-20T07:30:00",
+      "matchTime": "2026-05-20T05:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/407803/image",
+      "team1Name": "St. Louis",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2508/image",
+      "team2Name": "Houston"
+    },
     "match_16157629": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/19918/image/dark",
       "leagueTitle": "ICC Men's T20 World Cup East Asia Pacific Qualifier, Super Six",
@@ -7011,6 +7334,18 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/213108/image",
       "team2Name": "FIJ",
       "telegramSent": true
+    },
+    "match_16185083": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11222/image/dark",
+      "leagueTitle": "Nepal Women in Malaysia, 2 T20I Series",
+      "matchEndTime": "2026-05-19T15:00:00",
+      "matchTime": "2026-05-19T08:00:00",
+      "sportType": "CRICKET",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/417860/image",
+      "team1Name": "MAS-W",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/187797/image",
+      "team2Name": "NEP-W"
     }
   },
   "navigation": {
