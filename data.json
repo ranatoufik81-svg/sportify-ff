@@ -4452,7 +4452,99 @@
       "matchEndTime": "2026-05-24T22:30:00",
       "matchTime": "2026-05-24T15:30:00",
       "sportType": "CRICKET",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/x5pddphhxr/out/v1/c8116020f3ff4255b1f227726006284e/cenc.mpd&k1=4038ac222c1b2460a88a8e24dfd36bb5&k2=5f8e6ac34ddc50d30c432a71fe9\u00124a33\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "WILLOW [Ad-Free]",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://dice-live-oc.akamaized.net/hdntl=exp=1779611166~acl=%2F*~id=1b06983d-6a70-482d-b1cc-3e09e8e8cc20~data=hdntl,aXA9MTcyLjE4Mi4yMjUuMTYyJmV4cD0xNzc5NTI0Nzk2JmVpZD05NjE1MDEmb2lkPTEwOCZ0eXBlPVZPRCZ1aWQ9aVVFd1VXfGVlZjY4NGJmLTBlNWItNDk3MC05NWNjLTRjNWNkODM2OTJiZiZjaWQ9ZGNlLnNwdXJzJnB0PW51bGw~hmac=21085939c168f6a4c42ee736a8ed2f49d7cbe143fb3810013a02aa0146c125a2/dash/live/2093720/219029-321032/manifest-d.mpd&k1=278b8746b7c7410e901af0aa3774f037&k2=15e1142d647b474ebbd49e4tefa\u0012a9d\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SKY SPORTS FHD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://dck1-ac-live.cdn.indazn.com/out/v1/761f422bb93edb7b/4b1684199726448b999c97b4e639a07f/index.mpd&k1=6911cdcba96355c2a766c95e3708cf62&k2=f4444f6ff0c2c540e6c02479w12Fb34f\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "KAYO HINDI FHD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd&k1=01c9bbf8137e58378a5ead514998a7b4&k2=fb01e61809e80e5e93a889cdv1dAab22\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "FOX CRICKET FHD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/q5v89jit0t/out/v1/7ed6a82342dd4f5dbb941ca39978d680/cenc-sd.mpd&k1=a7f414c066d3d8c3f19930764fad7d56&k2=506e73d4cc003b77ad133f66zf9\u0011c3da\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "WILLOW SD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://dai.google.com/linear/hls/event/mbsfWpAoS2Olw5e-nkM-gw/master.m3u8|user-agent=Cricbuzz/7.00.01 (Linux;Android 13) AndroidXMedia3/1.5.1&x-forwarded-for=1.178.20.23\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "NOON SPORTS",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SKY CRICKET",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD&uid=999&pass=999\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "Star Sports HIN",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=http://datahub11.com/live/Jen12345/Jen54321/703300.ts\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "WILLOW HINDI",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=http://193.47.62.40/hls/koooq.m3u8|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SD SERVER",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://livetv.hotstar.com/mp1/gec-india-1540065788/fa6a4f0005ef4f90ab24484d165b0aaf/index.mpd?%7Ccookie=hdntl=exp=1779367180~acl=%2F*~id=35f7ade32fbd132abd89fe60553696f4~data=hdntl~hmac=33c340ed531fbbc8b5a3f932879b892b945cc7f2b61e52ef0be61dee04d02149&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com&k1==81872faa1d6b45fa9045cdeb2e310000&k2=9b88168e61274587a471962cw6B94675\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "STAR SPORTS HIN",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://livetv.hotstar.com/mp1/gec-india-1540065782/fce958099ca84fc3b980e651a4a668a8/index.mpd?%7Ccookie=hdntl=exp=1779367180~acl=%2F*~id=35f7ade32fbd132abd89fe60553696f4~data=hdntl~hmac=33c340ed531fbbc8b5a3f932879b892b945cc7f2b61e52ef0be61dee04d02149&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com&k1=b7cdde012ce04e90a08b90622e020000&k2=13603245acab444faef6cab5t98De55f\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "STAR SPORTS ENG",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://jcevents.hotstar.com/bpk-tv/e03bbf7688f4b14faa3782e78851c3d9_CTV/Fallback/e03bbf7688f4b14faa3782e78851c3d9.m3u8?%7Ccookie=hdntl=exp=1779367180~acl=%2F*~id=35f7ade32fbd132abd89fe60553696f4~data=hdntl~hmac=33c340ed531fbbc8b5a3f932879b892b945cc7f2b61e52ef0be61dee04d02149&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "IPL ENG [Hotstar]",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/187780/image",
       "team1Name": "MI",
       "team2Logo": "https://api.sofascore.com/api/v1/team/187842/image",
@@ -4464,7 +4556,57 @@
       "matchEndTime": "2026-05-25T02:30:00",
       "matchTime": "2026-05-24T19:30:00",
       "sportType": "CRICKET",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fbo5ncnbyv/out/v1/ba5ff04083324474800234e8d2eef8d4/cenc.mpd&k1=8ab6b4ac429bfe070cfdb2a734b0f2e3&k2=61a2198ca92d1c539abd22636fe0bf23\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "WILLOW [Ad-Free]",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://dice-live-oc.akamaized.net/hdntl=exp=1779070453~acl=%2F*~id=319ab612-2e20-46d8-844b-27cb156b638c~data=hdntl,aXA9NTIuMTYxLjU2LjcwJmV4cD0xNzc4OTg0MDgzJmVpZD05MzY0MjQmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9YWRjV1lXfGI2MGFmMjk5LTAzOTEtNGQxZi1hNmQwLWQ4MjQ0ZGZhZjFjOSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=0f528e265590e386ba6fb3983f21449ea43d5fa28aed795503f83643861de1ff/dash/live/2093715/219027-321028/manifest-d.mpd&k1=708a98b352bd4418a73a028edd84da8f&k2=b1fa5c2bca4c4b57b924b748564532cb\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SKY SPORTS FHD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://dck1-ak-livedazn.akamaized.net/out/v1/814bffb9b389f652/e1f3582cdf2a4b4fbc1b8a7306d8c757/index.mpd&k1=d61f78cdfd675eee8a2144f5f7142a33&k2=7a4d6f780440cd645d9bcaaa1295529d\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "KAYO HINDI FHD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://dai.google.com/linear/hls/event/mbsfWpAoS2Olw5e-nkM-gw/master.m3u8|user-agent=Cricbuzz/7.00.01 (Linux;Android 13) AndroidXMedia3/1.5.1&x-forwarded-for=1.178.20.23\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "NOON SPORTS",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SKY CRICKET",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://sunffov.kuvuslov.cymru/fox501.m3u8|Referer=https://estraaw.pages.dev/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "FOX SPORTS HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://v.zgdyoqa.shop/hls/JPPPX.m3u8|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SD SERVER",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/187775/image",
       "team1Name": "KKR",
       "team2Logo": "https://api.sofascore.com/api/v1/team/187841/image",
