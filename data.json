@@ -3487,6 +3487,34 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://instreams.pro/US/NFLHD12/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "PARAMOUNT+ HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://instreams.pro/EU/HDTV11/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "DAZN SPORTS HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://instreams.pro/bil2/daznzona/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "DAZN ZONA SD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://play.ltwxsc.com/live/hd-en-6MuSNj2XXC8x3Lkqzv.m3u8?txSecret=e63ce3d75e6d5087b02c936e35edb339&txTime=6A13494A\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SPORTIFy Live",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
           "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://adjara-live-eu.akamaized.net/hdntl=exp=1779716808~acl=%2F*~id=36fb73d5-8fd7-4442-a1a4-29edfb8ca880~data=hdntl,aXA9MjAuOTcuMTk4LjI0MCZleHA9MTc3OTYzMDQzOCZlaWQ9ODgwNTM2Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPXNleWRIdHwzM2RmMTQ4NS1jZmNlLTRlZGUtODA0Ny0zMjExOGNjYjhkNjgmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=345a6aa8c997488374bf009dd7dc7a719f2feb4601bd6fe1f77a99c8d3b95ca3/dash/live/2001527/303370-322007/manifest-d.mpd&k1=97c4d45654be4a819468b0922ff23147&k2=026bcc6ff1964ba187e5e072b1fdc18e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "SETANTA SPORTS",
@@ -5809,7 +5837,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/3001/image",
       "team1Name": "Sporting",
       "team2Logo": "https://api.sofascore.com/api/v1/team/25787/image",
-      "team2Name": "Torreense"
+      "team2Name": "Torreense",
+      "telegramSent": true
     },
     "match_16069443": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/1054/image/dark",
