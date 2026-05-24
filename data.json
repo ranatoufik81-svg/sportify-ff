@@ -3504,7 +3504,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2701/image",
       "team1Name": "Verona",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2702/image",
-      "team2Name": "Roma"
+      "team2Name": "Roma",
+      "telegramSent": true
     },
     "match_13980066": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
@@ -3524,7 +3525,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2689/image",
       "team1Name": "Lecce",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2713/image",
-      "team2Name": "Genoa"
+      "team2Name": "Genoa",
+      "telegramSent": true
     },
     "match_13980070": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
@@ -3544,7 +3546,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2761/image",
       "team1Name": "Cremonese",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2704/image",
-      "team2Name": "Como"
+      "team2Name": "Como",
+      "telegramSent": true
     },
     "match_13980071": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
@@ -3578,7 +3581,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2692/image",
       "team1Name": "Milan",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2719/image",
-      "team2Name": "Cagliari"
+      "team2Name": "Cagliari",
+      "telegramSent": true
     },
     "match_13980077": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
@@ -3612,7 +3616,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2696/image",
       "team1Name": "Torino",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2687/image",
-      "team2Name": "Juventus"
+      "team2Name": "Juventus",
+      "telegramSent": true
     },
     "match_14081772": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
@@ -3890,9 +3895,9 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/131207-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/131207-ENGLISH.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
-          "name": "FANCODE BLOODY_SWEET (IND)",
+          "name": "FANCODE ENGLISH (IND)",
           "source": "fancode",
           "type": "Direct"
         },
@@ -3904,9 +3909,9 @@
           "type": "Direct"
         },
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-bd-owner.ivan-flux.workers.dev/131207-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-bd-owner.ivan-flux.workers.dev/131207-ENGLISH-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
-          "name": "FANCODE BLOODY_SWEET (BD)",
+          "name": "FANCODE ENGLISH (BD)",
           "source": "fancode",
           "type": "Direct"
         },
