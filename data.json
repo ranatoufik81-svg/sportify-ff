@@ -3485,7 +3485,29 @@
       "matchEndTime": "2026-05-26T02:00:00",
       "matchTime": "2026-05-25T19:00:00",
       "sportType": "CRICKET",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://dice-live-oc.akamaized.net/hdntl=exp=1779769090~acl=%2F*~id=68e3825b-e424-4ede-b44a-01bd82701425~data=hdntl,aXA9MTcyLjE4My44OS4zNCZleHA9MTc3OTY4MjcyMCZlaWQ9OTYyNjYyJm9pZD0xMDgmdHlwZT1WT0QmdWlkPW5yS25IaXxhNDE5NzJhMS1jOTk4LTQ1ZDAtYjg1NS05MmRlYjQwNzZmMmYmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=42e94e0a1e596b8894e65b2bbff7f8670440b0fc51955a8832857b9d1db43f1d/dash/live/2093710/219026-321025/manifest-d.mpd&k1=aefc2c8d1c8840f1b6981f856c9269ba&k2=cf8ea114c45b4d6596b2748258ab74d6\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SKY SPORTS FHD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://dice-live-oc.akamaized.net/hdntl=exp=1779769090~acl=%2F*~id=68e3825b-e424-4ede-b44a-01bd82701425~data=hdntl,aXA9MTcyLjE4My44OS4zNCZleHA9MTc3OTY4MjcyMCZlaWQ9OTYyNjYyJm9pZD0xMDgmdHlwZT1WT0QmdWlkPW5yS25IaXxhNDE5NzJhMS1jOTk4LTQ1ZDAtYjg1NS05MmRlYjQwNzZmMmYmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=42e94e0a1e596b8894e65b2bbff7f8670440b0fc51955a8832857b9d1db43f1d/dash/live/2093666/294921-318514/manifest-d.mpd&k1=4d346b1d1ae64d4a800409cffa14983e&k2=208c972bd2da4359ac94e6944fe378b6\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SKY SPORTS 4k",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SKY CRICKET HD",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/213121/image",
       "team1Name": "ENG-W",
       "team2Logo": "https://api.sofascore.com/api/v1/team/213115/image",
