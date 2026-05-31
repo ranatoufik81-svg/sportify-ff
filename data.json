@@ -3689,23 +3689,9 @@
       "sportType": "CRICKET",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9ursje3pdu/out/v1/b794975bb9304d08b362b47ed428f4f1/cenc.mpd&k1=a7ed8d4a1fa2eb471a6be55fe2d2d248&k2=0145bec68bc41a8a0b9533044b44d39c\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=http://95.133.241.239:8089/crc1/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "WILLOW - AQ",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/cfv0fqo8qr/out/v1/8e02e7de7e9245c4b54f304c1159878d/cenc-sd.mpd&k1=084bee707497996158e4ec6d9cad40e4&k2=2eb98071bf8c006ef8b5a5487151d843\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "WILLOW - LQ",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://cdn10lhr.tamashaweb.com:8087/jazzauth/PAKvsZIMWODI26-ABR/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjYgMTA6MTk6MjAgQU0maGFzaF92YWx1ZT1SQ2RhZURmdU1pQ011NUYvZ3lCd1p3PT0mdmFsaWRtaW51dGVzPTYw\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "TAMASHA PK",
+          "name": "SD SERVER",
           "source": "main",
           "type": "Direct"
         }
