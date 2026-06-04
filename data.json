@@ -3479,109 +3479,97 @@
     }
   },
   "matches": {
-    "match_15840813": {
+    "match_13218621": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/28/image/dark",
+      "leagueTitle": "AFC Asian Cup, Qualification Group B",
+      "matchEndTime": "2026-06-04T23:30:00",
+      "matchTime": "2026-06-04T21:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-flux.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "Ivan-FluX",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/4774/image",
+      "team1Name": "Lebanon",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/4721/image",
+      "team2Name": "Yemen"
+    },
+    "match_15840814": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/33666/image/dark",
       "leagueTitle": "Women's T20I Tri-Series in Ireland",
-      "matchEndTime": "2026-06-04T03:30:00",
-      "matchTime": "2026-06-03T20:30:00",
-      "sportType": "CRICKET",
-      "streamLinks": [
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/c3wtw6a0k6/out/v1/650581e3b31e4900a00b62a720b80212/cenc-sd.mpd&k1=21ddd82bce24eb4aba2a64f34fa4897f&k2=0c50c19d91893d2b391508c382b60041\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "WILLOW SD",
-          "source": "main",
-          "type": "Direct"
-        }
-      ],
-      "team1Logo": "https://api.sofascore.com/api/v1/team/187808/image",
-      "team1Name": "PAK-W",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/213120/image",
-      "team2Name": "WI-W",
-      "telegramSent": true
-    },
-    "match_15911693": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
-      "leagueTitle": "Sri Lanka in West Indies, 3 ODI Series",
-      "matchEndTime": "2026-06-04T03:00:00",
-      "matchTime": "2026-06-03T20:00:00",
-      "sportType": "CRICKET",
-      "streamLinks": [
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=http://193.47.62.40/hls/FUUUQQ.m3u8|referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "WILLOW SD",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/t3CktfZy_SvNpbPDPXfKhXgYNTpAtg9SbA43X4Er82mC9luDte-S7jIzYUMFIlQ4vuI_4sErlLqVpw5b2sYvuNEDiPwnlsflia9n602wfmHECIHvx4Om9SV1P4IkhUb4UxxqOCHnvHbQoT04UNWgxlSYFdQoui7741r_niCy2hdKcpioMxy3byK4NqbFtMHpYAtVbkJD86G04YD4paEQLbtZhlOcVT1QXAdf-RYVRu7SZmaKGQq7VHmFT_1XvNH8/hls/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "WILLOW HD",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd&k1=f288380ca4cef9ad3f27a92a08e9bb8b&k2=9f18d26291d9230833501f7f822f6875\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "TNT SPORTS FHD",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/k9bsz8cflm/out/v1/ce4d6ba95ace46d6af61c04d617836a3/cenc.mpd&k1=e24d997a3d30c3a4cc98125302382c23&k2=45dea9acb0dcf1f56c86a3881bc3957d\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "WILLOW FHD AD Free",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd&k1=7e9239c1982d984a002df3ed049d0756&k2=1b8a17598129a3618535c8fb05f103fe\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "FANCODE FHD",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd&k1=709c812e1b4174002605df1d17d34a4c&k2=0bbee6c9c20a0f065bf8369d54cbf83e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "FANCODE SD",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/k9bsz8cflm/out/v1/ce4d6ba95ace46d6af61c04d617836a3/cenc.mpd&k1=e24d997a3d30c3a4cc98125302382c23&k2=45dea9acb0dcf1f56c86a3881bc3957d\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "WILLOW FHD ALT",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/c3wtw6a0k6/out/v1/650581e3b31e4900a00b62a720b80212/cenc-sd.mpd&k1=21ddd82bce24eb4aba2a64f34fa4897f&k2=0c50c19d91893d2b391508c382b60041\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "WILLOW SD",
-          "source": "main",
-          "type": "Direct"
-        }
-      ],
-      "team1Logo": "https://api.sofascore.com/api/v1/team/187760/image",
-      "team1Name": "WI",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/187756/image",
-      "team2Name": "SL",
-      "telegramSent": true
-    },
-    "match_15919243": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/33884/image/dark",
-      "leagueTitle": "Women's T20I Tri-Series in Scotland",
-      "matchEndTime": "2026-06-04T00:30:00",
-      "matchTime": "2026-06-03T17:30:00",
+      "matchEndTime": "2026-06-05T03:30:00",
+      "matchTime": "2026-06-04T20:30:00",
       "sportType": "CRICKET",
       "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/453162/image",
-      "team1Name": "SCO-W",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/417753/image",
-      "team2Name": "NED-W",
-      "telegramSent": true
+      "team1Logo": "https://api.sofascore.com/api/v1/team/213116/image",
+      "team1Name": "IRE-W",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/187808/image",
+      "team2Name": "PAK-W"
+    },
+    "match_15919245": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/33884/image/dark",
+      "leagueTitle": "Women's T20I Tri-Series in Scotland",
+      "matchEndTime": "2026-06-05T00:30:00",
+      "matchTime": "2026-06-04T17:30:00",
+      "sportType": "CRICKET",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/417753/image",
+      "team1Name": "NED-W",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/187809/image",
+      "team2Name": "BAN-W"
+    },
+    "match_16141929": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
+      "leagueTitle": "Australia in Pakistan, 3 ODI Series",
+      "matchEndTime": "2026-06-05T00:00:00",
+      "matchTime": "2026-06-04T17:00:00",
+      "sportType": "CRICKET",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/kr46ndje4l/out/v1/9833c1deedb64791b99615a4aefefb66/cenc.mpd&k1=56816fa6c2b3fa65a5de766d52f08b7f&k2=07c1b41782e4321883a06b73629200a0\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "WILLOW FHD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=http://193.47.62.41/hls/GGYYY.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "WILLOW SD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tvsen5.aynaott.com/PtvSports/index.m3u8?e=1780145861&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b168011e3ca5c9601e25488c3369cef0\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "PTV SPORTS HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1780145861&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=8bbe8b546fa058429efacc41be2fb8b1\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "T SPORTS HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=http://95.133.241.239:8089/crc1/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "PTV SPORTS SD",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/187754/image",
+      "team1Name": "PAK",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/187746/image",
+      "team2Name": "AUS"
     },
     "match_16179073": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/34817/image/dark",
@@ -3635,83 +3623,81 @@
       "team2Name": "QAT-W",
       "telegramSent": true
     },
-    "match_16179077": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/34817/image/dark",
-      "leagueTitle": "ACC Women's T20I Premier Cup, Group C",
-      "matchEndTime": "2026-06-04T14:00:00",
-      "matchTime": "2026-06-04T07:00:00",
-      "sportType": "CRICKET",
-      "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/417860/image",
-      "team1Name": "MAS-W",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/417861/image",
-      "team2Name": "SIN-W",
-      "telegramSent": true
-    },
-    "match_16179078": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/34817/image/dark",
-      "leagueTitle": "ACC Women's T20I Premier Cup, Group A",
-      "matchEndTime": "2026-06-04T14:00:00",
-      "matchTime": "2026-06-04T07:00:00",
-      "sportType": "CRICKET",
-      "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/446070/image",
-      "team1Name": "THA-W",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/417864/image",
-      "team2Name": "BRN-W",
-      "telegramSent": true
-    },
-    "match_16179079": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/34817/image/dark",
-      "leagueTitle": "ACC Women's T20I Premier Cup, Group B",
-      "matchEndTime": "2026-06-04T14:00:00",
-      "matchTime": "2026-06-04T07:00:00",
-      "sportType": "CRICKET",
-      "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/291494/image",
-      "team1Name": "UAE-W",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/417863/image",
-      "team2Name": "OMA-W",
-      "telegramSent": true
-    },
-    "match_16179080": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/34817/image/dark",
-      "leagueTitle": "ACC Women's T20I Premier Cup, Group D",
-      "matchEndTime": "2026-06-04T14:00:00",
-      "matchTime": "2026-06-04T07:00:00",
-      "sportType": "CRICKET",
-      "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/187797/image",
-      "team1Name": "NEP-W",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/417862/image",
-      "team2Name": "BHU-W",
-      "telegramSent": true
-    },
-    "match_16219785": {
+    "match_16219823": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/35038/image/dark",
       "leagueTitle": "T20I Tri-Series in Eswatini",
-      "matchEndTime": "2026-06-04T00:30:00",
-      "matchTime": "2026-06-03T17:30:00",
+      "matchEndTime": "2026-06-05T00:30:00",
+      "matchTime": "2026-06-04T17:30:00",
       "sportType": "CRICKET",
       "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/425272/image",
-      "team1Name": "MOZ",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/456681/image",
+      "team1Name": "LES",
       "team2Logo": "https://api.sofascore.com/api/v1/team/425271/image",
-      "team2Name": "ESW",
-      "telegramSent": true
+      "team2Name": "ESW"
     },
-    "match_16226894": {
+    "match_16226896": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/35060/image/dark",
-      "leagueTitle": "Asian Games Men's T20I Qualifier, Group A",
-      "matchEndTime": "2026-06-04T14:00:00",
-      "matchTime": "2026-06-04T07:00:00",
+      "leagueTitle": "Asian Games Men's T20I Qualifier, Group B",
+      "matchEndTime": "2026-06-05T14:00:00",
+      "matchTime": "2026-06-05T07:00:00",
       "sportType": "CRICKET",
       "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/459350/image",
-      "team1Name": "QAT",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/187812/image",
-      "team2Name": "CHN",
-      "telegramSent": true
+      "team1Logo": "https://api.sofascore.com/api/v1/team/294794/image",
+      "team1Name": "SIN",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/412036/image",
+      "team2Name": "BRN"
+    },
+    "match_16226897": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/35060/image/dark",
+      "leagueTitle": "Asian Games Men's T20I Qualifier, Group B",
+      "matchEndTime": "2026-06-05T19:00:00",
+      "matchTime": "2026-06-05T12:00:00",
+      "sportType": "CRICKET",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/199279/image",
+      "team1Name": "OMA",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/187774/image",
+      "team2Name": "HK"
+    },
+    "match_16268582": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/429/image/dark",
+      "leagueTitle": "U17 European Championship, Knockout stage",
+      "matchEndTime": "2026-06-04T19:00:00",
+      "matchTime": "2026-06-04T17:00:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-flux.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "Ivan-FluX",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/22583/image",
+      "team1Name": "Belgium U17",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/22474/image",
+      "team2Name": "France U17"
+    },
+    "match_16268586": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/429/image/dark",
+      "leagueTitle": "U17 European Championship, Knockout stage",
+      "matchEndTime": "2026-06-05T00:30:00",
+      "matchTime": "2026-06-04T22:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-flux.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "Ivan-FluX",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/22616/image",
+      "team1Name": "Italy U17",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/22479/image",
+      "team2Name": "Spain U17"
     }
   },
   "navigation": {
