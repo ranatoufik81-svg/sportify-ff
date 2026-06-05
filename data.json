@@ -3479,97 +3479,6 @@
     }
   },
   "matches": {
-    "match_13218621": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/28/image/dark",
-      "leagueTitle": "AFC Asian Cup, Qualification Group B",
-      "matchEndTime": "2026-06-04T23:30:00",
-      "matchTime": "2026-06-04T21:30:00",
-      "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=http://193.47.62.41/hls/BFFFSSSS.m3u8|referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "SD SERVER",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1780599199-0-0-7fe6dd98fa25c7b4294354d05ba4e940\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy TV",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1780599199-0-0-4da719a4c1827d6c11336b73c41e2d28\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy TV+ HD",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1780599199-0-0-0aa6851715fdb665c7297f112c6cec8f\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy PRIME SD",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1780599199-0-0-0271c9e6346725966203e6229783f326\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy LIVE HD",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1780599199-0-0-ec1f291fd1e08c8a068d2bb5d09fa107\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy HD",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1780599199-0-0-4d9d84fe4ae6dd53b4067b122513b7c3\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy MAX SD",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1780599199-0-0-b28ae7d7dc7e3be9afe36a84ddbab5ae\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy SD",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1780599199-0-0-0d17ccdd2fc088112f3593a3b2b8aac9\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy PRIME",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1780599199-0-0-5baa4806fd24f960c1eac52e95b5bddd\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy SD",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780599199-0-0-5004fe76efc62ff0221a80960d2d205a\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy HD",
-          "source": "api",
-          "type": "Embed"
-        }
-      ],
-      "team1Logo": "https://api.sofascore.com/api/v1/team/4774/image",
-      "team1Name": "Lebanon",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/4721/image",
-      "team2Name": "Yemen",
-      "telegramSent": true
-    },
     "match_15024673": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/780/image/dark",
       "leagueTitle": "FIFA World Cup, Women, Qualification, UEFA, Gr. C4",
@@ -3583,12 +3492,41 @@
           "name": "Ivan-FluX",
           "source": "main",
           "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1780669580-0-0-c790b297b942d27a2b1623ffae677bd6\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1780669580-0-0-b05b8ca6524c1846c8b628473168f916\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-612928_lsd.m3u8?auth_key=1780669580-0-0-4bf5a029e36f1a074d2fc5f437141193\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy SOCCER",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-612928_lhd.m3u8?auth_key=1780669580-0-0-c5e0b29d198a7851e05df69b92442189\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy HD",
+          "source": "api",
+          "type": "Embed"
         }
       ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/38088/image",
       "team1Name": "Georgia",
       "team2Logo": "https://api.sofascore.com/api/v1/team/38087/image",
-      "team2Name": "Faroe Islands"
+      "team2Name": "Faroe Islands",
+      "telegramSent": true
     },
     "match_15024675": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/780/image/dark",
@@ -4069,327 +4007,6 @@
       "team1Name": "Armenia",
       "team2Logo": "https://api.sofascore.com/api/v1/team/38094/image",
       "team2Name": "Kazakhstan"
-    },
-    "match_15840814": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/33666/image/dark",
-      "leagueTitle": "Women's T20I Tri-Series in Ireland",
-      "matchEndTime": "2026-06-05T03:30:00",
-      "matchTime": "2026-06-04T20:30:00",
-      "sportType": "CRICKET",
-      "streamLinks": [
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/c3wtw6a0k6/out/v1/650581e3b31e4900a00b62a720b80212/cenc-sd.mpd&k1=21ddd82bce24eb4aba2a64f34fa4897f&k2=0c50c19d91893d2b391508c382b60041\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "WILLOW SD",
-          "source": "main",
-          "type": "Direct"
-        }
-      ],
-      "team1Logo": "https://api.sofascore.com/api/v1/team/213116/image",
-      "team1Name": "IRE-W",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/187808/image",
-      "team2Name": "PAK-W",
-      "telegramSent": true
-    },
-    "match_15919245": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/33884/image/dark",
-      "leagueTitle": "Women's T20I Tri-Series in Scotland",
-      "matchEndTime": "2026-06-05T00:30:00",
-      "matchTime": "2026-06-04T17:30:00",
-      "sportType": "CRICKET",
-      "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/417753/image",
-      "team1Name": "NED-W",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/187809/image",
-      "team2Name": "BAN-W",
-      "telegramSent": true
-    },
-    "match_16141929": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
-      "leagueTitle": "Australia in Pakistan, 3 ODI Series",
-      "matchEndTime": "2026-06-05T00:00:00",
-      "matchTime": "2026-06-04T17:00:00",
-      "sportType": "CRICKET",
-      "streamLinks": [
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/p5j53ixyin/out/v1/ca7a0cd170ae466aacf345a9e0735623/cenc-sd.mpd&k1=d5c368a160b6ded3658d86ccbd2e6071&k2=242bbd69511260b72e1b531e98d8d9c4\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "WILLOW SPORTS SD",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8d9vjaxzhx/out/v1/6f1b142bb9944750aceb597b73682e4c/cenc.mpd&k1=a16958406ffe1b9e8c7089f65d1ddfb6&k2=4ac976c3bae40f3babc9469bf9da0638\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "WILLOW FHD",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=http://193.47.62.42/hls/zzzzQQ.m3u8|referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "WILLOW SD",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tvsen5.aynaott.com/PtvSports/index.m3u8?e=1780145861&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b168011e3ca5c9601e25488c3369cef0\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "PTV SPORTS HD",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1780145861&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=8bbe8b546fa058429efacc41be2fb8b1\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "T SPORTS HD",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=http://95.133.241.239:8089/crc2/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "PTV SPORTS SD",
-          "source": "main",
-          "type": "Direct"
-        }
-      ],
-      "team1Logo": "https://api.sofascore.com/api/v1/team/187754/image",
-      "team1Name": "PAK",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/187746/image",
-      "team2Name": "AUS",
-      "telegramSent": true
-    },
-    "match_16179073": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/34817/image/dark",
-      "leagueTitle": "ACC Women's T20I Premier Cup, Group A",
-      "matchEndTime": "2026-06-04T18:30:00",
-      "matchTime": "2026-06-04T11:30:00",
-      "sportType": "CRICKET",
-      "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/453169/image",
-      "team1Name": "JPN-W",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/489966/image",
-      "team2Name": "MNG-W",
-      "telegramSent": true
-    },
-    "match_16179074": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/34817/image/dark",
-      "leagueTitle": "ACC Women's T20I Premier Cup, Group B",
-      "matchEndTime": "2026-06-04T18:30:00",
-      "matchTime": "2026-06-04T11:30:00",
-      "sportType": "CRICKET",
-      "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/470603/image",
-      "team1Name": "PHI-W",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/1156155/image",
-      "team2Name": "SDA-W",
-      "telegramSent": true
-    },
-    "match_16179075": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/34817/image/dark",
-      "leagueTitle": "ACC Women's T20I Premier Cup, Group C",
-      "matchEndTime": "2026-06-04T18:30:00",
-      "matchTime": "2026-06-04T11:30:00",
-      "sportType": "CRICKET",
-      "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/454472/image",
-      "team1Name": "INA-W",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/417865/image",
-      "team2Name": "KUW-W",
-      "telegramSent": true
-    },
-    "match_16179076": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/34817/image/dark",
-      "leagueTitle": "ACC Women's T20I Premier Cup, Group D",
-      "matchEndTime": "2026-06-04T18:30:00",
-      "matchTime": "2026-06-04T11:30:00",
-      "sportType": "CRICKET",
-      "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/187796/image",
-      "team1Name": "HK-W",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/417866/image",
-      "team2Name": "QAT-W",
-      "telegramSent": true
-    },
-    "match_16219823": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/35038/image/dark",
-      "leagueTitle": "T20I Tri-Series in Eswatini",
-      "matchEndTime": "2026-06-05T00:30:00",
-      "matchTime": "2026-06-04T17:30:00",
-      "sportType": "CRICKET",
-      "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/456681/image",
-      "team1Name": "LES",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/425271/image",
-      "team2Name": "ESW",
-      "telegramSent": true
-    },
-    "match_16226896": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/35060/image/dark",
-      "leagueTitle": "Asian Games Men's T20I Qualifier, Group B",
-      "matchEndTime": "2026-06-05T14:00:00",
-      "matchTime": "2026-06-05T07:00:00",
-      "sportType": "CRICKET",
-      "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/294794/image",
-      "team1Name": "SIN",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/412036/image",
-      "team2Name": "BRN",
-      "telegramSent": true
-    },
-    "match_16226897": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/35060/image/dark",
-      "leagueTitle": "Asian Games Men's T20I Qualifier, Group B",
-      "matchEndTime": "2026-06-05T19:00:00",
-      "matchTime": "2026-06-05T12:00:00",
-      "sportType": "CRICKET",
-      "streamLinks": "",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/199279/image",
-      "team1Name": "OMA",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/187774/image",
-      "team2Name": "HK",
-      "telegramSent": true
-    },
-    "match_16268582": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/429/image/dark",
-      "leagueTitle": "U17 European Championship, Knockout stage",
-      "matchEndTime": "2026-06-04T19:00:00",
-      "matchTime": "2026-06-04T17:00:00",
-      "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1780583181-0-0-b55ebc6f101700530f5f42815824f932\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "LIVE SERVER",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=http://193.47.62.42/hls/zzzzQQQ.m3u8|referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "HD SERVER",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd&k1=0ad4080cdff8c60b1233b22087f0b340&k2=285f129c5eca01dd08a5d5a14ad801c8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "SportDigital FUSSBALL",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1780583179-0-0-ac71a923b7bd465fa42542a354d30baf\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy TV",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1780583179-0-0-39729e020db30060af48143dd3e356d4\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy TV+ HD",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1780583220-0-0-091eb602f06ee12b2d3f669420cc8e58\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy TURBO FHD",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1780583220-0-0-f32f8026f80f3947fbaa819e1495753f\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy HD",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1780583181-0-0-b55ebc6f101700530f5f42815824f932\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy HD",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1780583181-0-0-09e47a7e2dac582d8ceba69f71da3acb\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy SD",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1780583179-0-0-2c300af40bdbcc944ca1358f55f0ea80\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy FAST",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780583179-0-0-7777504587f0864264a7ff24485a8824\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy TURBO",
-          "source": "api",
-          "type": "Embed"
-        }
-      ],
-      "team1Logo": "https://api.sofascore.com/api/v1/team/22583/image",
-      "team1Name": "Belgium U17",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/22474/image",
-      "team2Name": "France U17",
-      "telegramSent": true
-    },
-    "match_16268586": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/429/image/dark",
-      "leagueTitle": "U17 European Championship, Knockout stage",
-      "matchEndTime": "2026-06-05T00:30:00",
-      "matchTime": "2026-06-04T22:30:00",
-      "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=http://193.47.62.44/hls/TOOOQ.m3u8|referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "SD SERVER",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780597579-0-0-354a00da7bc2d678df1a06931e70987a\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "LIVE SERVER",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd&k1=0ad4080cdff8c60b1233b22087f0b340&k2=285f129c5eca01dd08a5d5a14ad801c8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "SportDigital FUSSBALL",
-          "source": "main",
-          "type": "Direct"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1780602079-0-0-efb5f48c959b602859a014528b6df102\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy TV",
-          "source": "api",
-          "type": "Embed"
-        },
-        {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780602079-0-0-0c6793ab202aada7cfcaba7371ba0e9f\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy TV+ HD",
-          "source": "api",
-          "type": "Embed"
-        }
-      ],
-      "team1Logo": "https://api.sofascore.com/api/v1/team/22616/image",
-      "team1Name": "Italy U17",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/22479/image",
-      "team2Name": "Spain U17",
-      "telegramSent": true
     }
   },
   "navigation": {
