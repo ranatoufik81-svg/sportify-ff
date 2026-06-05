@@ -3588,7 +3588,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/70488/image",
       "team1Name": "Montenegro",
       "team2Logo": "https://api.sofascore.com/api/v1/team/34015/image",
-      "team2Name": "Wales"
+      "team2Name": "Wales",
+      "telegramSent": true
     },
     "match_15042370": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/780/image/dark",
@@ -3635,7 +3636,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/34014/image",
       "team1Name": "Austria",
       "team2Logo": "https://api.sofascore.com/api/v1/team/37373/image",
-      "team2Name": "Slovenia"
+      "team2Name": "Slovenia",
+      "telegramSent": true
     },
     "match_15042380": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/780/image/dark",
@@ -3677,12 +3679,27 @@
           "name": "SD (USE VPN)",
           "source": "main",
           "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-602153_lsd.m3u8?auth_key=1780678399-0-0-ecdc1c33086bb2ef7fc90d2f4d79d6ef\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1780678399-0-0-19cdb1707a4bef5644338e3cd2273ce6\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Embed"
         }
       ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/32483/image",
       "team1Name": "Ukraine",
       "team2Logo": "https://api.sofascore.com/api/v1/team/22024/image",
-      "team2Name": "Iceland"
+      "team2Name": "Iceland",
+      "telegramSent": true
     },
     "match_15117929": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/780/image/dark",
@@ -3744,12 +3761,55 @@
           "name": "SD (USE VPN)",
           "source": "main",
           "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1780678399-0-0-b3e231ae9485b957babb73f6f06932ba\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780678399-0-0-2c0117985cc4753864fbb1d997fee019\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy TV+ HD",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-612098_lsd.m3u8?auth_key=1780678399-0-0-5c29ed8999fa26c44c74dcf6651fc6ca\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy FOOTBALL",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1780678399-0-0-af34d02c302a22691994f26af88d3813\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy PLUS",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1780678399-0-0-6167454c312744ef769bea29dfdb9669\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy LIVE",
+          "source": "api",
+          "type": "Embed"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1780678399-0-0-de7dbb94642555c373cec0c9126be3f3\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
+          "name": "SPORTIFy PLUS SD",
+          "source": "api",
+          "type": "Embed"
         }
       ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/22026/image",
       "team1Name": "Poland",
       "team2Logo": "https://api.sofascore.com/api/v1/team/32485/image",
-      "team2Name": "France"
+      "team2Name": "France",
+      "telegramSent": true
     },
     "match_15117949": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/780/image/dark",
@@ -3833,14 +3893,14 @@
           "type": "Direct"
         },
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1780677679-0-0-7cf1e37603c66032bc91cf56c0d38f10\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1780678178-0-0-87aed505874592d7faf2e54bbf9ea97a\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV",
           "source": "api",
           "type": "Embed"
         },
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1780677679-0-0-575ed6a95cf849684c4dd26471f56bbd\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1780678178-0-0-2af845116251882cde37d51d85045641\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV+ HD",
           "source": "api",
@@ -3911,7 +3971,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/37372/image",
       "team1Name": "Scotland",
       "team2Logo": "https://api.sofascore.com/api/v1/team/38092/image",
-      "team2Name": "Israel"
+      "team2Name": "Israel",
+      "telegramSent": true
     },
     "match_15117995": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/780/image/dark",
@@ -4051,14 +4112,14 @@
           "type": "Direct"
         },
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1780677679-0-0-fc5bea130184bcf7eb4d3da02c34f1eb\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1780678256-0-0-281057bddaee65c65be4e3e7af1ee2d2\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV",
           "source": "api",
           "type": "Embed"
         },
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1780677679-0-0-bc13a2d0215a680943df5c03874627c4\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1780678256-0-0-d29ef516c9397bedb9093790fcde38e2\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV+ HD",
           "source": "api",
@@ -4121,30 +4182,30 @@
           "type": "Direct"
         },
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1780677679-0-0-b0b499992f299a3300eb62eb1b21a89a\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1780678399-0-0-ecb77ac6cdf3e7a468e2723b268ee706\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV",
           "source": "api",
           "type": "Embed"
         },
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780677679-0-0-86b18ffa350673da02dc94c9bafe682e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780678399-0-0-55614aeebced2091f2cb61e8a782c6df\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
           "name": "SPORTIFy TV+ HD",
           "source": "api",
           "type": "Embed"
         },
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1780677679-0-0-2f885e65449e237e10333f3dccb43786\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1780678413-0-0-94fa625eba92c54abb477865a21754f4\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy PRIME HD",
+          "name": "SPORTIFy HD",
           "source": "api",
           "type": "Embed"
         },
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1780677679-0-0-d860197f2a4191c978cd4624eab96285\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1780678413-0-0-a3b0c3bf82f99ce4403f73e36dd76578\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/DgvNg0k0/1000315332.png",
-          "name": "SPORTIFy LIVE",
+          "name": "SPORTIFy FHD",
           "source": "api",
           "type": "Embed"
         }
