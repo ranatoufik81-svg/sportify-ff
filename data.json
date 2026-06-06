@@ -4534,7 +4534,15 @@
       "matchEndTime": "2026-06-07T02:30:00",
       "matchTime": "2026-06-06T19:30:00",
       "sportType": "CRICKET",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "Ivan-FluX",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/187806/image",
       "team1Name": "SL-W",
       "team2Logo": "https://api.sofascore.com/api/v1/team/187808/image",
@@ -4546,7 +4554,15 @@
       "matchEndTime": "2026-06-07T02:30:00",
       "matchTime": "2026-06-06T19:30:00",
       "sportType": "CRICKET",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "Ivan-FluX",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/213115/image",
       "team1Name": "NZ-W",
       "team2Logo": "https://api.sofascore.com/api/v1/team/187809/image",
@@ -4651,7 +4667,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/456681/image",
       "team1Name": "LES",
       "team2Logo": "https://api.sofascore.com/api/v1/team/425272/image",
-      "team2Name": "MOZ"
+      "team2Name": "MOZ",
+      "telegramSent": true
     },
     "match_16282096": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/35060/image/dark",
