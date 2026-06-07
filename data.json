@@ -3702,6 +3702,30 @@
       "team2Name": "BAN-W",
       "telegramSent": true
     },
+    "match_16175557": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/19911/image/dark",
+      "leagueTitle": "ICC Women's T20 World Cup Warm-up Matches",
+      "matchEndTime": "2026-06-08T21:30:00",
+      "matchTime": "2026-06-08T14:30:00",
+      "sportType": "CRICKET",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/213120/image",
+      "team1Name": "WI-W",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/213119/image",
+      "team2Name": "IND-W"
+    },
+    "match_16175558": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/19911/image/dark",
+      "leagueTitle": "ICC Women's T20 World Cup Warm-up Matches",
+      "matchEndTime": "2026-06-09T02:30:00",
+      "matchTime": "2026-06-08T19:30:00",
+      "sportType": "CRICKET",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/213121/image",
+      "team1Name": "ENG-W",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/213117/image",
+      "team2Name": "AUS-W"
+    },
     "match_16179092": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/34817/image/dark",
       "leagueTitle": "ACC Women's T20I Premier Cup, Group A",
@@ -3741,6 +3765,26 @@
       "team2Name": "MOZ",
       "telegramSent": true
     },
+    "match_16279598": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/429/image/dark",
+      "leagueTitle": "U17 European Championship, Knockout stage",
+      "matchEndTime": "2026-06-08T00:30:00",
+      "matchTime": "2026-06-07T22:30:00",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "Ivan-FluX",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.com/api/v1/team/22583/image",
+      "team1Name": "Belgium U17",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/22616/image",
+      "team2Name": "Italy U17"
+    },
     "match_16282096": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/35060/image/dark",
       "leagueTitle": "Asian Games Men's T20I Qualifier, Semi Final",
@@ -3753,6 +3797,30 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/199279/image",
       "team2Name": "OMA",
       "telegramSent": true
+    },
+    "match_16289442": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/35060/image/dark",
+      "leagueTitle": "Asian Games Men's T20I Qualifier, Playoffs",
+      "matchEndTime": "2026-06-08T14:00:00",
+      "matchTime": "2026-06-08T07:00:00",
+      "sportType": "CRICKET",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/187811/image",
+      "team1Name": "MAS",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/199279/image",
+      "team2Name": "OMA"
+    },
+    "match_16289449": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/35060/image/dark",
+      "leagueTitle": "Asian Games Men's T20I Qualifier, Final",
+      "matchEndTime": "2026-06-08T19:00:00",
+      "matchTime": "2026-06-08T12:00:00",
+      "sportType": "CRICKET",
+      "streamLinks": "",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/187774/image",
+      "team1Name": "HK",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/187772/image",
+      "team2Name": "NEP"
     }
   },
   "navigation": {
