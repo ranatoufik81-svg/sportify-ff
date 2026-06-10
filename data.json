@@ -3481,10 +3481,11 @@
   "matches": {
     "match_16023709": {
       "isStar": false,
+      "lastLinkFingerprint": "WILLOW FHDwillow_fhdTNT SPORTS FHDtnt_sports_fhdWILLOW [ALT]willow_[alt]FANCODE FHDfancode_fhdTNT SPORTS HDtnt_sports_hdFOX CRICKETfox_cricketSD SERVERsd_serverIVAN TESTivan_test",
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
       "leagueTitle": "Australia in Bangladesh, 3 ODI Series",
       "matchEndTime": "2026-06-11T17:30",
-      "matchTime": "2026-06-10T23:33",
+      "matchTime": "2026-06-10T23:52",
       "sportType": "CRICKET",
       "streamLinks": [
         {
@@ -3563,12 +3564,18 @@
           "name": "SD SERVER",
           "source": "main",
           "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=http://193.47.62.47/hls/KSSSQqqqqC.m3u8|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "IVAN TEST",
+          "source": "admin"
         }
       ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/187744/image",
       "team1Name": "BAN",
       "team2Logo": "https://api.sofascore.com/api/v1/team/187746/image",
-      "team2Name": "AUS"
+      "team2Name": "AUS",
+      "telegramMessageId": 22
     },
     "match_16175564": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/19911/image/dark",
@@ -3613,16 +3620,25 @@
       "telegramSent": true
     },
     "match_16253686": {
+      "isStar": false,
+      "lastLinkFingerprint": "IVAN TEST ivan_test_",
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18814/image/dark",
       "leagueTitle": "Kwibuka Women's T20I Tournament",
-      "matchEndTime": "2026-06-11T20:00:00",
-      "matchTime": "2026-06-11T13:00:00",
+      "matchEndTime": "2026-06-11T20:00",
+      "matchTime": "2026-06-10T23:52",
       "sportType": "CRICKET",
-      "streamLinks": "",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=http://193.47.62.47/hls/KSSSQqqqqC.m3u8|Referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "IVAN TEST ",
+          "source": "admin"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/417055/image",
       "team1Name": "NGR-W",
       "team2Logo": "https://api.sofascore.com/api/v1/team/417750/image",
-      "team2Name": "BRA-W"
+      "team2Name": "BRA-W",
+      "telegramMessageId": 23
     },
     "match_16253687": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18814/image/dark",
