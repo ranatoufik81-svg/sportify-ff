@@ -3685,9 +3685,79 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd&k1=ce7ab3022e753307997f58afe001bac4&k2=72d631a66e635c60829a0fe7705516c1\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "Ivan-FluX",
+          "name": "TELEMUNDO - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/CANAL-5-RDF-HD/default.mpd&k1=2a8c2d5088377f51f825d871e568be19&k2=eb5a8db64ca1992389672edb9447c711\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "CANAL SPORTS - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd&k1=a7d11d37a1f7611ee88d4db880171f32&k2=68f96d618b0b956b008c445896a25a79\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "D SPORTS - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd&k1=43513b13f4b542e39c9265921dfc1726&k2=b0b2678bcd274c37b888a6c987d502ed\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "ZEE5 HINDI - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd&k1=fbbfd9ce4bbe4d818b16df7dfe89f05b&k2=1e96d0f88ef740e982d6f6105721c8bc\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "ZEE5 BANGLA - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd&k1=c1a0ac1044a433d0856ccdc08f245084&k2=7f0e8800a6d63d7915ac181bb88ce813\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "ZDF GERMAN HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd&k1=429bcf031bbf3146a67f3f583e4c4355&k2=d1b92aba5a38a518c8b8a1fd2bca4398\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "ORF GERMAN HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd&k1=893bc63340876605f52886a42e0ccce5&k2=d6c46d2d691056fbd091bf1f01b21a91\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "VRT DUTCH - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "RAI ITALY - AQ",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://t7.ultrastream.vip/sporttv5/index.m3u8?|Referer=https://foottime.top/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "Sport TV HD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://t7.ultrastream.vip/sporttv1/index.m3u8?|Referer=https://foottime.top/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "Sport TV 1 HD",
           "source": "main",
           "type": "Direct"
         }
