@@ -3522,51 +3522,89 @@
       "team2Name": "Paraguay"
     },
     "-Ouw-tdkwBdRg9vjQAfV": {
+      "isStar": false,
       "leagueLogo": "https://i.ibb.co/Q72hxW5M/1000295081.png",
       "leagueTitle": "ICC CRICKET WORLD CUP LEAGUE TWO 2023-27",
-      "matchEndTime": "2026-06-12T22:30:00.000Z",
-      "matchTime": "2026-06-12T14:30:00.000Z",
+      "matchEndTime": "2026-06-13T00:26",
+      "matchTime": "2026-06-12T22:26",
       "sportType": "CRICKET",
       "streamLinks": [
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "name": "SPORTIFy TV+",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/143198-ENGLISH.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE ENGLISH (IND)",
+          "source": "fancode",
           "type": "Direct"
         },
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "name": "SPORTIFy TV HD",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/143198-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (IND)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-bd-owner.ivan-flux.workers.dev/143198-ENGLISH-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE ENGLISH (BD)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-bd-owner.ivan-flux.workers.dev/143198-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (BD)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1781304919~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=4850f9d1-05d5-4a91-8443-7e5a216546e7~data=hdntl~hmac=a0e341444c59f5f43c8be8a61c23b5c32fbdaa69f8dc6e7198ebf945273a7a58/manifest.mpd&k1=39bd302cdeed3710a89fb004d232ab67&k2=9869f804ba18d7e508cbff781829221c\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "ICC TV",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://in-mc-plive.fancode.com/mumbai/143198_english_hls_4cfc14a5262277_1ta-di_h264/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "FANCODE [IND]",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://bd-mc-plive.fancode.com/mumbai/143198_english_hls_4cfc14a5262277_1ta-di_h264/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "FANCODE [BAN]",
+          "source": "main",
           "type": "Direct"
         }
       ],
       "team1Logo": "https://static.cricbuzz.com/a/img/v1/i1/c776186/i.jpg",
-      "team1Name": "UNITED STATES OF AMERICA",
+      "team1Name": "USA",
       "team2Logo": "https://static.cricbuzz.com/a/img/v1/i1/c776227/i.jpg",
       "team2Name": "CANADA",
       "telegramSent": true
     },
     "-Ouw-tdo-F4wBPSEaErv": {
+      "isStar": false,
       "leagueLogo": "https://i.ibb.co/Q72hxW5M/1000295081.png",
       "leagueTitle": "ICC WOMEN'S T20 WORLD CUP 2026",
-      "matchEndTime": "2026-06-13T01:30:00.000Z",
-      "matchTime": "2026-06-12T17:30:00.000Z",
+      "matchEndTime": "2026-06-13T03:27",
+      "matchTime": "2026-06-12T23:00",
       "sportType": "CRICKET",
       "streamLinks": [
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "name": "SPORTIFy TV+",
-          "type": "Direct"
-        },
-        {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "name": "SPORTIFy TV HD",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "Ivan-FluX",
+          "source": "main",
           "type": "Direct"
         }
       ],
       "team1Logo": "https://static.cricbuzz.com/a/img/v1/i1/c776241/i.jpg",
-      "team1Name": "ENGLAND WOMEN",
+      "team1Name": "ENG-W",
       "team2Logo": "https://static.cricbuzz.com/a/img/v1/i1/c776267/i.jpg",
-      "team2Name": "SRI LANKA WOMEN"
+      "team2Name": "SL-W"
     }
   },
   "navigation": {
