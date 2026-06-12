@@ -3488,6 +3488,20 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd&k1=34475edab991ad5e92548aebd710410a&k2=501b209cccd323ac00bf5ac15b406cb4\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "CAZE TV FHD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd&k1=1710ac2bbfcd3032d0f6533850968f47&k2=d2548dacc8efcd1cd0af0373060c82dc\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "ViX ESPANOL FHD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
           "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd&k1=c1a0ac1044a433d0856ccdc08f245084&k2=7f0e8800a6d63d7915ac181bb88ce813\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "ZDF GERMAN HD",
@@ -3624,7 +3638,8 @@
       "team1Logo": "https://api.sofascore.app/api/v1/team/4752/image",
       "team1Name": "Canada",
       "team2Logo": "https://api.sofascore.app/api/v1/team/4479/image",
-      "team2Name": "BiH"
+      "team2Name": "BiH",
+      "telegramSent": true
     },
     "-Ouw-oRUkT2-hXHNF9xn": {
       "isStar": false,
