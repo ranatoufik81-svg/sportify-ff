@@ -3948,6 +3948,20 @@
       "sportType": "CRICKET",
       "streamLinks": [
         {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/143396-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (IND)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-bd-owner.ivan-flux.workers.dev/143396-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
+          "name": "FANCODE BLOODY_SWEET (BD)",
+          "source": "fancode",
+          "type": "Direct"
+        },
+        {
           "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/h3gdb4reni/out/v1/159b45c4cbc04cba8a9ca1a7372d3192/cenc.mpd&k1=c1a959ddeedd4ffc6083f09d10445802&k2=849993446d5264fc6990abfbd944b990\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
           "name": "WILLOW Ad Free",
@@ -4204,10 +4218,11 @@
       "team2Name": "MSC MARATHA ROYALS"
     },
     "-OuzlkW-2ifbQIvlldJC": {
+      "isStar": false,
       "leagueLogo": "https://i.ibb.co/Q72hxW5M/1000295081.png",
       "leagueTitle": "ICC WOMEN'S T20 WORLD CUP 2026",
-      "matchEndTime": "2026-06-13T17:30:00.000Z",
-      "matchTime": "2026-06-13T09:30:00.000Z",
+      "matchEndTime": "2026-06-13T20:31",
+      "matchTime": "2026-06-13T15:00",
       "sportType": "CRICKET",
       "streamLinks": [
         {
@@ -4216,68 +4231,54 @@
           "name": "Ivan-FluX",
           "source": "main",
           "type": "Direct"
-        },
-        {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "name": "SPORTIFy TV+",
-          "type": "Direct"
-        },
-        {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "name": "SPORTIFy TV HD",
-          "type": "Direct"
         }
       ],
       "team1Logo": "https://static.cricbuzz.com/a/img/v1/i1/c776283/i.jpg",
-      "team1Name": "SCOTLAND WOMEN",
+      "team1Name": "SCO-W",
       "team2Logo": "https://static.cricbuzz.com/a/img/v1/i1/c839468/i.jpg",
-      "team2Name": "IRELAND WOMEN"
+      "team2Name": "IRE-W"
     },
     "-OuzlkW1t3GgrKlqZlz6": {
+      "isStar": false,
       "leagueLogo": "https://i.ibb.co/Q72hxW5M/1000295081.png",
       "leagueTitle": "ICC WOMEN'S T20 WORLD CUP 2026",
-      "matchEndTime": "2026-06-13T21:30:00.000Z",
-      "matchTime": "2026-06-13T13:30:00.000Z",
+      "matchEndTime": "2026-06-13T23:30",
+      "matchTime": "2026-06-13T19:00",
       "sportType": "CRICKET",
       "streamLinks": [
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "name": "SPORTIFy TV+",
-          "type": "Direct"
-        },
-        {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "name": "SPORTIFy TV HD",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "Ivan-FluX",
+          "source": "main",
           "type": "Direct"
         }
       ],
       "team1Logo": "https://static.cricbuzz.com/a/img/v1/i1/c776205/i.jpg",
-      "team1Name": "AUSTRALIA WOMEN",
+      "team1Name": "AUS-W",
       "team2Logo": "https://static.cricbuzz.com/a/img/v1/i1/c776293/i.jpg",
-      "team2Name": "SOUTH AFRICA WOMEN"
+      "team2Name": "SA-W"
     },
     "-OuzlkW30uGIo0J3RJZW": {
+      "isStar": false,
       "leagueLogo": "https://i.ibb.co/Q72hxW5M/1000295081.png",
       "leagueTitle": "ICC WOMEN'S T20 WORLD CUP 2026",
-      "matchEndTime": "2026-06-14T01:30:00.000Z",
-      "matchTime": "2026-06-13T17:30:00.000Z",
+      "matchEndTime": "2026-06-14T04:30",
+      "matchTime": "2026-06-13T23:00",
       "sportType": "CRICKET",
       "streamLinks": [
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "name": "SPORTIFy TV+",
-          "type": "Direct"
-        },
-        {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "name": "SPORTIFy TV HD",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "Ivan-FluX",
+          "source": "main",
           "type": "Direct"
         }
       ],
       "team1Logo": "https://static.cricbuzz.com/a/img/v1/i1/c776194/i.jpg",
-      "team1Name": "WEST INDIES WOMEN",
+      "team1Name": "WI-W",
       "team2Logo": "https://static.cricbuzz.com/a/img/v1/i1/c776338/i.jpg",
-      "team2Name": "NEW ZEALAND WOMEN"
+      "team2Name": "NZ-W"
     },
     "-OuzlkW6SU9O2hgJDcma": {
       "isStar": false,
@@ -4334,6 +4335,90 @@
       "team1Name": "SL-A",
       "team2Logo": "https://static.cricbuzz.com/a/img/v1/i1/c172389/i.jpg",
       "team2Name": "AFG-A"
+    },
+    "-Ouzmw3F-sAqmOTkRBEZ": {
+      "isStar": false,
+      "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/16/image",
+      "leagueTitle": "FIFA World Cup, Group B",
+      "matchEndTime": "2026-06-14T02:35",
+      "matchTime": "2026-06-14T00:30",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "Ivan-FluX",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.app/api/v1/team/4792/image",
+      "team1Name": "Qatar",
+      "team2Logo": "https://api.sofascore.app/api/v1/team/4699/image",
+      "team2Name": "Switzerland"
+    },
+    "-Ouzmw3QCwSN1HA2Oujj": {
+      "isStar": false,
+      "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/16/image",
+      "leagueTitle": "FIFA World Cup, Group C",
+      "matchEndTime": "2026-06-14T06:30",
+      "matchTime": "2026-06-14T03:30",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "Ivan-FluX",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.app/api/v1/team/4748/image",
+      "team1Name": "Brazil",
+      "team2Logo": "https://api.sofascore.app/api/v1/team/4778/image",
+      "team2Name": "Morocco"
+    },
+    "-Ouzmw3SSOcA-_x1UhWd": {
+      "isStar": false,
+      "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/16/image",
+      "leagueTitle": "FIFA World Cup, Group C",
+      "matchEndTime": "2026-06-14T09:30",
+      "matchTime": "2026-06-14T07:30",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "Ivan-FluX",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.app/api/v1/team/7229/image",
+      "team1Name": "Haiti",
+      "team2Logo": "https://api.sofascore.app/api/v1/team/4695/image",
+      "team2Name": "Scotland"
+    },
+    "-Ouzmw3VknJ5BgMlpyQe": {
+      "isStar": false,
+      "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/16/image",
+      "leagueTitle": "FIFA World Cup, Group D",
+      "matchEndTime": "2026-06-14T11:30",
+      "matchTime": "2026-06-14T09:30",
+      "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "Ivan-FluX",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
+      "team1Logo": "https://api.sofascore.app/api/v1/team/4741/image",
+      "team1Name": "Australia",
+      "team2Logo": "https://api.sofascore.app/api/v1/team/4700/image",
+      "team2Name": "Türkiye"
     }
   },
   "navigation": {
