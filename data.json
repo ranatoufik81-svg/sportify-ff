@@ -4110,33 +4110,40 @@
       "matchEndTime": "2026-06-14T19:30",
       "matchTime": "2026-06-14T15:00",
       "sportType": "CRICKET",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "Ivan-FluX",
+          "source": "main",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://static.cricbuzz.com/a/img/v1/i1/c776213/i.jpg",
       "team1Name": "BAN-W",
       "team2Logo": "https://static.cricbuzz.com/a/img/v1/i1/c776337/i.jpg",
       "team2Name": "NED-W"
     },
     "-Ov3hJlixtE2lTyaAjVT": {
+      "isStar": false,
       "leagueLogo": "https://i.ibb.co/Q72hxW5M/1000295081.png",
       "leagueTitle": "ICC WOMEN'S T20 WORLD CUP 2026",
-      "matchEndTime": "2026-06-14T21:30:00.000Z",
-      "matchTime": "2026-06-14T13:30:00.000Z",
+      "matchEndTime": "2026-06-14T23:30",
+      "matchTime": "2026-06-14T19:00",
       "sportType": "CRICKET",
       "streamLinks": [
         {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "name": "SPORTIFy TV+",
-          "type": "Direct"
-        },
-        {
-          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-          "name": "SPORTIFy TV HD",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "Ivan-FluX",
+          "source": "main",
           "type": "Direct"
         }
       ],
       "team1Logo": "https://static.cricbuzz.com/a/img/v1/i1/c776182/i.jpg",
-      "team1Name": "INDIA WOMEN",
+      "team1Name": "IND-W",
       "team2Logo": "https://static.cricbuzz.com/a/img/v1/i1/c776311/i.jpg",
-      "team2Name": "PAKISTAN WOMEN"
+      "team2Name": "PAK-W"
     },
     "-Ov3hZKm6s7c4pO3XO1M": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/16/image",
