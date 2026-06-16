@@ -3933,16 +3933,16 @@
       "sportType": "CRICKET",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/143200-ENGLISH.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-ind-owner-tg.ivan-flux.workers.dev/143200-BLOODY_SWEET.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
-          "name": "FANCODE ENGLISH (IND)",
+          "name": "FANCODE BLOODY_SWEET (IND)",
           "source": "fancode",
           "type": "Direct"
         },
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-bd-owner.ivan-flux.workers.dev/143200-ENGLISH-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://fc-bd-owner.ivan-flux.workers.dev/143200-BLOODY_SWEET-BD.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/0RFzsWhX/1000313033.webp",
-          "name": "FANCODE ENGLISH (BD)",
+          "name": "FANCODE BLOODY_SWEET (BD)",
           "source": "fancode",
           "type": "Direct"
         }
@@ -4005,9 +4005,23 @@
       "sportType": "CRICKET",
       "streamLinks": [
         {
-          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=http://193.47.62.41/hls/GMMMA.m3u8|referer=http://www.fawanews.sc/\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
-          "name": "Ivan-FluX",
+          "name": "SD SERVER",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/HLS-PLAYER/?play=https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141|user-agent=Mozilla\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "SKY CRICKET FHD",
+          "source": "main",
+          "type": "Direct"
+        },
+        {
+          "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd&k1=290e09c837da78d5cd961978d390515c&k2=b748836c71e6a4ca68ef5b5652db6247\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "logo": "https://i.ibb.co/QFGRf3Qh/1000342550.png",
+          "name": "WILLOW HD",
           "source": "main",
           "type": "Direct"
         }
@@ -4015,7 +4029,8 @@
       "team1Logo": "https://static.cricbuzz.com/a/img/v1/i1/c776241/i.jpg",
       "team1Name": "ENG-W",
       "team2Logo": "https://static.cricbuzz.com/a/img/v1/i1/c839468/i.jpg",
-      "team2Name": "IRE-W"
+      "team2Name": "IRE-W",
+      "telegramSent": true
     },
     "-Ov8VkGYrOLukZGBEAVq": {
       "leagueLogo": "https://api.sofascore.app/api/v1/unique-tournament/16/image",
