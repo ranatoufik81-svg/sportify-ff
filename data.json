@@ -5372,8 +5372,8 @@
       "isStar": false,
       "leagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
       "leagueTitle": "UEFA Europa League",
-      "matchEndTime": "2026/10/22 21:20:00 +0000",
-      "matchTime": "2026/10/22 19:00:00 +0000",
+      "matchEndTime": "2026-10-24T02:19",
+      "matchTime": "2026-10-23T02:30",
       "streamLinks": [
         {
           "link": "<iframe src=\"https://trent-alexander-arnol.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6v8ei0guoz/out/v1/dc109810dbd04ceb997c23d567332dcb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36&k1=09aa6dc78dd0990b89a1c4a22cd66908&k2=3f1795d2492fc24cf376615cd4caea74\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
@@ -5399,7 +5399,8 @@
       "team1Logo": "https://img.sofascore.com/api/v1/team/3245/image",
       "team1Name": "Olympiacos",
       "team2Logo": "https://img.sofascore.com/api/v1/team/2218/image",
-      "team2Name": "Sparta Praha"
+      "team2Name": "Sparta Praha",
+      "telegramSent": true
     },
     "-P4_8QpOAahbRM0TnW2B": {
       "isStar": false,
@@ -5939,7 +5940,8 @@
       "team1Logo": "https://img.sofascore.com/api/v1/team/1653/image",
       "team1Name": "AS Monaco",
       "team2Logo": "https://img.sofascore.com/api/v1/team/2538/image",
-      "team2Name": "Freiburg"
+      "team2Name": "Freiburg",
+      "telegramSent": true
     },
     "-P4_8RBoTFdL0EJmrVG4": {
       "isStar": false,
